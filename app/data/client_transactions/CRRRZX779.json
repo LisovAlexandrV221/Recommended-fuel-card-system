@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZX779",
+    "ts": "2025-06-07 08:48",
+    "station": "591",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 40.58,
+    "amount": 2707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX779",
+    "ts": "2025-06-15 08:44",
+    "station": "2",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 45.43,
+    "amount": 3067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX779",
+    "ts": "2025-06-17 07:32",
+    "station": "8",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 46.77,
+    "amount": 3205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX779",
+    "ts": "2025-06-17 12:39",
+    "station": "701",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 30.87,
+    "amount": 2131,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX779",
+    "ts": "2025-06-17 21:08",
+    "station": "132",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 45.01,
+    "amount": 3085,
+    "vehicle": ""
+  }
+]

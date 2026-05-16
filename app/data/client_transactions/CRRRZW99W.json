@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-28 17:48",
+    "station": "АЗС №52221",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12215,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-25 13:23",
+    "station": "АЗС №52112",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-23 18:09",
+    "station": "АЗС №52077",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-29 14:39",
+    "station": "43063 АЗС 63 Уржум",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-29 09:57",
+    "station": "16054 АЗС 54-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 10296,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-29 00:51",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1930,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-12 15:09",
+    "station": "АЗС №52112",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-01-29 16:49",
+    "station": "43018 АЗС 18 Плотники",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-27 17:41",
+    "station": "АЗС №52038",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-27 17:35",
+    "station": "АЗС №52038",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-27 17:56",
+    "station": "АЗС №52221",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2726,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-19 15:09",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 74.38,
+    "amount": 5050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-17 17:30",
+    "station": "02031 АЗС 31",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-17 17:29",
+    "station": "02031 АЗС 31",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9703,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-06 09:36",
+    "station": "АЗС №36716",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 120.05,
+    "amount": 8323,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-06 09:30",
+    "station": "АЗС №36716",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 141.36,
+    "amount": 9800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-05 22:46",
+    "station": "АЗС №23187",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 145.33,
+    "amount": 9801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-05 22:40",
+    "station": "АЗС №23187",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 145.33,
+    "amount": 9801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-19 04:11",
+    "station": "АЗС №33028",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.78,
+    "amount": 4262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-02-18 04:02",
+    "station": "АЗС №33028",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 63.2,
+    "amount": 4291,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-27 15:38",
+    "station": "АЗС №52221",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 163.01,
+    "amount": 11111,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-27 14:22",
+    "station": "АЗС №33027",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-20 16:14",
+    "station": "АЗС №52038",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-15 09:32",
+    "station": "АЗС №52110",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 20.01,
+    "amount": 1364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-07 15:21",
+    "station": "АЗС №33027",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-03 19:21",
+    "station": "АЗС №52026",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9542,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-28 06:16",
+    "station": "59010 АЗС 10 Савино",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99W",
+    "ts": "2025-03-27 23:46",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2131,
+    "vehicle": ""
+  }
+]

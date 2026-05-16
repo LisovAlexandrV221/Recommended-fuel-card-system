@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-01-14 17:32",
+    "station": "АЗС №40988",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 15.55,
+    "amount": 943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-01-05 21:42",
+    "station": "АЗС №32961",
+    "region": "Брянская область",
+    "fuel": "АИ-100",
+    "liters": 22.66,
+    "amount": 1832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-01-05 18:14",
+    "station": "АЗС №40995",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 13.77,
+    "amount": 835,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-02-04 14:27",
+    "station": "007",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 56.89,
+    "amount": 3577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-02-25 07:36",
+    "station": "007",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 52.51,
+    "amount": 3308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-03-10 20:27",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 27.96,
+    "amount": 1763,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-03-10 16:34",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 23.05,
+    "amount": 1416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRWR",
+    "ts": "2025-03-08 22:33",
+    "station": "350",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 59.58,
+    "amount": 3782,
+    "vehicle": ""
+  }
+]

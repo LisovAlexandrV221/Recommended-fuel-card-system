@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZB68A",
+    "ts": "2025-04-26 12:30",
+    "station": "001(5201)",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB68A",
+    "ts": "2025-05-29 09:48",
+    "station": "203",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6971,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB68A",
+    "ts": "2025-06-25 12:08",
+    "station": "207",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 0.47,
+    "amount": 33,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB68A",
+    "ts": "2025-06-25 12:14",
+    "station": "207",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB68A",
+    "ts": "2025-06-17 12:41",
+    "station": "002(5213)",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB68A",
+    "ts": "2025-06-17 12:42",
+    "station": "002(5213)",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7067,
+    "vehicle": ""
+  }
+]

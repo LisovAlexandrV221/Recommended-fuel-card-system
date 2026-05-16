@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZ6RZX",
+    "ts": "2025-05-02 00:59",
+    "station": "002",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 53.4,
+    "amount": 3788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RZX",
+    "ts": "2025-05-08 16:23",
+    "station": "010",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 48.7,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RZX",
+    "ts": "2025-05-14 08:49",
+    "station": "010",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RZX",
+    "ts": "2025-05-24 14:49",
+    "station": "002",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 52.5,
+    "amount": 3735,
+    "vehicle": ""
+  }
+]

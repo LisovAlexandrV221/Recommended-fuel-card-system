@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-01-14 07:54",
+    "station": "АЗС №23036",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 220.19,
+    "amount": 14700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-21 14:47",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 216.38,
+    "amount": 13580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-08 02:57",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 144.46,
+    "amount": 9800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-08 03:00",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 418.95,
+    "amount": 28422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-06 23:24",
+    "station": "043",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-19 16:52",
+    "station": "АЗС №08546",
+    "region": "Республика Калмыкия",
+    "fuel": "ДТ",
+    "liters": 720.35,
+    "amount": 48998,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-12 15:30",
+    "station": "АЗС №64569",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 429.9,
+    "amount": 29397,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9Z",
+    "ts": "2025-02-12 15:15",
+    "station": "АЗС №64569",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 429.92,
+    "amount": 29398,
+    "vehicle": ""
+  }
+]

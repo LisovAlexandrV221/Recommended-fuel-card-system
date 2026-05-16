@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-10 14:19",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3322,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-24 10:09",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 57,
+    "amount": 4208,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-31 08:49",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-31 15:41",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-28 12:56",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-27 13:44",
+    "station": "АЗС № 78094 Лиговская",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 38.39,
+    "amount": 2451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-27 12:18",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.24,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-23 12:30",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-22 10:48",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-19 12:48",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 74.38,
+    "amount": 5649,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-19 09:24",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-17 15:29",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.16,
+    "amount": 3582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-17 11:00",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.19,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-17 10:14",
+    "station": "АЗС № 78114 Коммуны",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 58.78,
+    "amount": 3753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-15 17:22",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 34.42,
+    "amount": 2614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-15 15:07",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-15 16:11",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-10 13:37",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.52,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-10 13:26",
+    "station": "АЗС № 78051 Днепропетровская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 62.36,
+    "amount": 3982,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-09 13:55",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-01-09 08:29",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-07 10:58",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-27 11:10",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2228,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-26 13:12",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 31,
+    "amount": 1827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-25 08:30",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.05,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-21 11:49",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-18 13:05",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAW8R",
+    "ts": "2025-02-17 14:28",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 63.57,
+    "amount": 4848,
+    "vehicle": ""
+  }
+]

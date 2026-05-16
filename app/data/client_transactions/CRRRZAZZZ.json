@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-31 17:52",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-27 14:16",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 66.78,
+    "amount": 4728,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-21 08:01",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-16 17:03",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-06 15:20",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-28 18:47",
+    "station": "АЗС № 36247",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 37.47,
+    "amount": 2450,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-25 13:36",
+    "station": "АЗС № 36247",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 36,
+    "amount": 2354,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-18 08:54",
+    "station": "АЗС №58621",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 43,
+    "amount": 2729,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-15 14:37",
+    "station": "АЗС №36707",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 30.02,
+    "amount": 1967,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-15 08:49",
+    "station": "АЗС №58621",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 44.2,
+    "amount": 2805,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-14 16:18",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 42.22,
+    "amount": 2671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-01-14 09:34",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-06 17:10",
+    "station": "АЗС №13220",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 42.89,
+    "amount": 2705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-28 13:03",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-04 08:47",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-23 11:16",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 50.43,
+    "amount": 3206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-22 07:45",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 39.2,
+    "amount": 2492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-06 08:33",
+    "station": "АЗС №36706",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 15.01,
+    "amount": 981,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-04 14:11",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 32.34,
+    "amount": 2047,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-03 16:19",
+    "station": "АЗС №58621",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 25.01,
+    "amount": 1587,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-03 12:27",
+    "station": "АЗС №68856",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 28.55,
+    "amount": 1853,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-20 08:13",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-14 08:03",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-02-07 13:46",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 32,
+    "amount": 2024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-03-28 09:50",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-03-19 15:14",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 39.37,
+    "amount": 2503,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-03-12 14:49",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 42.79,
+    "amount": 2720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZZZ",
+    "ts": "2025-03-10 07:45",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3556,
+    "vehicle": ""
+  }
+]

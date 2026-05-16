@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-13 19:23",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 220.06,
+    "amount": 15461,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-13 19:23",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 86,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-19 14:01",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58.31,
+    "amount": 4317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-31 21:47",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 53.96,
+    "amount": 3995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-25 12:02",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 19.61,
+    "amount": 1206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-21 19:28",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-28 09:34",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-28 09:34",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12573,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-24 13:44",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-31 21:10",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18490,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-30 18:23",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-26 16:42",
+    "station": "036",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 38.7,
+    "amount": 2385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-18 19:04",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-22 17:55",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13718,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-16 23:13",
+    "station": "АЗС №69474",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17802,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-29 13:00",
+    "station": "372",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14682,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-06 14:45",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 56.15,
+    "amount": 4130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-15 17:05",
+    "station": "001(6204)",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14026,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-01-25 18:22",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 41.49,
+    "amount": 2438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-04 17:17",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-03 12:51",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 246.14,
+    "amount": 17892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-28 11:14",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22278,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-26 17:13",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 13367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-12 08:59",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 57.54,
+    "amount": 4260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-21 08:00",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 56.09,
+    "amount": 4152,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-25 20:50",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-20 20:32",
+    "station": "036",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW889",
+    "ts": "2025-02-24 14:55",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 949,
+    "vehicle": ""
+  }
+]

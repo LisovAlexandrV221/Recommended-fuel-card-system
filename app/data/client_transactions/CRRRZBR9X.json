@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-02 14:24",
+    "station": "4",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-03 04:28",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-03 12:57",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-06 13:00",
+    "station": "386",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-06 15:13",
+    "station": "475",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-06 18:49",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-06 20:26",
+    "station": "253",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-08 14:28",
+    "station": "6",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2337,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 09:39",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 12:24",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 10:34",
+    "station": "186",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 11617,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 11:02",
+    "station": "563",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 13:58",
+    "station": "451",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 17:22",
+    "station": "187",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 17:53",
+    "station": "68",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-09 19:39",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 10:23",
+    "station": "186",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 10326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 13:19",
+    "station": "600",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2608,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 15:18",
+    "station": "301",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 15:54",
+    "station": "86",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 16:11",
+    "station": "68",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 15507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 16:22",
+    "station": "15",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 17:53",
+    "station": "225",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 21:01",
+    "station": "181",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-10 22:36",
+    "station": "602",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-13 07:22",
+    "station": "86",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-13 09:23",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR9X",
+    "ts": "2025-01-13 10:01",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1956,
+    "vehicle": ""
+  }
+]

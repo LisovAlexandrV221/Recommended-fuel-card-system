@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZXXZR",
+    "ts": "2025-01-14 18:35",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 62.15,
+    "amount": 4178,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZR",
+    "ts": "2025-01-20 06:18",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60.3,
+    "amount": 4053,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZR",
+    "ts": "2025-01-22 19:52",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 62.5,
+    "amount": 4201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZR",
+    "ts": "2025-01-27 17:02",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 62.8,
+    "amount": 4240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZR",
+    "ts": "2025-01-30 09:19",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 43.54,
+    "amount": 2939,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZR",
+    "ts": "2025-02-17 20:01",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 7.25,
+    "amount": 489,
+    "vehicle": ""
+  }
+]

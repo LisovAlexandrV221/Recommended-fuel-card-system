@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZXZ9W",
+    "ts": "2025-03-21 11:01",
+    "station": "283",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 21.9,
+    "amount": 1359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ9W",
+    "ts": "2025-03-27 19:39",
+    "station": "283",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 28.41,
+    "amount": 1770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ9W",
+    "ts": "2025-04-03 19:53",
+    "station": "283",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 32.52,
+    "amount": 2026,
+    "vehicle": ""
+  }
+]

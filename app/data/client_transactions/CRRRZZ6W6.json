@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZZ6W6",
+    "ts": "2025-02-14 18:44",
+    "station": "4",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W6",
+    "ts": "2025-04-26 15:05",
+    "station": "16",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1987,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W6",
+    "ts": "2025-05-15 23:43",
+    "station": "23",
+    "region": "Республика Карелия",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1606,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W6",
+    "ts": "2025-05-16 02:43",
+    "station": "41",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1658,
+    "vehicle": ""
+  }
+]

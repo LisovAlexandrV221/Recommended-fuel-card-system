@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-03-27 20:15",
+    "station": " АЗС №33073",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 37.43,
+    "amount": 2413,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-03-27 12:21",
+    "station": "АЗС №32950",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 24.44,
+    "amount": 1592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-03-27 08:08",
+    "station": "AЗС №70",
+    "region": "Гомельская область",
+    "fuel": "АИ-95",
+    "liters": 43.96,
+    "amount": 3730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-03-26 08:55",
+    "station": "АЗС №11",
+    "region": "Брестская область",
+    "fuel": "АИ-95",
+    "liters": 39.18,
+    "amount": 3326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-03-25 15:10",
+    "station": "АЗС №71",
+    "region": "Минская область",
+    "fuel": "АИ-95",
+    "liters": 35.78,
+    "amount": 3034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-03-25 10:19",
+    "station": "АЗС №67107",
+    "region": "Смоленская область",
+    "fuel": "АИ-95",
+    "liters": 50.89,
+    "amount": 3278,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-04-14 15:37",
+    "station": "АЗС №33060",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 35.04,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9WXW",
+    "ts": "2025-04-11 18:10",
+    "station": "АЗС №33060",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 35.04,
+    "amount": 2070,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-21 17:57",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 18.06,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-29 15:32",
+    "station": "512",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 17.88,
+    "amount": 980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-05 15:43",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 26.77,
+    "amount": 1458,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-10 17:46",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 30.7,
+    "amount": 1672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-14 11:14",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 25.48,
+    "amount": 1388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-14 11:14",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 75,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-14 11:14",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-14 11:15",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 25.48,
+    "amount": 1388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-14 11:15",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 75,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-14 11:15",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-17 11:13",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.38,
+    "amount": 1110,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-22 05:24",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 10.93,
+    "amount": 599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-22 16:18",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-22 16:20",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 30.75,
+    "amount": 1686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-01-27 18:18",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 26.07,
+    "amount": 1429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-07 11:11",
+    "station": "512",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-11 13:48",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.01,
+    "amount": 1097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-14 11:55",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 15.16,
+    "amount": 831,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-14 08:24",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.27,
+    "amount": 1111,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-03 11:57",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-03 11:57",
+    "station": "504",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 26.72,
+    "amount": 1465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-07 08:27",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 129,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-07 08:28",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 27.96,
+    "amount": 1533,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-07 12:20",
+    "station": "550",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-11 09:33",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 24.82,
+    "amount": 1361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-18 12:32",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 19.98,
+    "amount": 1095,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-21 14:08",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.28,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW6A",
+    "ts": "2025-02-24 10:43",
+    "station": "502",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.97,
+    "amount": 1156,
+    "vehicle": ""
+  }
+]

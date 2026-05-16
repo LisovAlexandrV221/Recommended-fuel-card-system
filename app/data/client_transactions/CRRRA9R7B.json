@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-09 10:26",
+    "station": "1",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 70,
+    "amount": 4365,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-10 16:06",
+    "station": "1",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-13 17:22",
+    "station": "1",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-14 08:45",
+    "station": "1",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-14 15:14",
+    "station": "23",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2494,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-15 17:21",
+    "station": "1",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2494,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-16 10:54",
+    "station": "1",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2494,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 14:40",
+    "station": "АЗС № 39219 Буткова",
+    "region": "Калининградская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2562,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 11:25",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 11:42",
+    "station": "АЗС №29272 Талажское шоссе-2",
+    "region": "Архангельская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 10:45",
+    "station": "ААЗС № 78070 Суздальская-2",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 10:09",
+    "station": "АЗС № 11379 Емваль",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 10:07",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2352,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-31 06:48",
+    "station": "АЗС № 78080 Крыленко",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3126,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 11:01",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.03,
+    "amount": 5207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 09:27",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 31.29,
+    "amount": 1922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 13:17",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1228,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 13:01",
+    "station": "АЗС №60025 Юбилейная",
+    "region": "Псковская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2434,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 12:48",
+    "station": "11102",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1845,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 09:36",
+    "station": "АЗС № 11337 Кослан",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 09:35",
+    "station": "АЗС № 29315 Центральная",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-30 08:48",
+    "station": "АЗС № 10256 Сегежа",
+    "region": "Республика Карелия",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-29 18:21",
+    "station": "АЗС № 78083 Приморская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 48.27,
+    "amount": 3056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-29 15:53",
+    "station": "АЗС №60025 Юбилейная",
+    "region": "Псковская область",
+    "fuel": "АИ-95",
+    "liters": 29,
+    "amount": 1765,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-29 14:32",
+    "station": "АЗС № 78014 пр. Просвещения",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 24,
+    "amount": 1500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-29 13:33",
+    "station": "11153",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-29 13:14",
+    "station": "АЗС № 39223 Балтийск",
+    "region": "Калининградская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R7B",
+    "ts": "2025-01-29 10:00",
+    "station": "АЗС № 11302 Октябрьский пр.",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 80,
+    "amount": 4705,
+    "vehicle": ""
+  }
+]

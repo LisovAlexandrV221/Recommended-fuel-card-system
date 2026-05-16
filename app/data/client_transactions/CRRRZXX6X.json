@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-24 20:42",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 52.79,
+    "amount": 3214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-14 15:08",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 56.53,
+    "amount": 3461,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-09 12:45",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 18.54,
+    "amount": 1135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-13 09:49",
+    "station": "59056 АЗС 56 Нестюково",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 16.33,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-30 19:46",
+    "station": "02042 АЗС 42",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-29 19:13",
+    "station": "59021 АЗС 21 Чернушка",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-23 16:53",
+    "station": "02136 АЗС 136",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-21 16:19",
+    "station": "59115 АЗС 115 Крылово",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-20 20:13",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 54.52,
+    "amount": 3338,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-20 20:13",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-20 20:13",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 265,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-12 21:15",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1123,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-07 14:12",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 9.45,
+    "amount": 531,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-05 19:10",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 38.58,
+    "amount": 2362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-04 01:28",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-02 19:17",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 138,
+    "amount": 9649,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-01-02 19:16",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 138,
+    "amount": 9649,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-04 20:13",
+    "station": "190",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26104,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-11 08:43",
+    "station": "697",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32435,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-22 13:44",
+    "station": "8",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23702,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-25 10:01",
+    "station": "8",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 21248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-26 17:24",
+    "station": "163",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 276.6,
+    "amount": 18051,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-28 20:41",
+    "station": "460",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-25 19:18",
+    "station": "АЗС №58609",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-26 16:36",
+    "station": "02051 АЗС 51",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-17 13:53",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21063,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-11 11:09",
+    "station": "59071 АЗС 71 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6992,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX6X",
+    "ts": "2025-02-28 07:42",
+    "station": "59011 АЗС 11 Лобаново",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 48.74,
+    "amount": 2998,
+    "vehicle": ""
+  }
+]

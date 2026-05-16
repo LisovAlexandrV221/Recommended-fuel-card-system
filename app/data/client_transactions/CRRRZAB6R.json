@@ -1,0 +1,152 @@
+[
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-01-13 14:38",
+    "station": "123",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70.54,
+    "amount": 4900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-01-06 12:20",
+    "station": "532",
+    "region": "Ростовская область",
+    "fuel": "АИ-95",
+    "liters": 50.69,
+    "amount": 3433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-01-07 16:18",
+    "station": "033",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 57.86,
+    "amount": 3937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-04-30 23:16",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 57.28,
+    "amount": 3648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-16 12:57",
+    "station": "123",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 32.53,
+    "amount": 2077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-12 10:33",
+    "station": "123",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 50.08,
+    "amount": 3198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-01 03:43",
+    "station": "256",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 38.25,
+    "amount": 2411,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-01 08:38",
+    "station": "032",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 49.93,
+    "amount": 3484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-01 13:41",
+    "station": "584",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 42.42,
+    "amount": 2904,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-01 20:25",
+    "station": "145",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 28.75,
+    "amount": 1993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-09 02:19",
+    "station": "144",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 19.34,
+    "amount": 1341,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-09 10:38",
+    "station": "033",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 41.82,
+    "amount": 2883,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-05-09 14:50",
+    "station": "253",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 45.36,
+    "amount": 2929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-06-08 18:11",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 55.01,
+    "amount": 3581,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB6R",
+    "ts": "2025-06-06 12:02",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 50.72,
+    "amount": 3293,
+    "vehicle": ""
+  }
+]

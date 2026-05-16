@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZ6ZBR",
+    "ts": "2025-06-30 19:45",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 82,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZBR",
+    "ts": "2025-06-30 19:45",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 40.46,
+    "amount": 2492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZBR",
+    "ts": "2025-06-23 10:22",
+    "station": "АЗС №67100",
+    "region": "Смоленская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 82,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZBR",
+    "ts": "2025-06-23 10:22",
+    "station": "АЗС №67100",
+    "region": "Смоленская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 269,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZBR",
+    "ts": "2025-06-22 15:37",
+    "station": "АЗС №50418",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30.23,
+    "amount": 1912,
+    "vehicle": ""
+  }
+]

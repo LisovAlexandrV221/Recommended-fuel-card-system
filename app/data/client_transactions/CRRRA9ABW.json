@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-20 13:03",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1218,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-20 15:58",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1218,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-03 12:03",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 30.65,
+    "amount": 2282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-03 14:24",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 60.11,
+    "amount": 4315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-27 20:30",
+    "station": "АЗС № 78271 Долгоозерная",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 64.2,
+    "amount": 4609,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-17 10:48",
+    "station": "АЗС № 78187 Полюстровская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 62.82,
+    "amount": 4510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-01-11 11:48",
+    "station": "АЗС № 78059 Ладожская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 63.07,
+    "amount": 4528,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-02-14 15:41",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-02-28 10:40",
+    "station": "АЗС № 78187 Полюстровская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 67.97,
+    "amount": 4900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-02-21 10:31",
+    "station": "АЗС № 78187 Полюстровская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 63.88,
+    "amount": 4605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-02-18 12:00",
+    "station": "АЗС № 78142 Шафировская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65.54,
+    "amount": 4725,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-02-04 11:30",
+    "station": "АЗС № 78011 Балканская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 69.85,
+    "amount": 5015,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-30 09:49",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 71.87,
+    "amount": 5373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-11 10:37",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-14 15:57",
+    "station": "331",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 53.91,
+    "amount": 3901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-26 21:49",
+    "station": "331",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 76.44,
+    "amount": 5591,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-31 14:34",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 54.27,
+    "amount": 3912,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-27 16:58",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 63.93,
+    "amount": 4609,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-21 10:37",
+    "station": "АЗС № 78187 Полюстровская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65.33,
+    "amount": 4710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-18 14:28",
+    "station": "АЗС № 78142 Шафировская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 64.97,
+    "amount": 4684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-03-07 09:51",
+    "station": "АЗС № 78187 Полюстровская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 47.69,
+    "amount": 3438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-18 10:07",
+    "station": "331",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 55.67,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-22 08:04",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.85,
+    "amount": 2568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-30 16:29",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 62.14,
+    "amount": 4508,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-29 20:15",
+    "station": "АЗС № 78100 Добролюбова",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 30.08,
+    "amount": 2182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-25 18:54",
+    "station": "АЗС № 78271 Долгоозерная",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 65.18,
+    "amount": 4722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-19 13:40",
+    "station": "АЗС № 78186 пр. Культуры",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65.97,
+    "amount": 4785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9ABW",
+    "ts": "2025-04-11 10:30",
+    "station": "АЗС № 78187 Полюстровская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65.55,
+    "amount": 4755,
+    "vehicle": ""
+  }
+]

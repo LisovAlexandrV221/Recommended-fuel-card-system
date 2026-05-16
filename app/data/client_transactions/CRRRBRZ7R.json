@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-03 10:18",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 87.7,
+    "amount": 6209,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-29 08:04",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 39.36,
+    "amount": 2911,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-27 16:06",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 67.07,
+    "amount": 4221,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-26 08:40",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 39.99,
+    "amount": 2308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-21 10:20",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 32.5,
+    "amount": 2046,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-20 10:53",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 33.12,
+    "amount": 1911,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-17 09:54",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 17.93,
+    "amount": 1035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-15 18:44",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 41.98,
+    "amount": 3104,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-15 10:06",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 20.02,
+    "amount": 1155,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-15 07:33",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 83.99,
+    "amount": 6211,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-14 15:56",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 57.98,
+    "amount": 3346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-14 08:23",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 85.5,
+    "amount": 6323,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-14 08:20",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 16.44,
+    "amount": 1035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-04 19:27",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 111.97,
+    "amount": 8280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-01-04 08:46",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 97.98,
+    "amount": 7246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-27 08:29",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 35.16,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-21 08:32",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 36.81,
+    "amount": 2136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-20 08:19",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 43.57,
+    "amount": 3236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-17 16:22",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 60.92,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-16 16:43",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 83.63,
+    "amount": 6210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-15 16:52",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 62.81,
+    "amount": 4664,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-15 08:35",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 83.63,
+    "amount": 6210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-13 08:13",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 78.05,
+    "amount": 5796,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-12 19:23",
+    "station": "АЗС №33024",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 63.88,
+    "amount": 4080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-12 08:18",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 64.12,
+    "amount": 4762,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-11 13:50",
+    "station": "АЗС №33072",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 58.18,
+    "amount": 3698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-08 10:21",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 63.97,
+    "amount": 3692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRZ7R",
+    "ts": "2025-02-05 08:28",
+    "station": "43084 АЗС 84 Санчурск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 38.97,
+    "amount": 2249,
+    "vehicle": ""
+  }
+]

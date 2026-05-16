@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-01-09 10:29",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 31,
+    "amount": 2115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-01-22 08:35",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3468,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-02-06 15:03",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3498,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-02-06 20:32",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 72.51,
+    "amount": 4844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-02-07 07:57",
+    "station": "523",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 45.2,
+    "amount": 2783,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-02-11 10:59",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 45.1,
+    "amount": 3013,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-02-20 18:44",
+    "station": "59",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.63,
+    "amount": 2748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-02-27 17:29",
+    "station": "555",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3513,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-03-05 08:25",
+    "station": "59",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.22,
+    "amount": 2730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-03-06 18:12",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 64.3,
+    "amount": 4306,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-03-06 12:49",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-03-15 09:15",
+    "station": "59",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 45.01,
+    "amount": 2793,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-03-16 11:28",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 59.09,
+    "amount": 3982,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-03-24 10:25",
+    "station": "555",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3538,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-05 09:47",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3777,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-05 14:04",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 48,
+    "amount": 3250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-15 09:59",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2031,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-22 23:16",
+    "station": "510",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 18.9,
+    "amount": 1187,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-26 15:52",
+    "station": "540",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 19.9,
+    "amount": 1250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-29 15:42",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3576,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-04-29 19:52",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 62.35,
+    "amount": 4335,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-04 04:44",
+    "station": "510",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 16.37,
+    "amount": 1028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-08 01:42",
+    "station": "540",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 16.08,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-08 23:43",
+    "station": "520",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 23.75,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-10 11:13",
+    "station": "544",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 54.01,
+    "amount": 3733,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-11 14:27",
+    "station": "515",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 19,
+    "amount": 1212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-14 09:11",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 50.03,
+    "amount": 3478,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRB6",
+    "ts": "2025-05-14 16:00",
+    "station": "510",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 20.01,
+    "amount": 1257,
+    "vehicle": ""
+  }
+]

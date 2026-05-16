@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-01-15 17:17",
+    "station": "АЗС №76101",
+    "region": "Ярославская область",
+    "fuel": "АИ-100",
+    "liters": 67.75,
+    "amount": 5569,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-01-29 16:32",
+    "station": "АЗС №76101",
+    "region": "Ярославская область",
+    "fuel": "АИ-100",
+    "liters": 70.72,
+    "amount": 5813,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-01-13 14:50",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2394,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-02-12 20:32",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 75.28,
+    "amount": 4753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-02-11 10:45",
+    "station": "АЗС №76101",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1185,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-02-05 05:40",
+    "station": "АЗС №76101",
+    "region": "Ярославская область",
+    "fuel": "АИ-100",
+    "liters": 73.57,
+    "amount": 6047,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-03-26 14:06",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX86",
+    "ts": "2025-05-20 09:06",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2744,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-10 06:53",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3659,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-10 16:03",
+    "station": "642",
+    "region": "Смоленская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1812,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-12 09:18",
+    "station": "8",
+    "region": "Витебская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 737,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-12 10:14",
+    "station": "581",
+    "region": "Смоленская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3617,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-26 02:18",
+    "station": "570",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-29 17:02",
+    "station": "596",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-30 05:44",
+    "station": "627",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-30 10:37",
+    "station": "691",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4517,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-30 14:13",
+    "station": "698",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3867,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-30 18:02",
+    "station": "682",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-30 22:50",
+    "station": "439",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-14 13:25",
+    "station": "007",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 59.55,
+    "amount": 3477,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-17 16:58",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 55.6,
+    "amount": 3302,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-10 10:00",
+    "station": "201",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3505,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-14 09:12",
+    "station": "201",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-15 20:27",
+    "station": "201",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3508,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-18 12:01",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-18 12:03",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-18 15:34",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "MАСЛО",
+    "liters": 1,
+    "amount": 346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-19 07:32",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-19 19:41",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "MАСЛО",
+    "liters": 1,
+    "amount": 1306,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-19 19:41",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 1649,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-22 00:34",
+    "station": "201",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2091,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-22 13:22",
+    "station": "201",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-23 14:35",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-23 18:29",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-23 18:29",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 866,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXXZ",
+    "ts": "2025-01-23 01:04",
+    "station": "273",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3596,
+    "vehicle": ""
+  }
+]

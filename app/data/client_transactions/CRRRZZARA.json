@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-07 13:59",
+    "station": "514",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1403,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-08 11:47",
+    "station": "514",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 75.44,
+    "amount": 5291,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-09 08:33",
+    "station": "001(6203)",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-13 07:21",
+    "station": "247",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 63.37,
+    "amount": 4485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-14 16:29",
+    "station": "516",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-16 07:24",
+    "station": "247",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 56.91,
+    "amount": 4028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-21 09:30",
+    "station": "302",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 39.7,
+    "amount": 2784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-22 08:14",
+    "station": "031",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 38.15,
+    "amount": 2685,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-23 17:55",
+    "station": "246",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 56.05,
+    "amount": 4080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-25 19:04",
+    "station": "514",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-27 08:11",
+    "station": "031",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 67.28,
+    "amount": 4735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-29 17:55",
+    "station": "246",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-31 13:35",
+    "station": "514",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-31 10:55",
+    "station": "514",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 33.56,
+    "amount": 2074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-05 14:25",
+    "station": "411",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 61.82,
+    "amount": 4335,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-10 12:23",
+    "station": "515",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 35.08,
+    "amount": 2128,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-17 11:38",
+    "station": "480",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 26.93,
+    "amount": 1664,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-24 09:45",
+    "station": "516",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-13 17:45",
+    "station": "411",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 61.27,
+    "amount": 4297,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-19 18:40",
+    "station": "517",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-01-26 14:59",
+    "station": "411",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 63.3,
+    "amount": 4439,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-02 13:07",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 701,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-04 07:52",
+    "station": "249",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 68.12,
+    "amount": 4683,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-04 17:50",
+    "station": "246",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30.05,
+    "amount": 2187,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-07 07:18",
+    "station": "031",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 65.1,
+    "amount": 4582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-28 17:58",
+    "station": "246",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-04 07:43",
+    "station": "302",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3517,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZARA",
+    "ts": "2025-02-08 12:52",
+    "station": "518",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4843,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-01-15 12:57",
+    "station": "АЗС №69472",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 71.53,
+    "amount": 5094,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-01-13 15:24",
+    "station": "11049",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 59.06,
+    "amount": 4089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-01-12 20:28",
+    "station": "11109",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 38.17,
+    "amount": 2675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-01-12 18:50",
+    "station": "АЗС № 78139 Богатырский проспект",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 52.55,
+    "amount": 3332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-15 18:19",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 41.88,
+    "amount": 2668,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-12 15:28",
+    "station": "АЗС №50623",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 56.94,
+    "amount": 4070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-11 15:56",
+    "station": "11049",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 42.72,
+    "amount": 2958,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-10 16:18",
+    "station": "11109",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 39.69,
+    "amount": 2782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-07 21:39",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 48.14,
+    "amount": 3053,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-05 19:07",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 38.24,
+    "amount": 2425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-02-03 11:34",
+    "station": "АЗС № 78139 Богатырский проспект",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 37.51,
+    "amount": 2379,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-27 17:48",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.18,
+    "amount": 2815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-24 17:51",
+    "station": "11109",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 37.65,
+    "amount": 2402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-19 18:03",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40.71,
+    "amount": 2594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-19 13:31",
+    "station": "11109",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 27.47,
+    "amount": 1681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-15 14:27",
+    "station": "11198",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 47.35,
+    "amount": 2912,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-11 15:05",
+    "station": "11049",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 59.81,
+    "amount": 4165,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-03-12 11:56",
+    "station": "АЗС №50623",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 46.87,
+    "amount": 3350,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-04-28 20:23",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 47.73,
+    "amount": 3062,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-04-21 20:13",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 48.12,
+    "amount": 3087,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-04-17 15:31",
+    "station": "11198",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 46.03,
+    "amount": 2973,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-04-11 21:20",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 47.74,
+    "amount": 3063,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-04-11 13:08",
+    "station": "АЗС №69472",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 70.05,
+    "amount": 5041,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-04-10 09:41",
+    "station": "11049",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 51.87,
+    "amount": 3633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-05-15 19:20",
+    "station": "11119",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 56.84,
+    "amount": 3688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-05-14 06:50",
+    "station": "АЗС №50623",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.75,
+    "amount": 2345,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-05-14 17:37",
+    "station": "АЗС № 53267 Окуловка-2",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 57.46,
+    "amount": 3722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAA",
+    "ts": "2025-05-21 21:18",
+    "station": "АЗС № 47101 Кирпичное",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 46.22,
+    "amount": 2965,
+    "vehicle": ""
+  }
+]

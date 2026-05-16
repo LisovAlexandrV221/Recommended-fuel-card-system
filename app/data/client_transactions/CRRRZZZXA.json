@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-01-29 12:18",
+    "station": "63067 АЗС 67-У",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 84.63,
+    "amount": 6005,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-04 12:30",
+    "station": "698",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70.43,
+    "amount": 4952,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-05 09:51",
+    "station": "42",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 45.92,
+    "amount": 3107,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-05 12:50",
+    "station": "683",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60.38,
+    "amount": 4167,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-05 19:59",
+    "station": "194",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 63.08,
+    "amount": 4265,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-05 15:08",
+    "station": "699",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40.4,
+    "amount": 2841,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-07 09:57",
+    "station": "243",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 57,
+    "amount": 3854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-12 10:01",
+    "station": "400",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-12 10:06",
+    "station": "400",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 57.3,
+    "amount": 3875,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-12 10:11",
+    "station": "400",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 36.92,
+    "amount": 2497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-04 15:04",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 56.13,
+    "amount": 3909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-12 13:44",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 49.77,
+    "amount": 3543,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-12 13:42",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 33.32,
+    "amount": 2372,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-12 13:39",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 40.58,
+    "amount": 2888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-13 07:18",
+    "station": "АЗС №34418",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 64.59,
+    "amount": 4567,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-13 07:18",
+    "station": "АЗС №34418",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 50.49,
+    "amount": 3570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-13 07:17",
+    "station": "АЗС №34418",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 27.79,
+    "amount": 1965,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 17:39",
+    "station": "АЗС №64580",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 42.61,
+    "amount": 3033,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 17:39",
+    "station": "АЗС №64580",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 64.78,
+    "amount": 4611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 17:35",
+    "station": "АЗС №64580",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 52.93,
+    "amount": 3768,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 11:01",
+    "station": "АЗС №34415",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 30.96,
+    "amount": 2189,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 10:59",
+    "station": "АЗС №34415",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 40.74,
+    "amount": 2880,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 10:59",
+    "station": "АЗС №34415",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 48.21,
+    "amount": 3408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 07:35",
+    "station": "АЗС №34492",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 73.33,
+    "amount": 5184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 07:27",
+    "station": "АЗС №34492",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 49.93,
+    "amount": 3530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-18 07:26",
+    "station": "АЗС №34492",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 65.52,
+    "amount": 4632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-17 17:26",
+    "station": "АЗС №61360",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZXA",
+    "ts": "2025-02-17 17:23",
+    "station": "АЗС №61360",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 50.4,
+    "amount": 3603,
+    "vehicle": ""
+  }
+]

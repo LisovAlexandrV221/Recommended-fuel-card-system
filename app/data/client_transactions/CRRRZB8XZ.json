@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZB8XZ",
+    "ts": "2025-01-19 21:29",
+    "station": "АЗС №34437",
+    "region": "Волгоградская область",
+    "fuel": "АИ-100",
+    "liters": 30,
+    "amount": 2567,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XZ",
+    "ts": "2025-01-12 21:17",
+    "station": "АЗС №34438",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 44.6,
+    "amount": 2903,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XZ",
+    "ts": "2025-02-05 19:22",
+    "station": "АЗС №34437",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XZ",
+    "ts": "2025-02-01 20:32",
+    "station": "АЗС №34438",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 39.03,
+    "amount": 2541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XZ",
+    "ts": "2025-03-02 20:35",
+    "station": "АЗС №34438",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 33,
+    "amount": 2158,
+    "vehicle": ""
+  }
+]

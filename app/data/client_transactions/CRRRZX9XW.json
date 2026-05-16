@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-30 16:46",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20.4,
+    "amount": 1270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-30 15:35",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 15.02,
+    "amount": 875,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-29 08:43",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 80.26,
+    "amount": 4674,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-18 11:43",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 60.18,
+    "amount": 3505,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-18 09:26",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.16,
+    "amount": 2921,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-18 09:15",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 33.63,
+    "amount": 1959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-15 14:28",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.91,
+    "amount": 1567,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-02 09:50",
+    "station": "АЗС №50234",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 48.66,
+    "amount": 3358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-02 03:33",
+    "station": "АЗC №36730",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 49.58,
+    "amount": 3487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-04-01 15:04",
+    "station": "АЗС №26252",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3498,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-30 17:09",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 10.28,
+    "amount": 600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-30 15:09",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 90.49,
+    "amount": 5284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-28 15:30",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30.01,
+    "amount": 1748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-27 09:59",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 29.94,
+    "amount": 1744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-22 09:07",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 95.04,
+    "amount": 5535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-20 12:46",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 15.08,
+    "amount": 878,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-13 14:53",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 15.01,
+    "amount": 874,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-13 12:11",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 70.32,
+    "amount": 4095,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-12 08:07",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40.96,
+    "amount": 2386,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-07 08:15",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 60.15,
+    "amount": 3503,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-24 08:44",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АВТОТОВАРЫ",
+    "liters": 1,
+    "amount": 73,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-05-04 11:48",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4158,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-06-27 08:41",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 88.16,
+    "amount": 5196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-06-26 08:53",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.63,
+    "amount": 1036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-06-25 14:07",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 81.37,
+    "amount": 4780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-06-20 07:29",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.21,
+    "amount": 2949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-06-17 12:39",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.18,
+    "amount": 2938,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9XW",
+    "ts": "2025-06-14 09:49",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 53.74,
+    "amount": 3146,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRA66B9",
+    "ts": "2025-01-28 04:36",
+    "station": "АЗС №21076",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 57.47,
+    "amount": 4077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA66B9",
+    "ts": "2025-01-21 15:03",
+    "station": "АЗС №52064",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 52.96,
+    "amount": 3758,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA66B9",
+    "ts": "2025-01-21 14:09",
+    "station": "АЗС №52027",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 72.22,
+    "amount": 5124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA66B9",
+    "ts": "2025-01-08 21:41",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70.78,
+    "amount": 5022,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA66B9",
+    "ts": "2025-02-18 18:36",
+    "station": "АЗС №52050",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 63.02,
+    "amount": 4448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA66B9",
+    "ts": "2025-02-15 19:08",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 55.68,
+    "amount": 3959,
+    "vehicle": ""
+  }
+]

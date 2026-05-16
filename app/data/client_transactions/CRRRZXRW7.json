@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-31 21:49",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.01,
+    "amount": 2861,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-31 11:25",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 36.85,
+    "amount": 2717,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-30 11:19",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 38.33,
+    "amount": 2826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-30 10:33",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 52,
+    "amount": 2974,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-29 11:21",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.36,
+    "amount": 2955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-28 21:45",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 51.18,
+    "amount": 2927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-28 11:18",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 37.24,
+    "amount": 2745,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-27 11:23",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 44.13,
+    "amount": 3253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-27 10:36",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 52,
+    "amount": 2974,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-26 11:27",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45.43,
+    "amount": 3349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-25 22:01",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.05,
+    "amount": 2863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-25 11:19",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 36.87,
+    "amount": 2700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-23 11:24",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.18,
+    "amount": 2962,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-23 09:53",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 54,
+    "amount": 3089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-22 11:26",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41.48,
+    "amount": 3058,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-21 21:52",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 52.1,
+    "amount": 2980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-21 11:21",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 43.95,
+    "amount": 3240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-20 11:17",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.03,
+    "amount": 3467,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-20 09:57",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 53,
+    "amount": 3032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-18 21:55",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.17,
+    "amount": 2870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-18 11:22",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35.23,
+    "amount": 2597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-17 18:40",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 49.23,
+    "amount": 2816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-17 11:20",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41.29,
+    "amount": 3044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-16 11:20",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 36.62,
+    "amount": 2700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-15 21:53",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.08,
+    "amount": 2865,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-15 11:23",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 36.87,
+    "amount": 2718,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-19 11:21",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.38,
+    "amount": 2977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRW7",
+    "ts": "2025-01-28 10:17",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 66.04,
+    "amount": 3636,
+    "vehicle": ""
+  }
+]

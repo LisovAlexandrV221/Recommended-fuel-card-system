@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-04 08:16",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-04 08:27",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 8,
+    "amount": 501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-04 12:36",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2503,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-07 15:33",
+    "station": "113",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 51.81,
+    "amount": 3090,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-09 08:23",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-09 08:26",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 4,
+    "amount": 250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-10 06:43",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2503,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-02 12:13",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 25.91,
+    "amount": 1644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-09 10:49",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 50.59,
+    "amount": 3209,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-09 19:17",
+    "station": "015",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 42.17,
+    "amount": 2869,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-10 18:16",
+    "station": "079",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 41.01,
+    "amount": 2756,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-15 17:31",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 51.95,
+    "amount": 3296,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-21 15:03",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 47.75,
+    "amount": 3029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-23 16:02",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 50.16,
+    "amount": 3182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-31 12:06",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 47.22,
+    "amount": 2996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-12 17:11",
+    "station": "249",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 35.07,
+    "amount": 2075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-18 17:26",
+    "station": "249",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 40.69,
+    "amount": 2423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-26 09:56",
+    "station": "249",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 42.42,
+    "amount": 2527,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-09 17:29",
+    "station": "11",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 33.89,
+    "amount": 2059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-10 20:03",
+    "station": "17",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 86.35,
+    "amount": 5150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-16 18:03",
+    "station": "11",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 42.37,
+    "amount": 2575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-19 15:57",
+    "station": "112",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 76.27,
+    "amount": 4635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-21 09:01",
+    "station": "4",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 66.66,
+    "amount": 4120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-21 19:18",
+    "station": "11",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 42.37,
+    "amount": 2575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-12 06:55",
+    "station": "69",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1251,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-14 19:47",
+    "station": "27",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-15 13:43",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9ZR",
+    "ts": "2025-01-15 17:47",
+    "station": "179",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2503,
+    "vehicle": ""
+  }
+]

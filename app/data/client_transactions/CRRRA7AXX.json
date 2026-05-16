@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-04 15:39",
+    "station": "56-024",
+    "region": "Оренбургская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-09 15:19",
+    "station": "56-012",
+    "region": "Оренбургская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-10 13:12",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-10 14:17",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7081,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-11 08:01",
+    "station": "56-072",
+    "region": "Оренбургская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-11 11:12",
+    "station": "56-065",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-11 12:37",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-11 13:17",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-12 10:20",
+    "station": "85",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-31 08:27",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-13 15:12",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2225,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-14 08:38",
+    "station": "56-064",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-14 09:05",
+    "station": "56-024",
+    "region": "Оренбургская область",
+    "fuel": "АИ-95",
+    "liters": 12,
+    "amount": 724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-14 10:20",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-14 10:24",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-14 15:55",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-14 10:47",
+    "station": "56-069",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7081,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-15 08:20",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1669,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-15 13:22",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-15 15:39",
+    "station": "56-064",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-15 16:26",
+    "station": "56-069",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-16 09:44",
+    "station": "63-002",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 896,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-16 16:07",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-17 10:52",
+    "station": "56-069",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-17 12:29",
+    "station": "56-071",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-17 15:13",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-18 07:44",
+    "station": "56-072",
+    "region": "Оренбургская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXX",
+    "ts": "2025-01-18 08:23",
+    "station": "56-068",
+    "region": "Оренбургская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1390,
+    "vehicle": ""
+  }
+]

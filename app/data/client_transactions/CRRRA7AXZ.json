@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-28 13:27",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-28 11:58",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 50.01,
+    "amount": 2915,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-25 10:35",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-24 14:42",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 54.18,
+    "amount": 3829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-21 12:17",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 38.17,
+    "amount": 2449,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-18 13:43",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-16 12:17",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 38.67,
+    "amount": 2481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-12 10:42",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-01-09 09:41",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 41.11,
+    "amount": 2638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-04 14:27",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 36.82,
+    "amount": 2362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-03 09:33",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 36.8,
+    "amount": 2361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-01 11:11",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-27 15:27",
+    "station": "121",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2406,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-18 14:30",
+    "station": "120",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-26 12:08",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2479,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-24 15:16",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 71.15,
+    "amount": 4830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-18 16:45",
+    "station": "АЗС №33010",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 39.05,
+    "amount": 2420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-17 14:50",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2479,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-17 12:05",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.65,
+    "amount": 4185,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-12 15:20",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 23.03,
+    "amount": 1635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-08 12:19",
+    "station": "АЗС №33002",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-02-06 11:02",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-03-31 15:21",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 38.62,
+    "amount": 2394,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-03-21 08:24",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-03-14 18:08",
+    "station": "АЗС №33004",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2479,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-03-14 14:40",
+    "station": "АЗС №33010",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 36.79,
+    "amount": 2280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-03-08 11:04",
+    "station": "120",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXZ",
+    "ts": "2025-03-10 13:27",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2479,
+    "vehicle": ""
+  }
+]

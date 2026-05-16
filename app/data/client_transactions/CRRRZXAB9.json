@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZXAB9",
+    "ts": "2025-02-04 20:41",
+    "station": "240",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAB9",
+    "ts": "2025-02-01 08:07",
+    "station": "107",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 199.45,
+    "amount": 13852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAB9",
+    "ts": "2025-02-01 08:08",
+    "station": "107",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 999,
+    "amount": 69381,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAB9",
+    "ts": "2025-02-06 14:37",
+    "station": "505",
+    "region": "Республика Бурятия",
+    "fuel": "ДТ",
+    "liters": 1000,
+    "amount": 76030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAB9",
+    "ts": "2025-02-08 14:49",
+    "station": "004(1404)",
+    "region": "Республика Саха (Якутия)",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 25926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAB9",
+    "ts": "2025-02-11 04:58",
+    "station": "549",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 23733,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZ6ARW",
+    "ts": "2025-06-30 13:18",
+    "station": "АЗС №52007",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16978,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ARW",
+    "ts": "2025-06-30 11:23",
+    "station": "АЗС №52044",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ARW",
+    "ts": "2025-06-25 13:18",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ARW",
+    "ts": "2025-06-23 09:05",
+    "station": "АЗС №52007",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13582,
+    "vehicle": ""
+  }
+]

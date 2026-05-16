@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-30 17:11",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-29 00:32",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-28 18:48",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 71,
+    "amount": 5037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-27 21:07",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-24 15:49",
+    "station": "АЗС №33002",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-22 08:04",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 100.79,
+    "amount": 7123,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-21 10:09",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 71,
+    "amount": 5027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-21 20:21",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 66,
+    "amount": 4664,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-17 17:19",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 53,
+    "amount": 3746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-16 23:36",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-15 07:08",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 73,
+    "amount": 5159,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-14 20:40",
+    "station": "АЗС №52054",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4966,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-13 23:15",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 72,
+    "amount": 5108,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-10 08:05",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 101.01,
+    "amount": 7138,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-09 17:20",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 39.5,
+    "amount": 2791,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-30 09:55",
+    "station": "АЗС №33004",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 100.26,
+    "amount": 7085,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-28 09:08",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4602,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-20 21:37",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 76.5,
+    "amount": 5428,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-14 10:24",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 62,
+    "amount": 4390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-30 07:48",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 58,
+    "amount": 4117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-24 11:54",
+    "station": "АЗС №50239",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-21 15:43",
+    "station": "АЗС №52054",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 54,
+    "amount": 3831,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-17 09:52",
+    "station": "АЗС №77202",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 81,
+    "amount": 5759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-16 08:37",
+    "station": "АЗС №50476",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3910,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-09 13:36",
+    "station": "АЗС №50476",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-01-09 07:50",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3904,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-02-04 10:00",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9ZB",
+    "ts": "2025-02-26 05:04",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 72,
+    "amount": 5111,
+    "vehicle": ""
+  }
+]

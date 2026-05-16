@@ -1,0 +1,222 @@
+[
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-24 08:25",
+    "station": "251",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 40.43,
+    "amount": 2248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-13 19:39",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 54.53,
+    "amount": 3223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-16 11:25",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 51.54,
+    "amount": 3061,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-30 21:01",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 53.24,
+    "amount": 3226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-08 13:33",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-09 09:26",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-14 12:58",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 40.87,
+    "amount": 2256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-18 13:45",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 37.89,
+    "amount": 2115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-20 16:43",
+    "station": "271",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 28.82,
+    "amount": 1974,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-04-29 13:50",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 34.36,
+    "amount": 1948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-17 12:51",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 57.38,
+    "amount": 3937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-01 15:15",
+    "station": "149",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 62,
+    "amount": 3970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-11 19:01",
+    "station": "033",
+    "region": "Воронежская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 1,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-05 11:16",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 61.53,
+    "amount": 4404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-22 16:13",
+    "station": "140",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 38,
+    "amount": 2370,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-03 16:16",
+    "station": "092",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 13.93,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-05-05 09:39",
+    "station": "165",
+    "region": "Новосибирская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-06-28 19:11",
+    "station": "149",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 54.28,
+    "amount": 3473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-06-15 18:35",
+    "station": "059",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-06-17 16:09",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 39.58,
+    "amount": 2452,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-06-23 20:27",
+    "station": "059",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 47.02,
+    "amount": 3241,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX97R",
+    "ts": "2025-06-26 16:09",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 33.51,
+    "amount": 2076,
+    "vehicle": ""
+  }
+]

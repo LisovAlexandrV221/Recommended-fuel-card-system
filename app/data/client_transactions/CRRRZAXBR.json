@@ -1,0 +1,122 @@
+[
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-01-10 09:35",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-01-11 10:33",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 10787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-01-13 11:02",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 10787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-01-22 13:13",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5394,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-01-24 10:16",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2697,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-02-03 14:36",
+    "station": "65",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-02-08 08:54",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 110,
+    "amount": 7416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-02-19 14:20",
+    "station": "66",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 190,
+    "amount": 12810,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-02-26 10:11",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-03-10 09:41",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-04-25 10:17",
+    "station": "78",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19452,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXBR",
+    "ts": "2025-05-01 14:33",
+    "station": "476",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16462,
+    "vehicle": ""
+  }
+]

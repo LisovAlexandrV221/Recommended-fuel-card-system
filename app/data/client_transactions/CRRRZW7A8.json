@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZW7A8",
+    "ts": "2025-02-09 13:43",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 31.19,
+    "amount": 2195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7A8",
+    "ts": "2025-02-08 14:15",
+    "station": "121",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.18,
+    "amount": 4279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7A8",
+    "ts": "2025-03-21 19:21",
+    "station": "113",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7A8",
+    "ts": "2025-06-02 11:48",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 46.9,
+    "amount": 3373,
+    "vehicle": ""
+  }
+]

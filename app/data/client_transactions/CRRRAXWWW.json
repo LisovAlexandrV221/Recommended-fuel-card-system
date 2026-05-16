@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-05 11:20",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7372,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-06 00:22",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-06 08:54",
+    "station": "33009",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 49.45,
+    "amount": 3382,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-11 15:56",
+    "station": "432",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 3922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-16 21:08",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 31338,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-31 09:09",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 74,
+    "amount": 5400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-25 18:50",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 284.7,
+    "amount": 21190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-31 21:06",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47,
+    "amount": 3430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-31 14:31",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 29.38,
+    "amount": 1681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-31 22:34",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 39.68,
+    "amount": 2895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-30 10:44",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-30 18:58",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-30 21:56",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-30 07:24",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 39.02,
+    "amount": 2232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-30 06:20",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 81,
+    "amount": 5911,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-30 18:40",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.91,
+    "amount": 2037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 20:44",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 36.54,
+    "amount": 2648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 17:16",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 28,
+    "amount": 1602,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 21:59",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 31.59,
+    "amount": 2305,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 09:56",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 36.92,
+    "amount": 2112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 16:31",
+    "station": "АЗС № 35411 Сазоново-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 36240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 22:28",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 37.02,
+    "amount": 2701,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 22:10",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50.32,
+    "amount": 3672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 16:58",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18242,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 07:29",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.47,
+    "amount": 3464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 19:45",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6022,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 15:31",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 40308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAXWWW",
+    "ts": "2025-01-29 21:21",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17588,
+    "vehicle": ""
+  }
+]

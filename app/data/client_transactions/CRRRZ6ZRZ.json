@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-30 16:45",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 30226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-26 21:45",
+    "station": "АЗС №77769",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 427.74,
+    "amount": 28731,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-24 19:32",
+    "station": "АЗС №50708",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 420,
+    "amount": 27712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-23 10:55",
+    "station": "АЗС №77739",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 477.75,
+    "amount": 32067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-21 21:41",
+    "station": "АЗС №77202",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26392,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-20 11:24",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 30226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-18 18:52",
+    "station": "АЗС №77724",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-18 18:52",
+    "station": "АЗС №77724",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 93.19,
+    "amount": 6260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-18 18:44",
+    "station": "АЗС №77724",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 130,
+    "amount": 8732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZRZ",
+    "ts": "2025-06-18 18:37",
+    "station": "АЗС №77724",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 130,
+    "amount": 8732,
+    "vehicle": ""
+  }
+]

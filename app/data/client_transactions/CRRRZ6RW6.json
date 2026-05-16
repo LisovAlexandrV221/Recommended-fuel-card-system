@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-31 12:43",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-31 12:43",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-26 21:22",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 40.52,
+    "amount": 2629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-29 12:32",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "АИ-95",
+    "liters": 33.83,
+    "amount": 2208,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-16 07:44",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ДТ",
+    "liters": 66.66,
+    "amount": 4522,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-15 12:36",
+    "station": "АЗС №23703",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 30.61,
+    "amount": 1940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-31 17:01",
+    "station": "АЗС №01023",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-31 17:01",
+    "station": "АЗС №01023",
+    "region": "Республика Адыгея",
+    "fuel": "АИ-100",
+    "liters": 40.25,
+    "amount": 3578,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-29 12:22",
+    "station": "АЗС №01266",
+    "region": "Республика Адыгея",
+    "fuel": "ДТ",
+    "liters": 81.89,
+    "amount": 5555,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-26 19:03",
+    "station": "АЗС №23702",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 37.27,
+    "amount": 2362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-25 15:11",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-25 15:11",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "АИ-100",
+    "liters": 41.04,
+    "amount": 3632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-25 15:11",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-23 23:22",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "АИ-100",
+    "liters": 23.65,
+    "amount": 2093,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-23 21:51",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ДТ",
+    "liters": 59.09,
+    "amount": 4009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-18 22:00",
+    "station": "АЗС №23044",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 83.13,
+    "amount": 5640,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-12 19:46",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 59.17,
+    "amount": 4138,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-11 15:00",
+    "station": "АЗС №23229",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 41.55,
+    "amount": 2819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-05-07 17:32",
+    "station": "АЗС №23038",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 58.11,
+    "amount": 3942,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-14 07:49",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 39.76,
+    "amount": 2624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-20 23:17",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 39.58,
+    "amount": 2587,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-26 13:48",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "АИ-100",
+    "liters": 46.02,
+    "amount": 4109,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-26 13:48",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-26 13:48",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-26 13:48",
+    "station": "АЗС №01159",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 87,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-19 20:28",
+    "station": "АЗС №23200",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 39.97,
+    "amount": 2624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-26 18:28",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "АИ-100",
+    "liters": 27.75,
+    "amount": 2478,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RW6",
+    "ts": "2025-06-26 22:46",
+    "station": "АЗС №01263",
+    "region": "Республика Адыгея",
+    "fuel": "АИ-95",
+    "liters": 40.32,
+    "amount": 2636,
+    "vehicle": ""
+  }
+]

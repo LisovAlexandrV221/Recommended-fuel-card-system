@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZ6ABZ",
+    "ts": "2025-06-26 16:27",
+    "station": "11214",
+    "region": "Самарская область",
+    "fuel": "АИ-100",
+    "liters": 29,
+    "amount": 2479,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABZ",
+    "ts": "2025-06-19 15:36",
+    "station": "11214",
+    "region": "Самарская область",
+    "fuel": "АИ-100",
+    "liters": 45.45,
+    "amount": 3886,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABZ",
+    "ts": "2025-06-17 12:21",
+    "station": "11215",
+    "region": "Самарская область",
+    "fuel": "АИ-100",
+    "liters": 32.16,
+    "amount": 2749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABZ",
+    "ts": "2025-06-07 12:22",
+    "station": "11214",
+    "region": "Самарская область",
+    "fuel": "АИ-100",
+    "liters": 29.25,
+    "amount": 2501,
+    "vehicle": ""
+  }
+]

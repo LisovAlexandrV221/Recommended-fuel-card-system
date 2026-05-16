@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZX9B9",
+    "ts": "2025-05-22 13:26",
+    "station": "022",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9B9",
+    "ts": "2025-06-29 10:27",
+    "station": "022",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 293.18,
+    "amount": 20347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9B9",
+    "ts": "2025-06-16 22:19",
+    "station": "266",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 297.66,
+    "amount": 20369,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9B9",
+    "ts": "2025-06-29 20:01",
+    "station": "266",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 303.2,
+    "amount": 20160,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9B9",
+    "ts": "2025-06-29 10:32",
+    "station": "66493 АЗС 493 Березовский",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 289.81,
+    "amount": 20579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9B9",
+    "ts": "2025-06-08 11:05",
+    "station": "66493 АЗС 493 Березовский",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 345,
+    "amount": 24498,
+    "vehicle": ""
+  }
+]

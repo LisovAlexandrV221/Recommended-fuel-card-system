@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-01-13 20:39",
+    "station": "АЗС № 29315 Центральная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 44.16,
+    "amount": 2613,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-01-31 09:00",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-01-24 15:26",
+    "station": "АЗС №77548",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 69.63,
+    "amount": 6324,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-01-23 11:17",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-01-21 12:39",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-01 12:46",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 90.6,
+    "amount": 6983,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-28 14:30",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-21 16:36",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-14 09:29",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-07 18:28",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-22 17:35",
+    "station": "АЗС №77746",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 70.45,
+    "amount": 6472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-21 16:18",
+    "station": "АЗС №77746",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 66.95,
+    "amount": 6151,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-17 12:32",
+    "station": "АЗС №77548",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 70.26,
+    "amount": 6418,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-13 10:33",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-100",
+    "liters": 55.29,
+    "amount": 4780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-07 16:29",
+    "station": "АЗС №77746",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 69.54,
+    "amount": 6316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-02-20 14:57",
+    "station": "АЗС № 35440 Мудрова",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-03-18 09:07",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 87.04,
+    "amount": 6735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-03-25 10:41",
+    "station": "АЗС №77548",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 70.98,
+    "amount": 6521,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-03-24 12:30",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-03-13 19:33",
+    "station": "АЗС № 29315 Центральная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 46.4,
+    "amount": 2760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-03-10 16:57",
+    "station": "АЗС №77548",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 67.6,
+    "amount": 6210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-03-06 15:42",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-04-04 14:52",
+    "station": "АЗС № 29315 Центральная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-04-29 08:42",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-04-24 16:00",
+    "station": "АЗС №77548",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 60.92,
+    "amount": 5634,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-04-18 16:31",
+    "station": "АЗС №77746",
+    "region": "г.Москва",
+    "fuel": "АИ-100",
+    "liters": 69.4,
+    "amount": 6419,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-04-18 10:53",
+    "station": "ААЗС № 29385 Коммунальная",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRW97",
+    "ts": "2025-04-14 09:40",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 79.08,
+    "amount": 5672,
+    "vehicle": ""
+  }
+]

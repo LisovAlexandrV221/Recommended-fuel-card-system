@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-30 12:50",
+    "station": "АЗС №23166",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 50.07,
+    "amount": 3309,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-20 09:23",
+    "station": "АЗС №23110",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 52.04,
+    "amount": 3439,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-13 13:44",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-31 21:27",
+    "station": "АЗС №23234",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 29.62,
+    "amount": 1964,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-27 12:12",
+    "station": "АЗС №23166",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 44.37,
+    "amount": 2932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-23 12:03",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 52.73,
+    "amount": 3484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-21 18:42",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-15 18:55",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-01-08 20:09",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-26 09:39",
+    "station": "АЗС №23110",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 45.8,
+    "amount": 3040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-18 19:36",
+    "station": "АЗС №23006",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 52.67,
+    "amount": 3496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-28 17:10",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 52.4,
+    "amount": 3523,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-25 07:12",
+    "station": "АЗС №23213",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 46.37,
+    "amount": 3084,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-24 08:23",
+    "station": "АЗС №23213",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 47,
+    "amount": 3126,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-21 18:09",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 3025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-16 19:13",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-09 18:31",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 55.23,
+    "amount": 3696,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-05 16:10",
+    "station": "АЗС №23045",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 33.54,
+    "amount": 2216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-05 08:40",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 55.46,
+    "amount": 3711,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-02-03 11:01",
+    "station": "АЗС №23213",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 44.7,
+    "amount": 2960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-23 16:34",
+    "station": "АЗС №23262",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-19 09:30",
+    "station": "АЗС №23110",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 50.14,
+    "amount": 3328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-17 11:17",
+    "station": "АЗС №23251",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 43,
+    "amount": 2854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-14 08:42",
+    "station": "АЗС №23110",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 47.5,
+    "amount": 3153,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-11 10:56",
+    "station": "АЗС №23166",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 48.59,
+    "amount": 3225,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-10 08:04",
+    "station": "АЗС №23213",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 48.64,
+    "amount": 3235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-06 13:45",
+    "station": "АЗС №23045",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 45.01,
+    "amount": 2988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9B9",
+    "ts": "2025-03-05 09:50",
+    "station": "АЗС №23110",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 41.8,
+    "amount": 2775,
+    "vehicle": ""
+  }
+]

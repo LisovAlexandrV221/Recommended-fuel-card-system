@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-01-16 17:58",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 40.27,
+    "amount": 2597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-01-15 16:07",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 28.36,
+    "amount": 1820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-01-15 14:31",
+    "station": "АЗС №33714",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1283,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-01-08 12:32",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 41.6,
+    "amount": 2634,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-01-30 18:02",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 46.34,
+    "amount": 3045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-01-24 17:48",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 45.7,
+    "amount": 2947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-28 11:17",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 40.13,
+    "amount": 2706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-22 13:24",
+    "station": "АЗС №50445",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 41.56,
+    "amount": 2743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-16 08:56",
+    "station": "АЗС №50243",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 20.04,
+    "amount": 1323,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-08 07:09",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 38.51,
+    "amount": 2585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-08 13:25",
+    "station": "АЗС №50243",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-05 17:28",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 41.86,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-24 17:43",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 45.18,
+    "amount": 2982,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-18 16:50",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 33.84,
+    "amount": 2234,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-02-13 18:35",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 46.27,
+    "amount": 3054,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-24 15:22",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2202,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-13 17:04",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 37.54,
+    "amount": 2478,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-06 17:37",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 44.77,
+    "amount": 2955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-30 15:19",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 36.09,
+    "amount": 2382,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-29 14:36",
+    "station": "АЗС №50243",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 42.59,
+    "amount": 2811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-21 17:17",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 40.47,
+    "amount": 2622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-03-15 13:37",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.15,
+    "amount": 2320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-04-23 17:27",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 34.72,
+    "amount": 2308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-04-17 16:49",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 42.56,
+    "amount": 2829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-04-27 16:01",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.25,
+    "amount": 2343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-04-08 17:27",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 41.26,
+    "amount": 2743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-05-22 07:29",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 24.08,
+    "amount": 1635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX7",
+    "ts": "2025-05-22 07:25",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 16.02,
+    "amount": 1088,
+    "vehicle": ""
+  }
+]

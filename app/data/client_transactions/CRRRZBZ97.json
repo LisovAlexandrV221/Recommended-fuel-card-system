@@ -1,0 +1,132 @@
+[
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-01-13 15:37",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-01-03 21:01",
+    "station": "АЗС №50488",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5127,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-02-26 05:59",
+    "station": "АЗС №76104",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 19.27,
+    "amount": 1320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-02-25 11:14",
+    "station": "АЗС №76104",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-02-23 17:51",
+    "station": "АЗС №50480",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-03-17 12:49",
+    "station": "АЗС №76104",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 46,
+    "amount": 2754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-03-22 10:35",
+    "station": "АЗС №76104",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 46.67,
+    "amount": 2794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-03-27 18:45",
+    "station": "АЗС №50488",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-03-22 21:39",
+    "station": "АЗС №50235",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 26,
+    "amount": 1620,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-03-18 05:22",
+    "station": "АЗС №50488",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1904,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-05-20 04:32",
+    "station": "АЗС №77607",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 25.06,
+    "amount": 1572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-05-19 12:25",
+    "station": "АЗС №76105",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 29.14,
+    "amount": 1774,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ97",
+    "ts": "2025-05-07 18:02",
+    "station": "АЗС N 13 ООО ?АльянсОйл?",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2393,
+    "vehicle": ""
+  }
+]

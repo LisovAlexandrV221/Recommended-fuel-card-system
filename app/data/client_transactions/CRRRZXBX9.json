@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZXBX9",
+    "ts": "2025-01-05 12:10",
+    "station": "-",
+    "region": "Иркутская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX9",
+    "ts": "2025-01-14 18:05",
+    "station": "-",
+    "region": "Иркутская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX9",
+    "ts": "2025-01-17 10:28",
+    "station": "-",
+    "region": "Иркутская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX9",
+    "ts": "2025-01-17 12:08",
+    "station": "-",
+    "region": "Иркутская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX9",
+    "ts": "2025-01-22 13:11",
+    "station": "-",
+    "region": "Иркутская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3116,
+    "vehicle": ""
+  }
+]

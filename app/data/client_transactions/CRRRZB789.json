@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-02 11:58",
+    "station": "310",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 27.18,
+    "amount": 1906,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-03 15:08",
+    "station": "279",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 33.75,
+    "amount": 2367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-06 14:26",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 47.95,
+    "amount": 3328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-14 18:46",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 59.84,
+    "amount": 4153,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-15 15:58",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 15.79,
+    "amount": 1096,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-25 15:39",
+    "station": "279",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 46.36,
+    "amount": 3273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-01-05 11:34",
+    "station": "АЗС №67100",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 12.87,
+    "amount": 918,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-02-24 13:02",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 45.27,
+    "amount": 3177,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-02-26 16:18",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 52.21,
+    "amount": 3664,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-02-10 16:30",
+    "station": "310",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 60.66,
+    "amount": 4283,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-02-12 14:39",
+    "station": "279",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 42.06,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-02-21 15:00",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 70.22,
+    "amount": 4907,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-02-22 12:26",
+    "station": "310",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 42.08,
+    "amount": 2980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-28 07:01",
+    "station": "АЗС №23374",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 58,
+    "amount": 4048,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-13 17:49",
+    "station": "310",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 52.23,
+    "amount": 3736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-16 11:55",
+    "station": "310",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 65.47,
+    "amount": 4694,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-16 16:43",
+    "station": "075",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 44.47,
+    "amount": 3148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-17 16:09",
+    "station": "009",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 54.32,
+    "amount": 3833,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-18 13:25",
+    "station": "032",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2835,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-19 12:00",
+    "station": "584",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 51.54,
+    "amount": 3675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-19 14:19",
+    "station": "128",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 33.48,
+    "amount": 2405,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-28 13:24",
+    "station": "150",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 46.2,
+    "amount": 3246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-21 10:48",
+    "station": "АЗС №23373",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 18.7,
+    "amount": 1305,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-03-15 12:57",
+    "station": "АЗС №67106",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 36.42,
+    "amount": 2609,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-04-23 14:10",
+    "station": "252",
+    "region": "Смоленская область",
+    "fuel": "ДТ",
+    "liters": 49.03,
+    "amount": 3485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-04-06 07:10",
+    "station": "006",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 36.36,
+    "amount": 2451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-04-06 14:27",
+    "station": "033",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 33.98,
+    "amount": 2401,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB789",
+    "ts": "2025-04-12 11:39",
+    "station": "077",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 49.05,
+    "amount": 3453,
+    "vehicle": ""
+  }
+]

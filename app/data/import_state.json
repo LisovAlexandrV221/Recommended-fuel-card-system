@@ -1,0 +1,9 @@
+﻿{
+    "ts":  "2026-05-16 10:53",
+    "clients":  4428,
+    "transactions":  788903,
+    "transactionSamples":  103095,
+    "suppliers":  4,
+    "clientsFile":  "df_clients.xlsx",
+    "transactionsFile":  "df_tx.xlsx"
+}

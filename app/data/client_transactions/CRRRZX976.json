@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-30 09:46",
+    "station": "089",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1670,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-15 10:00",
+    "station": "089",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 50.9,
+    "amount": 2819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-15 17:26",
+    "station": "089",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 45.75,
+    "amount": 2534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-21 06:57",
+    "station": "330",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 45.56,
+    "amount": 2537,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-24 20:52",
+    "station": "330",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-27 17:06",
+    "station": "329",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-21 15:56",
+    "station": "089",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 39.86,
+    "amount": 2219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-08 17:17",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-09 17:41",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 53.58,
+    "amount": 2940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-10 08:02",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-11 10:31",
+    "station": "604",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 53.58,
+    "amount": 2940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-16 13:08",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3304,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-17 08:42",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-18 10:32",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-21 11:09",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-22 08:56",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-22 09:04",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-25 09:23",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-25 09:29",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2203,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-25 22:07",
+    "station": "АЗС №50487",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 39.87,
+    "amount": 2236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-24 14:40",
+    "station": "(Полуавтомат) АЗС №69443",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 31.93,
+    "amount": 1809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-17 17:22",
+    "station": "(Полуавтомат) АЗС №69443",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 41.63,
+    "amount": 2359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-23 16:42",
+    "station": "АЗС №69464",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 23.64,
+    "amount": 1450,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-15 16:42",
+    "station": "АЗС №50624",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 36.33,
+    "amount": 2073,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-28 11:20",
+    "station": "АЗС №69464",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 43.01,
+    "amount": 2437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-24 22:26",
+    "station": "АЗС №50623",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.07,
+    "amount": 2277,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-23 15:42",
+    "station": "АЗС №50235",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 31.01,
+    "amount": 1739,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX976",
+    "ts": "2025-04-30 10:58",
+    "station": "(Полуавтомат) АЗС №69443",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 34.45,
+    "amount": 1952,
+    "vehicle": ""
+  }
+]

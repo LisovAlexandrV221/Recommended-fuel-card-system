@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-08 16:42",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 143.89,
+    "amount": 10246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-06 12:57",
+    "station": "АЗС №52052",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7095,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-06 12:56",
+    "station": "АЗС №52052",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 145.73,
+    "amount": 10340,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-05 16:31",
+    "station": "16097 АЗС 97",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 152.3,
+    "amount": 10247,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-04 10:52",
+    "station": "АЗС №52038",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 19866,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-09 08:28",
+    "station": "43104 АЗС 104 Яранск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-18 16:29",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-07 15:38",
+    "station": "16119 АЗС 119",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-01-04 22:41",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-19 22:19",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6762,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-22 16:54",
+    "station": "286",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-22 21:54",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6843,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-25 15:35",
+    "station": "567",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-28 11:26",
+    "station": "АЗС №33047",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-26 15:37",
+    "station": "16056 АЗС 56",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-28 14:52",
+    "station": "АЗС №52038",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-27 15:20",
+    "station": "АЗС №52713",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3561,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-26 21:39",
+    "station": "АЗС №52054",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-18 16:21",
+    "station": "16119 АЗС 119",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-07 18:17",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-14 23:07",
+    "station": "18006 АЗС 6 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11078,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-17 19:50",
+    "station": "16105 АЗС 105",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-16 23:00",
+    "station": "16119 АЗС 119",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-14 15:44",
+    "station": "18007 АЗС 7 Якшур-Бодья",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-13 19:33",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-12 09:39",
+    "station": "АЗС №33049",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-24 16:21",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRB8A",
+    "ts": "2025-02-21 18:15",
+    "station": "АЗС №21127",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17812,
+    "vehicle": ""
+  }
+]

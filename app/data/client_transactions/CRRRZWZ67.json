@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-29 19:33",
+    "station": "АЗС №33007",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 58.79,
+    "amount": 3814,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-29 12:47",
+    "station": "АЗС №52138",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 90.56,
+    "amount": 5897,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-26 16:53",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 114.58,
+    "amount": 7447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-18 19:29",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 86.46,
+    "amount": 5619,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-15 08:38",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 108.23,
+    "amount": 7034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-07 10:05",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 70.77,
+    "amount": 4599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-06 10:32",
+    "station": "АЗС №33064",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.82,
+    "amount": 4010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-05 12:25",
+    "station": "АЗС №69464",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 65.62,
+    "amount": 4344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-01-05 06:42",
+    "station": "АЗС № 78075 Хрулева",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 67.41,
+    "amount": 4597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-22 19:16",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 101.05,
+    "amount": 6596,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-21 14:13",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 99.14,
+    "amount": 6782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-16 18:24",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4073,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-16 09:07",
+    "station": "43003 АЗС 3 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 64.66,
+    "amount": 4407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-15 10:42",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 98.42,
+    "amount": 6424,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-04 09:30",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 102.42,
+    "amount": 6656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-02-01 10:43",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 52.76,
+    "amount": 3423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-03-02 19:53",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 87.33,
+    "amount": 5700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-04-26 21:55",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 82.35,
+    "amount": 5410,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-04-24 03:54",
+    "station": "16105 АЗС 105",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 94.41,
+    "amount": 5830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-04-20 09:50",
+    "station": "АЗС №50708",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 43.86,
+    "amount": 2894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-04-12 14:41",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 90.93,
+    "amount": 5963,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-04-11 16:28",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 95.19,
+    "amount": 6254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-04-02 18:33",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 82.23,
+    "amount": 5367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-05-31 20:27",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 57.99,
+    "amount": 3810,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-05-15 18:34",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-05-15 18:33",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 114.36,
+    "amount": 7513,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-05-07 11:53",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 57.85,
+    "amount": 3801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ67",
+    "ts": "2025-06-27 20:48",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 97.07,
+    "amount": 6377,
+    "vehicle": ""
+  }
+]

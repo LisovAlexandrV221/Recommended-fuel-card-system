@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-01-27 10:20",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-01-23 23:10",
+    "station": "АЗС №52133",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-01-22 14:40",
+    "station": "АЗС №58624",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-01-30 11:22",
+    "station": "АЗС №64569",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10319,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-01-24 23:08",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-02-23 18:11",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-02-25 12:50",
+    "station": "АЗС №58624",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10311,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-02-13 10:28",
+    "station": "АЗС №58609",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-02-18 15:42",
+    "station": "АЗС №64569",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9R8A",
+    "ts": "2025-03-01 15:43",
+    "station": "АЗС №58624",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10311,
+    "vehicle": ""
+  }
+]

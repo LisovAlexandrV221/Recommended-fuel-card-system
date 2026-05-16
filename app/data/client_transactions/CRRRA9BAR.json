@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-26 12:13",
+    "station": "008(4007)",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20727,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-18 09:16",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-22 18:31",
+    "station": "9152",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27716,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-14 04:35",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-24 11:05",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-16 11:10",
+    "station": "131",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28608,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-30 03:10",
+    "station": "001(3501)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15078,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-29 06:11",
+    "station": "АЗС № 47087 Сясьстрой",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28428,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-29 12:24",
+    "station": "АЗС №40988",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-27 14:50",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 420,
+    "amount": 32193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-18 09:17",
+    "station": "АЗС №23201",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-06 22:30",
+    "station": "АЗС № 11305 Объячево",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 177.67,
+    "amount": 12472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-01-06 22:28",
+    "station": "АЗС № 11305 Объячево",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 22.33,
+    "amount": 1568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-10 18:12",
+    "station": "013",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6962,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-07 22:04",
+    "station": "085",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 45194,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-20 10:43",
+    "station": "065",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-13 16:30",
+    "station": "155",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 9476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-17 17:49",
+    "station": "9217",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-21 18:21",
+    "station": "3268",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14134,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-22 19:01",
+    "station": "2093",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-03 07:07",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-03 06:57",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6107,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-01 02:38",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 110,
+    "amount": 7770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-01 02:37",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 140.02,
+    "amount": 9891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-20 17:48",
+    "station": "02150 АЗС 150",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13862,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-17 17:42",
+    "station": "АЗС № 51017 Шабалина",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30776,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-14 14:10",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 23082,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BAR",
+    "ts": "2025-02-09 17:36",
+    "station": "АЗС № 10256 Сегежа",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 29196,
+    "vehicle": ""
+  }
+]

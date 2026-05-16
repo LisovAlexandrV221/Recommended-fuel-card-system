@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-01-31 13:21",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 30.24,
+    "amount": 2149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-01-29 17:25",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 43.7,
+    "amount": 2743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-01-26 12:09",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40.06,
+    "amount": 2483,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-01-24 09:01",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 43.09,
+    "amount": 2705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-01-22 18:31",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 45.42,
+    "amount": 2851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-25 12:34",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.82,
+    "amount": 2827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-22 10:22",
+    "station": "11186",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 43.99,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-19 19:58",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 45.49,
+    "amount": 2869,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-19 15:31",
+    "station": "АЗС № 78039 Ольгино",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 34.69,
+    "amount": 2476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-18 19:02",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.31,
+    "amount": 2795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-15 13:43",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 45.73,
+    "amount": 2884,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-13 09:06",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.65,
+    "amount": 2816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-10 17:02",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.84,
+    "amount": 2815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-07 16:52",
+    "station": "АЗС № 53267 Окуловка-2",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 41.09,
+    "amount": 2605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-06 13:48",
+    "station": "АЗС №50624",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 45.39,
+    "amount": 2914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-06 06:29",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 37.07,
+    "amount": 2297,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-05 10:17",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 43.69,
+    "amount": 2743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-02-04 09:29",
+    "station": "11122",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 44.65,
+    "amount": 2820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-29 09:55",
+    "station": "АЗС № 78033 Московская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 30.01,
+    "amount": 2142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-27 19:20",
+    "station": "11186",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 41.6,
+    "amount": 2681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-25 14:16",
+    "station": "АЗС № 78095 Литовская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40.88,
+    "amount": 2546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-22 15:04",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 16.57,
+    "amount": 1045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-20 17:06",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 10.03,
+    "amount": 716,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-18 10:25",
+    "station": "АЗС № 47055 Тайцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 27.76,
+    "amount": 1981,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-13 20:48",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 38.97,
+    "amount": 2458,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-13 20:47",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 42.67,
+    "amount": 2691,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-13 17:13",
+    "station": "АЗС № 78060 Аэропорт",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 20.01,
+    "amount": 1428,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7AZ",
+    "ts": "2025-03-07 16:01",
+    "station": "АЗС № 47090 Волосово",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 14,
+    "amount": 999,
+    "vehicle": ""
+  }
+]

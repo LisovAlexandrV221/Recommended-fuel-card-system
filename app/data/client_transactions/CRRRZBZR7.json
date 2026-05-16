@@ -1,0 +1,202 @@
+[
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-01-24 14:49",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 70,
+    "amount": 4367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-01-07 19:35",
+    "station": "38",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-01-09 07:00",
+    "station": "203",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12576,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-01-14 20:15",
+    "station": "29",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-02-13 22:54",
+    "station": "135",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30756,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-02-28 17:30",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 55.27,
+    "amount": 3881,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-03-21 17:29",
+    "station": "135",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-04-09 15:07",
+    "station": "АЗС №52119",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 80,
+    "amount": 4617,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-04-05 16:27",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 70,
+    "amount": 4421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-04-07 10:40",
+    "station": "АЗС №52119",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-05-01 07:26",
+    "station": "701",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 380,
+    "amount": 29967,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-05-05 22:31",
+    "station": "404",
+    "region": "Приморский край",
+    "fuel": "ДТ",
+    "liters": 235.66,
+    "amount": 18900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-05-09 05:03",
+    "station": "701",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 535.52,
+    "amount": 42231,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-01 08:57",
+    "station": "72",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-05 10:29",
+    "station": "57",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 23454,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-24 17:28",
+    "station": "72",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11727,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-29 18:54",
+    "station": "10",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 79.05,
+    "amount": 6180,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-26 11:17",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 70.04,
+    "amount": 4456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-17 12:01",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 78.12,
+    "amount": 4665,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZR7",
+    "ts": "2025-06-17 21:16",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 68.25,
+    "amount": 4324,
+    "vehicle": ""
+  }
+]

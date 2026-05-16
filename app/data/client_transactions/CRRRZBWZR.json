@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-23 12:16",
+    "station": "029",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-15 16:49",
+    "station": "029",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 48433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-31 07:30",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 155.33,
+    "amount": 10881,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-31 07:41",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 445,
+    "amount": 31172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-05 02:50",
+    "station": "062",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 605.61,
+    "amount": 42689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-07 07:32",
+    "station": "138",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-07 19:27",
+    "station": "076",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 49343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-07 21:01",
+    "station": "076",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 49343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-14 08:45",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 0.44,
+    "amount": 32,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-14 08:49",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 52.26,
+    "amount": 3768,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-16 02:24",
+    "station": "270",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 644.56,
+    "amount": 44275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-21 19:47",
+    "station": "017",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 591.04,
+    "amount": 41201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-26 13:59",
+    "station": "620",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 625.49,
+    "amount": 48369,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-27 20:16",
+    "station": "270",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 44941,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-27 12:00",
+    "station": "270",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-30 02:27",
+    "station": "029",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13930,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-23 09:32",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43554,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-23 09:41",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8711,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-23 09:47",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 13066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-13 17:40",
+    "station": "503",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 79.15,
+    "amount": 4354,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-13 13:50",
+    "station": "503",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 35.62,
+    "amount": 2202,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-20 17:40",
+    "station": "503",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 80,
+    "amount": 4430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-22 17:48",
+    "station": "503",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 80,
+    "amount": 4430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-24 06:11",
+    "station": "513",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 10.11,
+    "amount": 560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-09 14:54",
+    "station": "052",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 18.54,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-29 08:51",
+    "station": "052",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4880,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-29 08:54",
+    "station": "052",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWZR",
+    "ts": "2025-01-29 11:03",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 26.38,
+    "amount": 1641,
+    "vehicle": ""
+  }
+]

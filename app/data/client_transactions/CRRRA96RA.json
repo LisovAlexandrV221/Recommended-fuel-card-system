@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-01-16 16:38",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 43.62,
+    "amount": 2628,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-01-16 11:38",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 40.2,
+    "amount": 2422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-01-06 14:14",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 44.98,
+    "amount": 2735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-01-05 12:42",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 29.96,
+    "amount": 1822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-01-15 06:58",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 28.71,
+    "amount": 1746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-02-28 19:08",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 45.08,
+    "amount": 2755,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-02-26 21:19",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 67.06,
+    "amount": 3840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-02-23 13:04",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 40.67,
+    "amount": 2485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-22 23:40",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 42.83,
+    "amount": 2617,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-12 20:08",
+    "station": "АЗС №12019",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 55.97,
+    "amount": 3420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-12 10:52",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 28.62,
+    "amount": 1749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-07 11:46",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 27.12,
+    "amount": 1657,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-06 11:13",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 44.26,
+    "amount": 2705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-04 22:22",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 45.92,
+    "amount": 2629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-16 08:09",
+    "station": "АЗС №12019",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 30.03,
+    "amount": 1835,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-14 18:53",
+    "station": "43076 АЗС 76 Хохловы",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 59.12,
+    "amount": 3594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-14 13:56",
+    "station": "АЗС № 11350 Сысольское шоссе",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 40.24,
+    "amount": 2370,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-03-13 01:47",
+    "station": "АЗС № 11317 Летка",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 48.19,
+    "amount": 2838,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-14 19:21",
+    "station": "АЗС №12019",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 31.96,
+    "amount": 1967,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-10 22:07",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 64.68,
+    "amount": 3982,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-08 18:30",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 113.26,
+    "amount": 6485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-08 14:44",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 34.2,
+    "amount": 2105,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-15 09:33",
+    "station": "АЗС № 11304 Визинга",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 33.49,
+    "amount": 1988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-15 13:56",
+    "station": "43076 АЗС 76 Хохловы",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 45.4,
+    "amount": 2781,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-15 06:42",
+    "station": "АЗС № 11301 Гаражная",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 21.46,
+    "amount": 1274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-04-15 01:05",
+    "station": "43026 АЗС 26 Мураши",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 56.57,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-05-19 12:47",
+    "station": "АЗС №50625",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30.6,
+    "amount": 1956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96RA",
+    "ts": "2025-05-19 16:55",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 41.33,
+    "amount": 2544,
+    "vehicle": ""
+  }
+]

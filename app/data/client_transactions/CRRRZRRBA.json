@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZRRBA",
+    "ts": "2025-02-12 19:52",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 36.9,
+    "amount": 2297,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRRBA",
+    "ts": "2025-02-14 12:29",
+    "station": "127",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRRBA",
+    "ts": "2025-03-06 15:26",
+    "station": "АЗС №52059",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 16.17,
+    "amount": 939,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRRBA",
+    "ts": "2025-03-06 09:20",
+    "station": "АЗС №52060",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 35.03,
+    "amount": 2035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRRBA",
+    "ts": "2025-05-25 22:07",
+    "station": "АЗС №52188",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1903,
+    "vehicle": ""
+  }
+]

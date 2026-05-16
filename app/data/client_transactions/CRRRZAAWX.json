@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-31 16:49",
+    "station": "004",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-31 16:52",
+    "station": "004",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-22 03:21",
+    "station": "014",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 24,
+    "amount": 1404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-13 08:17",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 53.96,
+    "amount": 3217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-15 09:07",
+    "station": "014",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 14.64,
+    "amount": 851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-23 17:50",
+    "station": "007",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 45.44,
+    "amount": 2657,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-08 12:36",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 22.62,
+    "amount": 1314,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-09 05:25",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1458,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-09 15:12",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2942,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-08 15:11",
+    "station": "019",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 32.01,
+    "amount": 1860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-21 08:08",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 59.99,
+    "amount": 3599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-21 08:08",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-21 08:08",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-21 08:08",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 269,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-15 11:32",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 2,
+    "amount": 478,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-15 11:32",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 269,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-15 11:34",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 339,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-09 17:20",
+    "station": "084",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-09 17:22",
+    "station": "084",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 55.15,
+    "amount": 3204,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-06 10:25",
+    "station": "018",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-06 10:25",
+    "station": "018",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-06 10:25",
+    "station": "018",
+    "region": "Ярославская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 6,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-12 10:47",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 249,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-12 10:47",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-12 10:47",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-16 19:33",
+    "station": "549",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 16.39,
+    "amount": 1066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-16 19:37",
+    "station": "549",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAAWX",
+    "ts": "2025-01-16 19:37",
+    "station": "549",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 149,
+    "vehicle": ""
+  }
+]

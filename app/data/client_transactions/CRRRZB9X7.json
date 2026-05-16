@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-23 12:33",
+    "station": "АЗС №33039",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-31 10:25",
+    "station": "АЗС №77511",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-29 07:48",
+    "station": "АЗС №50444",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-24 20:55",
+    "station": "АЗС №50444",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-23 05:29",
+    "station": "АЗС №50458",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-15 14:05",
+    "station": "АЗС №50444",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-10 17:59",
+    "station": "MN036 Смирновка-2 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5514,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-11 19:28",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-14 14:46",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-17 11:30",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-17 12:43",
+    "station": "TN005",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-19 21:04",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-20 17:05",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-23 06:13",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-24 14:27",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-26 20:42",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-29 20:19",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-01-30 09:49",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-05 12:12",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 36,
+    "amount": 2529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-05 13:36",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-07 13:27",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-07 15:31",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-11 15:59",
+    "station": "MR033 Урал 151-й км",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-17 12:47",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5643,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-19 12:47",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3527,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-21 12:27",
+    "station": "TN003",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-23 19:47",
+    "station": "MJ029 Сходня РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9X7",
+    "ts": "2025-02-24 09:37",
+    "station": "MR084 Староямская",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2456,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRA7WZB",
+    "ts": "2025-01-22 19:25",
+    "station": "700",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6823,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7WZB",
+    "ts": "2025-01-23 07:59",
+    "station": "406",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3227,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7WZB",
+    "ts": "2025-04-24 08:59",
+    "station": "227",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3391,
+    "vehicle": ""
+  }
+]

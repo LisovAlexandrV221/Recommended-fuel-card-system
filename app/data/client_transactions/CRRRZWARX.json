@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-31 18:56",
+    "station": "АЗС № 11379 Емваль",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 26,
+    "amount": 1468,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-31 08:56",
+    "station": "АЗС № 11379 Емваль",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-30 12:54",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-30 10:53",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-21 13:31",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-21 09:43",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-20 12:57",
+    "station": "АЗС № 11320 Эжва-1",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 25.91,
+    "amount": 1463,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-29 14:26",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-29 10:36",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-29 08:52",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-22 19:05",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 35.16,
+    "amount": 2543,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-17 14:07",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-17 11:46",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-17 09:08",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-10 09:29",
+    "station": "АЗС № 11379 Емваль",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4340,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-21 11:14",
+    "station": "АЗС № 11301 Гаражная",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-17 08:34",
+    "station": "АЗС № 11327 Дырнос",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 30.49,
+    "amount": 2205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-28 11:35",
+    "station": "АЗС № 11320 Эжва-1",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 29.81,
+    "amount": 1683,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-28 08:39",
+    "station": "АЗС № 11320 Эжва-1",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-31 13:26",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-31 09:14",
+    "station": "АЗС № 11301 Гаражная",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-30 19:33",
+    "station": "АЗС №64582",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 35.29,
+    "amount": 2501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-28 09:36",
+    "station": "АЗС № 11301 Гаражная",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1129,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-27 14:17",
+    "station": "АЗС № 11302 Октябрьский пр.",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-27 13:27",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-25 03:59",
+    "station": "АЗС № 11396 Ухтинское шоссе",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-24 13:21",
+    "station": "АЗС № 11301 Гаражная",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARX",
+    "ts": "2025-01-24 11:04",
+    "station": "АЗС № 11302 Октябрьский пр.",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 36.13,
+    "amount": 2040,
+    "vehicle": ""
+  }
+]

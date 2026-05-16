@@ -1,0 +1,142 @@
+[
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-01-03 10:49",
+    "station": "522",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 61.97,
+    "amount": 3491,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-01-12 09:22",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-01-08 15:13",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 60.76,
+    "amount": 3563,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-01-30 18:24",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 64.99,
+    "amount": 3811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-01-21 13:22",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 63.65,
+    "amount": 3732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-01-14 16:59",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 60.19,
+    "amount": 3530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-02-16 09:30",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50.38,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-02-25 08:49",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 60.09,
+    "amount": 3542,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-02-08 07:47",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 63.44,
+    "amount": 3720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-03-02 15:14",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 43.48,
+    "amount": 2524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-03-12 10:48",
+    "station": "11138",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 34.79,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-03-07 17:46",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 43.26,
+    "amount": 2525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-03-17 12:26",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 51.91,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZWX",
+    "ts": "2025-03-20 16:58",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 43.26,
+    "amount": 2550,
+    "vehicle": ""
+  }
+]

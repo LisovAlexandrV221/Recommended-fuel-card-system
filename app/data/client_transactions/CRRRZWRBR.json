@@ -1,0 +1,152 @@
+[
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-01-28 12:21",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 40.54,
+    "amount": 2955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-02-10 18:08",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 50.02,
+    "amount": 3103,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-02-12 17:53",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 50.03,
+    "amount": 2937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-02-14 23:37",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 43.56,
+    "amount": 2715,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-03-14 11:19",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 37.6,
+    "amount": 2752,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-03-14 11:18",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 13.03,
+    "amount": 954,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-04-17 18:55",
+    "station": "АЗС № 11304 Визинга",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 47.91,
+    "amount": 2915,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-04-25 11:47",
+    "station": "43002 АЗС 2 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 48.82,
+    "amount": 3065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-05-27 15:04",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 39.73,
+    "amount": 2484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-05-15 13:28",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 40.07,
+    "amount": 2951,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-06-11 08:32",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 43.38,
+    "amount": 2737,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-06-27 17:42",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 46.11,
+    "amount": 2928,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-06-26 08:52",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 30.36,
+    "amount": 1922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-06-10 09:56",
+    "station": "АЗС № 11342 Верхний Чов",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 34.82,
+    "amount": 2122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRBR",
+    "ts": "2025-06-09 14:18",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 44.7,
+    "amount": 2813,
+    "vehicle": ""
+  }
+]

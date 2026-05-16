@@ -1,0 +1,22 @@
+[
+  {
+    "client": "CRRRZ6ZZ6",
+    "ts": "2025-06-25 10:38",
+    "station": "123",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2134,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZZ6",
+    "ts": "2025-06-28 12:34",
+    "station": "121",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1778,
+    "vehicle": ""
+  }
+]

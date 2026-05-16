@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-03 16:21",
+    "station": "350",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-25 20:56",
+    "station": "146",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4640,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-18 06:25",
+    "station": "232",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-16 19:27",
+    "station": "344",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-24 09:51",
+    "station": "MR007 Боброво-1",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-29 09:37",
+    "station": "АЗС №52017",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-27 10:54",
+    "station": "59040 АЗС 40 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-15 06:27",
+    "station": "АЗС №52044",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23873,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-15 05:10",
+    "station": "АЗС №52044",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 145.74,
+    "amount": 9941,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-13 18:04",
+    "station": "АЗС №52087",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20463,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-24 07:46",
+    "station": "АЗС №52094",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6821,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-22 13:36",
+    "station": "202",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30.01,
+    "amount": 1883,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-18 11:35",
+    "station": "066",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 133.07,
+    "amount": 9570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-22 18:50",
+    "station": "009",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50.01,
+    "amount": 3596,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-31 22:40",
+    "station": "АЗС №69442",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13866,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-31 08:44",
+    "station": "АЗС №52712",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13634,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-18 11:40",
+    "station": "16097 АЗС 97",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 12936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-29 14:45",
+    "station": "02073 АЗС а02073",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13872,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-28 16:41",
+    "station": "59121 АЗС 121 Тураи",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24972,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-22 18:45",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10664,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-21 20:49",
+    "station": "43070 АЗС 70 Белая Холуница",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-19 14:20",
+    "station": "18078 АЗС 78 Малая Чепца",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-16 17:27",
+    "station": "АЗС №52016",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30.02,
+    "amount": 1825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-15 01:16",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11463,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-22 16:54",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-09 15:27",
+    "station": "109",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18008,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-12 15:30",
+    "station": "464",
+    "region": "ЯНАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11823,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZBR",
+    "ts": "2025-01-14 08:44",
+    "station": "470",
+    "region": "ЯНАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12312,
+    "vehicle": ""
+  }
+]

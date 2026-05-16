@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-30 18:40",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 34.52,
+    "amount": 1980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-30 18:17",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 17.25,
+    "amount": 989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-29 20:09",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 51.78,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-29 07:34",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 129.01,
+    "amount": 8819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-29 07:31",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 17.26,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-29 07:29",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 129.01,
+    "amount": 8819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-29 07:27",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 129.01,
+    "amount": 8819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-26 07:09",
+    "station": "АЗС №64580",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-25 06:44",
+    "station": "АЗС №64555",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2846,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-24 10:16",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-22 17:38",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-22 05:59",
+    "station": "АЗС №34524",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-18 17:46",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-17 20:38",
+    "station": "АЗС №34493",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-17 07:30",
+    "station": "АЗС №34403",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-15 16:34",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-14 17:05",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-13 16:50",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-12 17:27",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-04-11 17:53",
+    "station": "АЗС №34471",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2581,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-28 19:29",
+    "station": "АЗС №34450",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-28 19:25",
+    "station": "АЗС №34450",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-28 19:22",
+    "station": "АЗС №34450",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-28 15:55",
+    "station": "АЗС №64553",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1377,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-28 13:20",
+    "station": "АЗС №34429",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-28 11:05",
+    "station": "АЗС №34523",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-27 17:55",
+    "station": "АЗС №64554",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10324,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW99B",
+    "ts": "2025-05-27 17:54",
+    "station": "АЗС №64554",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10324,
+    "vehicle": ""
+  }
+]

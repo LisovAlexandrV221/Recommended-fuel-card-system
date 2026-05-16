@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-01-29 14:24",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 55.38,
+    "amount": 3506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-01-19 10:54",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 44.77,
+    "amount": 3176,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-01-15 15:37",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-100",
+    "liters": 55.32,
+    "amount": 4849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-01-09 23:11",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 35.51,
+    "amount": 2519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-01-28 13:51",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 66.53,
+    "amount": 4710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-01-28 12:22",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 36.77,
+    "amount": 2608,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-02-27 09:55",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 34.86,
+    "amount": 2484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-02-13 09:20",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 41.98,
+    "amount": 2991,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-02-20 13:46",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 81.15,
+    "amount": 5771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-02-12 16:50",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 54.65,
+    "amount": 3477,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-03-25 10:25",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 55.69,
+    "amount": 3968,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-03-16 14:50",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 56.84,
+    "amount": 4050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-03-14 15:01",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 55.57,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-03-10 10:13",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 79.22,
+    "amount": 5644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-03-26 12:49",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 28.23,
+    "amount": 2011,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-29 11:28",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 37.68,
+    "amount": 2415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-20 20:13",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 56.84,
+    "amount": 3643,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-17 08:56",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 29.88,
+    "amount": 2143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-08 15:51",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 55.67,
+    "amount": 3568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-17 09:30",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 83.25,
+    "amount": 5971,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-22 09:40",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 24.19,
+    "amount": 1735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-04-30 18:07",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 45.2,
+    "amount": 3242,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-05-14 16:43",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 92.33,
+    "amount": 6622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-05-14 19:39",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 82.93,
+    "amount": 5948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-05-21 09:56",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 30.09,
+    "amount": 2158,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-05-28 08:15",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 22.95,
+    "amount": 1646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-05-13 08:36",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 30.48,
+    "amount": 2186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98AB",
+    "ts": "2025-06-30 17:06",
+    "station": "АЗС №21161",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 28.18,
+    "amount": 2021,
+    "vehicle": ""
+  }
+]

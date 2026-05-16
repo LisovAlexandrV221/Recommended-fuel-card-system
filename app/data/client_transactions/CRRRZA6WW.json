@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-02 12:38",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-02 15:13",
+    "station": "674",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-06 05:42",
+    "station": "674",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-06 21:02",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 20.56,
+    "amount": 1116,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-09 10:56",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 54136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-09 11:07",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-09 13:13",
+    "station": "589",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1181,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-10 03:05",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 54136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-10 03:15",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-11 09:36",
+    "station": "586",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-12 07:35",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 885,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-12 20:27",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 47,
+    "amount": 2774,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-14 07:13",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-14 07:17",
+    "station": "674",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-14 13:26",
+    "station": "613",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-15 10:43",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-15 10:46",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1353,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-16 03:08",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 54136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-16 03:19",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-16 11:15",
+    "station": "586",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-17 07:04",
+    "station": "674",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 19.19,
+    "amount": 1042,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-17 13:59",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 543,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-19 15:32",
+    "station": "588",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-19 15:44",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-20 12:50",
+    "station": "613",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 16.33,
+    "amount": 887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-22 16:40",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-22 16:06",
+    "station": "613",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6WW",
+    "ts": "2025-01-23 03:59",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13534,
+    "vehicle": ""
+  }
+]

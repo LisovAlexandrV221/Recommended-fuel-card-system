@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZBZAZ",
+    "ts": "2025-01-18 06:19",
+    "station": "11250",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 29.34,
+    "amount": 2142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAZ",
+    "ts": "2025-01-13 12:16",
+    "station": "59073 АЗС 73 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.84,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAZ",
+    "ts": "2025-01-13 05:56",
+    "station": "11250",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAZ",
+    "ts": "2025-01-09 09:14",
+    "station": "59073 АЗС 73 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.84,
+    "amount": 2040,
+    "vehicle": ""
+  }
+]

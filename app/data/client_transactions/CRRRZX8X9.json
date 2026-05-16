@@ -1,0 +1,122 @@
+[
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:59",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 38.32,
+    "amount": 2335,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:57",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:57",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:55",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3046,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:53",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 358.17,
+    "amount": 23260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:31",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 25976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:30",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 58446,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:41",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 445.19,
+    "amount": 29289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:38",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:33",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 2,
+    "amount": 546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:29",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13158,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8X9",
+    "ts": "2025-02-25 07:29",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 470,
+    "amount": 30921,
+    "vehicle": ""
+  }
+]

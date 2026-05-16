@@ -1,0 +1,172 @@
+[
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-15 10:53",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 443.13,
+    "amount": 29100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-15 10:30",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 443.13,
+    "amount": 29100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-11 20:02",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 295.42,
+    "amount": 19400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-11 19:45",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 317.57,
+    "amount": 20855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-10 16:43",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 369.27,
+    "amount": 24250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-10 11:31",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-01-10 01:41",
+    "station": "АЗС №77431",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 145.55,
+    "amount": 9699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-06 10:53",
+    "station": "АЗС №40994",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 192.02,
+    "amount": 12610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 23:43",
+    "station": "АЗС №50407",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 23:42",
+    "station": "АЗС №50407",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 50.17,
+    "amount": 3343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 23:35",
+    "station": "АЗС №50407",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 110.26,
+    "amount": 7348,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 23:31",
+    "station": "АЗС №50407",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 23:16",
+    "station": "АЗС №50407",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 15994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 19:59",
+    "station": "АЗС №77600",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 17.58,
+    "amount": 995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 19:54",
+    "station": "АЗС №77600",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 23.14,
+    "amount": 1493,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 19:51",
+    "station": "АЗС №77600",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAR",
+    "ts": "2025-02-07 19:49",
+    "station": "АЗС №77600",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 645,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 06:38",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 07:22",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 35.02,
+    "amount": 2054,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 11:06",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 61.69,
+    "amount": 3909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-18 10:23",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-17 17:09",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-16 19:47",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3450,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-16 06:41",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.12,
+    "amount": 2795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-16 18:52",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 27.29,
+    "amount": 1600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-16 09:00",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-10 08:13",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 10.07,
+    "amount": 765,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-09 16:53",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-04 06:38",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-04 07:00",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 12:46",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 18,
+    "amount": 1056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 12:39",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4526,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 12:35",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.49,
+    "amount": 2038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-23 12:06",
+    "station": "АЗС № 78094 Лиговская",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 72.88,
+    "amount": 4653,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-16 14:54",
+    "station": "63064 АЗС 64-У",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 26.45,
+    "amount": 1643,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-15 18:42",
+    "station": "АЗС №64583",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 41.09,
+    "amount": 2605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-09 20:06",
+    "station": "АЗС № 78094 Лиговская",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 60.58,
+    "amount": 3868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-09 14:13",
+    "station": "АЗС № 78094 Лиговская",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 62,
+    "amount": 3623,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-08 21:57",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-07 09:04",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2658,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-04 14:58",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-04 10:57",
+    "station": "АЗС № 78183 Школьная",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 38.21,
+    "amount": 2440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZAX",
+    "ts": "2025-01-01 06:53",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2658,
+    "vehicle": ""
+  }
+]

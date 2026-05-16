@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-12 08:04",
+    "station": "052",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2325,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-20 08:50",
+    "station": "052",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 39,
+    "amount": 2282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-20 16:13",
+    "station": "011(7106)",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-10 12:45",
+    "station": "6073",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-22 11:28",
+    "station": "007",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 45.77,
+    "amount": 2690,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-22 20:13",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 39.18,
+    "amount": 2362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-28 12:11",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 113.72,
+    "amount": 7205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-21 09:08",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 111.58,
+    "amount": 6999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-19 15:30",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 111.22,
+    "amount": 6977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-15 10:20",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 109.08,
+    "amount": 6725,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-14 18:11",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 95.19,
+    "amount": 5971,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-10 18:33",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 70.6,
+    "amount": 4429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-14 11:40",
+    "station": "021",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 45.01,
+    "amount": 2628,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-06 15:51",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 116.31,
+    "amount": 7102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-29 15:20",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 89.64,
+    "amount": 5473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-27 06:40",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 103.68,
+    "amount": 6331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-22 14:55",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 102.64,
+    "amount": 6632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-15 19:21",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 50.34,
+    "amount": 3074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-01-28 08:23",
+    "station": "021",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 47.44,
+    "amount": 2788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-03 23:39",
+    "station": "АЗС №76100",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 99.1,
+    "amount": 6051,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-28 11:49",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 66.47,
+    "amount": 4079,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-06 21:24",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.79,
+    "amount": 1523,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-02 04:43",
+    "station": "012",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2335,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-06 09:46",
+    "station": "052",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-10 13:23",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2351,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-12 10:01",
+    "station": "006",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.29,
+    "amount": 2234,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-21 21:46",
+    "station": "012",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 42,
+    "amount": 2480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9Z9",
+    "ts": "2025-02-24 01:36",
+    "station": "222",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 41.07,
+    "amount": 2418,
+    "vehicle": ""
+  }
+]

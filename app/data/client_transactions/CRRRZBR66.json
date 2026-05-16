@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-01-04 07:10",
+    "station": "549",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-92",
+    "liters": 71.37,
+    "amount": 4020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-01-16 09:37",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "АИ-92",
+    "liters": 52.39,
+    "amount": 3109,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-01-12 14:30",
+    "station": "АЗС №69472",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 90,
+    "amount": 5253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-01-04 10:14",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "АИ-92",
+    "liters": 41.57,
+    "amount": 2467,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-04-30 15:52",
+    "station": "АЗС № 53267 Окуловка-2",
+    "region": "Новгородская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 3006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-04-30 13:46",
+    "station": "АЗС №69474",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 55.77,
+    "amount": 3646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-04-16 17:22",
+    "station": "АЗС №47471 Апраксин Бор-2",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 62.26,
+    "amount": 3685,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-04-09 19:26",
+    "station": "АЗС №40995",
+    "region": "Калужская область",
+    "fuel": "АИ-92",
+    "liters": 15.46,
+    "amount": 897,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-04-09 13:28",
+    "station": "АЗС №40988",
+    "region": "Калужская область",
+    "fuel": "АИ-92",
+    "liters": 20.44,
+    "amount": 1186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR66",
+    "ts": "2025-05-05 09:48",
+    "station": "АЗС №69471",
+    "region": "Тверская область",
+    "fuel": "АИ-92",
+    "liters": 68.65,
+    "amount": 4060,
+    "vehicle": ""
+  }
+]

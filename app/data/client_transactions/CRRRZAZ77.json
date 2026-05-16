@@ -1,0 +1,22 @@
+[
+  {
+    "client": "CRRRZAZ77",
+    "ts": "2025-05-01 06:01",
+    "station": "АЗС №68850",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ77",
+    "ts": "2025-06-16 20:32",
+    "station": "АЗС № 73228",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4088,
+    "vehicle": ""
+  }
+]

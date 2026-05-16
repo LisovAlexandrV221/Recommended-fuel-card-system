@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-13 09:41",
+    "station": "13-010",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 1000,
+    "amount": 69730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-13 10:06",
+    "station": "13-010",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 1500,
+    "amount": 104595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-13 10:45",
+    "station": "13-010",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 56,
+    "amount": 3905,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-30 07:42",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 20.07,
+    "amount": 1374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-29 08:15",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 18484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-28 07:49",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 20.16,
+    "amount": 1380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-28 07:23",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 39,
+    "amount": 2173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-24 18:49",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 30.93,
+    "amount": 1723,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-23 17:50",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 15746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-21 07:35",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 32,
+    "amount": 1783,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-14 11:29",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-13 17:19",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 37,
+    "amount": 2061,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-11 08:48",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 17800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-10 08:27",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 18484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-09 19:13",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 30.01,
+    "amount": 1672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-04 16:17",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 20.01,
+    "amount": 1370,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-03 11:42",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-31 08:15",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 17800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-25 09:49",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 25.06,
+    "amount": 1716,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-25 08:48",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 21.75,
+    "amount": 1212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-18 02:04",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 41.52,
+    "amount": 2313,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-01-12 17:21",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 24.36,
+    "amount": 1357,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-02-28 13:47",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 17875,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-02-04 07:25",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 33.01,
+    "amount": 1839,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-02-28 17:55",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 40.07,
+    "amount": 2244,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-02-01 12:46",
+    "station": "АЗС №13206",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 15.01,
+    "amount": 1028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-02-22 07:13",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 15812,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6W7",
+    "ts": "2025-02-06 14:27",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 18484,
+    "vehicle": ""
+  }
+]

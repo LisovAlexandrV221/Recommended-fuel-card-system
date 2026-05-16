@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-23 16:12",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.78,
+    "amount": 2214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-17 19:06",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50.08,
+    "amount": 3860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-13 18:58",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.5,
+    "amount": 2069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-12 16:03",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.5,
+    "amount": 2196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-09 12:28",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 58.46,
+    "amount": 4148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-08 09:35",
+    "station": "АЗС № 35400 Кичменгский Городок",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 67.22,
+    "amount": 5181,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-08 14:41",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 27.38,
+    "amount": 1943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-01-06 20:07",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 22.5,
+    "amount": 1432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-05 10:05",
+    "station": "16009 АЗС 9-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-04 16:35",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 44.18,
+    "amount": 3135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-04 09:10",
+    "station": "АЗС № 35400 Кичменгский Городок",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-03 15:27",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 52.25,
+    "amount": 4027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-02 15:22",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 29,
+    "amount": 1846,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-22 16:24",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32,
+    "amount": 2047,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-16 19:10",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3869,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-15 10:10",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 37,
+    "amount": 2367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-08 11:02",
+    "station": "АЗС № 35400 Кичменгский Городок",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 25.01,
+    "amount": 1928,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-07 16:58",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-07 09:46",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 30.01,
+    "amount": 2019,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-02-07 06:16",
+    "station": "16054 АЗС 54-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 22,
+    "amount": 1480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-27 09:15",
+    "station": "16116 АЗС 116",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 50.01,
+    "amount": 3365,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-27 18:44",
+    "station": "АЗС №44708",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 52.72,
+    "amount": 3880,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-25 09:29",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 48.3,
+    "amount": 3250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-23 15:59",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 39.38,
+    "amount": 2806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-23 15:56",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 10.9,
+    "amount": 777,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-22 13:17",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 37.09,
+    "amount": 2870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-20 22:20",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 37,
+    "amount": 2367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7RZR",
+    "ts": "2025-03-14 12:34",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 56,
+    "amount": 4333,
+    "vehicle": ""
+  }
+]

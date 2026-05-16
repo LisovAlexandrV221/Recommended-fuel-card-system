@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-02 11:09",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2372,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-10 19:20",
+    "station": "575",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 33.71,
+    "amount": 1999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-14 13:36",
+    "station": "448",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-15 21:58",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-17 09:37",
+    "station": "576",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-17 10:34",
+    "station": "288",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 41.35,
+    "amount": 2855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-22 10:28",
+    "station": "288",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-23 22:17",
+    "station": "16009 АЗС 9-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 56.62,
+    "amount": 3754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-30 18:59",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-31 22:46",
+    "station": "322",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-01-31 22:49",
+    "station": "322",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 5,
+    "amount": 298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-21 10:22",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-27 20:02",
+    "station": "322",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2683,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-04 19:10",
+    "station": "575",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 34.64,
+    "amount": 2065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-07 10:46",
+    "station": "654",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2435,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-07 23:41",
+    "station": "654",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-11 13:01",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-15 11:08",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2981,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-02-16 15:53",
+    "station": "288",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 47.36,
+    "amount": 3215,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-01 12:15",
+    "station": "288",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-28 16:34",
+    "station": "16009 АЗС 9-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 64.2,
+    "amount": 4256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-27 21:22",
+    "station": "16097 АЗС 97",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 60.71,
+    "amount": 4025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-04 09:02",
+    "station": "577",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-07 16:31",
+    "station": "575",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 44.4,
+    "amount": 3102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-15 08:50",
+    "station": "567",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-15 08:50",
+    "station": "567",
+    "region": "Татарстан, республика",
+    "fuel": "MАСЛО",
+    "liters": 1,
+    "amount": 546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-15 13:55",
+    "station": "50",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1737,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZ66",
+    "ts": "2025-03-16 20:14",
+    "station": "322",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2999,
+    "vehicle": ""
+  }
+]

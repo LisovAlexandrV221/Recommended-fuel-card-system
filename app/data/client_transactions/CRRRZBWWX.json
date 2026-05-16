@@ -1,0 +1,182 @@
+[
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-01-24 16:13",
+    "station": "АЗС №50423",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 61.61,
+    "amount": 4317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-01-16 15:56",
+    "station": "АЗС №50406",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 46.16,
+    "amount": 3234,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-02-26 22:23",
+    "station": "АЗС №50405",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 59.75,
+    "amount": 4205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-02-02 07:39",
+    "station": "АЗС №77769",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 42.88,
+    "amount": 3059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-03-19 12:19",
+    "station": "АЗС №50405",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 63.63,
+    "amount": 4478,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-03-08 22:15",
+    "station": "АЗС №77571",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 42.7,
+    "amount": 3060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-04-23 18:45",
+    "station": "АЗС №50423",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 43.2,
+    "amount": 3060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-04-25 22:01",
+    "station": "АЗС №50423",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 57.6,
+    "amount": 4080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-04-21 16:36",
+    "station": "АЗС №50423",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 47.77,
+    "amount": 3384,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-05-31 15:25",
+    "station": "АЗС №50423",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 86.39,
+    "amount": 6120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-05-03 18:46",
+    "station": "АЗС №50401",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5667,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-05-01 13:55",
+    "station": "АЗС №77558",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5769,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-05-15 09:59",
+    "station": "АЗС №77750",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 127.29,
+    "amount": 9179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-06-25 17:09",
+    "station": "АЗС №50241",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 172.78,
+    "amount": 12240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-06-18 17:22",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 56.77,
+    "amount": 3997,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-06-30 16:41",
+    "station": "АЗС №50420",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 187.18,
+    "amount": 13260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-06-23 12:35",
+    "station": "АЗС №50423",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 51.5,
+    "amount": 3648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWX",
+    "ts": "2025-06-22 18:53",
+    "station": "АЗС №33028",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 58.76,
+    "amount": 4137,
+    "vehicle": ""
+  }
+]

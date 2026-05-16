@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-16 14:42",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 15.11,
+    "amount": 958,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-09 09:42",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1878,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-31 10:59",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 60,
+    "amount": 837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-31 10:57",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1878,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-30 13:24",
+    "station": "11186",
+    "region": "Ленинградская область",
+    "fuel": "АИ-100",
+    "liters": 20,
+    "amount": 1734,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-30 07:49",
+    "station": "11147",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 42,
+    "amount": 2927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-29 14:15",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-29 12:55",
+    "station": "11145",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 43.08,
+    "amount": 3002,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-27 15:53",
+    "station": "11186",
+    "region": "Ленинградская область",
+    "fuel": "АИ-100",
+    "liters": 50.3,
+    "amount": 4361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-26 13:44",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 31.94,
+    "amount": 1999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-25 08:04",
+    "station": "11147",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 70.32,
+    "amount": 4901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-24 10:15",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 15.97,
+    "amount": 1013,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-22 19:21",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 23.98,
+    "amount": 1501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-22 18:29",
+    "station": "11186",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 23.43,
+    "amount": 1506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-22 11:21",
+    "station": "11145",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 31.54,
+    "amount": 2198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-20 14:17",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 43.08,
+    "amount": 2732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-20 10:49",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1878,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-18 12:47",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 30.26,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-17 14:29",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 39.14,
+    "amount": 2810,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-16 18:20",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-14 07:40",
+    "station": "11147",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 33.08,
+    "amount": 2305,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-13 17:19",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 5,
+    "amount": 70,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-13 17:18",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-13 17:16",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 5,
+    "amount": 313,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-13 06:38",
+    "station": "АЗС № 78125 Осиновая роща",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 60.68,
+    "amount": 4356,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-12 15:42",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 15.01,
+    "amount": 940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-10 14:55",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 15.5,
+    "amount": 983,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXA9",
+    "ts": "2025-01-09 14:37",
+    "station": "АЗС № 47002 Гатчина",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 39.37,
+    "amount": 2496,
+    "vehicle": ""
+  }
+]

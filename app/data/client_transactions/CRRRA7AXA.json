@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-01-15 05:47",
+    "station": " АЗС №4 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1803,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-01-05 16:10",
+    "station": "АЗС №7 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2096,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-02-22 22:41",
+    "station": " АЗС №4 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1814,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-02-17 06:13",
+    "station": "АЗС №19 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1751,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-02-10 05:43",
+    "station": " АЗС №4 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-03-12 17:33",
+    "station": " АЗС №4 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXA",
+    "ts": "2025-03-03 17:28",
+    "station": " АЗС №4 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2054,
+    "vehicle": ""
+  }
+]

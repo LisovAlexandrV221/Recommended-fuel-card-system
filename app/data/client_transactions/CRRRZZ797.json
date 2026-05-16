@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-04 01:41",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-14 00:02",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 3887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-14 03:27",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-15 19:58",
+    "station": "459",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-16 12:13",
+    "station": "178",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-21 21:05",
+    "station": "459",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-22 00:15",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-22 06:56",
+    "station": "18",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3371,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-22 15:04",
+    "station": "193",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4383,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-24 04:08",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-15 16:55",
+    "station": "001(3301)",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-23 18:43",
+    "station": "001(3301)",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-15 18:05",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 17.92,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-12 14:59",
+    "station": "АЗС №52110",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70.05,
+    "amount": 4754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-15 14:35",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 35.54,
+    "amount": 1982,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-01 15:14",
+    "station": "АЗС №52711",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 16.52,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-21 20:59",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-21 17:47",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-21 07:35",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4697,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-16 02:29",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2013,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-14 17:24",
+    "station": "АЗС №77517",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 52.74,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-14 08:13",
+    "station": "АЗС №50434",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 53.66,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-13 20:01",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-13 08:52",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-03 19:54",
+    "station": "АЗС д. Федурино ООО Триал",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4334,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-13 06:45",
+    "station": "267",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 69.57,
+    "amount": 4841,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-01-24 00:17",
+    "station": "102",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ797",
+    "ts": "2025-02-03 21:19",
+    "station": "459",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1288,
+    "vehicle": ""
+  }
+]

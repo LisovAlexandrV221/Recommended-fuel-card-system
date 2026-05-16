@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-03 14:57",
+    "station": "121",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-27 16:49",
+    "station": "121",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 12,
+    "amount": 726,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-26 11:00",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-11 11:51",
+    "station": "121",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 13,
+    "amount": 786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-27 13:01",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 9.55,
+    "amount": 597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-26 05:57",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 45.5,
+    "amount": 2837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-20 00:25",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 64.2,
+    "amount": 4387,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-06 03:52",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 46.87,
+    "amount": 3203,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-04 03:51",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A89",
+    "ts": "2025-06-11 12:39",
+    "station": "АЗС №50400",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 73.31,
+    "amount": 5041,
+    "vehicle": ""
+  }
+]

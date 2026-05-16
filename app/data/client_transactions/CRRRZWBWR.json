@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZWBWR",
+    "ts": "2025-01-14 15:51",
+    "station": "032",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.56,
+    "amount": 2102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWR",
+    "ts": "2025-01-06 18:50",
+    "station": "070",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 40.74,
+    "amount": 2199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWR",
+    "ts": "2025-01-07 14:54",
+    "station": "036",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.36,
+    "amount": 2106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWR",
+    "ts": "2025-01-13 20:40",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.31,
+    "amount": 2986,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWR",
+    "ts": "2025-01-07 22:41",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.72,
+    "amount": 3135,
+    "vehicle": ""
+  }
+]

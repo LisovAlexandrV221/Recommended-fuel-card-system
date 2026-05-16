@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-01-27 20:14",
+    "station": "АЗС №13221",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1910,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-01-21 18:03",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1910,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-01-13 08:42",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-01-17 18:40",
+    "station": "АЗС №13219",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-01-11 10:10",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-02-21 08:41",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 32.66,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-02-17 15:25",
+    "station": "АЗС №13221",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-02-07 13:00",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-02-03 11:28",
+    "station": "АЗС №13220",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR7XW",
+    "ts": "2025-02-12 15:43",
+    "station": "АЗС №58609",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1913,
+    "vehicle": ""
+  }
+]

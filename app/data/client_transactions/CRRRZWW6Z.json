@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-26 16:40",
+    "station": "549",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 63288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-17 17:22",
+    "station": "66484 АЗС 484 Богданович",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 54496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-16 10:31",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-16 10:31",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 140.61,
+    "amount": 9491,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-14 17:51",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-14 17:51",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21321,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-06 15:32",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40.11,
+    "amount": 2492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-01-05 11:52",
+    "station": "АЗС №50422",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19581,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-20 06:16",
+    "station": "АЗС №58601",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16490,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-18 20:20",
+    "station": "АЗС №50244",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19665,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-18 06:48",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-13 14:20",
+    "station": "АЗС № 78186 пр. Культуры",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44.19,
+    "amount": 2759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-10 15:00",
+    "station": "АЗС №50270",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 144.1,
+    "amount": 9405,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-06 14:22",
+    "station": "45201 АЗС 201",
+    "region": "Курганская область",
+    "fuel": "ДТ",
+    "liters": 270.25,
+    "amount": 18255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-02-06 14:15",
+    "station": "45201 АЗС 201",
+    "region": "Курганская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23642,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-03-01 18:16",
+    "station": "549",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 56070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-03-24 10:48",
+    "station": "66486 АЗС 486 Пышма",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-27 14:54",
+    "station": "АЗС №34483",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 7.96,
+    "amount": 504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-27 11:22",
+    "station": "АЗС №34406",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 41.96,
+    "amount": 2655,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-27 01:14",
+    "station": "АЗС №68856",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 43.52,
+    "amount": 2706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-26 18:24",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 44.59,
+    "amount": 2801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-26 13:29",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 53.08,
+    "amount": 3338,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-25 00:06",
+    "station": "АЗС №50270",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 17815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-23 17:03",
+    "station": "(Полуавтомат) АЗС №69443",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20073,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-18 06:37",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 31010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-04-08 16:21",
+    "station": "АЗС № 47270 Парнас",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 38.54,
+    "amount": 2423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-05-29 11:51",
+    "station": "АЗС № 47235 Уткина Заводь",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 53.35,
+    "amount": 3362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW6Z",
+    "ts": "2025-05-20 15:20",
+    "station": "АЗС №50476",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 361.51,
+    "amount": 23852,
+    "vehicle": ""
+  }
+]

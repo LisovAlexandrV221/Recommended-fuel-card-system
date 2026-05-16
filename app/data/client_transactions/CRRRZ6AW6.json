@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZ6AW6",
+    "ts": "2025-06-25 11:32",
+    "station": "74006 АЗС 6",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 51.77,
+    "amount": 2863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AW6",
+    "ts": "2025-06-21 11:30",
+    "station": "74070 АЗС 70",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 43.32,
+    "amount": 3035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AW6",
+    "ts": "2025-06-13 21:35",
+    "station": "74184 АЗС 184",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 43.52,
+    "amount": 3049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AW6",
+    "ts": "2025-06-12 14:59",
+    "station": "74419 АЗС 419",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 47.89,
+    "amount": 3355,
+    "vehicle": ""
+  }
+]

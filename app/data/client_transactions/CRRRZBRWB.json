@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-10 12:57",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-17 08:56",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 38.72,
+    "amount": 2061,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-17 15:51",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-27 10:53",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-29 07:26",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 32.03,
+    "amount": 1705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-31 08:54",
+    "station": "248",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-92",
+    "liters": 22.05,
+    "amount": 1213,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-31 23:28",
+    "station": "248",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-92",
+    "liters": 24,
+    "amount": 1320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-30 07:15",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 139.82,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-30 07:07",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 45.47,
+    "amount": 2586,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-14 12:17",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-27 17:14",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 30.27,
+    "amount": 1722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-27 07:14",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 139.82,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-27 07:11",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 20.2,
+    "amount": 1149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-25 11:38",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 47.52,
+    "amount": 2703,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-21 07:19",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 139.82,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-21 07:13",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 30.88,
+    "amount": 1756,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-17 13:46",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 35.02,
+    "amount": 1992,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-23 07:13",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 45.34,
+    "amount": 2579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-16 13:34",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 45.36,
+    "amount": 2580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-15 07:09",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 39.07,
+    "amount": 2222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-12 14:39",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 49.27,
+    "amount": 2802,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-06 16:47",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-01-06 16:47",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-02-01 15:44",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-02-17 13:20",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-02-25 04:18",
+    "station": "224",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-02-27 09:57",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 49.08,
+    "amount": 2806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRWB",
+    "ts": "2025-02-24 07:09",
+    "station": "43008 АЗС 8 Вятские Поляны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 139.23,
+    "amount": 10190,
+    "vehicle": ""
+  }
+]

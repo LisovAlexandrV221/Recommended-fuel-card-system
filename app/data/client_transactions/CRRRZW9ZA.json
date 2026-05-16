@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-31 15:08",
+    "station": "66452 АЗС 452 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 41.45,
+    "amount": 2925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-31 13:02",
+    "station": "66452 АЗС 452 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 44.58,
+    "amount": 2688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-30 17:14",
+    "station": "74430 АЗС 430",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 14.03,
+    "amount": 836,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-29 18:16",
+    "station": "74014 АЗС 14",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 55.99,
+    "amount": 3338,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-29 13:52",
+    "station": "66439 АЗС 439 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 62.59,
+    "amount": 4417,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-28 21:49",
+    "station": "66449 АЗС 449 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 36.35,
+    "amount": 2565,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-28 17:20",
+    "station": "74053 АЗС 53",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 37.08,
+    "amount": 2211,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-27 15:57",
+    "station": "74053 АЗС 53",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 31.93,
+    "amount": 1883,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-26 20:16",
+    "station": "02134 АЗС 134",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 67.61,
+    "amount": 4639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-25 22:57",
+    "station": "74106 АЗС 106",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 74.62,
+    "amount": 5141,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-25 16:54",
+    "station": "74053 АЗС 53",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 55.16,
+    "amount": 3253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-23 21:57",
+    "station": "66427 АЗС 427 Леневка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 93.31,
+    "amount": 6585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-23 20:39",
+    "station": "74418 АЗС 418",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 56.55,
+    "amount": 3335,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-23 18:00",
+    "station": "66439 АЗС 439 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 23.86,
+    "amount": 1431,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-23 16:58",
+    "station": "66439 АЗС 439 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 48.85,
+    "amount": 3447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-20 19:45",
+    "station": "74423 АЗС 423",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 30.06,
+    "amount": 1773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-03-19 16:12",
+    "station": "74416 АЗС 416",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 30.87,
+    "amount": 1840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-29 19:07",
+    "station": "66455 АЗС 455 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 59.54,
+    "amount": 3616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-27 16:56",
+    "station": "66448 АЗС 448 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 47.66,
+    "amount": 3384,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-25 08:12",
+    "station": "66452 АЗС 452 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 60.31,
+    "amount": 3663,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-24 22:58",
+    "station": "74167 АЗС 167",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 71.15,
+    "amount": 4934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-23 11:09",
+    "station": "74167 АЗС 167",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 58.78,
+    "amount": 4076,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-22 18:01",
+    "station": "74430 АЗС 430",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 57.23,
+    "amount": 3437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-21 13:16",
+    "station": "66427 АЗС 427 Леневка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 70.77,
+    "amount": 5025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-21 10:27",
+    "station": "74053 АЗС 53",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 43.27,
+    "amount": 2599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-18 20:50",
+    "station": "74423 АЗС 423",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 35.15,
+    "amount": 2089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-16 19:16",
+    "station": "74053 АЗС 53",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 23.53,
+    "amount": 1398,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW9ZA",
+    "ts": "2025-04-16 14:19",
+    "station": "74053 АЗС 53",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 58.82,
+    "amount": 3533,
+    "vehicle": ""
+  }
+]

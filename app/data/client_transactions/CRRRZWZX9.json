@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZWZX9",
+    "ts": "2025-01-22 09:11",
+    "station": "541",
+    "region": "Чувашская республика",
+    "fuel": "АИ-100",
+    "liters": 49.76,
+    "amount": 4161,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZX9",
+    "ts": "2025-03-14 17:51",
+    "station": "249",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 28.63,
+    "amount": 1778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZX9",
+    "ts": "2025-04-15 16:34",
+    "station": "031",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 64.9,
+    "amount": 4669,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-15 12:30",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 563,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-19 08:46",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-92",
+    "liters": 10.01,
+    "amount": 564,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-23 14:02",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-92",
+    "liters": 10.05,
+    "amount": 566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-20 17:56",
+    "station": "006",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 36.59,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-10 15:58",
+    "station": "АЗС № 78060 Аэропорт",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 47,
+    "amount": 3442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-31 15:20",
+    "station": "АЗС № 78161 Косыгина",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 54.37,
+    "amount": 3982,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-22 10:21",
+    "station": "ААЗС № 78070 Суздальская-2",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-18 16:51",
+    "station": "ААЗС № 78070 Суздальская-2",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-01-14 17:12",
+    "station": "АЗС № 78008 Кушелевка",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 35.67,
+    "amount": 2612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-08 16:50",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 19.98,
+    "amount": 1230,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-10 20:35",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-15 11:42",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-19 11:58",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-03 17:45",
+    "station": "006",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 41.51,
+    "amount": 2342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-12 08:29",
+    "station": "057",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 51.76,
+    "amount": 3784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-14 17:57",
+    "station": "055",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 49.63,
+    "amount": 3626,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-17 20:30",
+    "station": "055",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 20.01,
+    "amount": 1462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-19 20:53",
+    "station": "055",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 46.67,
+    "amount": 3410,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-19 08:42",
+    "station": "АЗС № 78057 Токсовская",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 52.44,
+    "amount": 3365,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-17 07:08",
+    "station": "АЗС № 47235 Уткина Заводь",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 41.4,
+    "amount": 2431,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-08 14:36",
+    "station": "АЗС № 78167 Шоссе Революции",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 39.84,
+    "amount": 2917,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-02-04 08:01",
+    "station": "АЗС № 78186 пр. Культуры",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 33.09,
+    "amount": 2423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-03-06 08:48",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 10.01,
+    "amount": 618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-03-06 08:53",
+    "station": "352",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 20.02,
+    "amount": 1236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-03-11 12:32",
+    "station": "651",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 49.09,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-03-14 14:26",
+    "station": "533",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 47.32,
+    "amount": 2969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-03-18 10:14",
+    "station": "533",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 48.35,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWWA",
+    "ts": "2025-03-16 15:24",
+    "station": "055",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 50.69,
+    "amount": 3737,
+    "vehicle": ""
+  }
+]

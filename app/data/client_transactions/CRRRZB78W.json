@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-09 18:19",
+    "station": "611",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-09 18:23",
+    "station": "611",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-10 14:21",
+    "station": "575",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-14 13:44",
+    "station": "611",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-17 17:30",
+    "station": "611",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-20 13:31",
+    "station": "575",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3230,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-24 16:43",
+    "station": "575",
+    "region": "Удмуртская республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1762,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-17 16:35",
+    "station": "18001 АЗС 1 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 14.07,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-17 16:34",
+    "station": "18001 АЗС 1 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 14.07,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-27 10:46",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-23 13:53",
+    "station": "18074 АЗС 74 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-20 10:49",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-13 11:38",
+    "station": "18070 АЗС 70 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-31 10:11",
+    "station": "18074 АЗС 74 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-30 10:20",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1812,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-29 16:57",
+    "station": "18074 АЗС 74 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1449,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-28 16:51",
+    "station": "18074 АЗС 74 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-27 09:54",
+    "station": "18001 АЗС 1 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-27 17:07",
+    "station": "18074 АЗС 74 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-23 10:46",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-23 15:43",
+    "station": "18001 АЗС 1 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1449,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-22 10:21",
+    "station": "18062 АЗС 62 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-22 11:51",
+    "station": "18070 АЗС 70 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-21 11:22",
+    "station": "18074 АЗС 74 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 14.07,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-17 11:10",
+    "station": "18102 АЗС 102 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1137,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-17 09:34",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-17 09:34",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 14.07,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78W",
+    "ts": "2025-01-15 08:58",
+    "station": "18098 АЗС 98 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 14.07,
+    "amount": 1020,
+    "vehicle": ""
+  }
+]

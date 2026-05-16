@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-12 15:53",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-12 15:55",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13924,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-14 22:42",
+    "station": "146",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-14 22:42",
+    "station": "146",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-17 13:47",
+    "station": "254",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-21 11:09",
+    "station": "127",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-21 17:24",
+    "station": "10",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17108,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-22 01:02",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10565,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-22 21:20",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17405,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-24 19:12",
+    "station": "191",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13678,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-27 17:10",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 18436,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-27 17:16",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15022,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-28 15:46",
+    "station": "3",
+    "region": "Белгородская область",
+    "fuel": "ДТ",
+    "liters": 17.81,
+    "amount": 1216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-28 15:48",
+    "station": "3",
+    "region": "Белгородская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-28 16:44",
+    "station": "3",
+    "region": "Белгородская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-30 12:24",
+    "station": "672",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 17753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-30 12:35",
+    "station": "672",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 18436,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-31 14:08",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-31 15:12",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-10 09:32",
+    "station": "3",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 25.68,
+    "amount": 707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-10 14:11",
+    "station": "254",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 53,
+    "amount": 1460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-11 12:42",
+    "station": "69",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 35.24,
+    "amount": 971,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-13 15:03",
+    "station": "3",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 51.38,
+    "amount": 1416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-14 15:26",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 44.36,
+    "amount": 1222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-15 06:35",
+    "station": "3",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 43.32,
+    "amount": 1193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-18 06:42",
+    "station": "3",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1051,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-18 06:52",
+    "station": "3",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 52.86,
+    "amount": 1456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ7B8",
+    "ts": "2025-01-20 15:39",
+    "station": "3",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 42.52,
+    "amount": 1171,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZX87X",
+    "ts": "2025-03-07 07:44",
+    "station": "595",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 49.59,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX87X",
+    "ts": "2025-03-28 12:19",
+    "station": "595",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 73.86,
+    "amount": 4949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX87X",
+    "ts": "2025-04-18 13:24",
+    "station": "497",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 23.09,
+    "amount": 1441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX87X",
+    "ts": "2025-04-30 11:32",
+    "station": "595",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2728,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX87X",
+    "ts": "2025-05-30 10:28",
+    "station": "595",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 27.42,
+    "amount": 1881,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-01-04 14:17",
+    "station": "MC056 Спасская РН-Москва",
+    "region": "Северо-Западный административный округ",
+    "fuel": "АИ-95",
+    "liters": 23.79,
+    "amount": 1553,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-04 17:51",
+    "station": "MC305 Дон-1 РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 40.07,
+    "amount": 2271,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-20 09:28",
+    "station": "MJ150 Павловское РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-26 06:14",
+    "station": "032",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 26.8,
+    "amount": 1804,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-05 09:51",
+    "station": "АЗС №61323",
+    "region": "Ростовская область",
+    "fuel": "АИ-92",
+    "liters": 37.15,
+    "amount": 2172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-25 16:30",
+    "station": "33023",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 23.66,
+    "amount": 1474,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-03 13:42",
+    "station": "120",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 43.63,
+    "amount": 2761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-04 22:34",
+    "station": "6829",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 36.1,
+    "amount": 2100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-05 17:20",
+    "station": "145",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 48.83,
+    "amount": 3336,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBX8",
+    "ts": "2025-03-25 21:10",
+    "station": "АЗС №48770",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 24.44,
+    "amount": 1530,
+    "vehicle": ""
+  }
+]

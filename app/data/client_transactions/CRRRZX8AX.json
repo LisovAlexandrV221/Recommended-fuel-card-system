@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZX8AX",
+    "ts": "2025-03-26 08:33",
+    "station": "163",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8AX",
+    "ts": "2025-04-29 05:45",
+    "station": "277",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8AX",
+    "ts": "2025-06-26 11:29",
+    "station": "277",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3025,
+    "vehicle": ""
+  }
+]

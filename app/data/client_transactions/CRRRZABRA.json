@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-21 10:02",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80.83,
+    "amount": 5956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-05 19:53",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 76.15,
+    "amount": 5573,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-16 19:58",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-04 07:57",
+    "station": "011",
+    "region": "Гомельская область",
+    "fuel": "АИ-95",
+    "liters": 29,
+    "amount": 2641,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-05 11:10",
+    "station": "024",
+    "region": "Минская область",
+    "fuel": "АИ-95",
+    "liters": 46.71,
+    "amount": 4254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-08 16:56",
+    "station": "052",
+    "region": "Гомельская область",
+    "fuel": "АИ-95",
+    "liters": 8.19,
+    "amount": 744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-08 17:33",
+    "station": "1424",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-01-08 22:19",
+    "station": "083",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 45.2,
+    "amount": 2599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-01 18:24",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-24 14:12",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 79.46,
+    "amount": 5878,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-12 12:49",
+    "station": "009",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 76.12,
+    "amount": 5258,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-05 14:24",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 76.72,
+    "amount": 5653,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-15 11:30",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 77.73,
+    "amount": 5727,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-19 20:28",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-02-19 20:21",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3553,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-03-16 15:35",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3553,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-03-05 18:29",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.57,
+    "amount": 2879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-03-19 12:13",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 78.93,
+    "amount": 5905,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-03-06 11:19",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 83.87,
+    "amount": 6231,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-04-15 09:07",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 78.72,
+    "amount": 5900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-04-03 08:34",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80.81,
+    "amount": 6057,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-04-30 10:49",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 79.59,
+    "amount": 5990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-04-24 20:36",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-04-09 18:41",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-05-26 18:28",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80.76,
+    "amount": 6103,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-05-12 18:35",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 78.9,
+    "amount": 5938,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-05-10 12:55",
+    "station": "011",
+    "region": "Гомельская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 4416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABRA",
+    "ts": "2025-05-22 16:56",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3579,
+    "vehicle": ""
+  }
+]

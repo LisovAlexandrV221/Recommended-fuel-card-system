@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-01-16 08:18",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-01-17 08:15",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-01-21 10:09",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3324,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-01-28 08:00",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-01-28 08:05",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 15693,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-02-05 07:49",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 192.45,
+    "amount": 13131,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-04-30 12:21",
+    "station": "681",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 18303,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXXW",
+    "ts": "2025-06-04 20:21",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "АИ-95",
+    "liters": 24.61,
+    "amount": 1470,
+    "vehicle": ""
+  }
+]

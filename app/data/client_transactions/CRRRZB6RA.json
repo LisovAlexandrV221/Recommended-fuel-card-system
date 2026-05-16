@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-17 21:41",
+    "station": "520",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 56.92,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-03 12:35",
+    "station": "19",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 50.2,
+    "amount": 3089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-04 11:46",
+    "station": "71",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-07 12:20",
+    "station": "76",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-07 21:15",
+    "station": "18",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 33.47,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-09 12:00",
+    "station": "210",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-29 07:55",
+    "station": "41",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16468,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-29 10:07",
+    "station": "18",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-30 08:07",
+    "station": "41",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17228,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-30 08:13",
+    "station": "18",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-30 11:33",
+    "station": "77",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1846,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-31 07:37",
+    "station": "76",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-31 07:44",
+    "station": "76",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-09 09:23",
+    "station": "727",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1654,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-13 08:55",
+    "station": "727",
+    "region": "Тамбовская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 2132,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-13 10:32",
+    "station": "727",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1323,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-21 13:58",
+    "station": "727",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1654,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-28 18:30",
+    "station": "0051",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1654,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-05 15:37",
+    "station": "АЗС №48767",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 48.36,
+    "amount": 3088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-23 09:58",
+    "station": "АЗС №68856",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 41.5,
+    "amount": 2654,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-16 15:51",
+    "station": "АЗС №68855",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 48.1,
+    "amount": 3076,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-13 08:19",
+    "station": "АЗС №68856",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 43.92,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-06 14:26",
+    "station": "АЗС №48757",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 31.46,
+    "amount": 2009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-12 12:22",
+    "station": "19",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 43,
+    "amount": 2646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-12 19:36",
+    "station": "18",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 50.2,
+    "amount": 3089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-13 09:33",
+    "station": "18",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2756,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-13 18:57",
+    "station": "19",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 61.92,
+    "amount": 3811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB6RA",
+    "ts": "2025-01-16 09:12",
+    "station": "18",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2756,
+    "vehicle": ""
+  }
+]

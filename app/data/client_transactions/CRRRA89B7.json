@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-01-03 15:37",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20.84,
+    "amount": 1198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-01-11 14:41",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 15.18,
+    "amount": 873,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-02-21 20:00",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 53.63,
+    "amount": 3811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-02-20 12:48",
+    "station": "017",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 29.3,
+    "amount": 2069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-02-26 11:49",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 93.63,
+    "amount": 7000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-26 00:59",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20655,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-25 01:09",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 137.97,
+    "amount": 9899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-24 16:13",
+    "station": "66480 АЗС 480 Кленовское",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 277.73,
+    "amount": 19999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-18 19:28",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.3,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-07 12:43",
+    "station": "260",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 90.22,
+    "amount": 6180,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-08 18:02",
+    "station": "62",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 225.39,
+    "amount": 15450,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-16 13:43",
+    "station": "250",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 130.45,
+    "amount": 9270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-25 21:32",
+    "station": "214",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 130.45,
+    "amount": 9270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-02 19:27",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.32,
+    "amount": 1001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-05 16:37",
+    "station": "019",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 504.52,
+    "amount": 35190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-10 12:00",
+    "station": "077",
+    "region": "Курская область",
+    "fuel": "ДТ",
+    "liters": 358.2,
+    "amount": 25199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-19 03:27",
+    "station": "457",
+    "region": "ЯНАО",
+    "fuel": "ДТ",
+    "liters": 396.82,
+    "amount": 24877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-27 19:05",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 8.74,
+    "amount": 505,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-31 02:37",
+    "station": "АЗС № 29314 Емецк",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 259.7,
+    "amount": 19000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-15 22:45",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 145.05,
+    "amount": 9950,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-17 12:31",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 46806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-16 18:05",
+    "station": "43029 АЗС 29 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 278.74,
+    "amount": 20000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-03-01 19:37",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25.96,
+    "amount": 1500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-04-24 18:38",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 47255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-04-02 22:10",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 439.74,
+    "amount": 31842,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-04-18 21:34",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 671.32,
+    "amount": 48805,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-04-03 19:07",
+    "station": "020",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 72.15,
+    "amount": 4975,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89B7",
+    "ts": "2025-04-04 18:07",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 129.47,
+    "amount": 8954,
+    "vehicle": ""
+  }
+]

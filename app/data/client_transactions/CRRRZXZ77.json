@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZXZ77",
+    "ts": "2025-01-23 07:12",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 151.34,
+    "amount": 10781,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ77",
+    "ts": "2025-01-21 15:08",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 120.05,
+    "amount": 8552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ77",
+    "ts": "2025-01-15 17:32",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100.03,
+    "amount": 7299,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ77",
+    "ts": "2025-01-14 14:28",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 90.36,
+    "amount": 6437,
+    "vehicle": ""
+  }
+]

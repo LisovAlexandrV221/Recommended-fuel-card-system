@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-30 14:27",
+    "station": "АЗС №52092",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 67.12,
+    "amount": 4245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-29 13:14",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 133.3,
+    "amount": 9438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-27 09:59",
+    "station": "АЗС №52092",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 21.47,
+    "amount": 1358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-27 07:32",
+    "station": "АЗС №52292",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 69.6,
+    "amount": 4402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-26 19:49",
+    "station": "АЗС № 35444 Маршала Конева-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 58.64,
+    "amount": 3770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-22 05:53",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 45.1,
+    "amount": 2853,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-21 09:43",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 158.63,
+    "amount": 11231,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-21 21:15",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 29.02,
+    "amount": 1836,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-20 12:32",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 30.49,
+    "amount": 1929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-18 00:45",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-16 08:04",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 35.49,
+    "amount": 2245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-15 20:44",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 53.46,
+    "amount": 3793,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-15 11:47",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1897,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-14 12:27",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 32.32,
+    "amount": 2293,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-13 17:12",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 67.87,
+    "amount": 4805,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-10 10:42",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 157.67,
+    "amount": 11163,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-31 13:43",
+    "station": "43070 АЗС 70 Белая Холуница",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 26.11,
+    "amount": 1643,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-29 06:27",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 55.53,
+    "amount": 3512,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-21 17:10",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 21.38,
+    "amount": 1352,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-20 17:08",
+    "station": "АЗС №52075",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 29.2,
+    "amount": 1847,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-16 10:50",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 17.1,
+    "amount": 1099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-15 10:15",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 59.95,
+    "amount": 3753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-14 18:37",
+    "station": "АЗС № 35407 Грязовец-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 53.5,
+    "amount": 4095,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-31 18:26",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 22.58,
+    "amount": 1421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-30 15:22",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 44.03,
+    "amount": 2771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-26 11:27",
+    "station": "АЗС №52138",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 61.23,
+    "amount": 3873,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-25 15:30",
+    "station": "66492 АЗС 492 Североуральск",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 27.5,
+    "amount": 1742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA76WX",
+    "ts": "2025-01-25 12:03",
+    "station": "66427 АЗС 427 Леневка",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 23.9,
+    "amount": 1514,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-31 15:47",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-02 19:13",
+    "station": "033",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-10 07:23",
+    "station": "442",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 19:10",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2637,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 19:38",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 34.89,
+    "amount": 2044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 13:17",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 14195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 16:58",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2637,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 07:12",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 61,
+    "amount": 5094,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 05:48",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 11:52",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-95",
+    "liters": 40.11,
+    "amount": 2494,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 18:58",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 56.87,
+    "amount": 3332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 07:50",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 14195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-30 09:49",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-95",
+    "liters": 47.01,
+    "amount": 2923,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-21 10:37",
+    "station": "142",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2941,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-07 17:09",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 49.87,
+    "amount": 3470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-02 08:09",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-02 08:12",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1564,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-02 07:24",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1564,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-03 08:38",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-03 11:13",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-03 14:27",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-03 14:58",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 36010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-03 17:28",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1564,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-03 07:02",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-04 09:55",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 32409,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-04 12:51",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-04 17:51",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1564,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA7R6",
+    "ts": "2025-01-04 06:57",
+    "station": "146",
+    "region": "Кемеровская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1564,
+    "vehicle": ""
+  }
+]

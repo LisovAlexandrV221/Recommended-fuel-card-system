@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-06 09:09",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-06 13:31",
+    "station": "027",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 18.33,
+    "amount": 989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-14 13:51",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 19.35,
+    "amount": 1051,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-16 08:03",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 19.34,
+    "amount": 1050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-16 15:15",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 15.03,
+    "amount": 1050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-27 15:09",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 368.18,
+    "amount": 25876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-22 20:37",
+    "station": "2093",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-04 12:37",
+    "station": "010",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 52.17,
+    "amount": 3032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-08 14:58",
+    "station": "АЗС №76103",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1652,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-28 10:33",
+    "station": "АЗС №76106",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-28 10:33",
+    "station": "АЗС №76106",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 41.93,
+    "amount": 2497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-22 14:55",
+    "station": "АЗС №76106",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 50.01,
+    "amount": 2979,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-15 11:53",
+    "station": "АЗС №76103",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-20 21:28",
+    "station": "009",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6942,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-14 13:44",
+    "station": "026",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 43.44,
+    "amount": 2525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-09 09:48",
+    "station": "026",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 43.8,
+    "amount": 2546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-17 09:24",
+    "station": "018",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 33.72,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-03 11:57",
+    "station": "АЗС №76103",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 18.06,
+    "amount": 994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-31 17:49",
+    "station": "АЗС №76103",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 50.11,
+    "amount": 2985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-29 19:34",
+    "station": "АЗС №76103",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-01-23 10:52",
+    "station": "АЗС №76103",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 72.93,
+    "amount": 4949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-03 13:11",
+    "station": "АЗС №76104",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-03 09:53",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 18.97,
+    "amount": 1050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-03 09:55",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2076,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-03 15:29",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 30.26,
+    "amount": 1675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-06 16:05",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 18.97,
+    "amount": 1050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-06 16:05",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 7,
+    "amount": 484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA8",
+    "ts": "2025-02-07 16:51",
+    "station": "341",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2076,
+    "vehicle": ""
+  }
+]

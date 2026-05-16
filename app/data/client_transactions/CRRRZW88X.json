@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZW88X",
+    "ts": "2025-02-08 13:22",
+    "station": "АЗС №71922",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW88X",
+    "ts": "2025-03-18 20:23",
+    "station": "АЗС №34448",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 445.82,
+    "amount": 30280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW88X",
+    "ts": "2025-03-18 13:17",
+    "station": "АЗС №61361",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10304,
+    "vehicle": ""
+  }
+]

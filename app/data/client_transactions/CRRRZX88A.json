@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZX88A",
+    "ts": "2025-03-29 17:19",
+    "station": "(Полуавтомат) АЗС №77513",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 52.6,
+    "amount": 3319,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX88A",
+    "ts": "2025-06-26 16:31",
+    "station": "АЗС №77767",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX88A",
+    "ts": "2025-06-18 18:10",
+    "station": "АЗС № 60028 Старый Изборск",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6897,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX88A",
+    "ts": "2025-06-17 05:43",
+    "station": "АЗС №69470",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX88A",
+    "ts": "2025-06-12 17:27",
+    "station": "(Полуавтомат) АЗС №69443",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33805,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX88A",
+    "ts": "2025-06-07 22:07",
+    "station": "АЗС № 60236 Михальки",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20691,
+    "vehicle": ""
+  }
+]

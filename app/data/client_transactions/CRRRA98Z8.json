@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-04 17:23",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 39.31,
+    "amount": 3089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-09 15:15",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 3023,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-19 12:47",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 2116,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-22 12:36",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2418,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-24 13:00",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4715,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-31 09:53",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2418,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-28 20:12",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.96,
+    "amount": 3102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-21 22:32",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.68,
+    "amount": 3179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-03 18:42",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.18,
+    "amount": 3022,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-16 12:46",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 52.12,
+    "amount": 3269,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-01-11 10:11",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 51.07,
+    "amount": 3204,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-04 15:45",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3945,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-05 12:07",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 3038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-07 12:12",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-07 16:48",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4734,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-10 11:02",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1215,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-11 10:44",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1215,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-17 10:38",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2443,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-20 11:56",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-21 09:42",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-21 09:45",
+    "station": "17",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-26 14:35",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-28 09:45",
+    "station": "11",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-03 11:43",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 51.95,
+    "amount": 3292,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-25 22:33",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.41,
+    "amount": 3178,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-10 12:15",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.67,
+    "amount": 3179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-20 07:19",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.42,
+    "amount": 3083,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98Z8",
+    "ts": "2025-02-16 13:39",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.64,
+    "amount": 3192,
+    "vehicle": ""
+  }
+]

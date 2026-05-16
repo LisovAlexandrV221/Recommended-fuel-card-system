@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-26 15:48",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-28 10:38",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-28 17:11",
+    "station": "11140",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 292.6,
+    "amount": 21044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-27 17:15",
+    "station": "11140",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 246.6,
+    "amount": 17735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-27 17:05",
+    "station": "11140",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 42.79,
+    "amount": 3077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-28 10:21",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 133.93,
+    "amount": 9505,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6Z67",
+    "ts": "2025-06-28 10:13",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 1,
+    "amount": 71,
+    "vehicle": ""
+  }
+]

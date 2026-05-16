@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-01-20 12:26",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-01-21 10:47",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-01-24 13:05",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 46.66,
+    "amount": 2884,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-01-13 14:37",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.44,
+    "amount": 2994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-01-04 13:54",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.83,
+    "amount": 2956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-21 09:24",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1745,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-21 12:39",
+    "station": "481",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 21,
+    "amount": 1222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-22 21:48",
+    "station": "482",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 41,
+    "amount": 2385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-23 10:01",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1163,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-16 08:34",
+    "station": "554",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-04 18:34",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.8,
+    "amount": 3140,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-18 13:18",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49,
+    "amount": 3043,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-11 20:38",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.15,
+    "amount": 2482,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-02-15 11:41",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 15.58,
+    "amount": 958,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-03-26 13:49",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.95,
+    "amount": 3010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-03-17 13:22",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.38,
+    "amount": 2975,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-03-08 11:27",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2046,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-03-09 12:00",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-03-08 10:14",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 10.01,
+    "amount": 616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-03-05 12:41",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.16,
+    "amount": 2961,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-04-13 09:01",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49.82,
+    "amount": 3086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-04-30 13:35",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 46.8,
+    "amount": 2899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-04-21 10:42",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.12,
+    "amount": 3010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-04-05 08:40",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 46.83,
+    "amount": 2901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-05-16 09:22",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2085,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-05-16 12:51",
+    "station": "481",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 17,
+    "amount": 1013,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-05-18 16:28",
+    "station": "482",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 19,
+    "amount": 1132,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZBA",
+    "ts": "2025-05-19 11:27",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1793,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-01-29 11:07",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 48.56,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-01-08 15:36",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 34.28,
+    "amount": 2097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-02-20 12:28",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 47.73,
+    "amount": 2934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-03-21 13:11",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 49.69,
+    "amount": 3054,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-03-12 15:11",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 48.26,
+    "amount": 2967,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-04-29 16:02",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 48.45,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-04-08 13:58",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 36.02,
+    "amount": 2230,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6AR",
+    "ts": "2025-05-22 15:01",
+    "station": "АЗС №21701",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 26.74,
+    "amount": 1640,
+    "vehicle": ""
+  }
+]

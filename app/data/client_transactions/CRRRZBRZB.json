@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-01-03 07:49",
+    "station": "550",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2777,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-01-15 08:14",
+    "station": "550",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-01-30 08:11",
+    "station": "550",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-02-21 11:22",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-03-05 16:50",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-03-07 11:36",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-03-07 11:39",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-04-01 18:53",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1126,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-04-10 10:09",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1366,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRZB",
+    "ts": "2025-05-18 18:14",
+    "station": "546",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1128,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-08 12:28",
+    "station": "024",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 74.67,
+    "amount": 5268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-23 12:23",
+    "station": "018",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 61.87,
+    "amount": 4355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-12 16:22",
+    "station": "481",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-20 18:38",
+    "station": "501",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 50096,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-30 13:29",
+    "station": "АЗС №76105",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-28 13:48",
+    "station": "520",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 25712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-27 13:21",
+    "station": "АЗС №76102",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27144,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-17 05:41",
+    "station": "АЗС №76102",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-12 22:38",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-21 19:14",
+    "station": "59040 АЗС 40 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-21 18:05",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-15 22:09",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21297,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-30 12:00",
+    "station": "496",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 22050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-11 19:23",
+    "station": "75",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-13 21:36",
+    "station": "89",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33965,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-16 19:12",
+    "station": "232",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-16 20:59",
+    "station": "123",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27728,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-24 13:24",
+    "station": "250",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21180,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-01-31 14:39",
+    "station": "481",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-07 17:42",
+    "station": "72",
+    "region": "Курганская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 50757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-17 19:15",
+    "station": "82",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-01 20:54",
+    "station": "61",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-03 19:36",
+    "station": "42",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-11 20:50",
+    "station": "28",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27640,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-12 16:23",
+    "station": "284",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26596,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-13 16:31",
+    "station": "232",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-15 09:49",
+    "station": "40",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA89W9",
+    "ts": "2025-02-16 19:59",
+    "station": "234",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20859,
+    "vehicle": ""
+  }
+]

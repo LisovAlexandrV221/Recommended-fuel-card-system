@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-20 10:04",
+    "station": "АЗС №31804",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 34.58,
+    "amount": 2157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-30 18:11",
+    "station": "33117",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 18.7,
+    "amount": 1165,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-24 21:28",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-100",
+    "liters": 46.96,
+    "amount": 3839,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-23 06:58",
+    "station": "33117",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.02,
+    "amount": 2057,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-19 08:10",
+    "station": "33138",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 49.31,
+    "amount": 3195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-13 06:44",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-100",
+    "liters": 42.53,
+    "amount": 3476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-12 18:41",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 35.12,
+    "amount": 2190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-07 14:39",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-100",
+    "liters": 44.31,
+    "amount": 3622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-01-04 12:43",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 45.24,
+    "amount": 2822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-28 10:50",
+    "station": "АЗС №31803",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 35.22,
+    "amount": 2207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-23 19:55",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 45.73,
+    "amount": 2866,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-10 06:39",
+    "station": "33138",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 41,
+    "amount": 2656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-07 11:51",
+    "station": "33125",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 38.16,
+    "amount": 2377,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-01 10:51",
+    "station": "33138",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 44.83,
+    "amount": 2792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-25 08:58",
+    "station": "АЗC №31807",
+    "region": "Белгородская область",
+    "fuel": "АИ-100",
+    "liters": 34.52,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-02-21 16:34",
+    "station": "АЗС №31803",
+    "region": "Белгородская область",
+    "fuel": "АИ-100",
+    "liters": 48.48,
+    "amount": 4011,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-30 22:29",
+    "station": "33138",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 39,
+    "amount": 2441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-28 09:02",
+    "station": "33125",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2278,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-27 17:38",
+    "station": "33102",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1565,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-25 14:07",
+    "station": "33166",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 47.62,
+    "amount": 3100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-23 14:47",
+    "station": "33138",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 42.93,
+    "amount": 2687,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-17 16:05",
+    "station": "33125",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 31.95,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-14 18:05",
+    "station": "33138",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 45.42,
+    "amount": 2956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-10 12:47",
+    "station": "33117",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 37.01,
+    "amount": 2409,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-03-10 09:06",
+    "station": "33125",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 49.67,
+    "amount": 3233,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-04-30 21:14",
+    "station": "АЗС №52110",
+    "region": "Нижегородская область",
+    "fuel": "АИ-100",
+    "liters": 48.47,
+    "amount": 4156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-04-30 15:12",
+    "station": "11024",
+    "region": "Московская область",
+    "fuel": "АИ-100",
+    "liters": 37.03,
+    "amount": 3214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWB",
+    "ts": "2025-04-27 10:22",
+    "station": "АЗС №31805",
+    "region": "Белгородская область",
+    "fuel": "АИ-100",
+    "liters": 50.43,
+    "amount": 4203,
+    "vehicle": ""
+  }
+]

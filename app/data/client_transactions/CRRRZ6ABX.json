@@ -1,0 +1,172 @@
+[
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-05-30 15:31",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 129.06,
+    "amount": 7980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-05-23 19:35",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 6.1,
+    "amount": 376,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-05-23 19:32",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 118.57,
+    "amount": 7307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-05-23 15:43",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 23.02,
+    "amount": 1433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-05-23 12:08",
+    "station": "АЗС №76101",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-28 10:21",
+    "station": "026",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 96.1,
+    "amount": 5672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-28 10:22",
+    "station": "026",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-28 10:22",
+    "station": "026",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 144,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-29 15:08",
+    "station": "6733",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 120,
+    "amount": 7988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-30 13:53",
+    "station": "6659",
+    "region": "Астраханская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-30 13:56",
+    "station": "6659",
+    "region": "Астраханская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 997,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-28 20:28",
+    "station": "АЗС №68850",
+    "region": "Тамбовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-28 20:28",
+    "station": "АЗС №68850",
+    "region": "Тамбовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-28 20:28",
+    "station": "АЗС №68850",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 120.36,
+    "amount": 7644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-27 12:45",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1889,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-23 14:19",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 118.78,
+    "amount": 7385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABX",
+    "ts": "2025-06-09 14:18",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 118.55,
+    "amount": 7330,
+    "vehicle": ""
+  }
+]

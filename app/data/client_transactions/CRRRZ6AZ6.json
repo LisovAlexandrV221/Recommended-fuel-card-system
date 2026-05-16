@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZ6AZ6",
+    "ts": "2025-05-25 19:39",
+    "station": "АЗС № 72205",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ6",
+    "ts": "2025-06-25 07:25",
+    "station": "АЗС № 72205",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1798,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ6",
+    "ts": "2025-06-17 07:45",
+    "station": "АЗС № 72205",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1793,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ6",
+    "ts": "2025-06-09 19:14",
+    "station": "АЗС № 72205",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ6",
+    "ts": "2025-06-09 17:42",
+    "station": "АЗС № 72212",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ6",
+    "ts": "2025-06-01 19:11",
+    "station": "72318 АЗС 318",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 37.25,
+    "amount": 2220,
+    "vehicle": ""
+  }
+]

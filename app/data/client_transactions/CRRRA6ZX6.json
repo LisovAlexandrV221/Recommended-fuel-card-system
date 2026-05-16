@@ -1,0 +1,232 @@
+[
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-01 17:26",
+    "station": "393",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 30.42,
+    "amount": 2243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-02 15:13",
+    "station": "043",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 52.11,
+    "amount": 3940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-02 21:17",
+    "station": "002(5432)",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 32.17,
+    "amount": 2520,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-04 11:22",
+    "station": "223",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-06 17:57",
+    "station": "225",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4652,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-08 10:46",
+    "station": "041",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 49.74,
+    "amount": 3877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-08 14:44",
+    "station": "076",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4333,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-09 08:42",
+    "station": "393",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-04 17:24",
+    "station": "57",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3082,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-05 12:33",
+    "station": "1",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-06 12:41",
+    "station": "57",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-08 19:46",
+    "station": "АЗС Заречная-Триал",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-03-01 21:02",
+    "station": "АЗС Заречная-Триал",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3670,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-04-30 08:51",
+    "station": "18061 АЗС 61 82 км а/д Елабуга-Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3662,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-05-15 15:17",
+    "station": "328",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 35.97,
+    "amount": 2665,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-05-16 13:18",
+    "station": "АЗС Заречная-Триал",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-05-15 18:04",
+    "station": "АЗС Заречная-Триал",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3670,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-05-04 11:10",
+    "station": "АЗС №21701",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 16.3,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-05-02 08:15",
+    "station": "АЗС №52002",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 16.31,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-06-25 20:51",
+    "station": "393",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-06-26 17:16",
+    "station": "043",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3845,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-06-27 06:22",
+    "station": "002(5432)",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 52.9,
+    "amount": 4216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ZX6",
+    "ts": "2025-06-26 10:35",
+    "station": "АЗС Заречная-Триал",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4404,
+    "vehicle": ""
+  }
+]

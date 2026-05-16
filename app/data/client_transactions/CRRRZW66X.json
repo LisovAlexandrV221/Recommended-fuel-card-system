@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-06 18:11",
+    "station": "019",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 87.77,
+    "amount": 5577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-20 20:17",
+    "station": "023",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-100",
+    "liters": 60.6,
+    "amount": 5380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-21 16:37",
+    "station": "129",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 39.77,
+    "amount": 2415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-30 21:11",
+    "station": "004",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 45.24,
+    "amount": 2826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-31 12:04",
+    "station": "АЗС № 78039 Ольгино",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 59.09,
+    "amount": 3822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-28 13:46",
+    "station": "АЗС № 60027 Остров",
+    "region": "Псковская область",
+    "fuel": "АИ-95",
+    "liters": 52.27,
+    "amount": 3249,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-21 10:23",
+    "station": "АЗС № 78127 Шуваловская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 50.08,
+    "amount": 3239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-01-18 17:23",
+    "station": "ААЗС № 78117 Шаврова",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 85,
+    "amount": 5454,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-04 12:23",
+    "station": "019",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 86.59,
+    "amount": 5388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-07 17:40",
+    "station": "004",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 47.43,
+    "amount": 2936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-13 23:36",
+    "station": "004",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 46.78,
+    "amount": 2932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-15 11:11",
+    "station": "023",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-100",
+    "liters": 90.21,
+    "amount": 8027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-15 11:11",
+    "station": "023",
+    "region": "Санкт-Петербург",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-27 16:56",
+    "station": "АЗС № 78075 Хрулева",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 65.09,
+    "amount": 4176,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-06 10:24",
+    "station": "АЗС № 78075 Хрулева",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 63.44,
+    "amount": 4103,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-27 16:15",
+    "station": "АЗС № 78039 Ольгино",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 65.88,
+    "amount": 4281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-23 15:06",
+    "station": "АЗС № 78039 Ольгино",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 16.03,
+    "amount": 1042,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-20 09:28",
+    "station": "ААЗС № 78117 Шаврова",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-12 14:21",
+    "station": "АЗС № 78039 Ольгино",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 52.55,
+    "amount": 3415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-02-05 11:36",
+    "station": "ААЗС № 78117 Шаврова",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3208,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-29 18:36",
+    "station": "ААЗС № 78117 Шаврова",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-26 13:38",
+    "station": "АЗС № 78039 Ольгино",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 58.65,
+    "amount": 3811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-19 09:26",
+    "station": "ААЗС № 78117 Шаврова",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-01 15:53",
+    "station": "023",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 86.25,
+    "amount": 4959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-04 19:58",
+    "station": "004",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 45.99,
+    "amount": 2901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-18 11:08",
+    "station": "019",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 83.45,
+    "amount": 5188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-27 14:38",
+    "station": "004",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 47.41,
+    "amount": 2714,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW66X",
+    "ts": "2025-03-27 22:59",
+    "station": "019",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 85.38,
+    "amount": 5388,
+    "vehicle": ""
+  }
+]

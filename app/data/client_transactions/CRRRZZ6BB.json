@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-15 12:57",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17410,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-22 09:52",
+    "station": "439",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-23 13:42",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 27.46,
+    "amount": 1533,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-22 10:29",
+    "station": "АЗС №52713",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 22.96,
+    "amount": 1282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-21 17:33",
+    "station": "АЗС №52064",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 40.36,
+    "amount": 2253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-21 10:00",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 36.56,
+    "amount": 2042,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-22 06:00",
+    "station": "АЗС № 35400 Кичменгский Городок",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-14 14:07",
+    "station": "43034 АЗС 34 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 39.81,
+    "amount": 2220,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-31 05:44",
+    "station": "43002 АЗС 2 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 29.98,
+    "amount": 1672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-30 08:30",
+    "station": "43001 АЗС 1 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 49.19,
+    "amount": 2743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-29 07:28",
+    "station": "43006 АЗС 6 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-28 16:52",
+    "station": "43063 АЗС 63 Уржум",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 30.04,
+    "amount": 1675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-28 05:01",
+    "station": "43012 АЗС 12 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 27.02,
+    "amount": 1507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-24 14:59",
+    "station": "43002 АЗС 2 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 48.01,
+    "amount": 2677,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-23 22:05",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 34.19,
+    "amount": 1906,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-23 06:55",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2230,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-23 19:43",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-22 19:43",
+    "station": "43020 АЗС 20 Н.Горца",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12861,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-20 14:30",
+    "station": "43027 АЗС 27 Шмоны",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-19 07:35",
+    "station": "43012 АЗС 12 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 46.3,
+    "amount": 2582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-17 16:23",
+    "station": "43063 АЗС 63 Уржум",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-17 12:29",
+    "station": "43003 АЗС 3 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 42,
+    "amount": 2342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-15 21:32",
+    "station": "18056 АЗС 56 Ува",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17762,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-15 16:09",
+    "station": "18016 АЗС 16 Можга",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2230,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-14 06:59",
+    "station": "43018 АЗС 18 Плотники",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 33,
+    "amount": 1840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-13 18:23",
+    "station": "18068 АЗС 68 Штанигурт",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-13 09:19",
+    "station": "43002 АЗС 2 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 50.58,
+    "amount": 2820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6BB",
+    "ts": "2025-01-12 09:29",
+    "station": "43006 АЗС 6 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14290,
+    "vehicle": ""
+  }
+]

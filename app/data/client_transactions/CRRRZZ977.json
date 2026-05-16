@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-01-11 12:55",
+    "station": "350",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 48496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-02-01 09:04",
+    "station": "16001 ПААЗС 1",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 51.3,
+    "amount": 3401,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-01 11:10",
+    "station": "506",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 421.45,
+    "amount": 30977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-12 12:02",
+    "station": "003(1405)",
+    "region": "Республика Саха (Якутия)",
+    "fuel": "ДТ",
+    "liters": 460,
+    "amount": 40282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-12 12:06",
+    "station": "003(1405)",
+    "region": "Республика Саха (Якутия)",
+    "fuel": "ДТ",
+    "liters": 51.66,
+    "amount": 4524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-18 14:00",
+    "station": "003(1405)",
+    "region": "Республика Саха (Якутия)",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 30649,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-04 21:49",
+    "station": "062",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 35785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-04 21:56",
+    "station": "062",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3578,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-21 14:46",
+    "station": "548",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 980,
+    "amount": 78282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ977",
+    "ts": "2025-03-15 10:33",
+    "station": "16001 ПААЗС 1",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 50.11,
+    "amount": 3225,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZWZAW",
+    "ts": "2025-01-22 15:42",
+    "station": "АЗС № 53061 Державина",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2796,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZAW",
+    "ts": "2025-03-25 16:11",
+    "station": "ААЗС № 53062 Сырково",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZAW",
+    "ts": "2025-03-12 10:02",
+    "station": "ААЗС № 53062 Сырково",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZAW",
+    "ts": "2025-05-06 13:49",
+    "station": "АЗС № 53061 Державина",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4238,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZAW",
+    "ts": "2025-06-27 15:30",
+    "station": "ААЗС № 53062 Сырково",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2806,
+    "vehicle": ""
+  }
+]

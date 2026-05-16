@@ -1,0 +1,112 @@
+[
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-01-11 11:25",
+    "station": "АЗС №52010",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 41.68,
+    "amount": 2611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-01-25 11:03",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40.85,
+    "amount": 2559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-02-26 17:50",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 42.19,
+    "amount": 2682,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-02-10 17:54",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 43.03,
+    "amount": 2722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-03-19 16:21",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2542,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-04-05 12:23",
+    "station": "АЗС №52073",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 42.91,
+    "amount": 2748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-04-20 10:00",
+    "station": "АЗС №52062",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 35.01,
+    "amount": 2242,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-05-08 11:48",
+    "station": "АЗС №52022",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 41.99,
+    "amount": 2663,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-05-22 18:09",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40.49,
+    "amount": 2568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-06-05 23:37",
+    "station": "АЗС №52022",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 41.82,
+    "amount": 2657,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRB7",
+    "ts": "2025-06-18 18:55",
+    "station": "АЗС №52073",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 44.18,
+    "amount": 2823,
+    "vehicle": ""
+  }
+]

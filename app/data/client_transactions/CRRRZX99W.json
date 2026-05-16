@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZX99W",
+    "ts": "2025-04-15 14:56",
+    "station": "129",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 211,
+    "amount": 14700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX99W",
+    "ts": "2025-04-16 18:50",
+    "station": "073",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 283.12,
+    "amount": 19600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX99W",
+    "ts": "2025-04-17 21:49",
+    "station": "073",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 283.12,
+    "amount": 19600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX99W",
+    "ts": "2025-04-23 19:22",
+    "station": "124",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 209.79,
+    "amount": 14700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX99W",
+    "ts": "2025-04-15 11:25",
+    "station": "59079 АЗС 79 Дубовое",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 69,
+    "amount": 4900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX99W",
+    "ts": "2025-04-16 11:40",
+    "station": "59079 АЗС 79 Дубовое",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 69,
+    "amount": 4900,
+    "vehicle": ""
+  }
+]

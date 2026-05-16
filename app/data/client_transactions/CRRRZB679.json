@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-07 17:55",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-21 10:14",
+    "station": "620",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 34.69,
+    "amount": 2038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-21 10:17",
+    "station": "620",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 5,
+    "amount": 387,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-12 21:27",
+    "station": "539",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 3.2,
+    "amount": 245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-30 21:27",
+    "station": "601",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 25.6,
+    "amount": 1359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-30 21:36",
+    "station": "601",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 3.56,
+    "amount": 241,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-07 08:36",
+    "station": "220 \"Ядриха\"",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-07 23:32",
+    "station": "LR004 \"Юшково\"",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 34.69,
+    "amount": 2004,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-10 09:52",
+    "station": "235 \"Котлас-3\"",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2295,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-23 19:42",
+    "station": "125",
+    "region": "Самарская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-23 19:44",
+    "station": "125",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 4,
+    "amount": 272,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-25 13:17",
+    "station": "02-126",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-29 17:39",
+    "station": "18061 АЗС 61 82 км а/д Елабуга-Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 4,
+    "amount": 281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-29 17:38",
+    "station": "18061 АЗС 61 82 км а/д Елабуга-Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 61.29,
+    "amount": 3383,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-21 22:47",
+    "station": "АЗС № 35424 Никольск-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 55.21,
+    "amount": 3143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-21 12:08",
+    "station": "43071 АЗС 71 Омутнинск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 59.92,
+    "amount": 3308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-19 06:07",
+    "station": "АЗС № 35424 Никольск-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 53.25,
+    "amount": 3031,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-18 14:54",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 71.94,
+    "amount": 5267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-17 20:16",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 63,
+    "amount": 4275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-17 17:28",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 3,
+    "amount": 218,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-17 17:26",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 57.29,
+    "amount": 3243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-16 09:45",
+    "station": "59040 АЗС 40 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 51.49,
+    "amount": 2863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-14 17:33",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 48.61,
+    "amount": 3584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-14 10:32",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 49.49,
+    "amount": 3648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-14 14:03",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 54.79,
+    "amount": 4012,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-11 11:38",
+    "station": "АЗС № 35424 Никольск-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 44.72,
+    "amount": 2545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-11 09:18",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30.67,
+    "amount": 1746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB679",
+    "ts": "2025-01-07 20:20",
+    "station": "АЗС № 35411 Сазоново-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 6,
+    "amount": 442,
+    "vehicle": ""
+  }
+]

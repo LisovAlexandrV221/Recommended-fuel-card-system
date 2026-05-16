@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-31 08:17",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 52,
+    "amount": 3689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-31 14:17",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 32.69,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-29 06:21",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2607,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-28 07:13",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-28 16:05",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 39.42,
+    "amount": 2496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-28 16:04",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 0.57,
+    "amount": 36,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-21 16:12",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-17 06:12",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-16 16:20",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-15 07:53",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 69.73,
+    "amount": 4947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-13 18:17",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-11 15:37",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2896,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-31 06:11",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 58.62,
+    "amount": 4159,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-31 06:08",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-08 12:23",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-02 15:02",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1413,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-24 10:54",
+    "station": "(Полуавтомат) АЗС №69443",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 142.07,
+    "amount": 10246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-23 00:22",
+    "station": "АЗС № 53066 Красные Станки",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 123.15,
+    "amount": 8999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-21 17:53",
+    "station": "АЗС №33007",
+    "region": "Владимирская область",
+    "fuel": "MАСЛО",
+    "liters": 2,
+    "amount": 2584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-20 18:21",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-11 10:34",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40.01,
+    "amount": 2318,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-10 06:55",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40.01,
+    "amount": 2533,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-03 15:45",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 74.24,
+    "amount": 5267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-01-02 12:10",
+    "station": "АЗС №52075",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1419,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-02-05 16:20",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2532,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-02-28 08:54",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 58.55,
+    "amount": 4172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-02-28 06:16",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 61.12,
+    "amount": 4355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRB9B",
+    "ts": "2025-02-27 06:32",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2621,
+    "vehicle": ""
+  }
+]

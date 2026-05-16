@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-01-14 15:50",
+    "station": "АЗС №50234",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-01-14 15:50",
+    "station": "АЗС №50234",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-01-14 15:50",
+    "station": "АЗС №50234",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 46.01,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-01-12 12:32",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-01-12 12:32",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 83,
+    "amount": 4673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-26 16:53",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 78.23,
+    "amount": 4428,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-20 14:22",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 66.13,
+    "amount": 4076,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-20 14:21",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-20 14:21",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-19 18:21",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 79.93,
+    "amount": 4524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-16 12:40",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-16 12:40",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 79.79,
+    "amount": 4516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-02-04 14:42",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 82.26,
+    "amount": 4631,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-03-28 14:25",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 85.13,
+    "amount": 4818,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-03-11 12:40",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 79.08,
+    "amount": 4476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-03-03 09:56",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 79.46,
+    "amount": 4497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-04-25 15:38",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 66.09,
+    "amount": 4103,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-04-16 18:08",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 69.91,
+    "amount": 4340,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-04-09 16:55",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 66.24,
+    "amount": 4112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-04-06 20:38",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 78.71,
+    "amount": 4490,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-04-02 16:57",
+    "station": "АЗС №48763",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 78.96,
+    "amount": 4469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-05-25 10:32",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-05-25 10:32",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 69.33,
+    "amount": 4304,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-05-21 18:35",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 82.37,
+    "amount": 4698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-05-13 13:58",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-05-13 13:58",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 114,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-05-13 13:58",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 68.88,
+    "amount": 4276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAW6",
+    "ts": "2025-06-28 13:35",
+    "station": "АЗС №48760",
+    "region": "Липецкая область",
+    "fuel": "АВТОТОВАРЫ",
+    "liters": 1,
+    "amount": 120,
+    "vehicle": ""
+  }
+]

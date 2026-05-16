@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-25 08:30",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 8.93,
+    "amount": 510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-20 08:34",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-13 17:37",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-09 08:54",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-27 11:13",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-16 13:41",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-01-16 09:13",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-04 17:10",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-28 15:18",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-26 13:13",
+    "station": "АЗС №13220",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-10 10:35",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-07 14:12",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-05 17:00",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.86,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-02-18 15:47",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-27 14:15",
+    "station": "АЗС №13201",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-25 11:40",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-18 12:42",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-15 15:45",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 24.19,
+    "amount": 1389,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-06 09:16",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-19 17:30",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-03-12 10:23",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.76,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-04-29 17:35",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 8.81,
+    "amount": 510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-04-28 15:24",
+    "station": "АЗС №13226",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 8.81,
+    "amount": 510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-04-23 16:42",
+    "station": "АЗС №13210",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.62,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-04-14 15:00",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 8.81,
+    "amount": 510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-04-11 10:22",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.62,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-04-18 08:08",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 8.81,
+    "amount": 510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZAWB",
+    "ts": "2025-05-30 09:57",
+    "station": "АЗС №13218",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 17.57,
+    "amount": 1020,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-01-31 13:16",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 65.01,
+    "amount": 4395,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-01-23 20:57",
+    "station": "АЗС №77744",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 84.2,
+    "amount": 5831,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-01-16 06:02",
+    "station": "АЗС №50201",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 62.82,
+    "amount": 4272,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-01-13 20:19",
+    "station": "АЗС №77615",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 91.7,
+    "amount": 6350,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-01-02 18:26",
+    "station": "АЗС №50420",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 35.34,
+    "amount": 2403,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-02-03 09:56",
+    "station": "АЗС №33039",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 66.7,
+    "amount": 4509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-02-10 17:00",
+    "station": "АЗС №33075",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 33.89,
+    "amount": 2080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-02-15 15:27",
+    "station": "АЗС №77562",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 89.16,
+    "amount": 6201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-02-02 11:16",
+    "station": "АЗС №77615",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 58.16,
+    "amount": 4028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA99RR",
+    "ts": "2025-02-10 03:29",
+    "station": "АЗС №33039",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 68.19,
+    "amount": 4610,
+    "vehicle": ""
+  }
+]

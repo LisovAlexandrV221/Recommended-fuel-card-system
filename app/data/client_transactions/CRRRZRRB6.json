@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZRRB6",
+    "ts": "2025-01-31 08:57",
+    "station": "АЗС №13216",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 200,
+    "amount": 11820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRRB6",
+    "ts": "2025-01-30 09:39",
+    "station": "АЗС №13216",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 138,
+    "amount": 8156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRRB6",
+    "ts": "2025-03-24 10:32",
+    "station": "АЗС №13216",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 338,
+    "amount": 19976,
+    "vehicle": ""
+  }
+]

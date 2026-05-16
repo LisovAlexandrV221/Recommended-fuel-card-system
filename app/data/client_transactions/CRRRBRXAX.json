@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-31 09:34",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35.05,
+    "amount": 2199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-28 14:45",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 49.32,
+    "amount": 3746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-27 13:21",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.29,
+    "amount": 3567,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-26 13:28",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-24 13:17",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 29.32,
+    "amount": 1839,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-22 04:57",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 18.27,
+    "amount": 1378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-22 07:47",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 36.57,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-22 07:43",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 29.49,
+    "amount": 2240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-17 03:02",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-16 18:35",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35.49,
+    "amount": 2226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-15 22:12",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13984,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-14 16:31",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-13 12:51",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.43,
+    "amount": 3602,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-09 08:56",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 31.88,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-08 21:35",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-06 15:39",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.39,
+    "amount": 2559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-31 17:39",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10488,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-31 10:51",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 54.26,
+    "amount": 3438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-30 21:20",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13984,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-30 09:07",
+    "station": "АЗС №50428",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 75.88,
+    "amount": 5414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-29 12:17",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13984,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-29 12:42",
+    "station": "АЗС №50428",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 49.35,
+    "amount": 3265,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-28 19:31",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-27 19:56",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-27 09:33",
+    "station": "АЗС №50428",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 47.99,
+    "amount": 3098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-22 22:08",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27968,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-22 00:33",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRXAX",
+    "ts": "2025-01-22 20:20",
+    "station": "АЗС № 35412 Вытегра",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 38.49,
+    "amount": 2923,
+    "vehicle": ""
+  }
+]

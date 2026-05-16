@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-30 21:21",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 55.31,
+    "amount": 3420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-25 17:05",
+    "station": "АЗС №40995",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 47.59,
+    "amount": 2943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-25 17:05",
+    "station": "АЗС №40995",
+    "region": "Калужская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-22 19:32",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 51.07,
+    "amount": 3158,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-18 14:17",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 49.48,
+    "amount": 3060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-13 12:29",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 60.01,
+    "amount": 3711,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-06 09:46",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 13.46,
+    "amount": 832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-04 02:27",
+    "station": "АЗС №40995",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 59.38,
+    "amount": 3672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-03 21:15",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 56.24,
+    "amount": 3673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-01-03 14:13",
+    "station": "АЗС № 10191 Новая Вилга",
+    "region": "Республика Карелия",
+    "fuel": "АИ-95",
+    "liters": 38.48,
+    "amount": 2378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-02-23 14:59",
+    "station": "АЗС №40997",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 52.99,
+    "amount": 3293,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-02-14 20:25",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 60.17,
+    "amount": 3740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-02-08 11:38",
+    "station": "АЗС №40997",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 36.5,
+    "amount": 2257,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-03-29 10:25",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 56.46,
+    "amount": 3509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-03-18 13:58",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 55.41,
+    "amount": 3444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-03-13 15:36",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 56.55,
+    "amount": 3515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-03-06 16:09",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 62.28,
+    "amount": 3871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-03-05 12:26",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 59.58,
+    "amount": 3703,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-04-30 13:47",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 56.98,
+    "amount": 3568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-04-27 17:08",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 16.47,
+    "amount": 1031,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-04-18 13:22",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-04-16 11:52",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 56.39,
+    "amount": 3531,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-05-21 10:38",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 33.02,
+    "amount": 2067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-05-17 16:00",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 60.31,
+    "amount": 3776,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-06-21 12:01",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 10.44,
+    "amount": 659,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-06-17 09:53",
+    "station": "АЗС №40984",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 944,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-06-29 15:13",
+    "station": "АЗС №23070",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8WB",
+    "ts": "2025-06-29 09:10",
+    "station": "АЗС №61297",
+    "region": "Ростовская область",
+    "fuel": "АИ-95",
+    "liters": 27.36,
+    "amount": 1865,
+    "vehicle": ""
+  }
+]

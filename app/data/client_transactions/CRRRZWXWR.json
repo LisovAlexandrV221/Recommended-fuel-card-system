@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZWXWR",
+    "ts": "2025-01-19 10:48",
+    "station": "18102 АЗС 102 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 27.55,
+    "amount": 1673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWR",
+    "ts": "2025-01-08 10:12",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 50.14,
+    "amount": 3044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWR",
+    "ts": "2025-01-07 21:39",
+    "station": "АЗС №50727",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 52.26,
+    "amount": 3285,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWR",
+    "ts": "2025-01-02 11:51",
+    "station": "АЗС №21075",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 44.23,
+    "amount": 2679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXWR",
+    "ts": "2025-02-01 09:49",
+    "station": "18102 АЗС 102 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 16.69,
+    "amount": 1013,
+    "vehicle": ""
+  }
+]

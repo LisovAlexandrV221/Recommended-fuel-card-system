@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZAX6B",
+    "ts": "2025-04-29 09:59",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 74.92,
+    "amount": 5285,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAX6B",
+    "ts": "2025-05-31 11:55",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 72.43,
+    "amount": 5109,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAX6B",
+    "ts": "2025-05-06 08:18",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 70.02,
+    "amount": 4939,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAX6B",
+    "ts": "2025-06-08 11:21",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 67.95,
+    "amount": 4629,
+    "vehicle": ""
+  }
+]

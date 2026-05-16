@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-20 11:12",
+    "station": "084",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1769,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-22 10:47",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 52.22,
+    "amount": 3098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-25 16:52",
+    "station": "080",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 44.42,
+    "amount": 2612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-28 17:10",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 50.69,
+    "amount": 3007,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-28 13:20",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 42.27,
+    "amount": 2507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-09 11:06",
+    "station": "081",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 72.98,
+    "amount": 5119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-29 18:26",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 82.14,
+    "amount": 5780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-12 15:56",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.44,
+    "amount": 2029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-27 08:47",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.27,
+    "amount": 2033,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-24 12:23",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-92",
+    "liters": 26.11,
+    "amount": 1396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-16 08:49",
+    "station": "123",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.11,
+    "amount": 2010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-22 10:00",
+    "station": "66451 АЗС 451 Нижний Тагил1",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-17 15:13",
+    "station": "66489 АЗС 489 Малая Лая",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6992,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-13 11:49",
+    "station": "66451 АЗС 451 Нижний Тагил1",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-10 11:49",
+    "station": "66452 АЗС 452 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 20.03,
+    "amount": 1400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-10 08:16",
+    "station": "66429 АЗС 429 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 51.86,
+    "amount": 3142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-27 17:45",
+    "station": "66429 АЗС 429 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 45.94,
+    "amount": 2784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-01-20 08:15",
+    "station": "66429 АЗС 429 Нижний Тагил",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 57.73,
+    "amount": 3498,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-03 09:26",
+    "station": "084",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-06 12:28",
+    "station": "082",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 54.36,
+    "amount": 3225,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-16 12:14",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 52.18,
+    "amount": 3106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-05 08:35",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.15,
+    "amount": 2026,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-18 08:27",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.14,
+    "amount": 2032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-21 02:42",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 32.64,
+    "amount": 1953,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-22 15:50",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-92",
+    "liters": 29.45,
+    "amount": 1588,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-02 11:59",
+    "station": "125",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 33.89,
+    "amount": 2010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-04 08:55",
+    "station": "123",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 33.88,
+    "amount": 2010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXR",
+    "ts": "2025-02-19 08:44",
+    "station": "123",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 33.6,
+    "amount": 2010,
+    "vehicle": ""
+  }
+]

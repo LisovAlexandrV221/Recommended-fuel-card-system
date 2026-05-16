@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-04 07:28",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 14.62,
+    "amount": 824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-08 12:41",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 8.59,
+    "amount": 484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-11 09:07",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 34.73,
+    "amount": 1957,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-13 11:39",
+    "station": "45",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-16 11:18",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 17.07,
+    "amount": 1029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-18 09:16",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 35.64,
+    "amount": 2008,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-18 11:16",
+    "station": "41",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-21 12:11",
+    "station": "41",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 19.98,
+    "amount": 1236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-22 09:03",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 17.07,
+    "amount": 1029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-27 07:00",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 35.64,
+    "amount": 2008,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-27 10:34",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 27.42,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-03 12:26",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 14.62,
+    "amount": 824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-06 11:48",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 14.62,
+    "amount": 824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-10 18:44",
+    "station": "41",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 32.9,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-13 09:23",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-13 09:26",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 5.48,
+    "amount": 309,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-14 08:43",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-16 10:14",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-16 15:49",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 32.9,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-17 13:36",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 16.45,
+    "amount": 927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-20 09:11",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 9.14,
+    "amount": 515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-20 16:31",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 32.9,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-21 09:33",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 9.14,
+    "amount": 515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-22 10:20",
+    "station": "45",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-23 09:34",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-24 09:41",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 31.07,
+    "amount": 1750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-27 10:02",
+    "station": "77",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 9.14,
+    "amount": 515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6XR",
+    "ts": "2025-01-29 10:54",
+    "station": "90",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 18.28,
+    "amount": 1030,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZXB6R",
+    "ts": "2025-03-13 12:06",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 65.04,
+    "amount": 4469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXB6R",
+    "ts": "2025-03-13 12:06",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 82,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXB6R",
+    "ts": "2025-03-29 10:18",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50.66,
+    "amount": 3481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXB6R",
+    "ts": "2025-03-14 16:18",
+    "station": "АЗС № 11341 Пажга",
+    "region": "Республика Коми",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXB6R",
+    "ts": "2025-03-14 16:18",
+    "station": "АЗС № 11341 Пажга",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 54.58,
+    "amount": 3887,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-30 14:21",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-25 18:03",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-25 18:03",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-25 18:03",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 339,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-25 18:03",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 62.39,
+    "amount": 3839,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-21 12:45",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 52,
+    "amount": 3200,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-19 17:21",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 140,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-19 17:13",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-17 18:59",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 54.76,
+    "amount": 3729,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-01-16 12:45",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 53.6,
+    "amount": 3299,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-21 17:52",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 60.96,
+    "amount": 3770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-13 12:27",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 55.95,
+    "amount": 3460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-11 14:00",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 58.43,
+    "amount": 3596,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-07 07:59",
+    "station": "АЗС №64566",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 82,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-07 07:57",
+    "station": "АЗС №64566",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 45.6,
+    "amount": 2806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-04 21:45",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 53.94,
+    "amount": 3673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-04 14:28",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 53.74,
+    "amount": 3307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-02-04 21:45",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-03-19 07:16",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 47.61,
+    "amount": 2944,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-03-16 16:01",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-03-07 20:54",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-03-06 15:59",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 51.03,
+    "amount": 3489,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-03-01 12:03",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 55.58,
+    "amount": 3437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-04-25 17:03",
+    "station": "АЗС №64571",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 57.22,
+    "amount": 3938,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-04-16 12:25",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 55.82,
+    "amount": 3476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-04-09 20:16",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 53.17,
+    "amount": 3660,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-04-08 11:51",
+    "station": "АЗС №64589",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3084,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6W9",
+    "ts": "2025-05-27 22:01",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2491,
+    "vehicle": ""
+  }
+]

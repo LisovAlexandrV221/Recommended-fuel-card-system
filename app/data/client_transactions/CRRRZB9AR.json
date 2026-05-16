@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZB9AR",
+    "ts": "2025-04-24 12:42",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 15.57,
+    "amount": 980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9AR",
+    "ts": "2025-04-17 18:03",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 15.57,
+    "amount": 980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9AR",
+    "ts": "2025-05-08 16:50",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 10.9,
+    "amount": 686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9AR",
+    "ts": "2025-05-05 08:53",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 10.9,
+    "amount": 686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9AR",
+    "ts": "2025-05-01 13:28",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 15.57,
+    "amount": 980,
+    "vehicle": ""
+  }
+]

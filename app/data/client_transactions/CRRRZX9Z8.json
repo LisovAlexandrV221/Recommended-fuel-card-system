@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZX9Z8",
+    "ts": "2025-03-26 11:46",
+    "station": "ААЗС №34508 (Автомат)",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 29.07,
+    "amount": 1939,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9Z8",
+    "ts": "2025-04-29 17:16",
+    "station": "АЗС №34465",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 14.33,
+    "amount": 970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9Z8",
+    "ts": "2025-04-14 10:27",
+    "station": "АЗС №34444",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 14.33,
+    "amount": 970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9Z8",
+    "ts": "2025-05-27 17:58",
+    "station": "АЗС №34513",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 677,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9Z8",
+    "ts": "2025-05-14 14:49",
+    "station": "АЗС №34444",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 35.83,
+    "amount": 2425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9Z8",
+    "ts": "2025-05-01 13:11",
+    "station": "АЗС №34486",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 14.33,
+    "amount": 970,
+    "vehicle": ""
+  }
+]

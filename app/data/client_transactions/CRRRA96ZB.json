@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-03 08:16",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5916,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-03 08:17",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 79.62,
+    "amount": 5888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-06 09:36",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-07 15:34",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-09 09:53",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7395,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-09 12:10",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3096,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 06:56",
+    "station": "55",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 07:00",
+    "station": "55",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 31.7,
+    "amount": 1740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 07:13",
+    "station": "55",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 07:30",
+    "station": "55",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 08:45",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5916,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 16:13",
+    "station": "247 \"Лесобаза\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5916,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-10 15:33",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-11 08:35",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-12 08:44",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-12 08:54",
+    "station": "86",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-13 08:44",
+    "station": "87",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-13 08:44",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5916,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-13 12:31",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-14 06:47",
+    "station": "222 \"Коноша\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 67.11,
+    "amount": 4963,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-14 15:17",
+    "station": "40",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4127,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-15 07:04",
+    "station": "55",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1647,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-16 12:00",
+    "station": "240 \"Октябрьский\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2958,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-16 10:36",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-16 11:28",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-17 07:09",
+    "station": "55",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1647,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-17 12:30",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96ZB",
+    "ts": "2025-01-18 07:55",
+    "station": "240 \"Октябрьский\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1479,
+    "vehicle": ""
+  }
+]

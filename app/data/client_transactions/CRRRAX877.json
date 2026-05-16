@@ -1,0 +1,232 @@
+[
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-01-14 17:22",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 165,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-01-14 17:22",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 74.09,
+    "amount": 5170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-01-04 19:36",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 82,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-01-04 19:36",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-01-04 19:36",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 55.18,
+    "amount": 3407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-02-12 19:23",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-02-11 08:04",
+    "station": "АЗС №50201",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1401,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-03-13 10:24",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 79.34,
+    "amount": 5560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-03-13 10:24",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-03-13 10:24",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-03-13 10:24",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 57,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-17 19:45",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 59.64,
+    "amount": 3764,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-17 19:45",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-17 19:45",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 87,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-28 08:47",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 74.55,
+    "amount": 5259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-28 08:47",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-28 08:47",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 23,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-04-28 08:47",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-06-02 15:51",
+    "station": "АЗС №52148",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 99,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-06-02 15:51",
+    "station": "АЗС №52148",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-06-02 15:51",
+    "station": "АЗС №52148",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 132,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-06-02 15:51",
+    "station": "АЗС №52148",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX877",
+    "ts": "2025-06-02 15:51",
+    "station": "АЗС №52148",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1414,
+    "vehicle": ""
+  }
+]

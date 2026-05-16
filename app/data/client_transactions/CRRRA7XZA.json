@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-29 09:00",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-29 08:01",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-28 12:59",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-27 09:11",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-25 19:20",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55.74,
+    "amount": 3532,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-24 17:52",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1466,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-23 13:11",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-22 16:26",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.35,
+    "amount": 3570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-17 11:09",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-17 08:39",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4904,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-16 08:20",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1466,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-14 15:10",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-04 11:22",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1466,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-24 20:33",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 25.38,
+    "amount": 1592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-09 06:48",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 54.55,
+    "amount": 3456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-03 16:09",
+    "station": "АЗС № 35444 Маршала Конева-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.43,
+    "amount": 1031,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-18 15:00",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 61.08,
+    "amount": 3870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-18 08:01",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1466,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-18 14:39",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 54.42,
+    "amount": 3448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-12 14:36",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 61.22,
+    "amount": 3840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-31 16:27",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-01-31 14:19",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45.63,
+    "amount": 2891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-02-05 08:04",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-02-02 17:47",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 63.02,
+    "amount": 3993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-02-24 14:59",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.51,
+    "amount": 3598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-02-19 13:53",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1474,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-02-15 16:49",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 62,
+    "amount": 3948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XZA",
+    "ts": "2025-02-14 11:33",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 47.78,
+    "amount": 2960,
+    "vehicle": ""
+  }
+]

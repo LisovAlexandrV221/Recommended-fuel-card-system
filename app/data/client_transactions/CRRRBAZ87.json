@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-27 14:44",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3377,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-27 16:07",
+    "station": "553",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 5,
+    "amount": 307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-12 15:07",
+    "station": "MN005 Челобитьево РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4910,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-13 22:42",
+    "station": "562\"Чудово\"",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-18 04:08",
+    "station": "LR019 \"Паша\"",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 45.51,
+    "amount": 3279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-22 13:31",
+    "station": "MC115 Балашиха РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 61.65,
+    "amount": 4334,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-23 10:03",
+    "station": "562\"Чудово\"",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-30 22:49",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 38.37,
+    "amount": 2431,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-23 02:13",
+    "station": "АЗС №69472",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 49.37,
+    "amount": 3586,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-20 07:49",
+    "station": "АЗС №77558",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 38.89,
+    "amount": 2775,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-18 13:54",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55.33,
+    "amount": 3506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-14 11:20",
+    "station": "АЗС № 10242 Шуйская",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 50.92,
+    "amount": 3829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-28 13:15",
+    "station": "АЗС №50474",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3814,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-23 16:52",
+    "station": "АЗС № 10191 Новая Вилга",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 36.6,
+    "amount": 2752,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-22 22:31",
+    "station": "АЗС №50623",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 22.12,
+    "amount": 1606,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-22 08:26",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.49,
+    "amount": 2819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-18 12:42",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 33.62,
+    "amount": 2442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-18 10:01",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 57.69,
+    "amount": 4199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-18 01:01",
+    "station": "АЗС № 10191 Новая Вилга",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 19.01,
+    "amount": 1430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-13 19:21",
+    "station": "АЗС №69472",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 32.44,
+    "amount": 2356,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-13 17:22",
+    "station": "АЗС №69474",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 27,
+    "amount": 1961,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-09 16:59",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 46.26,
+    "amount": 2931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-01-04 17:01",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 57.55,
+    "amount": 3599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-02-11 11:15",
+    "station": "27",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 57.57,
+    "amount": 4311,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-02-26 04:32",
+    "station": "LR019 \"Паша\"",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 45.04,
+    "amount": 3287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-02-04 10:22",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.16,
+    "amount": 2711,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-02-14 19:34",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49.54,
+    "amount": 3042,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ87",
+    "ts": "2025-02-05 10:12",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.38,
+    "amount": 2558,
+    "vehicle": ""
+  }
+]

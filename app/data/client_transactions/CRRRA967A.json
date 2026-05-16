@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-30 19:47",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 30.3,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-28 17:34",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 80.26,
+    "amount": 5556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-28 14:42",
+    "station": "АЗС №33010",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 43.56,
+    "amount": 2727,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-27 14:29",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 43.55,
+    "amount": 2691,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-27 13:42",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 50.45,
+    "amount": 3117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-24 11:19",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 45.1,
+    "amount": 2786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-21 19:59",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 46.9,
+    "amount": 2897,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-21 19:10",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 52.16,
+    "amount": 3222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-17 17:52",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 57.81,
+    "amount": 4102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-17 17:52",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30.27,
+    "amount": 1915,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-16 08:29",
+    "station": "АЗС №52054",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 35.81,
+    "amount": 2541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-16 12:33",
+    "station": "АЗС №33010",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 33.74,
+    "amount": 2384,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-15 16:19",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 43.29,
+    "amount": 2741,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-15 13:22",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 55.53,
+    "amount": 3516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-15 18:58",
+    "station": "АЗС №21701",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3164,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-14 16:06",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 41.3,
+    "amount": 2615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-13 12:47",
+    "station": "АЗС №52044",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 37.11,
+    "amount": 2347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-13 19:09",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 51.51,
+    "amount": 3261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-13 13:44",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 83.97,
+    "amount": 5957,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-04 14:13",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 30.34,
+    "amount": 1903,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-30 13:27",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 63.63,
+    "amount": 3927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-21 08:35",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 51.63,
+    "amount": 3190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-15 05:06",
+    "station": "АЗС №52075",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40.48,
+    "amount": 2560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-01-05 18:10",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 53.14,
+    "amount": 3364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-02-05 13:27",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 37.94,
+    "amount": 2320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-02-05 15:56",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 38,
+    "amount": 2348,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-02-04 09:17",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 48.12,
+    "amount": 2973,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA967A",
+    "ts": "2025-02-04 18:17",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 78.26,
+    "amount": 5419,
+    "vehicle": ""
+  }
+]

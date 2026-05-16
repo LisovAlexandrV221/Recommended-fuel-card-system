@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-02 22:27",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3366,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-03 05:40",
+    "station": "66",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-03 19:31",
+    "station": "681",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5203,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-03 21:42",
+    "station": "539",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-05 03:53",
+    "station": "8",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4518,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-05 08:44",
+    "station": "301",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-05 12:24",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-08 10:14",
+    "station": "386",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-08 18:09",
+    "station": "539",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-10 16:37",
+    "station": "590",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5203,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-10 20:49",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6520,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-10 22:33",
+    "station": "659",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-11 09:53",
+    "station": "681",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6807,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-11 18:29",
+    "station": "539",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 72.94,
+    "amount": 4942,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-11 19:32",
+    "station": "536",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 130,
+    "amount": 8752,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-11 20:22",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3366,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-12 23:45",
+    "station": "521",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 130,
+    "amount": 8752,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-12 23:47",
+    "station": "521",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-13 12:49",
+    "station": "659",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8047,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-13 12:54",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-13 20:44",
+    "station": "485",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 60.01,
+    "amount": 4061,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-13 23:45",
+    "station": "596",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-14 19:44",
+    "station": "538",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4602,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-14 12:20",
+    "station": "631",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8047,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-14 12:33",
+    "station": "167",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9586,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-14 17:42",
+    "station": "504",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-14 17:46",
+    "station": "504",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 5868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAB7",
+    "ts": "2025-01-15 05:28",
+    "station": "672",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5203,
+    "vehicle": ""
+  }
+]

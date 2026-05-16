@@ -1,0 +1,242 @@
+[
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-01-08 12:56",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 46.26,
+    "amount": 2694,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-01-11 14:26",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 41.54,
+    "amount": 2419,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-01-21 18:32",
+    "station": "565",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.69,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-01-29 21:08",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 46.16,
+    "amount": 2702,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-01-12 17:53",
+    "station": "59035 АЗС 35 Кунгур",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 39.26,
+    "amount": 2438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-01-12 11:03",
+    "station": "02035 АЗС 35",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 27.22,
+    "amount": 1689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-02-12 18:22",
+    "station": "565",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 47.58,
+    "amount": 2785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-02-20 19:30",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 38.25,
+    "amount": 2239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-02-27 17:49",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 63.72,
+    "amount": 3978,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-02-22 11:20",
+    "station": "18048 АЗС 48 Каменное",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 42.23,
+    "amount": 2640,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-02-21 15:53",
+    "station": "59054 АЗС 54 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 42.63,
+    "amount": 2675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-02-02 14:56",
+    "station": "59054 АЗС 54 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 57.47,
+    "amount": 3588,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-03-05 18:59",
+    "station": "565",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 47.7,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-03-14 18:16",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 28.09,
+    "amount": 1654,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-04-22 14:30",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 42.3,
+    "amount": 2525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-04-23 18:43",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 48.95,
+    "amount": 2922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-05-06 19:10",
+    "station": "565",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 33.67,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-05-27 18:08",
+    "station": "565",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 49.91,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-05-22 09:14",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 62.36,
+    "amount": 3922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-05-01 12:18",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 38.62,
+    "amount": 2429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-06-12 12:24",
+    "station": "513",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 45.92,
+    "amount": 2764,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-06-24 09:29",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 57.24,
+    "amount": 3629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-06-20 17:26",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 38.61,
+    "amount": 2448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W9",
+    "ts": "2025-06-06 17:17",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 64,
+    "amount": 4035,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-14 13:00",
+    "station": "216",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3306,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-31 08:50",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2714,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-22 14:08",
+    "station": "204",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-31 16:33",
+    "station": "АЗС №52090",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2016,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-30 21:35",
+    "station": "АЗС №52085",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2016,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-30 14:59",
+    "station": "АЗС №52014",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-29 11:51",
+    "station": "АЗС №52050",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60.01,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-29 02:34",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 11,
+    "amount": 613,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-29 09:57",
+    "station": "АЗС №52024",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 10.02,
+    "amount": 680,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-29 13:38",
+    "station": "АЗС №52027",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60.01,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-27 13:57",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-24 00:08",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 35.59,
+    "amount": 1967,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-24 17:37",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 57.15,
+    "amount": 4701,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-23 14:09",
+    "station": "АЗС №52024",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-23 12:21",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-21 14:08",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 80.64,
+    "amount": 5472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-21 14:05",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-21 17:22",
+    "station": "АЗС №52014",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 76.89,
+    "amount": 4652,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-17 18:29",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 30.01,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-14 14:58",
+    "station": "АЗС №52188",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 29.99,
+    "amount": 1658,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-14 12:26",
+    "station": "АЗС №52188",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60.14,
+    "amount": 4081,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-14 15:51",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 40.02,
+    "amount": 2212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-14 14:13",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 79.99,
+    "amount": 5428,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-14 12:16",
+    "station": "АЗС №52015",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 80.01,
+    "amount": 5429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-10 16:46",
+    "station": "АЗС №52014",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 65.84,
+    "amount": 3983,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-10 11:42",
+    "station": "АЗС №52014",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-15 00:13",
+    "station": "410",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4208,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZWA",
+    "ts": "2025-01-30 10:35",
+    "station": "АЗС №52027",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 10.01,
+    "amount": 553,
+    "vehicle": ""
+  }
+]

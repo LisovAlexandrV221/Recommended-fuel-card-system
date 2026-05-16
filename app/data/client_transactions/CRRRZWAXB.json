@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZWAXB",
+    "ts": "2025-01-15 08:51",
+    "station": "59125 АЗС 125 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 53.04,
+    "amount": 3765,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAXB",
+    "ts": "2025-01-05 11:48",
+    "station": "59083 АЗС 83 Добрянка",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 118.69,
+    "amount": 8426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAXB",
+    "ts": "2025-01-14 08:43",
+    "station": "59125 АЗС 125 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 110.61,
+    "amount": 7852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAXB",
+    "ts": "2025-01-10 08:40",
+    "station": "59125 АЗС 125 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 132.99,
+    "amount": 9441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAXB",
+    "ts": "2025-01-04 08:14",
+    "station": "59083 АЗС 83 Добрянка",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 31.51,
+    "amount": 2237,
+    "vehicle": ""
+  }
+]

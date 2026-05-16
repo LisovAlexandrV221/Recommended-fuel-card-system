@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-06 17:02",
+    "station": "18006 АЗС 6 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 34.01,
+    "amount": 2127,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-31 13:44",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-31 10:33",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-31 09:30",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-31 06:21",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 938,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-31 09:16",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-31 08:46",
+    "station": "16066 АЗС 66-У",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1455,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-30 13:22",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-30 08:48",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-30 08:51",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 130,
+    "amount": 9421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-30 08:48",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-29 13:12",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-29 09:19",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-29 10:04",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-29 08:53",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 110,
+    "amount": 7972,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-28 18:11",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-28 10:07",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-28 08:41",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-28 09:02",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7247,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-27 17:36",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 626,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-27 08:21",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-27 13:41",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 853,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-27 10:56",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2189,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-27 09:00",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-26 08:19",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-26 07:58",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-25 11:39",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10870,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRBA",
+    "ts": "2025-01-25 08:59",
+    "station": "18026 АЗС 26 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11595,
+    "vehicle": ""
+  }
+]

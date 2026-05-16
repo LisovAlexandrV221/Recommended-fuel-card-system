@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-22 18:52",
+    "station": "АЗС Газпромнефть 071",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-22 18:57",
+    "station": "АЗС Газпромнефть 071",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 100.14,
+    "amount": 6647,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-22 19:03",
+    "station": "АЗС Газпромнефть 071",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-23 13:24",
+    "station": "АЗС Газпромнефть 065",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 1000,
+    "amount": 66100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-23 13:28",
+    "station": "АЗС Газпромнефть 065",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-23 13:32",
+    "station": "АЗС Газпромнефть 065",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-27 09:29",
+    "station": "АЗС Газпромнефть 082",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7R",
+    "ts": "2025-06-28 00:42",
+    "station": "АЗС Нефтьмагистраль 07 ",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 51660,
+    "vehicle": ""
+  }
+]

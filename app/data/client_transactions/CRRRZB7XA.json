@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-29 17:58",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 117.26,
+    "amount": 7956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-23 11:14",
+    "station": "АЗС №52074",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 133.45,
+    "amount": 8969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-23 20:47",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-16 23:10",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-17 10:02",
+    "station": "АЗС №33024",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-17 18:27",
+    "station": "16105 АЗС 105",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 115.74,
+    "amount": 7448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-16 12:57",
+    "station": "АЗС №50238",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 92.08,
+    "amount": 6262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-24 14:01",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 144.5,
+    "amount": 9299,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-24 08:47",
+    "station": "18070 АЗС 70 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 60.46,
+    "amount": 4253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-21 14:56",
+    "station": "18067 АЗС 67 Сюмси",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 110,
+    "amount": 7737,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-12 23:21",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-08 14:52",
+    "station": "18003 АЗС 3 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 60.81,
+    "amount": 3672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-10 16:31",
+    "station": "16203",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 63.16,
+    "amount": 4064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-31 22:57",
+    "station": "16104 АЗС 104",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 57.32,
+    "amount": 3689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-28 14:43",
+    "station": "16104 АЗС 104",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 137.02,
+    "amount": 8817,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-12 14:39",
+    "station": "16097 АЗС 97",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 126.7,
+    "amount": 8153,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-31 09:50",
+    "station": "18002 АЗС 2 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-30 11:50",
+    "station": "18103 АЗС 103 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2814,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-29 10:32",
+    "station": "18070 АЗС 70 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-29 08:13",
+    "station": "18070 АЗС 70 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 49.99,
+    "amount": 3018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-26 13:52",
+    "station": "18099 АЗС 99 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 29.55,
+    "amount": 1794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-24 15:44",
+    "station": "18038 АЗС 38 Малая Пурга",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 27.37,
+    "amount": 1925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-18 13:48",
+    "station": "18002 АЗС 2 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 139.14,
+    "amount": 9787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-17 21:52",
+    "station": "18089 АЗС 89 Миндерево",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 55.31,
+    "amount": 3891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-15 19:52",
+    "station": "18003 АЗС 3 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 60.88,
+    "amount": 3696,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-11 13:19",
+    "station": "18041 АЗС 41 Завьялово",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 168,
+    "amount": 11817,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-03 17:51",
+    "station": "18002 АЗС 2 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 60.52,
+    "amount": 4257,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7XA",
+    "ts": "2025-01-03 08:46",
+    "station": "18002 АЗС 2 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 70.18,
+    "amount": 4936,
+    "vehicle": ""
+  }
+]

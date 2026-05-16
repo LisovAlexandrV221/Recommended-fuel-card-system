@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-31 09:08",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3564,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-30 10:36",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.3,
+    "amount": 2971,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-29 07:27",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 29.76,
+    "amount": 2194,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-29 09:46",
+    "station": "11138",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 34.97,
+    "amount": 2516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-28 19:47",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 48.78,
+    "amount": 3519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-28 12:34",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 42.01,
+    "amount": 3097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-28 14:34",
+    "station": "АЗС № 35417 Барское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58.37,
+    "amount": 4303,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-28 12:18",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20.28,
+    "amount": 1485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-27 12:48",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35.01,
+    "amount": 2581,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-27 12:12",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.32,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-25 11:05",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 13.52,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-24 16:33",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.14,
+    "amount": 2001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-23 11:09",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60.87,
+    "amount": 4487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-23 14:12",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.56,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-23 14:25",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 53.96,
+    "amount": 3978,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-23 23:02",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 30.03,
+    "amount": 2214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-22 09:59",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.6,
+    "amount": 2973,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-21 09:40",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 49.22,
+    "amount": 3604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-17 10:38",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35.11,
+    "amount": 2502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-16 14:30",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 13.42,
+    "amount": 989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-16 10:45",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41,
+    "amount": 3023,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-16 09:23",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.15,
+    "amount": 5136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-14 10:44",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41,
+    "amount": 3023,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-14 11:19",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 51.58,
+    "amount": 3802,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-08 12:18",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 53.28,
+    "amount": 3928,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-07 12:17",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 15.14,
+    "amount": 1116,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-06 17:12",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.29,
+    "amount": 3486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXW6",
+    "ts": "2025-01-30 10:34",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.32,
+    "amount": 3465,
+    "vehicle": ""
+  }
+]

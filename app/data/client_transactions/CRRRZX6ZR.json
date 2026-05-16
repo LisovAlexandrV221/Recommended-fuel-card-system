@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-03-14 18:22",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 39.28,
+    "amount": 2412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-03-12 17:41",
+    "station": "АЗС №21075",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 28.01,
+    "amount": 1722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 16:14",
+    "station": "АЗС №21076",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 54.83,
+    "amount": 3401,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 16:52",
+    "station": "43063 АЗС 63 Уржум",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 31.55,
+    "amount": 1786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 16:49",
+    "station": "43063 АЗС 63 Уржум",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 16:47",
+    "station": "43063 АЗС 63 Уржум",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 21.79,
+    "amount": 1345,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-26 15:48",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-26 11:24",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-23 17:43",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 14:47",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 34.17,
+    "amount": 2117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-27 06:59",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-27 06:55",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 29.86,
+    "amount": 1838,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 10:48",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 36.71,
+    "amount": 2078,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 10:47",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 32.66,
+    "amount": 2015,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 06:22",
+    "station": "АЗС № 73233",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2839,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 02:36",
+    "station": "43020 АЗС 20 Н.Горца",
+    "region": "Кировская область",
+    "fuel": "MАСЛО",
+    "liters": 2,
+    "amount": 928,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-31 02:36",
+    "station": "43020 АЗС 20 Н.Горца",
+    "region": "Кировская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-30 15:18",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 70,
+    "amount": 3895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-30 14:09",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-30 08:18",
+    "station": "АЗС № 73233",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 57.23,
+    "amount": 3422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-29 20:34",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 36.53,
+    "amount": 2254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-29 14:52",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1113,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-29 14:50",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1391,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-29 06:53",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1669,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-29 13:07",
+    "station": "АЗС № 73233",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 59.95,
+    "amount": 3584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-28 10:42",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 55,
+    "amount": 3060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-28 09:59",
+    "station": "АЗС № 2-РАЗВИТИЕ",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3622,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZR",
+    "ts": "2025-05-28 10:07",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 37.33,
+    "amount": 2110,
+    "vehicle": ""
+  }
+]

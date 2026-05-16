@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-01-31 12:19",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-01-16 09:31",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-01-16 09:24",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-01-24 13:55",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-02-20 11:49",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-02-12 12:22",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20.17,
+    "amount": 1538,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ8BW",
+    "ts": "2025-02-06 15:32",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1519,
+    "vehicle": ""
+  }
+]

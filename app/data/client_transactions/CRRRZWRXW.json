@@ -1,0 +1,182 @@
+[
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-06 06:03",
+    "station": "488",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 46.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-08 06:26",
+    "station": "488",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 46.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-11 10:03",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 46.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-18 17:07",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 46.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-20 06:23",
+    "station": "488",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 23.47,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-26 15:22",
+    "station": "216",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 46.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-27 16:05",
+    "station": "488",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 44.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-01-14 12:14",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 23.17,
+    "amount": 1318,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-18 11:27",
+    "station": "216",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 30.83,
+    "amount": 1664,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-26 13:52",
+    "station": "216",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 46.94,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-10 14:12",
+    "station": "216",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 33.29,
+    "amount": 1797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-03 07:11",
+    "station": "488",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 39.12,
+    "amount": 2525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-14 07:13",
+    "station": "216",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 27.64,
+    "amount": 1514,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-25 13:31",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-02-14 06:08",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-03-10 10:46",
+    "station": "216",
+    "region": "Марий Эл, республика",
+    "fuel": "ДТ",
+    "liters": 15.57,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-06-18 14:00",
+    "station": "210",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-95",
+    "liters": 19.7,
+    "amount": 1212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWRXW",
+    "ts": "2025-06-23 13:14",
+    "station": "216",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 29.48,
+    "amount": 1669,
+    "vehicle": ""
+  }
+]

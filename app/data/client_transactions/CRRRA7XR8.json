@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-12 14:45",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-12 14:49",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-12 14:55",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-13 19:10",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-13 19:11",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-13 19:16",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-18 12:44",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-18 12:45",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-21 14:45",
+    "station": "638",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 40885,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-29 22:25",
+    "station": "59079 АЗС 79 Дубовое",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 427.98,
+    "amount": 28850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-28 08:41",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-27 22:31",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-27 15:50",
+    "station": "45204 АЗС 204",
+    "region": "Курганская область",
+    "fuel": "ДТ",
+    "liters": 349.41,
+    "amount": 23355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-27 15:30",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.39,
+    "amount": 1455,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-26 18:12",
+    "station": "66497 АЗС 497 Киселевка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-26 18:12",
+    "station": "66497 АЗС 497 Киселевка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 329.28,
+    "amount": 22197,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-26 14:00",
+    "station": "АЗС № 35445 Чернышевского-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-25 17:16",
+    "station": "АЗС № 35415 Погорелово",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 8.53,
+    "amount": 593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-25 15:29",
+    "station": "АЗС № 35445 Чернышевского-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 4.84,
+    "amount": 270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-25 13:54",
+    "station": "43020 АЗС 20 Н.Горца",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-25 13:53",
+    "station": "43020 АЗС 20 Н.Горца",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-25 13:53",
+    "station": "43020 АЗС 20 Н.Горца",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-24 12:33",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 414.13,
+    "amount": 28790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-24 15:50",
+    "station": "АЗС № 35444 Маршала Конева-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6952,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-24 14:21",
+    "station": "АЗС № 35424 Никольск-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30.68,
+    "amount": 1849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-23 22:39",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 437.63,
+    "amount": 28201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-23 11:10",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6952,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7XR8",
+    "ts": "2025-01-23 10:59",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20856,
+    "vehicle": ""
+  }
+]

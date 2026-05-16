@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-11 13:26",
+    "station": "2153",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-12 15:10",
+    "station": "280",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4409,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-15 06:57",
+    "station": "482",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 3790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-16 10:46",
+    "station": "350",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8436,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-31 14:13",
+    "station": "532",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-29 16:37",
+    "station": "16009 АЗС 9-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 88.42,
+    "amount": 5604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-29 05:12",
+    "station": "59128 АЗС 128 Краснокамск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-28 13:27",
+    "station": "59004 АЗС 4 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-27 19:42",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 71,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-27 19:41",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 14.88,
+    "amount": 902,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-27 15:35",
+    "station": "59071 АЗС 71 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 16.73,
+    "amount": 1170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-26 14:04",
+    "station": "59016 АЗС 16 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 19.22,
+    "amount": 1171,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-25 13:49",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 12.76,
+    "amount": 773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-23 16:37",
+    "station": "59008 АЗС 8 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1398,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-21 00:36",
+    "station": "59010 АЗС 10 Савино",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-20 10:31",
+    "station": "59033 АЗС 33 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 30.14,
+    "amount": 2107,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-19 12:33",
+    "station": "59113 АЗС 113 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.32,
+    "amount": 1135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-18 11:12",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-18 11:12",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 29.26,
+    "amount": 1773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-17 14:35",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6966,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-15 19:10",
+    "station": "АЗС №52042",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40.09,
+    "amount": 2680,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-10 05:19",
+    "station": "59031 АЗС 31 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.66,
+    "amount": 1989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-10 00:31",
+    "station": "43070 АЗС 70 Белая Холуница",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 70.87,
+    "amount": 4937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-01-09 16:53",
+    "station": "59071 АЗС 71 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 42.93,
+    "amount": 2601,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-02-17 18:34",
+    "station": "467",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4133,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-02-20 15:10",
+    "station": "533",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6762,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-02-25 16:35",
+    "station": "217",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW8A",
+    "ts": "2025-02-26 12:38",
+    "station": "532",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2367,
+    "vehicle": ""
+  }
+]

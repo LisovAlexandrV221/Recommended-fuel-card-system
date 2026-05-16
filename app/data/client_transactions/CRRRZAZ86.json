@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-01-14 11:30",
+    "station": "АЗС №77606",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 43.2,
+    "amount": 2795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-02-23 18:04",
+    "station": "АЗС №77606",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 41.97,
+    "amount": 2728,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-30 07:16",
+    "station": "АЗС № 11350 Сысольское шоссе",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-30 07:16",
+    "station": "АЗС № 11350 Сысольское шоссе",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-08 11:16",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 2003,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-01 08:54",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 26.16,
+    "amount": 1502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-01 08:53",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 52,
+    "amount": 2985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-21 20:20",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-21 20:19",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 2003,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-09 18:08",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 137.11,
+    "amount": 10097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-01 11:39",
+    "station": "43081 АЗС 81 Тужа",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-01 11:38",
+    "station": "43081 АЗС 81 Тужа",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 5,
+    "amount": 286,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-10 09:25",
+    "station": "43026 АЗС 26 Мураши",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 100.02,
+    "amount": 7365,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-10 09:20",
+    "station": "43026 АЗС 26 Мураши",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 137.11,
+    "amount": 10097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-10 09:15",
+    "station": "43026 АЗС 26 Мураши",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 137.11,
+    "amount": 10097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-02 15:28",
+    "station": "АЗС № 11341 Пажга",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-01 17:35",
+    "station": "АЗС № 11304 Визинга",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-29 13:30",
+    "station": "АЗС №77514",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 44.01,
+    "amount": 2945,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-29 07:09",
+    "station": "АЗС № 11350 Сысольское шоссе",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-29 07:09",
+    "station": "АЗС № 11350 Сысольское шоссе",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-28 13:04",
+    "station": "АЗС № 11341 Пажга",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-28 07:19",
+    "station": "АЗС № 11350 Сысольское шоссе",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-25 19:37",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-25 19:36",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 40.01,
+    "amount": 2289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-24 19:38",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-24 19:38",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 20.01,
+    "amount": 1217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-23 17:16",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZ86",
+    "ts": "2025-04-23 17:15",
+    "station": "АЗС № 11389 Давпон",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1717,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-01-31 11:32",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2321,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-01-23 09:02",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-02-10 13:38",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 55,
+    "amount": 3191,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-03-24 13:31",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-04-24 12:51",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2939,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-05-12 16:49",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3527,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-06-04 13:10",
+    "station": "АЗС №77551",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-06-25 20:05",
+    "station": "АЗС №77523",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-06-19 15:52",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2967,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAB7X",
+    "ts": "2025-06-10 13:02",
+    "station": "АЗС №77529",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3539,
+    "vehicle": ""
+  }
+]

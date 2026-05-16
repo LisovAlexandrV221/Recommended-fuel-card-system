@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hyb",
+    "name": "Гибридная",
+    "segment": "все клиенты",
+    "hr1": 0.991,
+    "ndcg3": 0.989,
+    "map3": 0.989,
+    "status": "production"
+  },
+  {
+    "id": "als",
+    "name": "ALS",
+    "segment": "инертные клиенты",
+    "hr1": 0.999,
+    "ndcg3": 0.997,
+    "map3": 0.999,
+    "status": "production"
+  },
+  {
+    "id": "ease",
+    "name": "EASE",
+    "segment": "потенциальные клиенты",
+    "hr1": 0.933,
+    "ndcg3": 0.926,
+    "map3": 0.915,
+    "status": "production"
+  },
+  {
+    "id": "cb",
+    "name": "Content-Based",
+    "segment": "для сравнения",
+    "hr1": 0.799,
+    "ndcg3": 0.877,
+    "map3": 0.845,
+    "status": "baseline"
+  },
+  {
+    "id": "pop",
+    "name": "MostPop",
+    "segment": "baseline",
+    "hr1": 0.854,
+    "ndcg3": 0.879,
+    "map3": 0.831,
+    "status": "baseline"
+  }
+]

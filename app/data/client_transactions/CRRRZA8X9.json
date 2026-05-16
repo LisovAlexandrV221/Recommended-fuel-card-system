@@ -1,0 +1,182 @@
+[
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-03-26 04:14",
+    "station": "001(5018)",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 74.52,
+    "amount": 5312,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-03-25 21:50",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 90.54,
+    "amount": 6464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-03-27 19:20",
+    "station": "352",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-03-27 20:44",
+    "station": "013",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 73.43,
+    "amount": 5077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-08 16:55",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-11 18:16",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 9.34,
+    "amount": 703,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-01 17:22",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-14 18:53",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-10 21:04",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 76,
+    "amount": 5107,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-14 22:05",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 83.37,
+    "amount": 5602,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-01 21:26",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 79,
+    "amount": 5309,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-02 13:39",
+    "station": "183",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 87.18,
+    "amount": 6272,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-04 19:15",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 59.06,
+    "amount": 3969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-08 22:24",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6048,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-09 17:53",
+    "station": "029",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 86.4,
+    "amount": 6121,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-15 06:22",
+    "station": "249",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 83.59,
+    "amount": 5874,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-16 16:07",
+    "station": "237",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 38.07,
+    "amount": 2794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8X9",
+    "ts": "2025-04-17 20:25",
+    "station": "334",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 62.43,
+    "amount": 4554,
+    "vehicle": ""
+  }
+]

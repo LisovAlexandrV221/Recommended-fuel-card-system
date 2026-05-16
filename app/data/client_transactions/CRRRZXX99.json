@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-28 13:46",
+    "station": "672",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 58.8,
+    "amount": 3452,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-29 18:42",
+    "station": "590",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 47.62,
+    "amount": 2795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-18 16:07",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 35.03,
+    "amount": 2215,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-23 12:26",
+    "station": "АЗС №13223",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 58.55,
+    "amount": 3673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-30 08:21",
+    "station": "АЗС №77557",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 53.95,
+    "amount": 3569,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-21 07:26",
+    "station": "АЗС №77557",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 37.12,
+    "amount": 2455,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-01-18 19:59",
+    "station": "АЗС №52128",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 54.86,
+    "amount": 3419,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-09 17:00",
+    "station": "682",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 43.06,
+    "amount": 2669,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-05 16:11",
+    "station": "АЗС №13217",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 60.36,
+    "amount": 3786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-28 14:01",
+    "station": "АЗС №13217",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 41.42,
+    "amount": 2611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-26 09:40",
+    "station": "АЗС №13219",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 40.63,
+    "amount": 2537,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-26 09:34",
+    "station": "АЗС №13219",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-26 11:43",
+    "station": "АЗС №13222",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 40.71,
+    "amount": 2566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-15 14:35",
+    "station": "АЗС №13202",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 58.47,
+    "amount": 3686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-13 17:52",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 50.2,
+    "amount": 3190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-09 15:28",
+    "station": "АЗС №52060",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 29.03,
+    "amount": 1809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-08 19:14",
+    "station": "АЗС №13217",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 43.15,
+    "amount": 2707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-08 11:06",
+    "station": "АЗС №52186",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 36.65,
+    "amount": 2284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-02 11:33",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 56.68,
+    "amount": 3584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-22 14:13",
+    "station": "АЗС №13202",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 54.37,
+    "amount": 3427,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-02 15:56",
+    "station": "АЗС №52058",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 55.08,
+    "amount": 3433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-10 16:05",
+    "station": "АЗС №77557",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 46.8,
+    "amount": 3028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-17 15:11",
+    "station": "АЗС №77724",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 27.8,
+    "amount": 1786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-15 08:33",
+    "station": "АЗС №77724",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 23.51,
+    "amount": 1371,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-07 11:07",
+    "station": "АЗС №77600",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 42.86,
+    "amount": 2835,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-20 09:07",
+    "station": "АЗС №13217",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 60.72,
+    "amount": 3828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-18 00:29",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 48.06,
+    "amount": 3010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX99",
+    "ts": "2025-02-13 20:03",
+    "station": "АЗС №52058",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 53.14,
+    "amount": 3329,
+    "vehicle": ""
+  }
+]

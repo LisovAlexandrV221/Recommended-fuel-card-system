@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-13 13:57",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 180,
+    "amount": 5162,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-13 14:33",
+    "station": "10",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1658,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-13 14:36",
+    "station": "10",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 3,
+    "amount": 205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-15 12:17",
+    "station": "1",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 5,
+    "amount": 350,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-16 01:34",
+    "station": "663",
+    "region": "Московская область",
+    "fuel": "ГАЗ",
+    "liters": 150,
+    "amount": 4710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-17 22:30",
+    "station": "10",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 160,
+    "amount": 4589,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-18 17:11",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 150,
+    "amount": 4302,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-21 19:50",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 100,
+    "amount": 2868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-21 13:44",
+    "station": "2",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 100,
+    "amount": 2868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-23 15:41",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 150,
+    "amount": 4242,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-30 12:46",
+    "station": "400",
+    "region": "Самарская область",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-09 16:08",
+    "station": "10",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 120.6,
+    "amount": 3459,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-10 03:54",
+    "station": "570",
+    "region": "Ярославская область",
+    "fuel": "ГАЗ",
+    "liters": 29.24,
+    "amount": 959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-01-27 17:59",
+    "station": "467",
+    "region": "Удмуртская республика",
+    "fuel": "ГАЗ",
+    "liters": 76.87,
+    "amount": 2321,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-03 20:44",
+    "station": "66",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 150,
+    "amount": 4242,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-08 18:46",
+    "station": "688",
+    "region": "Пензенская область",
+    "fuel": "ГАЗ",
+    "liters": 100,
+    "amount": 2574,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-08 18:55",
+    "station": "688",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 5,
+    "amount": 344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-10 19:55",
+    "station": "187",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 100,
+    "amount": 3101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-11 13:23",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 20,
+    "amount": 566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-12 17:20",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 280,
+    "amount": 7918,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-12 17:38",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 100,
+    "amount": 5424,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-15 03:55",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 200,
+    "amount": 5556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-20 12:17",
+    "station": "493",
+    "region": "Марий ел, республика",
+    "fuel": "ГАЗ",
+    "liters": 180,
+    "amount": 5000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-26 11:44",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 130,
+    "amount": 3611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-27 17:27",
+    "station": "175",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 5,
+    "amount": 349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-11 12:56",
+    "station": "509",
+    "region": "Самарская область",
+    "fuel": "ГАЗ",
+    "liters": 53.43,
+    "amount": 1565,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-13 13:25",
+    "station": "АЗС №21701",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 6.69,
+    "amount": 470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWZA8",
+    "ts": "2025-02-17 21:47",
+    "station": "АЗС №52048",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 3.11,
+    "amount": 218,
+    "vehicle": ""
+  }
+]

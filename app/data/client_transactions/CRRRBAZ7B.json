@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-30 13:25",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 58.55,
+    "amount": 4154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-30 16:29",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 43.96,
+    "amount": 2783,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-30 13:18",
+    "station": "АЗС №21127",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 68.73,
+    "amount": 4876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-30 11:59",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 79.5,
+    "amount": 5640,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-30 13:32",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 51.56,
+    "amount": 3658,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-29 17:56",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 53.17,
+    "amount": 3772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-28 18:25",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 45.17,
+    "amount": 3204,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-28 15:42",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 48.12,
+    "amount": 3046,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-27 15:01",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 43.99,
+    "amount": 3121,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-27 13:37",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 58,
+    "amount": 4115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-25 16:46",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 37.88,
+    "amount": 2374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-24 11:59",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2532,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-24 07:58",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40.87,
+    "amount": 2587,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-24 07:36",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-23 13:50",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 60.8,
+    "amount": 4313,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-23 09:43",
+    "station": "АЗС №21701",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 54.64,
+    "amount": 3876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-22 12:54",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 72.69,
+    "amount": 5157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-22 13:33",
+    "station": "АЗС №12008",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-21 06:29",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 72.3,
+    "amount": 5129,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-21 12:21",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 67.67,
+    "amount": 4801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-21 09:24",
+    "station": "АЗС №21152",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 42.19,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-21 14:35",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 51.09,
+    "amount": 3235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-21 15:31",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 52.12,
+    "amount": 3697,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-20 11:16",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 60.35,
+    "amount": 4281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-20 07:36",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 41.89,
+    "amount": 2652,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-18 03:26",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 48.73,
+    "amount": 3444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-17 12:37",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 57.84,
+    "amount": 4103,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAZ7B",
+    "ts": "2025-01-17 16:48",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 64.08,
+    "amount": 4537,
+    "vehicle": ""
+  }
+]

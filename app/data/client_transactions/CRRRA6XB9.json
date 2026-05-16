@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-03-29 13:19",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 8.15,
+    "amount": 511,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-03-27 11:39",
+    "station": "АЗС №13212",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 42.66,
+    "amount": 3007,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-03-27 14:22",
+    "station": "АЗС №13225",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 15.72,
+    "amount": 1108,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-04-29 17:57",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 15.23,
+    "amount": 1122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-04-29 12:00",
+    "station": "43049 АЗС 49 Нолинск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 24.85,
+    "amount": 1830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-05-30 13:05",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 12.19,
+    "amount": 860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XB9",
+    "ts": "2025-05-21 13:32",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1411,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-06 16:40",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.14,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-06 16:42",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 34.13,
+    "amount": 2019,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-14 10:43",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 40.04,
+    "amount": 2818,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-14 10:44",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-14 20:07",
+    "station": "159",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 24.72,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-21 17:30",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 25.43,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-24 15:33",
+    "station": "073",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2847,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-25 08:42",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-92",
+    "liters": 36.73,
+    "amount": 1940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-31 09:27",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2833,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-14 16:35",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 42.83,
+    "amount": 2524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-01-28 18:42",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 38.29,
+    "amount": 2330,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-14 23:33",
+    "station": "149",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 37.55,
+    "amount": 2311,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-03 17:14",
+    "station": "073",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-04 15:45",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2841,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-06 08:51",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2847,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-07 07:26",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-08 11:33",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-10 16:51",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-21 21:44",
+    "station": "159",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-27 18:01",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1151,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-09 18:00",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 42.62,
+    "amount": 2593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-17 09:21",
+    "station": "130",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 43.37,
+    "amount": 2679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-23 14:44",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 38.83,
+    "amount": 2380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-02-28 16:48",
+    "station": "101",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-03-05 08:42",
+    "station": "014",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1676,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-03-09 10:33",
+    "station": "033",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 33.38,
+    "amount": 1960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-03-13 09:08",
+    "station": "073",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1766,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWBW",
+    "ts": "2025-03-19 21:36",
+    "station": "170",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2382,
+    "vehicle": ""
+  }
+]

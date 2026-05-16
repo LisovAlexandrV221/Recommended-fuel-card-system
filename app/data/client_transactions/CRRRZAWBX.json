@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-01-29 15:25",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 44102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-01-29 15:23",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 44102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-01-13 19:19",
+    "station": "АЗС №21127",
+    "region": "Республика Чувашия",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 66,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-01-13 19:18",
+    "station": "АЗС №21127",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 54.44,
+    "amount": 3694,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-01-19 10:52",
+    "station": "АЗС №08542",
+    "region": "Республика Калмыкия",
+    "fuel": "ДТ",
+    "liters": 290,
+    "amount": 19842,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-05 19:19",
+    "station": "АЗС №33013",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-14 10:42",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-08 11:25",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 37318,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-19 18:20",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 51.88,
+    "amount": 3536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-22 18:43",
+    "station": "АЗС №50309",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20493,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-19 00:40",
+    "station": "63064 АЗС 64-У",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13834,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-11 17:47",
+    "station": "АЗС №23284",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 37092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-11 14:51",
+    "station": "АЗС №23036",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-11 14:50",
+    "station": "АЗС №23036",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 146.65,
+    "amount": 9890,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-06 19:00",
+    "station": "АЗС №68854",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 310,
+    "amount": 21278,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-06 19:00",
+    "station": "АЗС №68854",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 144.1,
+    "amount": 9891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-06 18:55",
+    "station": "АЗС №68854",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 144.1,
+    "amount": 9891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-03 15:29",
+    "station": "АЗС №08546",
+    "region": "Республика Калмыкия",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27368,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-03 09:10",
+    "station": "АЗС №36710",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34665,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-25 12:09",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 47614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-19 22:03",
+    "station": "АЗС №62871",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-02-14 11:06",
+    "station": "АЗС №13213",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 47887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-03-25 11:31",
+    "station": "АЗС №52047",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 115.85,
+    "amount": 7821,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-03-16 10:35",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9652,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-03-16 10:34",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16087,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-03-04 15:05",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-03-04 09:59",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWBX",
+    "ts": "2025-03-10 16:29",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6435,
+    "vehicle": ""
+  }
+]

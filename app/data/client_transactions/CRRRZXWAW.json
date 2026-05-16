@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZXWAW",
+    "ts": "2025-01-15 09:51",
+    "station": "АЗС №50245",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 37.09,
+    "amount": 2063,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWAW",
+    "ts": "2025-01-15 12:04",
+    "station": "АЗС №77629",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20565,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWAW",
+    "ts": "2025-01-03 13:27",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 36.53,
+    "amount": 2068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWAW",
+    "ts": "2025-01-02 10:43",
+    "station": "АЗС ЛУКАН № 1",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1426,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 15:47",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 50.03,
+    "amount": 3536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 14:30",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 34.93,
+    "amount": 2469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 08:46",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 18.01,
+    "amount": 1273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 13:57",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 12:10",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 64.99,
+    "amount": 4593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 08:59",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70.02,
+    "amount": 4948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 08:46",
+    "station": "АЗС №33040",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-30 08:14",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-29 14:35",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 57.75,
+    "amount": 4081,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-29 13:29",
+    "station": "АЗС №33013",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 37.03,
+    "amount": 2617,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-29 10:07",
+    "station": "АЗС №33714",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-29 08:28",
+    "station": "АЗС №33040",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 71,
+    "amount": 5018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-29 05:09",
+    "station": "АЗС №50201",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50.38,
+    "amount": 3582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-28 16:48",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 46.01,
+    "amount": 3252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-28 12:40",
+    "station": "АЗС №33021",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 73,
+    "amount": 5159,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-28 12:23",
+    "station": "АЗС №33042",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-28 09:44",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40.12,
+    "amount": 2835,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-28 09:18",
+    "station": "АЗС №33040",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 58.01,
+    "amount": 4100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 15:10",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 54,
+    "amount": 3816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 13:06",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 69.99,
+    "amount": 4946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 12:58",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 25.04,
+    "amount": 1770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 14:40",
+    "station": "АЗС №33063",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 12:51",
+    "station": "АЗС №33021",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60.92,
+    "amount": 4305,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 09:34",
+    "station": "АЗС №33039",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3180,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 08:50",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 47.01,
+    "amount": 3322,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-27 07:57",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 39.9,
+    "amount": 2820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-25 20:06",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40.03,
+    "amount": 2840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6AX9",
+    "ts": "2025-01-24 14:50",
+    "station": "АЗС №33037",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2827,
+    "vehicle": ""
+  }
+]

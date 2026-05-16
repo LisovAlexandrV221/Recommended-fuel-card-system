@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-16 12:43",
+    "station": "233",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40.18,
+    "amount": 2731,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-21 10:59",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 90.27,
+    "amount": 4903,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-07 17:46",
+    "station": "223",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 56.55,
+    "amount": 3858,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-14 11:06",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-07 14:58",
+    "station": "212",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33950,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-16 09:05",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 54040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-21 17:38",
+    "station": "232",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-16 16:10",
+    "station": "104",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-16 16:04",
+    "station": "104",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 291.95,
+    "amount": 20399,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-24 18:37",
+    "station": "208",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 39.98,
+    "amount": 2731,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-29 09:14",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 40860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-31 08:33",
+    "station": "АЗС №21153",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27004,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-30 15:50",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23628,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-30 18:46",
+    "station": "16056 АЗС 56",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 22410,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-30 12:11",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 1000,
+    "amount": 72850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-30 13:49",
+    "station": "АЗС №52038",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-29 12:11",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-29 19:48",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33755,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-28 17:10",
+    "station": "АЗС №21127",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33755,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-26 21:51",
+    "station": "АЗС №33049",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-26 21:50",
+    "station": "АЗС №33049",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20178,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-25 12:45",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6752,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-25 12:44",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20061,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-25 15:21",
+    "station": "АЗС №21127",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33755,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-24 01:54",
+    "station": "16104 АЗС 104",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19209,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-24 17:02",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3376,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-24 16:42",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 380,
+    "amount": 25658,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6XBB",
+    "ts": "2025-01-23 15:30",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33755,
+    "vehicle": ""
+  }
+]

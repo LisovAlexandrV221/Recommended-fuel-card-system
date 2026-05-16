@@ -1,0 +1,142 @@
+[
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-01-11 18:19",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 24.93,
+    "amount": 1534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-01-07 11:01",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 16.15,
+    "amount": 994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-03-23 12:31",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 25.42,
+    "amount": 1572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-03-10 17:06",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 30.72,
+    "amount": 1900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-03-07 17:15",
+    "station": "АЗС №64553",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 34.09,
+    "amount": 1925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-04-23 21:59",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 31.79,
+    "amount": 1980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-04-18 16:52",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 44.31,
+    "amount": 2760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-04-17 09:11",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 25.39,
+    "amount": 1581,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-04-13 19:18",
+    "station": "АЗС №64557",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 31.81,
+    "amount": 1981,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-05-27 14:36",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 24.52,
+    "amount": 1527,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-06-26 12:44",
+    "station": "АЗС №64578",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 36.61,
+    "amount": 2298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-06-18 14:57",
+    "station": "АЗС №64553",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 33.7,
+    "amount": 1934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-06-17 11:39",
+    "station": "АЗС №64577",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 31.85,
+    "amount": 1993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA77",
+    "ts": "2025-06-01 12:52",
+    "station": "АЗС №64553",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 16.31,
+    "amount": 1018,
+    "vehicle": ""
+  }
+]

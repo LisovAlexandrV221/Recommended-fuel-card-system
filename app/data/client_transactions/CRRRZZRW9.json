@@ -1,0 +1,112 @@
+[
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-02-22 14:19",
+    "station": "112",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 78.64,
+    "amount": 4268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-03-09 09:46",
+    "station": "131",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 77.01,
+    "amount": 4222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-03-20 14:54",
+    "station": "112",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 77.51,
+    "amount": 4257,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-04-25 14:13",
+    "station": "106",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 78.8,
+    "amount": 4358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-04-07 12:59",
+    "station": "106",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 79.95,
+    "amount": 4399,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-04-15 15:14",
+    "station": "112",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 75.26,
+    "amount": 4141,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-05-08 11:45",
+    "station": "106",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 80.86,
+    "amount": 4472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-05-15 20:37",
+    "station": "112",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 5.32,
+    "amount": 294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-05-23 10:10",
+    "station": "106",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 78.6,
+    "amount": 4360,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-06-01 14:30",
+    "station": "106",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 66.34,
+    "amount": 3680,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZRW9",
+    "ts": "2025-06-09 21:33",
+    "station": "106",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 77.91,
+    "amount": 4322,
+    "vehicle": ""
+  }
+]

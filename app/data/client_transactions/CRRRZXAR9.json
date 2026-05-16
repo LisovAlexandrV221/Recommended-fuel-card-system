@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZXAR9",
+    "ts": "2025-03-23 20:41",
+    "station": "АЗС №34448",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 39.94,
+    "amount": 2713,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAR9",
+    "ts": "2025-03-22 10:19",
+    "station": "АЗС №23373",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 21.27,
+    "amount": 1426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAR9",
+    "ts": "2025-03-20 16:28",
+    "station": "59115 АЗС 115 Крылово",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 21.18,
+    "amount": 1495,
+    "vehicle": ""
+  }
+]

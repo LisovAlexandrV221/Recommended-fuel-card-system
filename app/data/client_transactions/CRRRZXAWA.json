@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZXAWA",
+    "ts": "2025-03-27 15:27",
+    "station": "162",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 50.16,
+    "amount": 4014,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAWA",
+    "ts": "2025-04-29 10:52",
+    "station": "162",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 56.54,
+    "amount": 4334,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAWA",
+    "ts": "2025-04-30 09:04",
+    "station": "152",
+    "region": "Мурманская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 339,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAWA",
+    "ts": "2025-04-30 09:04",
+    "station": "152",
+    "region": "Мурманская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  }
+]

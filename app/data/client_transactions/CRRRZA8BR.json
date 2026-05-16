@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-08 16:48",
+    "station": "013",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 35.96,
+    "amount": 2112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-03 17:10",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-03 17:10",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-03 17:10",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 29.18,
+    "amount": 1851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-03 17:10",
+    "station": "АЗС №50230",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 2,
+    "amount": 513,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-10 12:33",
+    "station": "205",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.85,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-27 12:49",
+    "station": "205",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 34.28,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-03 09:37",
+    "station": "200",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.87,
+    "amount": 1874,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-07 11:45",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 48.45,
+    "amount": 2940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-13 12:30",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-19 15:28",
+    "station": "003(4406)",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1808,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-20 07:55",
+    "station": "200",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.87,
+    "amount": 1890,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-01-26 11:36",
+    "station": "001(4405)",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-05 13:05",
+    "station": "205",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.69,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-27 12:49",
+    "station": "205",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.43,
+    "amount": 1853,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-13 12:45",
+    "station": "205",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.69,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-21 09:30",
+    "station": "212",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.53,
+    "amount": 1853,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-21 17:49",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-28 08:25",
+    "station": "001(4405)",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 923,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-01 11:41",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-06 16:42",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1846,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-12 12:56",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1231,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-15 17:47",
+    "station": "001(4405)",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1846,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-02-22 16:56",
+    "station": "003(4406)",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-03-09 18:11",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 16.82,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-03-12 16:39",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.28,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-03-17 13:30",
+    "station": "205",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 25.23,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA8BR",
+    "ts": "2025-03-24 15:06",
+    "station": "212",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 30.18,
+    "amount": 1854,
+    "vehicle": ""
+  }
+]

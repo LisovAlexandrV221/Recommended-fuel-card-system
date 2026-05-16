@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-31 23:30",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 22.4,
+    "amount": 1276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 18:04",
+    "station": "66",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 12:03",
+    "station": "52",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 42,
+    "amount": 2454,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 12:10",
+    "station": "528",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1461,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 13:04",
+    "station": "67",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 13:49",
+    "station": "286",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 13:52",
+    "station": "286",
+    "region": "Марий ел, республика",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 17:56",
+    "station": "493",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 43,
+    "amount": 2512,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-03 20:10",
+    "station": "493",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-04 15:32",
+    "station": "544",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 18.7,
+    "amount": 1009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-06 09:34",
+    "station": "254",
+    "region": "Чувашская республика",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-06 15:15",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-06 15:24",
+    "station": "10",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1783,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-06 19:19",
+    "station": "493",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-07 11:47",
+    "station": "528",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 18.7,
+    "amount": 1009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-07 14:46",
+    "station": "286",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1461,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-07 17:23",
+    "station": "493",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-08 09:55",
+    "station": "254",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 25.92,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-08 15:59",
+    "station": "406",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-09 10:59",
+    "station": "254",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-09 15:58",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-09 19:06",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-09 16:31",
+    "station": "615",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-10 17:31",
+    "station": "544",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 37.41,
+    "amount": 2019,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-10 17:47",
+    "station": "493",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-13 09:05",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-13 09:19",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BRB",
+    "ts": "2025-01-13 14:32",
+    "station": "210",
+    "region": "Марий ел, республика",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2294,
+    "vehicle": ""
+  }
+]

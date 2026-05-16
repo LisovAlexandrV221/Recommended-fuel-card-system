@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-24 15:37",
+    "station": "107",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-30 15:30",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 30.01,
+    "amount": 1747,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-17 08:06",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-17 14:35",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-17 15:34",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1881,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-23 11:28",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2163,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-23 09:57",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2163,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-23 14:40",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-23 10:07",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2704,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-22 09:14",
+    "station": "104",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-22 16:11",
+    "station": "104",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-31 16:19",
+    "station": "104",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 44.21,
+    "amount": 2573,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-10 06:42",
+    "station": "162",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2313,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-10 18:29",
+    "station": "162",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 20.97,
+    "amount": 1212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-24 09:53",
+    "station": "162",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-24 06:15",
+    "station": "162",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-24 18:46",
+    "station": "162",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 27.18,
+    "amount": 1582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-24 08:58",
+    "station": "104",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2704,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-14 16:39",
+    "station": "154",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-09 16:49",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 70,
+    "amount": 3761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-09 10:45",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-09 12:04",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-09 15:28",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-09 09:33",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-16 08:05",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-16 15:25",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-16 08:15",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5490,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9RW",
+    "ts": "2025-01-16 15:14",
+    "station": "134",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4117,
+    "vehicle": ""
+  }
+]

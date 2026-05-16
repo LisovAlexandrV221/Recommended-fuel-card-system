@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZ6R79",
+    "ts": "2025-05-15 19:36",
+    "station": "285",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 61.52,
+    "amount": 3584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R79",
+    "ts": "2025-05-30 12:21",
+    "station": "285",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 60.08,
+    "amount": 3517,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R79",
+    "ts": "2025-05-19 18:40",
+    "station": "АЗС №77514",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 40.04,
+    "amount": 2746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R79",
+    "ts": "2025-06-11 21:59",
+    "station": "285",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 64.52,
+    "amount": 3767,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R79",
+    "ts": "2025-06-29 21:11",
+    "station": "285",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 71.83,
+    "amount": 4219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R79",
+    "ts": "2025-06-06 19:07",
+    "station": "АЗС №77514",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 43.84,
+    "amount": 3007,
+    "vehicle": ""
+  }
+]

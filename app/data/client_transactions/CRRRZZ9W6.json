@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-27 07:30",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 28.19,
+    "amount": 1732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-21 12:52",
+    "station": "068",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 39.17,
+    "amount": 2388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-21 11:27",
+    "station": "514",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25406,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-21 20:49",
+    "station": "510",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-24 18:00",
+    "station": "399",
+    "region": "Тюменская область",
+    "fuel": "АИ-95",
+    "liters": 40.86,
+    "amount": 2544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-27 23:47",
+    "station": "494",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7653,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-22 11:25",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 49.31,
+    "amount": 2989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-17 20:46",
+    "station": "АЗС №52066",
+    "region": "Нижегородская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-24 18:55",
+    "station": "064",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17678,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-24 18:59",
+    "station": "064",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-13 21:09",
+    "station": "039",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-10 21:06",
+    "station": "132",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-14 13:36",
+    "station": "505",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-14 23:06",
+    "station": "090",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 516.38,
+    "amount": 36828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-07 10:17",
+    "station": "388",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 35.91,
+    "amount": 1926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-13 10:32",
+    "station": "388",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 30.02,
+    "amount": 1610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-14 13:39",
+    "station": "388",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1609,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-17 10:05",
+    "station": "388",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 30.06,
+    "amount": 1612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-20 09:40",
+    "station": "388",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 29.49,
+    "amount": 1592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-22 05:33",
+    "station": "389",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 25.35,
+    "amount": 1369,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-22 22:04",
+    "station": "389",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 37.77,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-22 08:06",
+    "station": "349",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 25.18,
+    "amount": 1360,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-29 10:08",
+    "station": "388",
+    "region": "Тюменская область",
+    "fuel": "АИ-92",
+    "liters": 39.25,
+    "amount": 2065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-04 13:20",
+    "station": "510",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1625,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-12 22:28",
+    "station": "510",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1625,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-22 17:55",
+    "station": "047",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 42276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-23 09:49",
+    "station": "343",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9W6",
+    "ts": "2025-01-28 12:10",
+    "station": "095",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20277,
+    "vehicle": ""
+  }
+]

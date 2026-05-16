@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-29 12:36",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 81.86,
+    "amount": 6024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-23 06:10",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 35.1,
+    "amount": 2004,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-21 20:30",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.31,
+    "amount": 5086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-15 12:02",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 72.03,
+    "amount": 5210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-13 15:38",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-08 14:47",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-12 12:54",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 39.99,
+    "amount": 2287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-08 04:00",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 21.24,
+    "amount": 1536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-03 12:48",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1716,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-01-06 11:11",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3680,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-02-26 09:07",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 66.45,
+    "amount": 4806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-02-09 05:05",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 42.6,
+    "amount": 2432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-03-03 06:08",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80.82,
+    "amount": 5850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-28 11:32",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30.02,
+    "amount": 1731,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-29 13:31",
+    "station": "11127",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 86.35,
+    "amount": 6288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-29 09:54",
+    "station": "11127",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 42.59,
+    "amount": 3101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-24 15:09",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 81.28,
+    "amount": 5903,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-18 06:38",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1151,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-21 13:13",
+    "station": "11127",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 89.08,
+    "amount": 6470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-04-03 12:49",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40.24,
+    "amount": 2308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-05-07 08:18",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60.86,
+    "amount": 4524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-05-30 09:00",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-05-14 14:33",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20.48,
+    "amount": 1181,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-05-14 08:16",
+    "station": "11127",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.01,
+    "amount": 5098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-06-24 06:45",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1445,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-06-20 06:32",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1445,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-06-16 06:35",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAXZB",
+    "ts": "2025-06-05 06:53",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1441,
+    "vehicle": ""
+  }
+]

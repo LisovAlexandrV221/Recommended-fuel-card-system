@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-15 16:23",
+    "station": "АЗС №64568",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-12 14:25",
+    "station": "АЗС №64552",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-10 18:00",
+    "station": "АЗС №64556",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2853,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-10 10:38",
+    "station": "АЗС №68856",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1918,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-08 13:16",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-08 10:37",
+    "station": "АЗС №64558",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-01-07 15:36",
+    "station": "АЗС №34450",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 44,
+    "amount": 2836,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-22 12:33",
+    "station": "АЗС №36700",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-28 12:01",
+    "station": "АЗС №64568",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-24 12:31",
+    "station": "АЗС №64573",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2548,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-22 16:50",
+    "station": "АЗС №64556",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1911,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-18 14:29",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "АИ-92",
+    "liters": 21.59,
+    "amount": 1282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-18 10:09",
+    "station": "АЗС №64554",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 28.44,
+    "amount": 1654,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-17 13:20",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-17 10:28",
+    "station": "АЗС №64558",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1911,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-13 17:55",
+    "station": "АЗС №64555",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2867,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-08 15:40",
+    "station": "АЗС №64556",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1902,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-08 10:56",
+    "station": "АЗС №36700",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-05 12:52",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-04 16:30",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 26.2,
+    "amount": 1691,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-02-04 11:31",
+    "station": "АЗС №34434",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 48,
+    "amount": 3125,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-27 19:04",
+    "station": "АЗС №34435",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-27 13:02",
+    "station": "АЗС №68856",
+    "region": "Тамбовская область",
+    "fuel": "АИ-95",
+    "liters": 27.14,
+    "amount": 1744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-24 19:40",
+    "station": "АЗС №48766",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 20.1,
+    "amount": 1184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-24 15:25",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 23.6,
+    "amount": 1531,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-24 11:05",
+    "station": "АЗС №34434",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 38.05,
+    "amount": 2488,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-24 10:34",
+    "station": "АЗС №64579",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1454,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX99",
+    "ts": "2025-03-24 10:31",
+    "station": "АЗС №64579",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 35.55,
+    "amount": 2068,
+    "vehicle": ""
+  }
+]

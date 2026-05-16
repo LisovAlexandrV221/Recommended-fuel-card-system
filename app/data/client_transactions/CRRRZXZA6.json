@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-15 08:24",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 51.09,
+    "amount": 3659,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-18 19:13",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 17.25,
+    "amount": 1246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-27 12:21",
+    "station": "030",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 62.3,
+    "amount": 4495,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-28 13:18",
+    "station": "211",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 51.39,
+    "amount": 3712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-30 08:02",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 33.85,
+    "amount": 2441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-30 08:02",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-01-31 07:05",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 77.25,
+    "amount": 5570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-02-06 10:11",
+    "station": "030",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 66.63,
+    "amount": 4829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-02-04 10:30",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 44.54,
+    "amount": 3221,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-02-09 15:48",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 56.16,
+    "amount": 4074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-02-12 07:50",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 21.4,
+    "amount": 1552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-02-28 18:00",
+    "station": "66466 АЗС 466 Первоуральск",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 67.52,
+    "amount": 4862,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-30 16:03",
+    "station": "66465 АЗС 465 Первоуральск",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 69.45,
+    "amount": 5001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-13 11:33",
+    "station": "66493 АЗС 493 Березовский",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 34.72,
+    "amount": 2500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-05 07:50",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-05 07:50",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-05 07:50",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 48.07,
+    "amount": 3475,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-10 10:05",
+    "station": "073",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 52.54,
+    "amount": 3792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-20 07:22",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-20 07:22",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-20 07:22",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 45.45,
+    "amount": 3295,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-23 14:53",
+    "station": "030",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 55.36,
+    "amount": 4019,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-25 10:00",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-25 10:00",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-25 10:00",
+    "station": "028",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 42.28,
+    "amount": 3074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-27 07:19",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 52.12,
+    "amount": 3781,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-27 07:19",
+    "station": "032",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZA6",
+    "ts": "2025-03-07 14:36",
+    "station": "66448 АЗС 448 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  }
+]

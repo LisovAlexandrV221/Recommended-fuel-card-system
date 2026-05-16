@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-30 13:06",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 27.89,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-21 18:36",
+    "station": "59135 ААЗС 135 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 28,
+    "amount": 1733,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-28 20:41",
+    "station": "59123 АЗС 123 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 42.79,
+    "amount": 3130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-31 17:25",
+    "station": "11254",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 43.75,
+    "amount": 3195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-31 10:24",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 34.86,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-30 20:35",
+    "station": "59124 АЗС 124 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.86,
+    "amount": 2041,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-30 10:40",
+    "station": "59124 АЗС 124 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 27.89,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-30 17:55",
+    "station": "59135 ААЗС 135 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-30 16:24",
+    "station": "59009 АЗС 9 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3657,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-29 14:44",
+    "station": "59125 АЗС 125 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-100",
+    "liters": 45.24,
+    "amount": 3952,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-29 10:39",
+    "station": "59012 АЗС 12 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 59.85,
+    "amount": 4377,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-28 10:13",
+    "station": "59135 ААЗС 135 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 42.15,
+    "amount": 3059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-28 08:23",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 38.71,
+    "amount": 2417,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-27 16:21",
+    "station": "59131 ААЗС 131 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 42.15,
+    "amount": 3059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-27 11:14",
+    "station": "59001 АЗС 1 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 20.91,
+    "amount": 1529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-26 15:16",
+    "station": "59123 АЗС 123 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 56.94,
+    "amount": 3555,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-24 16:30",
+    "station": "59008 АЗС 8 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 35.61,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-24 10:33",
+    "station": "59071 АЗС 71 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.84,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-24 10:22",
+    "station": "59033 АЗС 33 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 30.24,
+    "amount": 1888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-23 16:41",
+    "station": "59008 АЗС 8 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 55.78,
+    "amount": 4080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-23 15:47",
+    "station": "59124 АЗС 124 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3657,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-23 13:23",
+    "station": "59094 АЗС 94 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 41.83,
+    "amount": 3059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-23 11:20",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 41.83,
+    "amount": 3059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-22 14:15",
+    "station": "59001 АЗС 1 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 27.89,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-22 10:31",
+    "station": "59012 АЗС 12 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 64.73,
+    "amount": 4734,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-21 13:38",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 35.96,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-20 21:09",
+    "station": "59124 АЗС 124 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 57.48,
+    "amount": 3570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWBB",
+    "ts": "2025-01-18 10:06",
+    "station": "59004 АЗС 4 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.87,
+    "amount": 2042,
+    "vehicle": ""
+  }
+]

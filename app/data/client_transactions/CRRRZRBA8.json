@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-29 10:53",
+    "station": "АЗС №69442",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17768,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-27 11:31",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-22 20:01",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-20 07:48",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-17 13:33",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2323,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-09 10:51",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-29 09:27",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.01,
+    "amount": 5317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-28 15:09",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-27 11:58",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 7.11,
+    "amount": 540,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-27 11:40",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-22 01:24",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-01-10 12:32",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-28 11:40",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-26 11:58",
+    "station": "АЗС №69442",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24983,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-28 14:21",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-24 09:46",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-21 00:16",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-14 12:28",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-05 22:59",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-03 13:47",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-02 17:14",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-07 12:56",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-25 19:30",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21882,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-21 16:28",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-25 08:14",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-18 07:45",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-15 09:08",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBA8",
+    "ts": "2025-02-14 09:13",
+    "station": "АЗС № 35460 Северное шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2358,
+    "vehicle": ""
+  }
+]

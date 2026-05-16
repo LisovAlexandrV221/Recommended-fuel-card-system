@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 21:40",
+    "station": "11088",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 83.58,
+    "amount": 5614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 06:43",
+    "station": "11088",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 34.01,
+    "amount": 2284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 21:16",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 39.55,
+    "amount": 2657,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 21:03",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 38.86,
+    "amount": 2610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 20:51",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 83.6,
+    "amount": 5615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 19:05",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1343,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 07:15",
+    "station": "АЗС №50203",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 74.89,
+    "amount": 5090,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 07:15",
+    "station": "АЗС №50203",
+    "region": "Московская область",
+    "fuel": "АDBLUE",
+    "liters": 1,
+    "amount": 1357,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-31 05:49",
+    "station": "33224",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 21:55",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 73.34,
+    "amount": 4926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 20:34",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 51.33,
+    "amount": 3448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 19:41",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 43.99,
+    "amount": 2955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 19:06",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 32.98,
+    "amount": 2215,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 11:44",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 60.35,
+    "amount": 4054,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 06:46",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 46.93,
+    "amount": 3152,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 06:45",
+    "station": "АЗС №50215",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4078,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-30 05:33",
+    "station": "33224",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 59.47,
+    "amount": 4036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 21:42",
+    "station": "11088",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 77.25,
+    "amount": 5189,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 20:41",
+    "station": "11088",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 82.12,
+    "amount": 5516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 21:11",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 33.61,
+    "amount": 2258,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 19:05",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 35.37,
+    "amount": 2376,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 06:31",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 48.39,
+    "amount": 3250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 06:16",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 58.66,
+    "amount": 3940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 10:44",
+    "station": "АЗС №50215",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-29 05:35",
+    "station": "33224",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-28 21:37",
+    "station": "11088",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 83.48,
+    "amount": 5607,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-28 20:40",
+    "station": "11088",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 86.52,
+    "amount": 5812,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9RW",
+    "ts": "2025-03-28 21:22",
+    "station": "11089",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 44.92,
+    "amount": 3017,
+    "vehicle": ""
+  }
+]

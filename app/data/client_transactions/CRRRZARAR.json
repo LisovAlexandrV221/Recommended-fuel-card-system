@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-05 15:54",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 25.68,
+    "amount": 1628,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-31 20:08",
+    "station": "АЗС № 78133 Красное Село-2",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 52.53,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-31 10:56",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 44.13,
+    "amount": 3168,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-30 17:47",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 21.07,
+    "amount": 1336,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-30 16:36",
+    "station": "АЗС № 78124 Кушелевка-2",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 51.06,
+    "amount": 3666,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-28 17:39",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 19.27,
+    "amount": 1222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-27 21:49",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 54.57,
+    "amount": 3918,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-26 16:58",
+    "station": "АЗС № 78124 Кушелевка-2",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 71.01,
+    "amount": 5098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-26 14:35",
+    "station": "АЗС № 78173 Жукова-2",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 20.09,
+    "amount": 1274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-26 10:36",
+    "station": "АЗС № 78123 Красное Село-1",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 46.3,
+    "amount": 2638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-25 00:12",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 62.03,
+    "amount": 4453,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-24 16:37",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 19.84,
+    "amount": 1258,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-24 15:35",
+    "station": "АЗС № 78125 Осиновая роща",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 60.73,
+    "amount": 4360,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-22 17:55",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 18.09,
+    "amount": 1147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-21 08:54",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 71.35,
+    "amount": 5122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-20 21:12",
+    "station": "АЗС № 78097 Жукова",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 51.43,
+    "amount": 2930,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-20 17:51",
+    "station": "ААЗС № 78145 Матросова",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3921,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-20 17:44",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 22.15,
+    "amount": 1405,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-18 05:16",
+    "station": "АЗС № 78060 Аэропорт",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 47.38,
+    "amount": 3401,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-17 17:48",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 19.95,
+    "amount": 1265,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-17 09:34",
+    "station": "АЗС № 78123 Красное Село-1",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 38.96,
+    "amount": 2220,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-15 22:51",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 54.18,
+    "amount": 3890,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-15 17:49",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 17.79,
+    "amount": 1128,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-15 13:28",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 67.69,
+    "amount": 4859,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-14 09:40",
+    "station": "АЗС № 78123 Красное Село-1",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 27.38,
+    "amount": 1560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-14 08:26",
+    "station": "АЗС № 78100 Добролюбова",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 73.83,
+    "amount": 5300,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-13 17:51",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 15.17,
+    "amount": 962,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARAR",
+    "ts": "2025-01-10 17:47",
+    "station": "АЗС № 78084 Стачек",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 23.76,
+    "amount": 1507,
+    "vehicle": ""
+  }
+]

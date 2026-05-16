@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-01-03 17:45",
+    "station": "347",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 64.04,
+    "amount": 4569,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-02-25 09:50",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 69.36,
+    "amount": 4730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-02-10 23:30",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 62.77,
+    "amount": 4294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-02-16 17:59",
+    "station": "347",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 44.79,
+    "amount": 3149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-02-10 15:37",
+    "station": "АЗС №52020",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 14.58,
+    "amount": 1034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-04 14:11",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 45.6,
+    "amount": 3164,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-22 11:34",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 14.52,
+    "amount": 1035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-03 19:26",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 14.52,
+    "amount": 1035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-02 19:35",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-28 19:51",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 58.02,
+    "amount": 4058,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-28 19:55",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 60.49,
+    "amount": 3764,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-03-22 15:19",
+    "station": "347",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 58.57,
+    "amount": 4148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-04-02 15:03",
+    "station": "233",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 39.82,
+    "amount": 2474,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-04-10 23:13",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 10.1,
+    "amount": 724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-04-08 20:43",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 28.86,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-04-05 11:15",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 28.86,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-04-02 19:20",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-31 18:25",
+    "station": "232",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 31.98,
+    "amount": 1809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-30 23:55",
+    "station": "347",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 58.09,
+    "amount": 4145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-20 15:09",
+    "station": "347",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 65.16,
+    "amount": 4649,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-22 20:01",
+    "station": "207",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 26.16,
+    "amount": 1492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-30 20:30",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 14.44,
+    "amount": 1036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-15 20:05",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 69.01,
+    "amount": 4950,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-20 17:16",
+    "station": "АЗС №52008",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 586,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-05-25 18:26",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 28.87,
+    "amount": 2071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-06-29 21:13",
+    "station": "208",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 17.34,
+    "amount": 994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-06-19 17:57",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 41.52,
+    "amount": 2362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WAX",
+    "ts": "2025-06-22 08:18",
+    "station": "243",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 37,
+    "amount": 2107,
+    "vehicle": ""
+  }
+]

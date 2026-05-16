@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-27 10:33",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-27 10:10",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 166.47,
+    "amount": 11635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-31 12:37",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 160.42,
+    "amount": 11212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-31 11:46",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 110,
+    "amount": 7688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-31 11:45",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 152.01,
+    "amount": 10624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-29 16:29",
+    "station": "АЗС № 47241 Тосно",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 38.02,
+    "amount": 2368,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-29 06:20",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 50.45,
+    "amount": 3526,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-29 06:19",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 153.45,
+    "amount": 10725,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-28 17:05",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 42,
+    "amount": 2559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-28 10:17",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 145.23,
+    "amount": 10150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-28 10:09",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-25 13:21",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 143.94,
+    "amount": 10060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-25 13:18",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 99.43,
+    "amount": 6949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 11:51",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 11:15",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 63.8,
+    "amount": 3888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 10:30",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 191.29,
+    "amount": 13369,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 09:44",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 31.77,
+    "amount": 2220,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 05:21",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 95.59,
+    "amount": 6681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 04:52",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 115,
+    "amount": 8037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-24 04:49",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-21 17:26",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5591,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-21 14:37",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-18 13:03",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-17 11:49",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-17 11:44",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 104.31,
+    "amount": 7290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-17 11:06",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 115,
+    "amount": 8037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-16 14:30",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 107.83,
+    "amount": 7536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXW6A",
+    "ts": "2025-01-16 08:06",
+    "station": "АЗС № 53067 Хвойная",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 153.05,
+    "amount": 10697,
+    "vehicle": ""
+  }
+]

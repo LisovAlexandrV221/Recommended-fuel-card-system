@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-11 09:22",
+    "station": "702",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 420,
+    "amount": 33533,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-12 10:51",
+    "station": "5",
+    "region": "Республика Бурятия",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 21694,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-12 11:00",
+    "station": "5",
+    "region": "Республика Бурятия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3874,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-13 06:58",
+    "station": "143",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-13 12:55",
+    "station": "29",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 13887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-14 13:47",
+    "station": "3",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 24157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-14 13:48",
+    "station": "3",
+    "region": "Красноярский край",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-15 11:37",
+    "station": "72",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 24637,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-18 17:29",
+    "station": "702",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-21 11:27",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-21 11:30",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 26.89,
+    "amount": 2122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-21 11:34",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2368,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-22 08:26",
+    "station": "703",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 4309,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-28 09:20",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 2179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-29 13:23",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1557,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-26 14:51",
+    "station": "43011 АЗС 11 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10978,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-03-17 15:18",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7345,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-03 11:22",
+    "station": "116",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 265.29,
+    "amount": 19743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-04 12:19",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-05 09:18",
+    "station": "2",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15160,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-05 20:53",
+    "station": "38",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-06 17:27",
+    "station": "143",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19365,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-07 11:10",
+    "station": "5",
+    "region": "Республика Бурятия",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-07 22:58",
+    "station": "704",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-08 02:23",
+    "station": "702",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 18409,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-08 11:40",
+    "station": "203",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-13 15:20",
+    "station": "5",
+    "region": "Республика Бурятия",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19498,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ68R",
+    "ts": "2025-04-14 13:28",
+    "station": "54",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 23331,
+    "vehicle": ""
+  }
+]

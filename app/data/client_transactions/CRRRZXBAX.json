@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-10 11:56",
+    "station": "330",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 114.07,
+    "amount": 8279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-10 21:56",
+    "station": "290",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 102.08,
+    "amount": 7253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-12 13:17",
+    "station": "254",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 138.16,
+    "amount": 9833,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-16 08:56",
+    "station": "339",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 127.64,
+    "amount": 9315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-21 15:37",
+    "station": "373",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 137.05,
+    "amount": 10013,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-22 14:06",
+    "station": "352",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 60.52,
+    "amount": 4453,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-25 01:08",
+    "station": "496",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 64.44,
+    "amount": 5175,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-25 18:49",
+    "station": "496",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-28 00:44",
+    "station": "496",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 64.44,
+    "amount": 5175,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-28 15:08",
+    "station": "377",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-28 16:56",
+    "station": "АЗС № 72217",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-27 14:47",
+    "station": "72318 АЗС 318",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 69.31,
+    "amount": 4749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-26 07:15",
+    "station": "АЗС № 72217",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-01-24 14:01",
+    "station": "72318 АЗС 318",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 124.77,
+    "amount": 8549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-03 11:27",
+    "station": "377",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 116.19,
+    "amount": 9069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-04 13:08",
+    "station": "377",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 92.82,
+    "amount": 7245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-09 13:50",
+    "station": "377",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 100.23,
+    "amount": 7852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-10 23:25",
+    "station": "3149",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-13 18:15",
+    "station": "3151",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 61,
+    "amount": 5188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-18 16:13",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 98.53,
+    "amount": 8279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-22 13:32",
+    "station": "377",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 74.93,
+    "amount": 5884,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-25 13:44",
+    "station": "377",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 100.59,
+    "amount": 7899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-28 11:04",
+    "station": "369",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 22.86,
+    "amount": 1738,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-28 12:27",
+    "station": "419",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 111,
+    "amount": 8193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-27 04:04",
+    "station": "72321 АЗС 321",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 68.73,
+    "amount": 4729,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-27 17:54",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 45.39,
+    "amount": 3325,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-27 00:28",
+    "station": "72318 АЗС 318",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 43.17,
+    "amount": 2971,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBAX",
+    "ts": "2025-02-26 19:19",
+    "station": "72321 АЗС 321",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 137.92,
+    "amount": 9490,
+    "vehicle": ""
+  }
+]

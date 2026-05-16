@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-18 12:09",
+    "station": "685",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 318.51,
+    "amount": 20668,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-21 15:39",
+    "station": "626",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-22 19:13",
+    "station": "516",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-24 10:31",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1609,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-26 09:31",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 60.5,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-26 15:19",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 329.58,
+    "amount": 22220,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-22 17:00",
+    "station": "291",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28608,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-23 20:23",
+    "station": "441",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-29 12:21",
+    "station": "11",
+    "region": "Ямало-Ненецкий автономный округ",
+    "fuel": "ДТ",
+    "liters": 334.8,
+    "amount": 27397,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-19 21:04",
+    "station": "453",
+    "region": "ЯНАО",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 23427,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-18 12:30",
+    "station": "220",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 49546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-18 12:39",
+    "station": "220",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 270.09,
+    "amount": 19117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-23 18:17",
+    "station": "352",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 58864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-31 17:37",
+    "station": "033",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 36075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-31 18:00",
+    "station": "033",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 36075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-29 18:45",
+    "station": "358",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-27 23:13",
+    "station": "004",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 53.26,
+    "amount": 3299,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-30 10:37",
+    "station": "352",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 499.36,
+    "amount": 36743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-01-24 16:11",
+    "station": "606",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 49.33,
+    "amount": 3079,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-01 04:55",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 51.85,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-02 04:26",
+    "station": "578",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-03 12:56",
+    "station": "78",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 12268,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-03 13:06",
+    "station": "78",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 24536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-03 13:18",
+    "station": "78",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-03 11:30",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 34.57,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-04 19:55",
+    "station": "378",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6543,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-12 14:41",
+    "station": "71",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 60.5,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR8W",
+    "ts": "2025-02-12 20:58",
+    "station": "596",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 55552,
+    "vehicle": ""
+  }
+]

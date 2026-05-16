@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-02-16 10:31",
+    "station": "-",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 12.63,
+    "amount": 875,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-04-25 20:10",
+    "station": "703",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 548.58,
+    "amount": 43261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-04-28 07:20",
+    "station": "АЗС БАШНЕФТЬ 021-001",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2084,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-04-28 07:58",
+    "station": "АЗС БАШНЕФТЬ 21-008",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-05-19 13:53",
+    "station": "21-001",
+    "region": "Чувашская Республика",
+    "fuel": "АИ-92",
+    "liters": 19.64,
+    "amount": 1133,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-06-12 10:17",
+    "station": "701",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 39635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8897",
+    "ts": "2025-06-12 10:32",
+    "station": "701",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 395.62,
+    "amount": 31361,
+    "vehicle": ""
+  }
+]

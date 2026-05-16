@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-29 09:22",
+    "station": "59028 АЗС 28 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 19.02,
+    "amount": 1068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-17 09:25",
+    "station": "59028 АЗС 28 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 22.25,
+    "amount": 1250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-24 13:39",
+    "station": "59054 АЗС 54 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 32.48,
+    "amount": 1824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-05 10:33",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 24.68,
+    "amount": 1386,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-31 10:32",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 53.21,
+    "amount": 2988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-29 17:30",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 21.43,
+    "amount": 1204,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-28 16:01",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 36.31,
+    "amount": 2039,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-27 11:44",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 92.65,
+    "amount": 5203,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-27 11:40",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 50.04,
+    "amount": 3047,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-27 11:39",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 150,
+    "amount": 8424,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-27 16:30",
+    "station": "59054 АЗС 54 Чусовой",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 25.73,
+    "amount": 1827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-25 12:34",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 66.45,
+    "amount": 4717,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-24 09:18",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 45.05,
+    "amount": 3198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-23 16:50",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 22.55,
+    "amount": 1266,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-21 09:37",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 29.32,
+    "amount": 1647,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-20 13:21",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 63.23,
+    "amount": 4489,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-20 11:18",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 31.62,
+    "amount": 1776,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-17 19:39",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 16.68,
+    "amount": 1016,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-17 19:34",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 74.93,
+    "amount": 5319,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-17 11:45",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 35.4,
+    "amount": 1988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-16 11:57",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 34.75,
+    "amount": 1952,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-14 12:22",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 42.13,
+    "amount": 2366,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-14 12:18",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 100.3,
+    "amount": 6107,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-14 12:18",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 176.28,
+    "amount": 9900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-13 13:31",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 89,
+    "amount": 6318,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-13 12:04",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 33.72,
+    "amount": 1894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-10 13:45",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 30.06,
+    "amount": 1688,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB88Z",
+    "ts": "2025-01-06 09:28",
+    "station": "59087 АЗС 87 Чусовой",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 39.45,
+    "amount": 2216,
+    "vehicle": ""
+  }
+]

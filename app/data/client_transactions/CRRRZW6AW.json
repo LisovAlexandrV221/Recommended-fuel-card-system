@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-01-28 14:10",
+    "station": "АЗС №77629",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 50.01,
+    "amount": 2845,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-02-28 11:10",
+    "station": "АЗС №50264",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 53.15,
+    "amount": 2988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-02-24 10:23",
+    "station": "АЗС №77629",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 56.54,
+    "amount": 3233,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-02-11 14:10",
+    "station": "АЗС №77560",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 35.17,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-02-06 09:38",
+    "station": "АЗС №50264",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 44.24,
+    "amount": 2473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-03-20 10:51",
+    "station": "АЗС №77629",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 17.49,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-03-07 11:42",
+    "station": "АЗС №77629",
+    "region": "г.Москва",
+    "fuel": "АИ-92",
+    "liters": 54.88,
+    "amount": 3138,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-03-01 19:47",
+    "station": "АЗС №50238",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-03-01 19:47",
+    "station": "АЗС №50238",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 107,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6AW",
+    "ts": "2025-03-01 19:47",
+    "station": "АЗС №50238",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  }
+]

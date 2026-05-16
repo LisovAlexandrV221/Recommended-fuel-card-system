@@ -1,0 +1,50 @@
+﻿[
+    {
+        "id":  "u1",
+        "name":  "Е. Соколова",
+        "login":  "sokolova",
+        "role":  "manager",
+        "status":  "active",
+        "last":  "2026-05-15 09:50"
+    },
+    {
+        "id":  "u2",
+        "name":  "А. Морозов",
+        "login":  "morozov",
+        "role":  "manager",
+        "status":  "active",
+        "last":  "2026-05-15 08:34"
+    },
+    {
+        "id":  "u3",
+        "name":  "И. Калинина",
+        "login":  "kalinina",
+        "role":  "manager",
+        "status":  "blocked",
+        "last":  "2026-04-29 18:02"
+    },
+    {
+        "id":  "u4",
+        "name":  "Д. Петров",
+        "login":  "petrov",
+        "role":  "admin",
+        "status":  "active",
+        "last":  "2026-05-15 10:12"
+    },
+    {
+        "id":  "u5",
+        "name":  "М. Чернышев",
+        "login":  "chernyshev",
+        "role":  "manager",
+        "status":  "active",
+        "last":  "2026-05-14 17:21"
+    },
+    {
+        "id":  "u6",
+        "name":  "А.В.Лисов",
+        "login":  "lisov",
+        "role":  "admin",
+        "status":  "active",
+        "last":  "-"
+    }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-01-14 11:04",
+    "station": "АЗС № 78131 Московская Славянка",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 78.56,
+    "amount": 5640,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-01-30 05:49",
+    "station": "АЗС № 78137 Колпино",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-01-29 12:31",
+    "station": "АЗС № 78131 Московская Славянка",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 79.11,
+    "amount": 5679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-01-25 10:48",
+    "station": "АЗС № 78137 Колпино",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-02-18 09:38",
+    "station": "11192",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 88.96,
+    "amount": 6244,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-02-04 09:35",
+    "station": "11192",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65.37,
+    "amount": 4588,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-02-14 20:01",
+    "station": "АЗС № 47112 Ям-Ижора-2 (л)",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 69.74,
+    "amount": 5028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-02-03 05:47",
+    "station": "АЗС № 78137 Колпино",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 60.01,
+    "amount": 4308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-31 13:37",
+    "station": "11180",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 36.95,
+    "amount": 2289,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-28 18:32",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 38.07,
+    "amount": 2358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-28 15:36",
+    "station": "ААЗС № 78144 Свердловская-2",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 48.07,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-28 06:59",
+    "station": "11175",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 59.4,
+    "amount": 3403,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-27 09:44",
+    "station": "11101",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 48.91,
+    "amount": 3049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-24 18:35",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 32.95,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-21 19:24",
+    "station": "11180",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 50.62,
+    "amount": 3128,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-20 18:05",
+    "station": "11151",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 53.75,
+    "amount": 3321,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-20 12:12",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 32.84,
+    "amount": 2029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-19 19:58",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 31.09,
+    "amount": 1921,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-15 17:05",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 31.31,
+    "amount": 1935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-14 10:21",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 52.49,
+    "amount": 3243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-14 09:24",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 55.48,
+    "amount": 3428,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-13 20:26",
+    "station": "11180",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 31.32,
+    "amount": 1935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-12 19:35",
+    "station": "АЗС № 78174 Заводская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 15.9,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-21 14:22",
+    "station": "11192",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 87.86,
+    "amount": 6246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-10 12:50",
+    "station": "11192",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5663,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-04 10:59",
+    "station": "АЗС № 47112 Ям-Ижора-2 (л)",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 70.23,
+    "amount": 5063,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-03-18 13:41",
+    "station": "АЗС № 47112 Ям-Ижора-2 (л)",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 69.63,
+    "amount": 5020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBXR",
+    "ts": "2025-04-30 15:35",
+    "station": "11180",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 32.8,
+    "amount": 2051,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-25 09:42",
+    "station": "АЗС №33030",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 37.62,
+    "amount": 2332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-22 06:44",
+    "station": "АЗС №33074",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 43.6,
+    "amount": 2977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-13 11:49",
+    "station": "АЗС №33030",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.1,
+    "amount": 4240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-22 19:39",
+    "station": "АЗС №61309",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 56.77,
+    "amount": 3962,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-24 16:26",
+    "station": "АЗС №48757",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 63.31,
+    "amount": 4398,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-24 10:14",
+    "station": "АЗС №61361",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 61.97,
+    "amount": 4325,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-01-22 14:36",
+    "station": "АЗС № 36246",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4202,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-03-27 07:23",
+    "station": "АЗС №33030",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60.74,
+    "amount": 4166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-03-31 13:01",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 33.52,
+    "amount": 2402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-03-27 10:45",
+    "station": "АЗС №69474",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 54,
+    "amount": 3862,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-03-27 12:32",
+    "station": "АЗС № 53267 Окуловка-2",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 35.04,
+    "amount": 2511,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW8X",
+    "ts": "2025-04-02 16:32",
+    "station": "АЗС №33004",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 63.73,
+    "amount": 4371,
+    "vehicle": ""
+  }
+]

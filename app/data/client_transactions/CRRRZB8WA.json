@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-10 14:38",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-10 14:43",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 9955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-15 10:17",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-24 12:15",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-25 09:32",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-16 17:54",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 38.99,
+    "amount": 2383,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-31 15:23",
+    "station": "АЗС №52024",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 31.26,
+    "amount": 1910,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-01-12 15:50",
+    "station": "АЗС №52054",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 67.96,
+    "amount": 4153,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-02 09:51",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-02 09:57",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 10045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-07 12:55",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-08 10:10",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-11 03:38",
+    "station": "410",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-17 11:11",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-19 11:38",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-22 14:05",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-26 13:07",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 39.76,
+    "amount": 2341,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-26 13:44",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 33.28,
+    "amount": 2044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-23 21:34",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 56.42,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-21 08:53",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 39.52,
+    "amount": 2429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-19 07:40",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30.09,
+    "amount": 1848,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-18 06:03",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 24.87,
+    "amount": 1529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-02-11 09:57",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 27.33,
+    "amount": 1670,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-03-28 09:42",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 13945,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-03-29 10:46",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2384,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-03-01 10:22",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12556,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-03-02 09:56",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WA",
+    "ts": "2025-03-02 10:03",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 12249,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-31 21:34",
+    "station": "АЗС №50264",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 72,
+    "amount": 5119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-31 12:55",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 52,
+    "amount": 4008,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-30 21:59",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 52,
+    "amount": 3689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-29 18:20",
+    "station": "АЗС №77558",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 74,
+    "amount": 5358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-28 18:48",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 71.6,
+    "amount": 5518,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-28 12:19",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5395,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-27 16:27",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 81.01,
+    "amount": 6243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-23 16:30",
+    "station": "АЗС №50264",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 86.63,
+    "amount": 6159,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-22 17:28",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 49,
+    "amount": 3776,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-21 18:26",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 63,
+    "amount": 4855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-21 11:25",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-21 05:52",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 84,
+    "amount": 6474,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-19 22:54",
+    "station": "АЗС №50264",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 82.91,
+    "amount": 5895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-19 12:05",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 76,
+    "amount": 5857,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-14 17:32",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 84,
+    "amount": 6430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-14 06:41",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 87,
+    "amount": 6705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-12 20:51",
+    "station": "АЗС №50264",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 77.39,
+    "amount": 5502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-01-12 12:21",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3468,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-06 06:42",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-05 05:44",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 87.32,
+    "amount": 6730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-05 13:32",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 76.67,
+    "amount": 5909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-28 00:44",
+    "station": "АЗС №77721",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 87,
+    "amount": 6326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-28 10:43",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 78,
+    "amount": 6036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-27 08:02",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4643,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-26 16:48",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 52,
+    "amount": 3997,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-26 09:46",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-22 01:56",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 85,
+    "amount": 6577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6WZW",
+    "ts": "2025-02-21 12:08",
+    "station": "АЗС №77558",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 83,
+    "amount": 6035,
+    "vehicle": ""
+  }
+]

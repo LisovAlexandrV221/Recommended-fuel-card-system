@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-07 17:48",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 65,
+    "amount": 3945,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-13 08:43",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 28.25,
+    "amount": 1980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-21 14:51",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.58,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-21 15:41",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 738,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-21 17:01",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.36,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-23 15:33",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.06,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-24 09:12",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-28 17:05",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49.35,
+    "amount": 3030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-30 08:41",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 35.01,
+    "amount": 2475,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-30 11:35",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-23 16:55",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 28.43,
+    "amount": 1634,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-16 17:47",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-11 10:43",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.52,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-03 14:35",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 9.7,
+    "amount": 722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-07 14:44",
+    "station": "АЗС №58612",
+    "region": "Пензенская область",
+    "fuel": "АИ-92",
+    "liters": 25.93,
+    "amount": 1480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-07 10:33",
+    "station": "АЗС №64582",
+    "region": "Саратовская область",
+    "fuel": "АИ-92",
+    "liters": 31.44,
+    "amount": 1784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-03 16:16",
+    "station": "АЗС №34415",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 30.6,
+    "amount": 1750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-01-03 09:35",
+    "station": "АЗС №34450",
+    "region": "Волгоградская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-06 13:32",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 57.57,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-07 11:16",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.14,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-12 09:40",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.14,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-12 15:46",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 2,
+    "amount": 123,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-18 16:45",
+    "station": "555",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.45,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-19 09:06",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.14,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-20 13:45",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.45,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-22 19:11",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 57.57,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-27 17:28",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30.11,
+    "amount": 1740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA6XW",
+    "ts": "2025-02-10 17:21",
+    "station": "АЗС № 35456 Маяковская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1150,
+    "vehicle": ""
+  }
+]

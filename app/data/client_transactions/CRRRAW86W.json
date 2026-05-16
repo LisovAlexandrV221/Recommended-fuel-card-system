@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-31 13:52",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-30 07:29",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 54.89,
+    "amount": 3219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-30 18:48",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-28 14:41",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-23 12:02",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58,
+    "amount": 4405,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-23 23:12",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-22 17:06",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 22374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-22 20:30",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-17 15:46",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.03,
+    "amount": 5283,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-14 14:50",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-31 19:32",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-31 04:30",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-29 20:22",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-28 22:11",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-24 04:20",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-21 22:47",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-21 05:48",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-20 04:59",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-19 21:17",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-16 11:13",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13984,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-15 15:52",
+    "station": "АЗС № 47074 Пижма",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-14 21:56",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13984,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-14 22:31",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-01 12:21",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-30 23:39",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21969,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-28 21:40",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-16 20:44",
+    "station": "АЗС №76104",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAW86W",
+    "ts": "2025-01-24 18:36",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21969,
+    "vehicle": ""
+  }
+]

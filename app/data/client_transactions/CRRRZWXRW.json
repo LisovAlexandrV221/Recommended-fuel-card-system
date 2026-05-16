@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-30 13:06",
+    "station": "АЗС №34440",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 33.42,
+    "amount": 2306,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-29 11:33",
+    "station": "АЗС №34491",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 36.31,
+    "amount": 2506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-27 14:14",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.47,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-27 13:29",
+    "station": "АЗС №34453",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 46.83,
+    "amount": 3232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-23 09:40",
+    "station": "АЗС №34482",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.47,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-21 13:01",
+    "station": "АЗС №30681",
+    "region": "Астраханская область",
+    "fuel": "ДТ",
+    "liters": 43.05,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-20 12:59",
+    "station": "АЗС №34486",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 41.3,
+    "amount": 2850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-16 11:23",
+    "station": "АЗС №34487",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.47,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-15 16:26",
+    "station": "АЗС №34486",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 42.12,
+    "amount": 2907,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-13 10:08",
+    "station": "АЗС №34486",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 36.94,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-01-09 08:45",
+    "station": "АЗС №34513",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.47,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-26 15:21",
+    "station": "АЗС №34437",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.28,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-24 14:09",
+    "station": "АЗС №34513",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 36.1,
+    "amount": 2502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-14 17:10",
+    "station": "АЗС №34482",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.28,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-13 09:41",
+    "station": "АЗС №34513",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 41.39,
+    "amount": 2869,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-25 15:13",
+    "station": "АЗС №34486",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 31.5,
+    "amount": 2183,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-25 13:01",
+    "station": "АЗС №34485",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.28,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-11 10:16",
+    "station": "АЗС №34514",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 33.53,
+    "amount": 2314,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-17 18:45",
+    "station": "АЗС №34435",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 40.85,
+    "amount": 2831,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-28 18:15",
+    "station": "АЗС №34435",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 40.7,
+    "amount": 2821,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-21 17:14",
+    "station": "АЗС №34435",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 30.3,
+    "amount": 2100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-20 17:45",
+    "station": "АЗС №34490",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 34.93,
+    "amount": 2421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-20 09:39",
+    "station": "АЗС №34420",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.28,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-14 17:43",
+    "station": "АЗС №34453",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 32.47,
+    "amount": 2250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-11 15:24",
+    "station": "АЗС №34498",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.47,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-07 15:53",
+    "station": "АЗС №34435",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 44.65,
+    "amount": 3081,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-05 11:45",
+    "station": "АЗС №34513",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 35.02,
+    "amount": 2417,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXRW",
+    "ts": "2025-02-04 11:50",
+    "station": "АЗС №34524",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 43.47,
+    "amount": 3000,
+    "vehicle": ""
+  }
+]

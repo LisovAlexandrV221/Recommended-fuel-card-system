@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-28 11:24",
+    "station": "02149 АЗС 149",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 36.66,
+    "amount": 2219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-28 09:09",
+    "station": "18040 АЗС 40 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 53.65,
+    "amount": 3255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-28 07:49",
+    "station": "18058 АЗС 58 Сарапул",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 52.33,
+    "amount": 3192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-26 11:39",
+    "station": "18001 АЗС 1 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 32.56,
+    "amount": 1976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-22 11:12",
+    "station": "18040 АЗС 40 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 42.3,
+    "amount": 2347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-19 18:15",
+    "station": "59089 АЗС 89 Куеда",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 47.16,
+    "amount": 2636,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-19 10:10",
+    "station": "59038 АЗС 38 Орда",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 43.84,
+    "amount": 2451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-18 16:33",
+    "station": "18062 АЗС 62 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 47.15,
+    "amount": 2616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-17 17:40",
+    "station": "18105 АЗС 105 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 48.77,
+    "amount": 2975,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-15 16:40",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 49.13,
+    "amount": 2997,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-13 17:21",
+    "station": "18105 АЗС 105 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 52.22,
+    "amount": 3185,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-13 11:03",
+    "station": "18025 АЗС 25 Нылга",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 52.89,
+    "amount": 2935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-10 07:43",
+    "station": "18040 АЗС 40 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 52.82,
+    "amount": 2915,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-08 11:42",
+    "station": "18005 АЗС 5 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 44.57,
+    "amount": 2706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-02-07 19:58",
+    "station": "18052 АЗС 52 Можга",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 40.99,
+    "amount": 2475,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-31 11:59",
+    "station": "59082 АЗС 82 Чернушка",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 44.67,
+    "amount": 2497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-29 10:08",
+    "station": "18041 АЗС 41 Завьялово",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 65.15,
+    "amount": 3953,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-27 17:15",
+    "station": "18093 АЗС 93 Алнаши",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 45.19,
+    "amount": 2508,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-27 09:00",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 49.12,
+    "amount": 2726,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-25 18:17",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 52.6,
+    "amount": 2744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-25 12:15",
+    "station": "АЗС №52132",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 49.69,
+    "amount": 2761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-24 18:36",
+    "station": "АЗС №21075",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 39,
+    "amount": 2173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-24 16:26",
+    "station": "18093 АЗС 93 Алнаши",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 45.99,
+    "amount": 2552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-24 12:37",
+    "station": "18040 АЗС 40 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 52.31,
+    "amount": 3174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-22 11:19",
+    "station": "18006 АЗС 6 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 54.03,
+    "amount": 2998,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-20 17:18",
+    "station": "59089 АЗС 89 Куеда",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 39.82,
+    "amount": 2226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-20 10:07",
+    "station": "59038 АЗС 38 Орда",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2726,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX7WW",
+    "ts": "2025-03-19 16:30",
+    "station": "18062 АЗС 62 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-92",
+    "liters": 48.47,
+    "amount": 2690,
+    "vehicle": ""
+  }
+]

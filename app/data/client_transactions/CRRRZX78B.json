@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-28 02:52",
+    "station": "74142 АЗС 142",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-26 15:56",
+    "station": "86612 АЗС 12",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 388.71,
+    "amount": 28772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-26 15:37",
+    "station": "86612 АЗС 12",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 389,
+    "amount": 28794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-26 00:12",
+    "station": "АЗС № 42438",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 403.22,
+    "amount": 28798,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-24 17:49",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 835.71,
+    "amount": 52148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-24 17:11",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 1000,
+    "amount": 62400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-12 17:20",
+    "station": "АЗС №30668",
+    "region": "Астраханская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 40308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-09 21:37",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 417.33,
+    "amount": 26041,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-09 21:19",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 12480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-09 21:19",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 37440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-07 23:13",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 763.12,
+    "amount": 47619,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-07 22:40",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 49920,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-07 09:49",
+    "station": "02031 АЗС 31",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-06 17:07",
+    "station": "72314 АЗС 314",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6924,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-04 23:22",
+    "station": "72319 АЗС 319",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 883.41,
+    "amount": 61167,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-02-04 22:46",
+    "station": "72319 АЗС 319",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 901.15,
+    "amount": 62396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-09 18:30",
+    "station": "66486 АЗС 486 Пышма",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10370,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-07 02:41",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13168,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-07 21:41",
+    "station": "АЗС №48757",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 286.42,
+    "amount": 19182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-04 20:04",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 1639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-03 14:11",
+    "station": "02096 АЗС 96",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-03 14:08",
+    "station": "02096 АЗС 96",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 81.23,
+    "amount": 5459,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-02 00:48",
+    "station": "АЗС № 22408",
+    "region": "Алтайский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13804,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-02 00:29",
+    "station": "АЗС № 22408",
+    "region": "Алтайский край",
+    "fuel": "ДТ",
+    "liters": 499,
+    "amount": 34441,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-03-01 18:22",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 50.18,
+    "amount": 3131,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-04-23 09:02",
+    "station": "16009 АЗС 9-У",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 52.35,
+    "amount": 3267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-04-18 01:32",
+    "station": "16097 АЗС 97",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 153.84,
+    "amount": 9600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX78B",
+    "ts": "2025-04-16 18:26",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 66.01,
+    "amount": 4119,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZWXX9",
+    "ts": "2025-01-26 12:40",
+    "station": "АЗС №23223",
+    "region": "Краснодарский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1738,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXX9",
+    "ts": "2025-01-16 10:39",
+    "station": "АЗС №23277",
+    "region": "Краснодарский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1738,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXX9",
+    "ts": "2025-01-08 17:51",
+    "station": "12023",
+    "region": "Краснодарский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXX9",
+    "ts": "2025-02-06 16:07",
+    "station": "АЗС №23277",
+    "region": "Краснодарский край",
+    "fuel": "АИ-92",
+    "liters": 16.75,
+    "amount": 975,
+    "vehicle": ""
+  }
+]

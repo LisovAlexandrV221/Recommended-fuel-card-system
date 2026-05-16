@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-02-28 15:54",
+    "station": "АЗС №50706",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 26.6,
+    "amount": 1477,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-08 15:13",
+    "station": "АЗС №23113",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 14.61,
+    "amount": 985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-07 18:05",
+    "station": "АЗС №23041",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 14.61,
+    "amount": 985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-06 12:33",
+    "station": "АЗС №23113",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 14.61,
+    "amount": 985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-05 16:39",
+    "station": "АЗС №23113",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 14.61,
+    "amount": 985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-05 11:20",
+    "station": "АЗС №23113",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 14.61,
+    "amount": 985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-03 12:01",
+    "station": "АЗС №23152",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 29.23,
+    "amount": 1970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX86X",
+    "ts": "2025-03-01 05:52",
+    "station": "АЗС №23113",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 14.61,
+    "amount": 985,
+    "vehicle": ""
+  }
+]

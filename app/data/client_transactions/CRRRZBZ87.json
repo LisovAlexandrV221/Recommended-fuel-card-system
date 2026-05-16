@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-01-16 19:18",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-01-18 18:04",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17052,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-01-14 14:38",
+    "station": "АЗС №71922",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24132,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-01-15 23:41",
+    "station": "АЗС №68857",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-02-04 11:27",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.04,
+    "amount": 1990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-02-26 17:04",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-02-09 11:50",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.51,
+    "amount": 1990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-02-24 16:51",
+    "station": "АЗС №71924",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24238,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-02-19 02:51",
+    "station": "АЗС №50437",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-02-05 20:46",
+    "station": "АЗС №62871",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27340,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-25 09:45",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20.19,
+    "amount": 1492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-20 11:05",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.27,
+    "amount": 1492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-18 11:25",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-17 19:56",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-14 15:17",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-19 07:08",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-18 12:12",
+    "station": "11126",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.47,
+    "amount": 1492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-13 22:30",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-15 16:19",
+    "station": "АЗС № 35445 Чернышевского-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20.19,
+    "amount": 1492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-26 13:32",
+    "station": "АЗС №32951",
+    "region": "Брянская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13674,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-13 00:50",
+    "station": "11092",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 146.72,
+    "amount": 9940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-12 12:56",
+    "station": "АЗС №36725",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-12 10:51",
+    "station": "АЗС №69464",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 31333,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-03 17:40",
+    "station": "АЗС №50485",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13732,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-03-01 15:39",
+    "station": "АЗС №58619",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27632,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-04-24 15:39",
+    "station": "АЗС №13201",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-04-27 19:00",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.16,
+    "amount": 995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZ87",
+    "ts": "2025-04-25 22:55",
+    "station": "АЗС N 16 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13892,
+    "vehicle": ""
+  }
+]

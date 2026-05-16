@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-10 08:52",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 58.78,
+    "amount": 3435,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-16 08:06",
+    "station": "366",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2121,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-16 08:54",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-17 18:03",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-22 14:48",
+    "station": "602",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2293,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-23 07:46",
+    "station": "366",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2424,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-23 17:01",
+    "station": "78",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-24 09:59",
+    "station": "691",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-24 15:24",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-24 15:30",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-24 17:16",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-27 06:33",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-28 08:07",
+    "station": "366",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-29 13:32",
+    "station": "227",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-30 11:12",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-31 14:53",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-22 15:07",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 45.76,
+    "amount": 2855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-20 08:28",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 43.05,
+    "amount": 2686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-01-09 17:37",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 44.44,
+    "amount": 2773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-17 09:34",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-17 10:44",
+    "station": "692",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 26.96,
+    "amount": 1648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-19 08:27",
+    "station": "366",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-19 13:48",
+    "station": "199",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 30.01,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-21 11:17",
+    "station": "71",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 32.56,
+    "amount": 1866,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-21 16:19",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 17.21,
+    "amount": 1006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-21 17:04",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-26 07:56",
+    "station": "366",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7979",
+    "ts": "2025-02-27 15:04",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1169,
+    "vehicle": ""
+  }
+]

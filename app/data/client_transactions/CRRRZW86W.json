@@ -1,0 +1,152 @@
+[
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-02-28 11:54",
+    "station": "АЗС №33039",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3394,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-04-30 15:27",
+    "station": "АЗС №33075",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:44",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:44",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 511,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:38",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:38",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:38",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:38",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-31 19:38",
+    "station": "АЗС №50626",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-01 09:25",
+    "station": "АЗС №61311",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 51.92,
+    "amount": 3626,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-05-01 02:38",
+    "station": "АЗС №48770",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-06-23 17:46",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 28.97,
+    "amount": 1980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-06-07 20:37",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 379,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-06-07 20:37",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW86W",
+    "ts": "2025-06-07 20:37",
+    "station": "АЗС №33038",
+    "region": "Владимирская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 499,
+    "vehicle": ""
+  }
+]

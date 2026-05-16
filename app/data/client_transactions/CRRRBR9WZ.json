@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-01-16 11:03",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 54.34,
+    "amount": 3438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-02-06 18:44",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 38.19,
+    "amount": 2393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-02-20 09:12",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 75.53,
+    "amount": 4801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-02-13 11:22",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 37.71,
+    "amount": 2375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-03-31 13:58",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 636,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-03-28 06:49",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 47.21,
+    "amount": 3001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-03-18 08:33",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 42.35,
+    "amount": 2692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-03-13 09:46",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 42.78,
+    "amount": 2720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-03-05 09:06",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 63.86,
+    "amount": 4060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-03-02 17:25",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 40.54,
+    "amount": 2577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-09 07:43",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 56.08,
+    "amount": 3591,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-03 18:03",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 39.13,
+    "amount": 2487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-30 14:29",
+    "station": "АЗС №40997",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 50.1,
+    "amount": 3183,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-28 11:56",
+    "station": "АЗС №32961",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 38.73,
+    "amount": 2541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-26 09:25",
+    "station": "АЗС №36713",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 55.86,
+    "amount": 3702,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-25 20:55",
+    "station": "АЗС №61362",
+    "region": "Ростовская область",
+    "fuel": "АИ-95",
+    "liters": 41.21,
+    "amount": 2820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-25 18:34",
+    "station": "АЗС №23284",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 36.95,
+    "amount": 2557,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-25 14:53",
+    "station": "АЗС №26139",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 64.73,
+    "amount": 4386,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-19 11:51",
+    "station": "АЗС №09735",
+    "region": "Республика Карачаево-Черкесская",
+    "fuel": "АИ-95",
+    "liters": 30.28,
+    "amount": 2062,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-17 15:10",
+    "station": "АЗС №26090",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 28.01,
+    "amount": 1898,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-13 06:16",
+    "station": "АЗС №15717",
+    "region": "Республика Северная Осетия-Алания",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2336,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-11 06:45",
+    "station": "АЗС №30673",
+    "region": "Астраханская область",
+    "fuel": "АИ-92",
+    "liters": 31.61,
+    "amount": 1941,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-10 13:05",
+    "station": "АЗС №30679",
+    "region": "Астраханская область",
+    "fuel": "АИ-95",
+    "liters": 29.02,
+    "amount": 1937,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-10 08:32",
+    "station": "АЗС №34525",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 31,
+    "amount": 2072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-10 05:55",
+    "station": "АЗС №34488",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 39,
+    "amount": 2606,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-09 17:43",
+    "station": "АЗС №64584",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 65.05,
+    "amount": 4235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-04-09 11:47",
+    "station": "АЗС № 73228",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 38.28,
+    "amount": 2333,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR9WZ",
+    "ts": "2025-05-29 11:11",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 9.64,
+    "amount": 618,
+    "vehicle": ""
+  }
+]

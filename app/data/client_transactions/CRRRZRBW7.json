@@ -1,0 +1,132 @@
+[
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-03-31 16:29",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-100",
+    "liters": 10.32,
+    "amount": 917,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-04-10 15:28",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-100",
+    "liters": 12.21,
+    "amount": 1085,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-04-21 07:24",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-100",
+    "liters": 14.22,
+    "amount": 1270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-04-15 16:43",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-100",
+    "liters": 11.56,
+    "amount": 1028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-05-26 07:29",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-100",
+    "liters": 13.99,
+    "amount": 1250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-05-07 06:01",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 13.49,
+    "amount": 863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-05-17 11:18",
+    "station": "16109 АЗС 109",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1191,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-05-08 11:30",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 41.31,
+    "amount": 2460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-06-09 11:58",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-100",
+    "liters": 7.18,
+    "amount": 644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-06-05 09:08",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-100",
+    "liters": 15,
+    "amount": 1346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-06-18 15:35",
+    "station": "АЗС №12031",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 12,
+    "amount": 774,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-06-23 13:30",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-100",
+    "liters": 14.45,
+    "amount": 1296,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRBW7",
+    "ts": "2025-06-14 12:20",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 41.05,
+    "amount": 2445,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZB78R",
+    "ts": "2025-01-17 07:25",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78R",
+    "ts": "2025-01-17 11:03",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB78R",
+    "ts": "2025-03-26 19:46",
+    "station": "438",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 7.19,
+    "amount": 505,
+    "vehicle": ""
+  }
+]

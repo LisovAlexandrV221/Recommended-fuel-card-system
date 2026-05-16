@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-01-30 17:54",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4257,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-01-17 16:00",
+    "station": "АЗС №52010",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 62,
+    "amount": 3884,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-01-25 12:05",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 2,
+    "amount": 166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-01-25 12:05",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-01-25 12:05",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 87,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-01-25 12:05",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 55.03,
+    "amount": 3904,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-02-25 10:22",
+    "station": "АЗС №52020",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 55.97,
+    "amount": 3524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-02-03 11:47",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 57,
+    "amount": 3571,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-02-16 19:46",
+    "station": "АЗС №52022",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 57.34,
+    "amount": 3610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-02-16 11:59",
+    "station": "АЗС №52053",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 65.96,
+    "amount": 4700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-03-10 15:40",
+    "station": "11240",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 52.79,
+    "amount": 3402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-03-21 10:30",
+    "station": "АЗС №52020",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 59.01,
+    "amount": 3715,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-03-16 11:21",
+    "station": "АЗС №52050",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-03-16 11:21",
+    "station": "АЗС №52050",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 55.01,
+    "amount": 3920,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-03-07 14:08",
+    "station": "АЗС №52022",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 58.49,
+    "amount": 3683,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-03-01 12:18",
+    "station": "АЗС №52053",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 52.55,
+    "amount": 3745,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-04 08:26",
+    "station": "11240",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 64.44,
+    "amount": 4442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-19 09:29",
+    "station": "АЗС №52017",
+    "region": "Нижегородская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 194,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-19 09:29",
+    "station": "АЗС №52017",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 66,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-19 09:29",
+    "station": "АЗС №52017",
+    "region": "Нижегородская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 4,
+    "amount": 294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-19 09:29",
+    "station": "АЗС №52017",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4662,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-16 15:37",
+    "station": "АЗС №52022",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 59.06,
+    "amount": 3746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-04-07 11:29",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 59.56,
+    "amount": 3777,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-05-17 12:02",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 62.5,
+    "amount": 4483,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-05-12 12:42",
+    "station": "11240",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 61.48,
+    "amount": 3819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-05-01 09:31",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 379,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-05-01 09:31",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 82,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA87BB",
+    "ts": "2025-05-01 09:31",
+    "station": "АЗС №52189",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 69.95,
+    "amount": 5018,
+    "vehicle": ""
+  }
+]

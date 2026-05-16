@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-01-25 17:22",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 63.5,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-01-30 19:48",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 63.5,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-04 16:39",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 37.52,
+    "amount": 2115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-08 13:37",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 52.5,
+    "amount": 2959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-11 06:25",
+    "station": "544",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 28.59,
+    "amount": 1612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-11 10:46",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 61.17,
+    "amount": 3448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-13 09:30",
+    "station": "539",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 142.28,
+    "amount": 9800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-13 13:09",
+    "station": "670",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1127,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-02-18 12:48",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 63.5,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-03-18 09:13",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-03-18 13:01",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 36.78,
+    "amount": 2092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-03-28 14:51",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 48.19,
+    "amount": 2751,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-03-12 20:45",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 63.34,
+    "amount": 3534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-04-08 10:15",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 62.7,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-04-11 11:10",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 51.03,
+    "amount": 3464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-04-11 20:22",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 62.7,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-04-24 16:05",
+    "station": "668",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 52.93,
+    "amount": 3045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-05 20:17",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 62.21,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-06 08:44",
+    "station": "671",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 40.02,
+    "amount": 2302,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-06 13:56",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 51.01,
+    "amount": 2935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-07 16:25",
+    "station": "668",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 46.02,
+    "amount": 2648,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-12 08:19",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 49.68,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-13 12:16",
+    "station": "544",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 11.19,
+    "amount": 644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-19 14:40",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 20.04,
+    "amount": 1156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-23 08:27",
+    "station": "667",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 39.55,
+    "amount": 2282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-23 11:32",
+    "station": "438",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 49.56,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-05-23 14:31",
+    "station": "671",
+    "region": "Псковская область",
+    "fuel": "АИ-92",
+    "liters": 50.51,
+    "amount": 2914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8ZZ",
+    "ts": "2025-06-02 06:50",
+    "station": "668",
+    "region": "Псковская область",
+    "fuel": "ДТ",
+    "liters": 140.6,
+    "amount": 9900,
+    "vehicle": ""
+  }
+]

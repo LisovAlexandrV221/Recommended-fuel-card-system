@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-01-23 19:10",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 50.02,
+    "amount": 2720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-01-23 09:03",
+    "station": "43036 АЗС 36 Косолаповы",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 34.45,
+    "amount": 1873,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-02-19 10:47",
+    "station": "АЗС №52137",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 24.98,
+    "amount": 1367,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-02-13 09:55",
+    "station": "АЗС №52090",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 21.09,
+    "amount": 1154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-02-08 20:44",
+    "station": "АЗС №52137",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 48.75,
+    "amount": 2653,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-02-08 20:44",
+    "station": "АЗС №52137",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 22.96,
+    "amount": 1250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-02-03 19:25",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 45.25,
+    "amount": 2460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWXB",
+    "ts": "2025-03-08 06:42",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 48.76,
+    "amount": 2665,
+    "vehicle": ""
+  }
+]

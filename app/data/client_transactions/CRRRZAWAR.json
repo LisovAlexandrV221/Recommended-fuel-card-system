@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-04 12:36",
+    "station": "599",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2333,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-27 07:01",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 34.52,
+    "amount": 2414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-23 20:19",
+    "station": "АЗС №52187",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 30.01,
+    "amount": 1709,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-23 20:16",
+    "station": "АЗС №52187",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30.19,
+    "amount": 1864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-21 08:24",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 33.54,
+    "amount": 2345,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-16 20:58",
+    "station": "АЗС №52187",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 26.05,
+    "amount": 1608,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-15 07:30",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 220,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-15 07:30",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 33.27,
+    "amount": 2326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-10 20:05",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 30.48,
+    "amount": 1882,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-19 20:18",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40.6,
+    "amount": 2547,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-09 20:33",
+    "station": "АЗС №52187",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 37.85,
+    "amount": 2646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-03 13:23",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40.19,
+    "amount": 2505,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-06 12:48",
+    "station": "123",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 46.26,
+    "amount": 2880,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-06 16:00",
+    "station": "540",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 28.26,
+    "amount": 1737,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-11 14:55",
+    "station": "202",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 42.27,
+    "amount": 2635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-01-26 19:29",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 46.04,
+    "amount": 2889,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-21 19:44",
+    "station": "188",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 38.08,
+    "amount": 2592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-05 20:49",
+    "station": "АЗС №52019",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-23 20:16",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 45.2,
+    "amount": 2845,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-16 19:37",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 33.05,
+    "amount": 2024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-24 21:00",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 31.7,
+    "amount": 1951,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-15 07:56",
+    "station": "202",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 31.69,
+    "amount": 1988,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-01 14:52",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 33.34,
+    "amount": 2092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-09 18:22",
+    "station": "252",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 45.58,
+    "amount": 2860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-16 13:11",
+    "station": "АЗС №52187",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 27.5,
+    "amount": 1706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-02 15:15",
+    "station": "АЗС №52187",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 33.05,
+    "amount": 2041,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-01 07:03",
+    "station": "АЗС №52007",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 38.2,
+    "amount": 2671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAWAR",
+    "ts": "2025-02-09 15:46",
+    "station": "АЗС №52010",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 28.03,
+    "amount": 1731,
+    "vehicle": ""
+  }
+]

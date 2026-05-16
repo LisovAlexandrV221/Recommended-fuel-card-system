@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZXZ7B",
+    "ts": "2025-01-23 18:33",
+    "station": "АЗС №50727",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 73.24,
+    "amount": 5032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ7B",
+    "ts": "2025-01-09 18:39",
+    "station": "АЗС №50727",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 72.9,
+    "amount": 5008,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZ7B",
+    "ts": "2025-02-17 19:20",
+    "station": "АЗС №50727",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 72.47,
+    "amount": 5000,
+    "vehicle": ""
+  }
+]

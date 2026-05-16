@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-30 07:51",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 9186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-29 20:43",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 89.28,
+    "amount": 6881,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-27 07:16",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-24 08:10",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7655,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-22 09:30",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-20 14:42",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-17 06:30",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-16 12:10",
+    "station": "АЗС № 35440 Мудрова",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7655,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-15 19:37",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 79.01,
+    "amount": 6089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-14 17:38",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10717,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-13 10:08",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11482,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-13 07:33",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7558,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-31 11:59",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 143.01,
+    "amount": 10947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-30 23:16",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 9049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-28 07:29",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-27 11:52",
+    "station": "АЗС № 35412 Вытегра",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 124,
+    "amount": 9557,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-23 06:33",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 9186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-21 17:36",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-17 13:48",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 135.07,
+    "amount": 10340,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-13 12:03",
+    "station": "АЗС № 35412 Вытегра",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-23 19:28",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-18 04:38",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10557,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-15 15:34",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 134,
+    "amount": 10327,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-06 11:45",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-26 15:45",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 110,
+    "amount": 8420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-20 20:23",
+    "station": "АЗС № 35422 с. Бабушкина",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 119.37,
+    "amount": 9200,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-12 16:39",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 12248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZABAZ",
+    "ts": "2025-01-15 10:15",
+    "station": "АЗС № 35442 Гагарина (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.79,
+    "amount": 3598,
+    "vehicle": ""
+  }
+]

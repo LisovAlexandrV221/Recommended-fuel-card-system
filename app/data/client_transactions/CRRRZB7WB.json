@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZB7WB",
+    "ts": "2025-04-25 15:19",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7WB",
+    "ts": "2025-05-30 20:07",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 43.04,
+    "amount": 2675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7WB",
+    "ts": "2025-05-23 12:56",
+    "station": "АЗС № 35421 Кадуй",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7WB",
+    "ts": "2025-06-06 09:17",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 27.47,
+    "amount": 1692,
+    "vehicle": ""
+  }
+]

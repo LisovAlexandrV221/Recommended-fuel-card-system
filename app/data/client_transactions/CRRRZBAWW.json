@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZBAWW",
+    "ts": "2025-02-28 11:04",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAWW",
+    "ts": "2025-02-24 10:14",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAWW",
+    "ts": "2025-04-25 08:48",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 43.8,
+    "amount": 3135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAWW",
+    "ts": "2025-04-25 14:55",
+    "station": "АЗС №52048",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1435,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAWW",
+    "ts": "2025-05-20 13:08",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBAWW",
+    "ts": "2025-06-20 09:57",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1432,
+    "vehicle": ""
+  }
+]

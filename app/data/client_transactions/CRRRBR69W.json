@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRBR69W",
+    "ts": "2025-03-26 11:30",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 42.55,
+    "amount": 2587,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR69W",
+    "ts": "2025-04-23 14:39",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 39.37,
+    "amount": 2411,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR69W",
+    "ts": "2025-04-02 05:14",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 47.54,
+    "amount": 2891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBR69W",
+    "ts": "2025-05-09 12:38",
+    "station": "43082 АЗС 82 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 41.05,
+    "amount": 2502,
+    "vehicle": ""
+  }
+]

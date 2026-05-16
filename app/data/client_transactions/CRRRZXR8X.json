@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZXR8X",
+    "ts": "2025-02-20 15:03",
+    "station": "1",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 43979,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXR8X",
+    "ts": "2025-02-21 19:10",
+    "station": "568",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 11974,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXR8X",
+    "ts": "2025-02-24 17:47",
+    "station": "568",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 23948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXR8X",
+    "ts": "2025-02-28 21:39",
+    "station": "568",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 23948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXR8X",
+    "ts": "2025-03-06 11:04",
+    "station": "347",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 5987,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-01-15 15:58",
+    "station": "LR001 \"Королева\"",
+    "region": "Приморский район",
+    "fuel": "АИ-95",
+    "liters": 52.99,
+    "amount": 3291,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-01-16 11:01",
+    "station": "LC118 \"Пулковская\"",
+    "region": "Московский район",
+    "fuel": "АИ-95",
+    "liters": 13.66,
+    "amount": 851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-01-31 12:21",
+    "station": "LC135 \"Автозаводская\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 30.43,
+    "amount": 1899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-02-05 16:42",
+    "station": "411\"Колпино\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 31.83,
+    "amount": 1997,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-02-08 16:33",
+    "station": "411\"Колпино\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2823,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-02-12 20:58",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 40.42,
+    "amount": 2536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-02-19 21:02",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 45.03,
+    "amount": 2834,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-02-26 20:20",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 46.83,
+    "amount": 2952,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-03-03 14:51",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 41.71,
+    "amount": 2638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-03-12 12:04",
+    "station": "411\"Колпино\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 30.36,
+    "amount": 1929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-03-13 18:46",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 40.24,
+    "amount": 2557,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-03-20 04:22",
+    "station": "LC136 \"Шушары-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 46.28,
+    "amount": 2936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-03-25 16:12",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 29.39,
+    "amount": 1871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-03-28 16:18",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 36.57,
+    "amount": 2332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-04-04 15:14",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 44.67,
+    "amount": 2843,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-04-11 13:05",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 40.96,
+    "amount": 2616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-04-16 12:29",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 45.32,
+    "amount": 2899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-04-26 14:18",
+    "station": "LC136 \"Шушары-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 32.09,
+    "amount": 2056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-04-30 21:48",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 33.96,
+    "amount": 2183,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-05-11 16:09",
+    "station": "LC136 \"Шушары-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 41.79,
+    "amount": 2686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-05-15 15:07",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 38.58,
+    "amount": 2480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-05-17 15:29",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 28.77,
+    "amount": 1852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-05-23 12:48",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 41.02,
+    "amount": 2636,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-05-26 15:32",
+    "station": "411\"Колпино\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 31.77,
+    "amount": 2045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-05-27 13:31",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 48.09,
+    "amount": 3091,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-06-02 22:01",
+    "station": "LC137 \"Николаевский проезд\"",
+    "region": "Колпинский район",
+    "fuel": "АИ-95",
+    "liters": 35.95,
+    "amount": 2318,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-06-06 14:54",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 28.7,
+    "amount": 1848,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZZ",
+    "ts": "2025-06-16 13:03",
+    "station": "476\"Московское шоссе-2\"",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 19.7,
+    "amount": 1268,
+    "vehicle": ""
+  }
+]

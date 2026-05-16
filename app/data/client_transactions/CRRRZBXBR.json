@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-02 18:47",
+    "station": "247",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-03 13:30",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 2964,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-03 19:25",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 55,
+    "amount": 3113,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-10 08:11",
+    "station": "247",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-12 14:32",
+    "station": "MC325 Симферопольская РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 55.6,
+    "amount": 3914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-15 14:38",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 2964,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-17 16:28",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-18 12:47",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-18 22:39",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-20 11:25",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-21 12:47",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 85,
+    "amount": 5857,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-24 12:01",
+    "station": "MJ081 Лужники-1 РН-Москва",
+    "region": "Центральный административный округ",
+    "fuel": "ДТ",
+    "liters": 85,
+    "amount": 6037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-24 14:21",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2756,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-25 20:51",
+    "station": "7",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-26 18:58",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-27 12:34",
+    "station": "228",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4611,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-01-31 15:37",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-01 06:15",
+    "station": "3",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-03 14:10",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-05 14:59",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2647,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-05 16:28",
+    "station": "247",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-06 09:54",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4845,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-08 12:51",
+    "station": "212",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2165,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-11 12:24",
+    "station": "247",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6230,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-14 17:57",
+    "station": "247",
+    "region": "Липецкая область",
+    "fuel": "АИ-92",
+    "liters": 55,
+    "amount": 3130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-16 10:28",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-19 10:16",
+    "station": "82",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXBR",
+    "ts": "2025-02-19 17:29",
+    "station": "263",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3129,
+    "vehicle": ""
+  }
+]

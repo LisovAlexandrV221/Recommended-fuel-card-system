@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-21 12:03",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-23 09:37",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.82,
+    "amount": 3011,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-15 20:33",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.53,
+    "amount": 2473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-05 18:03",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.53,
+    "amount": 3537,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-04 07:00",
+    "station": "85",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24311,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-28 16:16",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 199.19,
+    "amount": 14156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-25 18:49",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27144,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-19 18:38",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27144,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-16 23:24",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 417.88,
+    "amount": 29699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-15 19:20",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 417.88,
+    "amount": 29699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-30 13:38",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 417.88,
+    "amount": 29699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-23 16:08",
+    "station": "АЗС №34412",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-21 16:35",
+    "station": "АЗС №30675",
+    "region": "Астраханская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-12 15:12",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45.08,
+    "amount": 2722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-01-30 18:58",
+    "station": "104",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 431.34,
+    "amount": 31048,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-14 12:47",
+    "station": "202 \"Котлас-2\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 26099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-16 16:08",
+    "station": "107",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 271.9,
+    "amount": 18541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-17 19:21",
+    "station": "59",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 125.83,
+    "amount": 8755,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-17 19:24",
+    "station": "59",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 125.83,
+    "amount": 8755,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-21 14:24",
+    "station": "252 \"Брин-Наволок\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 275.1,
+    "amount": 20599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-13 22:33",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 312.81,
+    "amount": 21912,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-13 22:42",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 103.73,
+    "amount": 7266,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-13 22:56",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 26.59,
+    "amount": 1863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-04 13:10",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 57.71,
+    "amount": 3633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-13 10:51",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 52.63,
+    "amount": 3314,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-21 16:26",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55.47,
+    "amount": 3492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-22 03:07",
+    "station": "009",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 32.15,
+    "amount": 1948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA76R",
+    "ts": "2025-02-19 15:16",
+    "station": "029",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 440.01,
+    "amount": 31052,
+    "vehicle": ""
+  }
+]

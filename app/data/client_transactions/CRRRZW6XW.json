@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZW6XW",
+    "ts": "2025-01-23 16:32",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 424.49,
+    "amount": 29621,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6XW",
+    "ts": "2025-02-12 16:25",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 276.58,
+    "amount": 19300,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6XW",
+    "ts": "2025-04-29 12:34",
+    "station": "11131",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 321,
+    "amount": 22553,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRZXXZ9",
+    "ts": "2025-01-24 17:27",
+    "station": "16119 АЗС 119",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 43.78,
+    "amount": 2307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZ9",
+    "ts": "2025-03-22 16:19",
+    "station": "16093 АЗС 93",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 35.05,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZ9",
+    "ts": "2025-03-07 17:05",
+    "station": "16095 АЗС 95",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1726,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZ9",
+    "ts": "2025-04-26 14:28",
+    "station": "16119 АЗС 119",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 28.48,
+    "amount": 1501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZ9",
+    "ts": "2025-04-01 18:31",
+    "station": "16093 АЗС 93",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 43.82,
+    "amount": 2500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXZ9",
+    "ts": "2025-05-30 13:57",
+    "station": "16093 АЗС 93",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 60.06,
+    "amount": 3165,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-16 10:38",
+    "station": "60",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-16 10:43",
+    "station": "60",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-18 16:26",
+    "station": "16",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 17.37,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-19 11:33",
+    "station": "60",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-23 08:28",
+    "station": "501",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-23 14:23",
+    "station": "567",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-26 09:03",
+    "station": "501",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-26 14:56",
+    "station": "17",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 31.27,
+    "amount": 1818,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-29 08:29",
+    "station": "19",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-29 08:32",
+    "station": "19",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-30 08:49",
+    "station": "5",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-31 09:49",
+    "station": "5",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1641,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-05-31 09:54",
+    "station": "5",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-02 09:05",
+    "station": "5",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 95,
+    "amount": 2407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-03 18:51",
+    "station": "16",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 26.06,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-09 20:33",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 70,
+    "amount": 3758,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-09 20:39",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-10 19:14",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-10 19:20",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-12 19:22",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2704,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-12 19:26",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-14 10:46",
+    "station": "16",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 34.27,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-18 08:44",
+    "station": "1",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2398,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-20 13:59",
+    "station": "4",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-20 15:04",
+    "station": "17",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-22 22:42",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-22 22:46",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 90,
+    "amount": 2281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBBZ",
+    "ts": "2025-06-22 22:47",
+    "station": "449",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2180,
+    "vehicle": ""
+  }
+]

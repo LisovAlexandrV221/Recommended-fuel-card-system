@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-28 21:53",
+    "station": "506",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 29320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-22 14:57",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50.01,
+    "amount": 3387,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-30 07:28",
+    "station": "343",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 29432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-29 07:51",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 58.03,
+    "amount": 3460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-24 22:14",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 60.25,
+    "amount": 3314,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-21 19:45",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 64.23,
+    "amount": 3867,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-08 08:31",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 61.23,
+    "amount": 3651,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-03 11:45",
+    "station": "59052 АЗС 52 Губаха",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 35.8,
+    "amount": 2147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-01-02 13:15",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 50.46,
+    "amount": 3009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-11 19:51",
+    "station": "094",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 850,
+    "amount": 59338,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-09 08:03",
+    "station": "109",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 850,
+    "amount": 58591,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-19 16:15",
+    "station": "553",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 850,
+    "amount": 67634,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-23 13:37",
+    "station": "АЗК 702",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 64776,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-07 19:28",
+    "station": "109",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 298.28,
+    "amount": 20587,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-07 19:39",
+    "station": "109",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 351.72,
+    "amount": 24276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-09 06:45",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13636,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-09 06:45",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 176.11,
+    "amount": 12007,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-10 11:42",
+    "station": "094",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 470,
+    "amount": 32811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-11 07:28",
+    "station": "223",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-15 18:57",
+    "station": "550",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 43236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-25 21:00",
+    "station": "552",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 51720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-18 08:25",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 59.32,
+    "amount": 3589,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-14 18:48",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 60.42,
+    "amount": 3342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-08 15:17",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 61,
+    "amount": 3356,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-24 14:09",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50.95,
+    "amount": 3448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-02-03 21:35",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 62.42,
+    "amount": 3722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-03-30 15:50",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50.94,
+    "amount": 3448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9B69",
+    "ts": "2025-03-05 19:03",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20631,
+    "vehicle": ""
+  }
+]

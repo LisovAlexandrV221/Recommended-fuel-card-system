@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZWBWX",
+    "ts": "2025-01-10 18:34",
+    "station": "АЗС №77636",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 48.83,
+    "amount": 3167,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWX",
+    "ts": "2025-02-19 09:14",
+    "station": "АЗС №77763",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 30.7,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWX",
+    "ts": "2025-03-06 23:38",
+    "station": "АЗС №77721",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 47.41,
+    "amount": 2987,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBWX",
+    "ts": "2025-04-04 15:59",
+    "station": "АЗС №77713",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 46.78,
+    "amount": 2947,
+    "vehicle": ""
+  }
+]

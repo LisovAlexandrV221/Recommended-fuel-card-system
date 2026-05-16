@@ -1,0 +1,112 @@
+[
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-11 19:01",
+    "station": "589",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13716,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-11 18:18",
+    "station": "672",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19695,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-19 19:50",
+    "station": "589",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2386,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-19 20:45",
+    "station": "209",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 306.98,
+    "amount": 20199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-23 19:45",
+    "station": "589",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 153.84,
+    "amount": 10100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-24 12:07",
+    "station": "587",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 215.38,
+    "amount": 14140,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-25 17:40",
+    "station": "587",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 415.38,
+    "amount": 27270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-26 15:50",
+    "station": "654",
+    "region": "Удмуртская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16880,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-27 16:19",
+    "station": "672",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2992,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-03-10 17:36",
+    "station": "АЗС №58624",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 35410,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XA6",
+    "ts": "2025-04-01 10:29",
+    "station": "587",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2394,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-02-22 12:24",
+    "station": "213",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2668,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-02-15 19:49",
+    "station": "21",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3227,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-03-03 17:45",
+    "station": "14",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-03-19 11:27",
+    "station": "188",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 25.89,
+    "amount": 1783,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-03-19 11:28",
+    "station": "188",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1377,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-03-23 18:09",
+    "station": "700",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 15,
+    "amount": 1016,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXRA",
+    "ts": "2025-04-05 20:10",
+    "station": "521",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2029,
+    "vehicle": ""
+  }
+]

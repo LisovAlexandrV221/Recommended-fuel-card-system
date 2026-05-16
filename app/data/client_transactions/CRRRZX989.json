@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 14:26",
+    "station": "212",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 08:34",
+    "station": "210",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 17:06",
+    "station": "210",
+    "region": "Марий Эл, республика",
+    "fuel": "ГАЗ",
+    "liters": 60,
+    "amount": 1598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 17:12",
+    "station": "210",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 18:23",
+    "station": "493",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1351,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 18:39",
+    "station": "493",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1081,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 09:25",
+    "station": "602",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 35.24,
+    "amount": 1980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 11:52",
+    "station": "58",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1323,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 12:33",
+    "station": "50",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 15:29",
+    "station": "406",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 60,
+    "amount": 1509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-01 18:18",
+    "station": "17",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1588,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-02 16:36",
+    "station": "493",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 33,
+    "amount": 1784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-02 10:07",
+    "station": "210",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 814,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-02 12:05",
+    "station": "75",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 38,
+    "amount": 2011,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-02 12:08",
+    "station": "15",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-02 13:56",
+    "station": "286",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-02 16:40",
+    "station": "239",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-03 10:25",
+    "station": "493",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1628,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-03 19:16",
+    "station": "86",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-03 17:09",
+    "station": "210",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 48,
+    "amount": 2614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-03 09:58",
+    "station": "286",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-03 17:23",
+    "station": "286",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-03 14:24",
+    "station": "602",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-04 08:00",
+    "station": "493",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2406,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-04 15:21",
+    "station": "91",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2406,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-04 09:53",
+    "station": "491",
+    "region": "Марий Эл, республика",
+    "fuel": "ГАЗ",
+    "liters": 70,
+    "amount": 1864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-04 18:01",
+    "station": "544",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 27.77,
+    "amount": 1485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX989",
+    "ts": "2025-04-07 18:46",
+    "station": "286",
+    "region": "Марий Эл, республика",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1871,
+    "vehicle": ""
+  }
+]

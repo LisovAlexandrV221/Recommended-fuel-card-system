@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-21 17:24",
+    "station": "103",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 49.32,
+    "amount": 3444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-17 07:28",
+    "station": "024",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 53.5,
+    "amount": 3770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-03 15:22",
+    "station": "079",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 44.69,
+    "amount": 3136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-08 06:47",
+    "station": "150",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 52.13,
+    "amount": 3623,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-08 14:51",
+    "station": "045",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 47.82,
+    "amount": 3385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-09 14:28",
+    "station": "126",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 45.98,
+    "amount": 3212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-14 09:50",
+    "station": "127",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 57.37,
+    "amount": 4011,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-21 10:01",
+    "station": "142",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 64.83,
+    "amount": 4543,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-23 16:16",
+    "station": "142",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 54.57,
+    "amount": 3824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-29 08:33",
+    "station": "127",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 70.71,
+    "amount": 4944,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-10 13:36",
+    "station": "008",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1233,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-14 10:11",
+    "station": "006",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 27.76,
+    "amount": 1734,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-14 16:28",
+    "station": "082",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 19.96,
+    "amount": 1252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-16 14:32",
+    "station": "079",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 24.79,
+    "amount": 1547,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-18 13:54",
+    "station": "082",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-24 13:11",
+    "station": "009",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 36.45,
+    "amount": 2283,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-25 09:29",
+    "station": "142",
+    "region": "Санкт-Петербург",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 1,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-04-27 10:32",
+    "station": "082",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-06 12:36",
+    "station": "036",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 29.33,
+    "amount": 1841,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-05 09:41",
+    "station": "127",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 55.09,
+    "amount": 3852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-07 06:59",
+    "station": "080",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 42.79,
+    "amount": 3009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-07 15:43",
+    "station": "149",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 57.96,
+    "amount": 4020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-13 12:15",
+    "station": "122",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 53.93,
+    "amount": 3740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-15 17:39",
+    "station": "142",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 51.39,
+    "amount": 3601,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-19 09:47",
+    "station": "127",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 62.79,
+    "amount": 4408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-22 11:06",
+    "station": "142",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 61.91,
+    "amount": 4357,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-26 10:34",
+    "station": "127",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 49.18,
+    "amount": 3453,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX968",
+    "ts": "2025-05-29 09:57",
+    "station": "142",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 55.86,
+    "amount": 3931,
+    "vehicle": ""
+  }
+]

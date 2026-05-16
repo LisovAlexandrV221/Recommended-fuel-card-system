@@ -1,0 +1,92 @@
+[
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-09 17:40",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 212.19,
+    "amount": 14849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-16 01:37",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 147,
+    "amount": 10330,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-11 19:44",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 19499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-13 12:25",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 35.21,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-13 16:31",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-13 11:49",
+    "station": "563",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 18850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-15 11:36",
+    "station": "66",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 14832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-20 12:48",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 16.96,
+    "amount": 1189,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA9WR",
+    "ts": "2025-01-13 11:11",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.14,
+    "amount": 2011,
+    "vehicle": ""
+  }
+]

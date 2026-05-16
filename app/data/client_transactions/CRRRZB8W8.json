@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-30 05:30",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-13 20:45",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-13 16:52",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-13 12:21",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-13 12:10",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-13 11:32",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.24,
+    "amount": 1943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-13 09:13",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 72.02,
+    "amount": 5113,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 20:55",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 34,
+    "amount": 2414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 17:42",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 38.05,
+    "amount": 2294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 17:08",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 14:23",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 13:48",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 12:06",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 10:58",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 09:31",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 37.01,
+    "amount": 2231,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 09:06",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 16328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 08:59",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 08:53",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 02:49",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 138,
+    "amount": 9797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 02:44",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 138,
+    "amount": 9797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-07 02:39",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 1.93,
+    "amount": 137,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-27 15:00",
+    "station": "66470 АЗС 470 Леневка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 43.87,
+    "amount": 3114,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-23 12:53",
+    "station": "59153 АЗС 153 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 24.91,
+    "amount": 1510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-05 18:32",
+    "station": "66489 АЗС 489 Малая Лая",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-05 16:40",
+    "station": "66489 АЗС 489 Малая Лая",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 17038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-06 10:07",
+    "station": "АЗС №13224",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 57.47,
+    "amount": 3914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-29 15:59",
+    "station": "59126 АЗС 126 Теплая Гора",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24846,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8W8",
+    "ts": "2025-01-29 15:19",
+    "station": "59126 АЗС 126 Теплая Гора",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17748,
+    "vehicle": ""
+  }
+]

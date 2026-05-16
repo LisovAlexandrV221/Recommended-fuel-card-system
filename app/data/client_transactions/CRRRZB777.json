@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-11 13:48",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 60.04,
+    "amount": 3502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-13 09:10",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 50.4,
+    "amount": 1501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-14 07:33",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 45.33,
+    "amount": 1350,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-16 07:37",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 74.11,
+    "amount": 2207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-17 07:35",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 31.62,
+    "amount": 942,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-18 13:26",
+    "station": "219",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 86.58,
+    "amount": 5050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-20 10:00",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 47.88,
+    "amount": 1426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-21 07:40",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 54.51,
+    "amount": 1623,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-23 09:12",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 71.13,
+    "amount": 2118,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-24 03:46",
+    "station": "239",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 16.53,
+    "amount": 455,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-24 12:47",
+    "station": "239",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 46.3,
+    "amount": 1276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-24 09:10",
+    "station": "4",
+    "region": "Татарстан, республика",
+    "fuel": "ГАЗ",
+    "liters": 41.14,
+    "amount": 1133,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-28 07:33",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 47.71,
+    "amount": 1421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-29 10:03",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 46.2,
+    "amount": 1376,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-31 07:39",
+    "station": "385",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 84.38,
+    "amount": 2513,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-17 13:30",
+    "station": "31",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2745,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-31 13:12",
+    "station": "29",
+    "region": "Ульяновская область",
+    "fuel": "ГАЗ",
+    "liters": 80,
+    "amount": 2529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-27 16:41",
+    "station": "АЗС № 73241",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5306,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-17 14:17",
+    "station": "41",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 59.96,
+    "amount": 3689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-22 18:30",
+    "station": "32",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-23 20:12",
+    "station": "32",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 85.85,
+    "amount": 5150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-25 07:07",
+    "station": "31",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 85.85,
+    "amount": 5150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-29 18:51",
+    "station": "31",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 65,
+    "amount": 3999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-31 13:07",
+    "station": "82",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-24 11:23",
+    "station": "АЗС № 73241",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 3979,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-23 01:12",
+    "station": "АЗС № 73230",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 65.01,
+    "amount": 3758,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-22 13:10",
+    "station": "АЗС № 73241",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB777",
+    "ts": "2025-01-22 11:47",
+    "station": "АЗС № 73241",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5306,
+    "vehicle": ""
+  }
+]

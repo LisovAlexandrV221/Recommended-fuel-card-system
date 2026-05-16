@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-01-28 23:21",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-03-19 23:42",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 37,
+    "amount": 2305,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-04-27 22:31",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 39.53,
+    "amount": 2457,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-05-08 13:08",
+    "station": "АЗС №48767",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 22.5,
+    "amount": 1425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-05-08 10:53",
+    "station": "АЗС №36716",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 30.45,
+    "amount": 1950,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-05-08 02:18",
+    "station": "АЗС №23284",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 31.99,
+    "amount": 2139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-05-02 12:10",
+    "station": "АЗС №61297",
+    "region": "Ростовская область",
+    "fuel": "АИ-95",
+    "liters": 36.21,
+    "amount": 2394,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-05-01 21:40",
+    "station": "АЗС № 36246",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 25.64,
+    "amount": 1638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-06-14 13:08",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 36.12,
+    "amount": 2326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARA6",
+    "ts": "2025-06-15 00:04",
+    "station": "АЗС №33002",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 38.63,
+    "amount": 2413,
+    "vehicle": ""
+  }
+]

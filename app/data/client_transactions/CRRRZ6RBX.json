@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-24 22:17",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6667,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-25 21:30",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-25 21:30",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-26 12:45",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-26 12:45",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-26 19:09",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 439.72,
+    "amount": 29316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-29 01:23",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-29 01:23",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-29 01:27",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 144.04,
+    "amount": 9603,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-29 19:36",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-04-29 19:42",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 287.79,
+    "amount": 19187,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-28 19:29",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 238,
+    "amount": 16486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-28 19:30",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 138,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-27 20:11",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 16625,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-27 20:12",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-20 19:53",
+    "station": "324",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 1,
+    "amount": 69,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-20 20:01",
+    "station": "324",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20562,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-01 14:32",
+    "station": "119",
+    "region": "Владимирская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-01 14:32",
+    "station": "119",
+    "region": "Владимирская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-01 16:46",
+    "station": "127",
+    "region": "Владимирская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-01 17:01",
+    "station": "127",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 379,
+    "amount": 25351,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-26 23:27",
+    "station": "032",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 310,
+    "amount": 21474,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-29 12:32",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 104,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-29 12:32",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-29 18:38",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 252,
+    "amount": 17456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-30 12:13",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-30 12:13",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RBX",
+    "ts": "2025-05-30 21:24",
+    "station": "031",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 316,
+    "amount": 21889,
+    "vehicle": ""
+  }
+]

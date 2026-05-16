@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-24 07:34",
+    "station": "АЗС №50475",
+    "region": "Московская область",
+    "fuel": "АИ-100",
+    "liters": 45.6,
+    "amount": 4082,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-22 19:45",
+    "station": "АЗС №52081",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70.76,
+    "amount": 4948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-06 21:48",
+    "station": "АЗС №21076",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 25.38,
+    "amount": 1449,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-05 17:37",
+    "station": "АЗС №52128",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 43.86,
+    "amount": 3067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-04 21:13",
+    "station": "АЗС №52006",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 51.55,
+    "amount": 3213,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-27 06:18",
+    "station": "АЗС №77742",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 43.4,
+    "amount": 2804,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-21 13:52",
+    "station": "АЗС №77524",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 29.9,
+    "amount": 1935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-21 12:22",
+    "station": "АЗС №33027",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 36.67,
+    "amount": 2319,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-16 08:35",
+    "station": "АЗС №52087",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 67.89,
+    "amount": 4232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-14 18:54",
+    "station": "АЗС №50428",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 38.47,
+    "amount": 2545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-13 06:38",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 28.3,
+    "amount": 1827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-07 15:11",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 22.28,
+    "amount": 1280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-06 17:12",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 34.63,
+    "amount": 1989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-06 19:40",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 22.57,
+    "amount": 1285,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-31 06:38",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 45.44,
+    "amount": 2934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-23 13:29",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 80.41,
+    "amount": 5331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-20 06:31",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 34.04,
+    "amount": 2198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-29 06:42",
+    "station": "АЗС №77605",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 23.65,
+    "amount": 1530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-20 08:05",
+    "station": "АЗС №33040",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 20.04,
+    "amount": 1255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-24 06:50",
+    "station": "02003 АЗС 3",
+    "region": "Республика Башкортостан",
+    "fuel": "ДТ",
+    "liters": 66.14,
+    "amount": 4702,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-20 22:14",
+    "station": "АЗС №77542",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 21.81,
+    "amount": 1411,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-07 12:52",
+    "station": "АЗС №52075",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 21.46,
+    "amount": 1222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-28 13:26",
+    "station": "119",
+    "region": "Москва",
+    "fuel": "АИ-100",
+    "liters": 33.5,
+    "amount": 2896,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-24 06:23",
+    "station": "АЗС №77605",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2588,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-22 06:13",
+    "station": "АЗС №77605",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 34.02,
+    "amount": 2201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-19 15:57",
+    "station": "АЗС №77542",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 19.45,
+    "amount": 1287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-14 06:31",
+    "station": "АЗС №77605",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 29.01,
+    "amount": 1877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAR",
+    "ts": "2025-01-10 06:49",
+    "station": "АЗС №50425",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 32.73,
+    "amount": 2113,
+    "vehicle": ""
+  }
+]

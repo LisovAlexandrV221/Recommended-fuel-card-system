@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-03-31 15:57",
+    "station": "586",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 48.21,
+    "amount": 2656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-04-30 11:57",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 46.02,
+    "amount": 2568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-05-20 12:18",
+    "station": "586",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 50.49,
+    "amount": 3077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-06-05 19:35",
+    "station": "613",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 40.75,
+    "amount": 2486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-06-26 19:45",
+    "station": "613",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 43.08,
+    "amount": 2633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-06-30 02:00",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-92",
+    "liters": 22.72,
+    "amount": 1296,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZBX8",
+    "ts": "2025-06-30 15:28",
+    "station": "386",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 32.9,
+    "amount": 1865,
+    "vehicle": ""
+  }
+]

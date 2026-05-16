@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-03-29 15:39",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 27.83,
+    "amount": 1778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-03-26 14:27",
+    "station": "АЗС № 47235 Уткина Заводь",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 32.62,
+    "amount": 2057,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-03-17 13:08",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 51.22,
+    "amount": 3265,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-03-11 12:56",
+    "station": "11164",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 46.9,
+    "amount": 2976,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-03-19 08:16",
+    "station": "АЗС № 47104 Янино",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 18369,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-10 07:50",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 133.28,
+    "amount": 9324,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-10 07:45",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 139.94,
+    "amount": 9790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-19 08:23",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 45.63,
+    "amount": 3192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-19 08:18",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 139.66,
+    "amount": 9771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-17 08:14",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 132.93,
+    "amount": 9300,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-03 08:20",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 73.53,
+    "amount": 5130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-03 08:17",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 140.33,
+    "amount": 9791,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-30 14:46",
+    "station": "АЗС № 47235 Уткина Заводь",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 46.76,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-30 07:04",
+    "station": "11189",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 169.23,
+    "amount": 11848,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-28 08:23",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 69.19,
+    "amount": 4844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-28 08:17",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 139.84,
+    "amount": 9790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-26 13:02",
+    "station": "АЗС № 47235 Уткина Заводь",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 40.3,
+    "amount": 2560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-21 11:30",
+    "station": "АЗС № 47108 Мурманская-1 (п)",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 44,
+    "amount": 2795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-15 12:00",
+    "station": "АЗС № 78091 пр. Наставников",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 38.98,
+    "amount": 2476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-14 17:07",
+    "station": "АЗС № 78078 Шушары",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-11 15:01",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 41.31,
+    "amount": 2652,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-07 07:42",
+    "station": "АЗС № 78060 Аэропорт",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 39.48,
+    "amount": 2476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-03 16:21",
+    "station": "АЗС № 78078 Шушары",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 8.7,
+    "amount": 496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-04-03 11:26",
+    "station": "АЗС № 78091 пр. Наставников",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 36.73,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-05-06 12:07",
+    "station": "11189",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 168.37,
+    "amount": 11788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-05-27 09:47",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 124.25,
+    "amount": 8699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-05-27 09:44",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 139.84,
+    "amount": 9790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9R6",
+    "ts": "2025-05-16 07:37",
+    "station": "11189",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 244.43,
+    "amount": 17113,
+    "vehicle": ""
+  }
+]

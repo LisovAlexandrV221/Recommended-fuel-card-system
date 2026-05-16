@@ -1,0 +1,90 @@
+﻿[
+    {
+        "id":  8,
+        "ts":  "2026-05-16 10:43",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  1,
+        "suppliers":  4,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Single client recommendation run"
+    },
+    {
+        "id":  7,
+        "ts":  "2026-05-16 01:58",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  1,
+        "suppliers":  4,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Single client recommendation run"
+    },
+    {
+        "id":  6,
+        "ts":  "2026-05-16 01:03",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  8,
+        "suppliers":  8,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Local scorer run: coverage + geo + fuel + peer + tariff."
+    },
+    {
+        "id":  5,
+        "ts":  "2026-05-16 01:03",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  8,
+        "suppliers":  8,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Local scorer run: coverage + geo + fuel + peer + tariff."
+    },
+    {
+        "id":  4,
+        "ts":  "2026-05-16 00:54",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  8,
+        "suppliers":  8,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Local scorer run: coverage + geo + fuel + peer + tariff."
+    },
+    {
+        "id":  3,
+        "ts":  "2026-05-16 00:49",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  8,
+        "suppliers":  8,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Local scorer run: coverage + geo + fuel + peer + tariff."
+    },
+    {
+        "id":  2,
+        "ts":  "2026-05-16 00:49",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  8,
+        "suppliers":  8,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Local scorer run: coverage + geo + fuel + peer + tariff."
+    },
+    {
+        "id":  1,
+        "ts":  "2026-05-15 06:18",
+        "model":  "Hybrid local scorer",
+        "status":  "completed",
+        "clients":  8,
+        "suppliers":  8,
+        "hitRateAt1":  0.91,
+        "ndcgAt3":  0.89,
+        "comment":  "Базовый локальный прогон на демо-слое данных"
+    }
+]

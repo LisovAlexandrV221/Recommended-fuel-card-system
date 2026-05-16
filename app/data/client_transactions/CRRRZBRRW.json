@@ -1,0 +1,122 @@
+[
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-01-15 11:23",
+    "station": "128",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 70.41,
+    "amount": 5036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-01-29 10:43",
+    "station": "128",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 77.39,
+    "amount": 5535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-02-20 10:37",
+    "station": "126",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 60.95,
+    "amount": 4378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-02-13 11:53",
+    "station": "128",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 75.83,
+    "amount": 5447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-02-27 09:15",
+    "station": "АЗС №23019",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 66.56,
+    "amount": 4645,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-02-05 17:55",
+    "station": "АЗС №23019",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 73.58,
+    "amount": 5112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-03-31 09:10",
+    "station": "079",
+    "region": "Липецкая область",
+    "fuel": "ДТ",
+    "liters": 74.63,
+    "amount": 5250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-03-30 08:58",
+    "station": "АЗС №23394",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 63.26,
+    "amount": 4415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-03-27 09:13",
+    "station": "АЗС №23019",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 74.21,
+    "amount": 5179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-03-25 09:35",
+    "station": "АЗС №23373",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 27.77,
+    "amount": 1938,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-03-19 18:10",
+    "station": "АЗС №23019",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 72.86,
+    "amount": 5085,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRRW",
+    "ts": "2025-03-11 13:52",
+    "station": "АЗС №23019",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 71.8,
+    "amount": 5011,
+    "vehicle": ""
+  }
+]

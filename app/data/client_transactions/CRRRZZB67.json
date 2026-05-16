@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-16 15:44",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-19 20:17",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-20 20:57",
+    "station": "9986",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 370,
+    "amount": 24254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-29 16:53",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 21.05,
+    "amount": 1301,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-28 13:01",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.19,
+    "amount": 2051,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-14 11:16",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.56,
+    "amount": 2074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-12 08:14",
+    "station": "АЗС №71906",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20583,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-05 15:56",
+    "station": "АЗС №76101",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 42.76,
+    "amount": 2547,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-31 08:39",
+    "station": "11143",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 43.37,
+    "amount": 2714,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-30 20:02",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-30 19:54",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-30 19:53",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-29 19:27",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-28 14:00",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33415,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-27 14:42",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-26 21:33",
+    "station": "АЗС №13 НП",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-25 20:39",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-25 14:19",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 43.34,
+    "amount": 2712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-24 19:23",
+    "station": "АЗС №71920",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 350.2,
+    "amount": 24027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-22 14:41",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.1,
+    "amount": 2509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-22 08:39",
+    "station": "11143",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.96,
+    "amount": 2188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-21 18:33",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-21 14:58",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-18 10:37",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-17 15:17",
+    "station": "АЗС №50623",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24661,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-17 15:07",
+    "station": "11143",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.5,
+    "amount": 2374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-15 08:40",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB67",
+    "ts": "2025-01-15 08:39",
+    "station": "АЗС №69473",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21150,
+    "vehicle": ""
+  }
+]

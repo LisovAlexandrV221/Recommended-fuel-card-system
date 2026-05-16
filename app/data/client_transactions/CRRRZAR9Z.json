@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-24 16:57",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10413,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-15 21:22",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 580.83,
+    "amount": 40548,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-21 18:42",
+    "station": "113",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18082,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-23 16:37",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 507.93,
+    "amount": 35697,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-28 06:47",
+    "station": "506",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-31 18:01",
+    "station": "290",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-07 19:00",
+    "station": "129",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14370,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-08 21:47",
+    "station": "369",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 275.5,
+    "amount": 20635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-08 22:04",
+    "station": "369",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 37450,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-12 08:25",
+    "station": "369",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-27 21:27",
+    "station": "002",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-31 16:28",
+    "station": "620",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-17 16:53",
+    "station": "43036 АЗС 36 Косолаповы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-16 15:54",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 122.82,
+    "amount": 8902,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-16 15:50",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 135.18,
+    "amount": 9798,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-15 23:39",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "MАСЛО",
+    "liters": 1,
+    "amount": 1292,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-15 14:49",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-21 09:10",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13436,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-16 22:37",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 195,
+    "amount": 13923,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-10 17:08",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-10 17:06",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-17 19:56",
+    "station": "АЗС № 29351 Большая Корзиха-1",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 225.01,
+    "amount": 16066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-16 23:45",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-15 17:16",
+    "station": "АЗС № 72217",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 42762,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-13 13:03",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21006,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-11 15:28",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7526,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-10 21:53",
+    "station": "АЗС № 8901-НПС",
+    "region": "Ямало-Ненецкий АО",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 8771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR9Z",
+    "ts": "2025-01-07 11:21",
+    "station": "59010 АЗС 10 Савино",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 35140,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-02-02 06:58",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 46.07,
+    "amount": 3828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-02-05 13:36",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 65.29,
+    "amount": 5425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-02-03 17:04",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-100",
+    "liters": 31,
+    "amount": 2625,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-03-23 20:34",
+    "station": "АЗС №61299",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 38,
+    "amount": 2663,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-05-01 11:55",
+    "station": "АЗС №33006",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 54.48,
+    "amount": 3418,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-05-23 09:39",
+    "station": "АЗС №34492",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 38,
+    "amount": 2651,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-05-03 11:39",
+    "station": "АЗС № 73239",
+    "region": "Ульяновская область",
+    "fuel": "АИ-100",
+    "liters": 55.01,
+    "amount": 4620,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXXA6",
+    "ts": "2025-06-15 14:44",
+    "station": "АЗС №13208",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 60.05,
+    "amount": 4176,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-04-22 11:20",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 23.08,
+    "amount": 1407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-12 18:13",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 40.33,
+    "amount": 2775,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-19 17:23",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-14 05:24",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 15.04,
+    "amount": 1035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-13 06:58",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-26 17:22",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2752,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-17 17:40",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1376,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-08 07:55",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-18 11:35",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 40.67,
+    "amount": 2799,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-05-31 18:33",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-25 17:34",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-25 12:31",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 37.44,
+    "amount": 2300,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-06 17:26",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-03 06:56",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-15 07:44",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1376,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-08 16:43",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-12 06:50",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRRX",
+    "ts": "2025-06-14 17:28",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3440,
+    "vehicle": ""
+  }
+]

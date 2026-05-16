@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-02-13 07:14",
+    "station": "АЗС №77541",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 42,
+    "amount": 2709,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-02-19 18:23",
+    "station": "АЗС №62872",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 55.55,
+    "amount": 3416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-02-27 07:15",
+    "station": "АЗС №77541",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 60.63,
+    "amount": 3911,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-02-18 06:59",
+    "station": "АЗС №77541",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 44.51,
+    "amount": 2871,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-02-14 19:05",
+    "station": "АЗС №62872",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 53.87,
+    "amount": 3313,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-03-14 07:18",
+    "station": "АЗС №77541",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 50.65,
+    "amount": 3267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-03-10 07:19",
+    "station": "АЗС №77541",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 43.75,
+    "amount": 2822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-04-11 13:10",
+    "station": "АЗС №50706",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 44.95,
+    "amount": 2806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-04-29 15:30",
+    "station": "АЗС №62872",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 48.06,
+    "amount": 2977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW7WA",
+    "ts": "2025-05-18 16:01",
+    "station": "АЗС №50205",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 57.19,
+    "amount": 3570,
+    "vehicle": ""
+  }
+]

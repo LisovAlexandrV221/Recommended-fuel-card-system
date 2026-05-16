@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-24 19:00",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2072,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-21 11:34",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2881,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-10 10:34",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-13 10:15",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-20 15:12",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-27 09:46",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2471,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-28 10:19",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2824,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-29 09:50",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-30 18:40",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4942,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-31 20:41",
+    "station": "002",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2802,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-23 19:07",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-24 00:38",
+    "station": "006",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-01-31 00:46",
+    "station": "006",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-03 09:51",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2482,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-05 09:46",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-07 09:42",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-10 09:56",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2482,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-11 10:06",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2482,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-12 06:29",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-13 17:39",
+    "station": "219",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-17 13:30",
+    "station": "202",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4264,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-18 06:25",
+    "station": "219",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3908,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-19 09:43",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2842,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-20 15:15",
+    "station": "204",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3553,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-20 18:46",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5685,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-24 09:57",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-26 10:09",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2842,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA98A",
+    "ts": "2025-02-27 18:27",
+    "station": "217",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5685,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-01-13 14:24",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-01-13 12:03",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 249.44,
+    "amount": 18493,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-01-05 07:49",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 274.86,
+    "amount": 20378,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-02-25 16:49",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30300,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-02-22 14:10",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 101.04,
+    "amount": 7705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-02-19 17:48",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22725,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-02-17 06:19",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-04-29 10:41",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5972,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZB66",
+    "ts": "2025-06-11 10:04",
+    "station": "АЗС № 35417 Барское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2301,
+    "vehicle": ""
+  }
+]

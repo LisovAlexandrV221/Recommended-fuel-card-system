@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-04-30 18:11",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 35.64,
+    "amount": 2212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-04-25 13:35",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 44.29,
+    "amount": 2749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-04-17 10:58",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 48.13,
+    "amount": 2987,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-05-29 15:40",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 45.44,
+    "amount": 2827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-05-16 11:01",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 37.9,
+    "amount": 2352,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-05-14 12:04",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 47.09,
+    "amount": 2923,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-05-08 16:55",
+    "station": " 02017 АЗС 17",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 30.83,
+    "amount": 1899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-06-27 15:08",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 37.14,
+    "amount": 2331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-06-11 16:16",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 26.81,
+    "amount": 1672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX9BB",
+    "ts": "2025-06-04 07:58",
+    "station": "18004 АЗС 4 Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 62.36,
+    "amount": 3880,
+    "vehicle": ""
+  }
+]

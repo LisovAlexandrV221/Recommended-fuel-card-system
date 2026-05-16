@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-15 22:44",
+    "station": "004",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 31.05,
+    "amount": 1813,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-28 15:39",
+    "station": "004",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 36.9,
+    "amount": 2169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-14 18:01",
+    "station": "149",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-21 08:56",
+    "station": "004",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 32.29,
+    "amount": 1898,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-31 19:36",
+    "station": "029",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 16.35,
+    "amount": 961,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-13 12:03",
+    "station": "107",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2131,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-10 09:00",
+    "station": "004",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 35.99,
+    "amount": 2101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-04 16:13",
+    "station": "44",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 34.87,
+    "amount": 2059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-04 19:32",
+    "station": "56-б",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 34.87,
+    "amount": 2059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-13 11:28",
+    "station": "45",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 52.31,
+    "amount": 3089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-13 19:40",
+    "station": "41",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 43.59,
+    "amount": 2574,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-14 11:16",
+    "station": "56",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-15 12:55",
+    "station": "39",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-15 18:16",
+    "station": "RR119 Врачово-2",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-15 21:15",
+    "station": "63",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-16 09:21",
+    "station": "60",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 70,
+    "amount": 4099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-17 21:48",
+    "station": "21",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 68.55,
+    "amount": 4120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-28 15:38",
+    "station": "144",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2398,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-29 03:43",
+    "station": "74",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 80,
+    "amount": 4685,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-29 08:02",
+    "station": "34",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-29 08:06",
+    "station": "63",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-30 20:31",
+    "station": "59",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-31 10:49",
+    "station": "35",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-18 07:55",
+    "station": "029",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 49.93,
+    "amount": 2934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-31 02:07",
+    "station": "074",
+    "region": "Калужская область",
+    "fuel": "АИ-95",
+    "liters": 65.64,
+    "amount": 3800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-14 13:06",
+    "station": "226",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1213,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-16 10:56",
+    "station": "114",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWR9",
+    "ts": "2025-01-24 09:57",
+    "station": "107",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2740,
+    "vehicle": ""
+  }
+]

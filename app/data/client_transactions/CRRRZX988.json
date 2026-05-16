@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-04-24 22:25",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 63.95,
+    "amount": 4379,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-04-25 13:43",
+    "station": "АЗС №52046",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 64.62,
+    "amount": 4434,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-04-24 16:41",
+    "station": "43010 АЗС 10 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 43.15,
+    "amount": 3084,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-04-16 16:15",
+    "station": "АЗС №77560",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 73.74,
+    "amount": 5161,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-04-29 15:33",
+    "station": "АЗС №50407",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 59.14,
+    "amount": 4066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-04-24 09:28",
+    "station": "43036 АЗС 36 Косолаповы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 72.15,
+    "amount": 5157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-05-21 16:54",
+    "station": "АЗС №33027",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.88,
+    "amount": 4297,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-05-15 20:25",
+    "station": "АЗС №50236",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 74,
+    "amount": 5080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-06-27 15:18",
+    "station": "АЗС №50201",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX988",
+    "ts": "2025-06-24 18:39",
+    "station": "АЗС №50201",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 84,
+    "amount": 5776,
+    "vehicle": ""
+  }
+]

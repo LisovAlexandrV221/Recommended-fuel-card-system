@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-01-23 07:54",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.07,
+    "amount": 5322,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-01-09 07:16",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 74.69,
+    "amount": 5673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-01-02 13:27",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41.68,
+    "amount": 3166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-28 21:12",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 25.2,
+    "amount": 1922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-27 10:22",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 102.64,
+    "amount": 6018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-27 10:18",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 88.18,
+    "amount": 6580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-27 10:13",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 135.31,
+    "amount": 10097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-27 20:49",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 69.49,
+    "amount": 5299,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-01 08:08",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-15 06:45",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-02-13 07:36",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 71.43,
+    "amount": 5447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-03-30 08:27",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 69.19,
+    "amount": 5276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-04-22 11:47",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 74.94,
+    "amount": 5749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-04-12 05:40",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.28,
+    "amount": 5391,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-04-12 07:53",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 24.78,
+    "amount": 1901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-04-12 07:53",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 22.38,
+    "amount": 1421,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-16 11:06",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 46.28,
+    "amount": 2968,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-29 06:17",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-29 06:16",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3810,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-18 11:02",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3810,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-16 13:42",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "АИ-95",
+    "liters": 30.04,
+    "amount": 1940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-11 15:11",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50.49,
+    "amount": 3873,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-08 06:51",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 23.69,
+    "amount": 1504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-08 06:48",
+    "station": "АЗС № 35436 Вожега",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 23.31,
+    "amount": 1788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-07 18:02",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.71,
+    "amount": 5424,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-31 09:05",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 68.03,
+    "amount": 5108,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-05-25 11:13",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 67.88,
+    "amount": 5207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8ZX8",
+    "ts": "2025-06-25 14:29",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 71,
+    "amount": 5410,
+    "vehicle": ""
+  }
+]

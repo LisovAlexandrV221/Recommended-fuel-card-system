@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-02-01 10:59",
+    "station": "АЗС №33064",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1413,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-02-26 09:13",
+    "station": "АЗС №33065",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-03-17 07:36",
+    "station": "АЗС №33047",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-04-05 08:13",
+    "station": "АЗС №33065",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-05-07 08:42",
+    "station": "АЗС №33065",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-05-24 09:35",
+    "station": "АЗС №33065",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBARXX",
+    "ts": "2025-06-12 09:22",
+    "station": "АЗС №33064",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1429,
+    "vehicle": ""
+  }
+]

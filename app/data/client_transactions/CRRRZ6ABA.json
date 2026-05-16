@@ -1,0 +1,142 @@
+[
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-05-28 10:04",
+    "station": "104",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13418,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-05-29 14:13",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10154,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-17 07:05",
+    "station": "104",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13418,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-22 08:02",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 46.17,
+    "amount": 3316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-04 14:32",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-11 08:54",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-19 08:29",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-19 10:35",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-25 08:09",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5746,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-30 10:47",
+    "station": "001(3708)",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14364,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-26 06:44",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-24 23:41",
+    "station": "АЗС №33011",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 30.26,
+    "amount": 2068,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-28 14:04",
+    "station": "АЗС №33076",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ABA",
+    "ts": "2025-06-24 08:10",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 44.09,
+    "amount": 3032,
+    "vehicle": ""
+  }
+]

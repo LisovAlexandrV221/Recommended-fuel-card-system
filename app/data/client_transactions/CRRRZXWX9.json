@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-23 13:18",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.78,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-16 08:05",
+    "station": "036",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 28.9,
+    "amount": 1742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-29 11:40",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 8.85,
+    "amount": 500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-29 16:00",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 29,
+    "amount": 1775,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-07 17:24",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.37,
+    "amount": 1481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-16 08:42",
+    "station": "035",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 21.08,
+    "amount": 1272,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-31 08:57",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 27.76,
+    "amount": 1699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-16 13:02",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30.22,
+    "amount": 1837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-01 13:23",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.53,
+    "amount": 1005,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-21 09:44",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.49,
+    "amount": 1009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-24 16:34",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.84,
+    "amount": 2009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-31 11:28",
+    "station": "035",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 8.34,
+    "amount": 507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-31 11:48",
+    "station": "035",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.46,
+    "amount": 987,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-31 15:28",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 10.33,
+    "amount": 584,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-22 21:05",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.9,
+    "amount": 2931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-26 17:06",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 18.96,
+    "amount": 1160,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-11 18:43",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 46.42,
+    "amount": 2900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-16 14:39",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.75,
+    "amount": 2986,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-27 18:03",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 18.41,
+    "amount": 1156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-27 13:26",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.63,
+    "amount": 2431,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-03 11:27",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.37,
+    "amount": 1481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-10 13:43",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.42,
+    "amount": 2396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-16 16:01",
+    "station": "032",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-12 17:48",
+    "station": "035",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.04,
+    "amount": 1994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-18 20:35",
+    "station": "035",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.13,
+    "amount": 2560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-23 10:45",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30.4,
+    "amount": 1860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-27 10:17",
+    "station": "036",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 36.59,
+    "amount": 2246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWX9",
+    "ts": "2025-01-01 09:54",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 37.56,
+    "amount": 2288,
+    "vehicle": ""
+  }
+]

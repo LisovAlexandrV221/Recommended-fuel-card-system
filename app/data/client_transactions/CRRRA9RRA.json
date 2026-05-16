@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-16 22:27",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-08 22:39",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 35245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-04 12:53",
+    "station": "059",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8498,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-04 13:13",
+    "station": "059",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-06 00:55",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7049,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-06 00:58",
+    "station": "068",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-14 00:51",
+    "station": "116",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-15 04:39",
+    "station": "060",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-30 15:00",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 67.6,
+    "amount": 4775,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-30 19:50",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 45829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-30 02:08",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-29 09:46",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-29 21:42",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-29 14:25",
+    "station": "16124 АЗС 124",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 18624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-29 08:30",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 67.6,
+    "amount": 4775,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-27 16:33",
+    "station": "66410 АЗС 410 Ачит",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27392,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-25 16:27",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19641,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-25 16:18",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19641,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-25 11:17",
+    "station": "66497 АЗС 497 Киселевка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 30816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-24 22:47",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19641,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-22 21:10",
+    "station": "16124 АЗС 124",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 31040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-22 20:57",
+    "station": "16124 АЗС 124",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 12416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-22 20:57",
+    "station": "16124 АЗС 124",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 43456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-22 20:13",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-22 19:46",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-21 16:41",
+    "station": "56045 АЗС 45",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-17 22:31",
+    "station": "74122 АЗС 122",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9RRA",
+    "ts": "2025-01-15 17:18",
+    "station": "66480 АЗС 480 Кленовское",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20760,
+    "vehicle": ""
+  }
+]

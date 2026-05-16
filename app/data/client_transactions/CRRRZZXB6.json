@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-29 12:34",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-28 09:03",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5160,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-28 14:31",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-21 14:50",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-19 22:17",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3686,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-19 18:58",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 19001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-18 16:47",
+    "station": "АЗС №36722",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 22186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-16 11:12",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3661,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-13 15:05",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5160,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-13 09:29",
+    "station": "АЗС № 35438 Московское шоссе",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-21 12:24",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-20 21:29",
+    "station": "АЗС №50710",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3339,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-20 12:52",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 85,
+    "amount": 6004,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-20 05:20",
+    "station": "АЗС № 47109 Мурманская-2 (л)",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4620,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-17 11:32",
+    "station": "АЗС №36712",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 19412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-01-31 15:33",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3661,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-06 19:51",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3295,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-06 08:13",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-05 17:49",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5429,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-04 16:10",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5125,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-03 18:03",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4423,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-13 17:19",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 65.01,
+    "amount": 4431,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-05 06:24",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-12 13:39",
+    "station": "АЗС №61328",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 84,
+    "amount": 5829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-11 18:02",
+    "station": "АЗС №50461",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-14 14:27",
+    "station": "АЗС №61362",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 71,
+    "amount": 4927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-13 21:29",
+    "station": "АЗС №23043",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 58,
+    "amount": 3929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXB6",
+    "ts": "2025-02-13 11:47",
+    "station": "АЗС №23039",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4029,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-16 17:57",
+    "station": "432",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6295,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-23 08:30",
+    "station": "480",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-28 08:58",
+    "station": "480",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-31 08:48",
+    "station": "480",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4882,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-24 04:16",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 61.37,
+    "amount": 4661,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-21 08:17",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 54.27,
+    "amount": 3439,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-09 11:37",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 48.34,
+    "amount": 3671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-31 14:15",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "АИ-95",
+    "liters": 43.02,
+    "amount": 2745,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-25 12:15",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 60.75,
+    "amount": 3849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-04 17:05",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.08,
+    "amount": 2983,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-28 01:31",
+    "station": "АЗС №69471",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 17.03,
+    "amount": 1237,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-28 00:37",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 30.78,
+    "amount": 2240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-27 22:22",
+    "station": "11189",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 48.69,
+    "amount": 3481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-24 01:01",
+    "station": "АЗС №47471 Апраксин Бор-2",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 57.42,
+    "amount": 4205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-18 09:31",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.25,
+    "amount": 2994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-09 13:51",
+    "station": "АЗС № 53266 Окуловка-1",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 57.84,
+    "amount": 4210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-01-08 22:10",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 28.57,
+    "amount": 1780,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-05 15:16",
+    "station": "69",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 260.1,
+    "amount": 18457,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-05 15:17",
+    "station": "69",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 294.87,
+    "amount": 20924,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-06 10:15",
+    "station": "69",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 5,
+    "amount": 281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-08 13:25",
+    "station": "57",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 44.06,
+    "amount": 2473,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-08 16:02",
+    "station": "86",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4884,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-10 16:01",
+    "station": "86",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-10 16:01",
+    "station": "86",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13954,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-06 02:26",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 29.71,
+    "amount": 1864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-06 07:58",
+    "station": "480",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5603,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-06 18:56",
+    "station": "570",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5603,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA899",
+    "ts": "2025-02-11 08:54",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5620,
+    "vehicle": ""
+  }
+]

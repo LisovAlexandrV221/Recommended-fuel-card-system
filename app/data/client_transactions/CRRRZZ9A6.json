@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-29 14:16",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1670,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-09 14:45",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 37.71,
+    "amount": 3128,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-21 17:11",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 6262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-21 05:14",
+    "station": "439",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 29.16,
+    "amount": 2435,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-10 12:14",
+    "station": "447",
+    "region": "ХМАО",
+    "fuel": "ДТ",
+    "liters": 43,
+    "amount": 3316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-30 14:50",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4920,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-30 12:18",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-100",
+    "liters": 80.06,
+    "amount": 6822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-30 09:52",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3514,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-30 09:51",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-29 14:04",
+    "station": "86662 АЗС 2",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-28 18:44",
+    "station": "66492 АЗС 492 Североуральск",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 11948,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-31 19:50",
+    "station": "АЗС № 72212",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 12829,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-27 13:57",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3514,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-24 17:21",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3763,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-24 14:11",
+    "station": "86602 АЗС 2",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 3010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-24 11:28",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-23 15:09",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3865,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-22 15:54",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-22 14:36",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-22 15:03",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3163,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-21 15:23",
+    "station": "59135 ААЗС 135 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-20 16:09",
+    "station": "59149 АЗС 149 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-17 15:57",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 54.35,
+    "amount": 3820,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-17 15:52",
+    "station": "59138 ААЗС 138 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-16 08:56",
+    "station": "59076 АЗС 76 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3865,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-15 16:22",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100.01,
+    "amount": 7029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-15 14:29",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9A6",
+    "ts": "2025-01-15 10:36",
+    "station": "66499 АЗС 499 Карпинск",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10542,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-19 18:32",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-19 12:12",
+    "station": "606",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6827,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-19 12:16",
+    "station": "606",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 92.52,
+    "amount": 6316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-20 17:03",
+    "station": "488",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5163,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-24 22:38",
+    "station": "004",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-27 17:13",
+    "station": "004",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 28.44,
+    "amount": 1940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-27 23:14",
+    "station": "316",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3443,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-28 09:31",
+    "station": "004",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4767,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-30 08:31",
+    "station": "179",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A97",
+    "ts": "2025-06-23 10:24",
+    "station": "АЗС №50437",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 43.2,
+    "amount": 2925,
+    "vehicle": ""
+  }
+]

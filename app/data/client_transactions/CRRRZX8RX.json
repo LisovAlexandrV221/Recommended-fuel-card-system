@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-28 17:09",
+    "station": "43067 АЗС 67 Слободской",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 33.2,
+    "amount": 1843,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-27 07:10",
+    "station": "АЗС №52068",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200.83,
+    "amount": 13136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-27 07:04",
+    "station": "АЗС №52068",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1111,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-27 05:50",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 51.49,
+    "amount": 3115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-26 09:01",
+    "station": "43006 АЗС 6 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 28.96,
+    "amount": 1607,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-26 08:44",
+    "station": "43006 АЗС 6 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 555,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-26 15:50",
+    "station": "43104 АЗС 104 Яранск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 15.09,
+    "amount": 837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-26 13:51",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 37.42,
+    "amount": 2077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-26 06:35",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-25 06:41",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 32.25,
+    "amount": 1790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-25 06:34",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-25 03:50",
+    "station": "АЗС №52068",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 38.16,
+    "amount": 2121,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-25 03:50",
+    "station": "АЗС №52068",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 21.77,
+    "amount": 1324,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-24 15:51",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 48.76,
+    "amount": 2950,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-23 07:31",
+    "station": "43070 АЗС 70 Белая Холуница",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 44.36,
+    "amount": 2684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-23 06:42",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-22 07:34",
+    "station": "АЗС №52068",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 260.26,
+    "amount": 17024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-22 07:24",
+    "station": "АЗС №52068",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 32.47,
+    "amount": 1804,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-22 07:33",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10224,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-02-21 20:05",
+    "station": "43003 АЗС 3 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-31 18:04",
+    "station": "43018 АЗС 18 Плотники",
+    "region": "Кировская область",
+    "fuel": "АИ-92",
+    "liters": 17.83,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-31 11:58",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 45.13,
+    "amount": 2730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-29 03:21",
+    "station": "43067 АЗС 67 Слободской",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 24.25,
+    "amount": 1467,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-26 18:20",
+    "station": "18075 АЗС 75 Глазов",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 26.54,
+    "amount": 1619,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-26 13:42",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 29.12,
+    "amount": 1773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-26 06:25",
+    "station": "43068 АЗС 68 Болотовы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-25 16:50",
+    "station": "59102 АЗС 102 Горнозаводск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 18.4,
+    "amount": 1121,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8RX",
+    "ts": "2025-03-25 11:21",
+    "station": "59080 АЗС 80 Очер",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.52,
+    "amount": 1980,
+    "vehicle": ""
+  }
+]

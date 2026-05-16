@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZXA8R",
+    "ts": "2025-01-15 16:58",
+    "station": "АЗС №33077",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 29.24,
+    "amount": 1977,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA8R",
+    "ts": "2025-01-16 13:38",
+    "station": "АЗС №52103",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA8R",
+    "ts": "2025-01-16 13:34",
+    "station": "АЗС №52103",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 17.91,
+    "amount": 995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXA8R",
+    "ts": "2025-03-12 06:34",
+    "station": "АЗС №52103",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 9.79,
+    "amount": 547,
+    "vehicle": ""
+  }
+]

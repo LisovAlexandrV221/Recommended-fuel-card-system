@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-17 08:37",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 29136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-16 08:38",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49.57,
+    "amount": 3101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-21 08:33",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25662,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-22 09:25",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.14,
+    "amount": 1990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-22 09:30",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 123,
+    "amount": 9018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-28 11:40",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-22 20:13",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 279,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-22 20:13",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-10 09:46",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-13 21:01",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-13 09:09",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-13 09:12",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 42.7,
+    "amount": 3110,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-13 17:23",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-12 18:16",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 46.67,
+    "amount": 3399,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-27 13:50",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 330,
+    "amount": 24331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-27 13:39",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-28 12:29",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25806,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-28 14:21",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 16958,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-13 09:50",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-21 08:05",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58.62,
+    "amount": 4298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-16 09:32",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 52.76,
+    "amount": 3843,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-15 22:30",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 36.56,
+    "amount": 2544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-15 22:30",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 229,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-15 22:30",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-21 10:05",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21843,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-21 06:49",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 16119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-22 09:59",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7ZA",
+    "ts": "2025-01-22 12:11",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 340,
+    "amount": 24929,
+    "vehicle": ""
+  }
+]

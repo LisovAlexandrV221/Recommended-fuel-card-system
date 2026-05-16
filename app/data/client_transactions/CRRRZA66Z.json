@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-24 14:09",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.95,
+    "amount": 2947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-10 18:26",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55.55,
+    "amount": 3391,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-13 14:35",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49.04,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-20 04:30",
+    "station": "007",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 36.7,
+    "amount": 2575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-31 16:19",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 8.45,
+    "amount": 626,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-30 15:35",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 37.47,
+    "amount": 2778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-30 16:40",
+    "station": "АЗС № 35445 Чернышевского-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.19,
+    "amount": 3560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-21 15:34",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 28.65,
+    "amount": 2124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-31 18:19",
+    "station": "11127",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 25.36,
+    "amount": 1570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-30 17:03",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3450,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-30 09:19",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-22 14:17",
+    "station": "11126",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 46.51,
+    "amount": 3448,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-21 15:58",
+    "station": "11127",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39,
+    "amount": 2414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-17 15:31",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 25.81,
+    "amount": 1914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-01-27 06:29",
+    "station": "020",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 53.16,
+    "amount": 3124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-26 10:11",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 30.07,
+    "amount": 1760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-28 09:50",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 23.01,
+    "amount": 1707,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-28 10:24",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35.11,
+    "amount": 2235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-17 06:48",
+    "station": "020",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 27.72,
+    "amount": 1635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-28 15:16",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 29.24,
+    "amount": 1724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-24 04:15",
+    "station": "007",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 53.04,
+    "amount": 3133,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-28 14:10",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 27.9,
+    "amount": 1723,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-05 16:03",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.66,
+    "amount": 2437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-27 15:30",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.3,
+    "amount": 2736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-27 09:25",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 31.84,
+    "amount": 1877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-17 16:42",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 48,
+    "amount": 2721,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-27 21:56",
+    "station": "036",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.98,
+    "amount": 1537,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZA66Z",
+    "ts": "2025-02-18 15:06",
+    "station": "020",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 43.14,
+    "amount": 2544,
+    "vehicle": ""
+  }
+]

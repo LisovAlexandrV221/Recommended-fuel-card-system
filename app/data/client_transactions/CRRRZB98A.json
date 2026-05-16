@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-01-30 10:10",
+    "station": "361",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-01-21 00:43",
+    "station": "361",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-01-26 04:20",
+    "station": "248",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-01-31 01:20",
+    "station": "351",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-18 22:58",
+    "station": "361",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20889,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-18 23:00",
+    "station": "361",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 487.3,
+    "amount": 33931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-04 10:41",
+    "station": "240",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 136.08,
+    "amount": 10469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-16 17:16",
+    "station": "361",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20889,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-23 08:19",
+    "station": "094",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 70.04,
+    "amount": 5080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-23 08:24",
+    "station": "094",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-27 16:05",
+    "station": "140",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-27 16:19",
+    "station": "140",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14414,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-02 11:24",
+    "station": "337",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 367.43,
+    "amount": 27069,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-03 17:01",
+    "station": "141",
+    "region": "Новосибирская область",
+    "fuel": "ДТ",
+    "liters": 274.67,
+    "amount": 21119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-07 12:55",
+    "station": "6279",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 44075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-08 14:53",
+    "station": "224",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 39445,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-13 07:32",
+    "station": "042",
+    "region": "Хабаровский край",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 38535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-14 14:27",
+    "station": "224",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-16 04:52",
+    "station": "6279",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 57298,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-17 23:04",
+    "station": "234",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 394.56,
+    "amount": 30208,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-19 03:11",
+    "station": "076",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-28 09:32",
+    "station": "139",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-02-14 20:12",
+    "station": "361",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-03-02 09:47",
+    "station": "139",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-03-02 18:48",
+    "station": "032",
+    "region": "Воронежская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 42528,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-04-26 15:28",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 25384,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-04-17 10:58",
+    "station": "117",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19665,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB98A",
+    "ts": "2025-04-12 10:50",
+    "station": "513",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20358,
+    "vehicle": ""
+  }
+]

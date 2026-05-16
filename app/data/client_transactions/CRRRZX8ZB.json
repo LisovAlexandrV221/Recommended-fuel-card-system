@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-02-24 17:52",
+    "station": "63007 ПААЗС 7",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 16.33,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-03-26 08:30",
+    "station": "63007 ПААЗС 7",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 16.33,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-03-16 16:00",
+    "station": "АЗС № 63258",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-03-06 08:16",
+    "station": "АЗС № 63258",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 16.33,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-03-05 17:18",
+    "station": "63007 ПААЗС 7",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 16.33,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-04-25 16:17",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-92",
+    "liters": 48.41,
+    "amount": 2735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-04-24 09:28",
+    "station": "63052 АЗС 52",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 47.1,
+    "amount": 2904,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-04-21 08:31",
+    "station": "63056 ПААЗС 56",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 16.21,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-04-15 17:51",
+    "station": "63007 ПААЗС 7",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 16.21,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-29 18:20",
+    "station": "63052 АЗС 52",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 32.35,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-23 14:15",
+    "station": "02008 АЗС 8",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 38.28,
+    "amount": 2357,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-22 17:38",
+    "station": "63076 АЗС 76-У",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 47.17,
+    "amount": 2909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-22 10:46",
+    "station": "59089 АЗС 89 Куеда",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 34.28,
+    "amount": 2124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-19 15:39",
+    "station": "59089 АЗС 89 Куеда",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 37.64,
+    "amount": 2333,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-16 14:37",
+    "station": "63050 АЗС 50",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 49.95,
+    "amount": 3080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-16 10:05",
+    "station": "59023 АЗС 23 Оса",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 42.65,
+    "amount": 2629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-15 22:19",
+    "station": "АЗС №13213",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-92",
+    "liters": 49.91,
+    "amount": 2832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-15 12:35",
+    "station": "АЗС №69470",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 49.77,
+    "amount": 3135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-14 09:11",
+    "station": "АЗС № 60236 Михальки",
+    "region": "Псковская область",
+    "fuel": "АИ-95",
+    "liters": 49.91,
+    "amount": 3110,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-13 18:17",
+    "station": "59015 АЗС 15 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 40.29,
+    "amount": 2483,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-13 16:55",
+    "station": "АЗС №62871",
+    "region": "Рязанская область",
+    "fuel": "АИ-92",
+    "liters": 49.59,
+    "amount": 2842,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-13 08:41",
+    "station": "63064 АЗС 64-У",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 44.28,
+    "amount": 2730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-05-12 13:56",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-06-30 08:45",
+    "station": "АЗС№63222",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-06-25 08:07",
+    "station": "АЗС № 63258",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-06-19 16:38",
+    "station": "63046 АЗС 46-У",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 43.44,
+    "amount": 2700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-06-17 16:56",
+    "station": "АЗС №58623",
+    "region": "Пензенская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1452,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8ZB",
+    "ts": "2025-06-17 10:28",
+    "station": "АЗС №48757",
+    "region": "Липецкая область",
+    "fuel": "АИ-95",
+    "liters": 43.01,
+    "amount": 2738,
+    "vehicle": ""
+  }
+]

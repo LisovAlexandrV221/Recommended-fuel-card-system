@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-11 22:36",
+    "station": "447",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1146,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-16 16:07",
+    "station": "325",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 47.26,
+    "amount": 2764,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-31 11:56",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40.03,
+    "amount": 2436,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-29 12:13",
+    "station": "18061 АЗС 61 82 км а/д Елабуга-Ижевск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 22.14,
+    "amount": 1351,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-11 17:02",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 46.56,
+    "amount": 2834,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-02 11:51",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30.03,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-06 10:50",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 46.69,
+    "amount": 2673,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-06 08:46",
+    "station": "02140 АЗС 140",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 53.61,
+    "amount": 3245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-02 17:54",
+    "station": "02139 АЗС 139",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 43.57,
+    "amount": 2637,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-31 09:58",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-29 14:04",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 40.79,
+    "amount": 2336,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-28 17:33",
+    "station": "18036 АЗС 36 Воткинск",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 38.89,
+    "amount": 2373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-27 14:34",
+    "station": "59113 АЗС 113 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 30.65,
+    "amount": 1867,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-27 11:09",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-27 08:58",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-26 17:55",
+    "station": "66480 АЗС 480 Кленовское",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 37.61,
+    "amount": 2291,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-24 15:07",
+    "station": "66405 АЗС 405 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 50.42,
+    "amount": 3071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-23 12:53",
+    "station": "74074 АЗС 74",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 47.89,
+    "amount": 2885,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-21 12:40",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-20 14:43",
+    "station": "66470 АЗС 470 Леневка",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 46.58,
+    "amount": 2837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-16 13:17",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-16 13:14",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2383,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-14 07:15",
+    "station": "66482 АЗС 482 Екатеринбург",
+    "region": "Свердловская область",
+    "fuel": "АИ-95",
+    "liters": 45.1,
+    "amount": 2747,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-12 17:43",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 50.88,
+    "amount": 3065,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-12 01:51",
+    "station": "02139 АЗС 139",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 40.97,
+    "amount": 2480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-09 10:22",
+    "station": "74084 АЗС 84",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2383,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-06 00:45",
+    "station": "74039 АЗС 39",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 33.94,
+    "amount": 2022,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBX97",
+    "ts": "2025-01-05 09:36",
+    "station": "74041 АЗС 41",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 43.9,
+    "amount": 2645,
+    "vehicle": ""
+  }
+]

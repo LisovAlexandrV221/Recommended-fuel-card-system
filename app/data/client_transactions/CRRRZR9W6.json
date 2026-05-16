@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-29 09:46",
+    "station": "022",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7204,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-23 09:27",
+    "station": "022",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-23 19:10",
+    "station": "018",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-14 09:48",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-19 09:50",
+    "station": "015",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10838,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-15 23:23",
+    "station": "374",
+    "region": "Рязанская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3302,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-13 21:48",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2595,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-31 15:29",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20583,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-30 14:40",
+    "station": "АЗС № 11304 Визинга",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-30 14:39",
+    "station": "АЗС № 11304 Визинга",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3547,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-23 20:20",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-21 15:31",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-20 08:47",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 31,
+    "amount": 1778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-19 20:07",
+    "station": "АЗС № 35415 Погорелово",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 28,
+    "amount": 1614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-18 17:00",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-15 22:47",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-13 18:06",
+    "station": "АЗС № 35417 Барское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 34.61,
+    "amount": 1996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-13 17:59",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25886,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-31 11:58",
+    "station": "АЗС № 35408 Грязовец-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7446,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-30 12:40",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-29 16:04",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 91,
+    "amount": 5063,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-29 15:09",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3338,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-27 08:49",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 88,
+    "amount": 4888,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-25 18:35",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-25 07:52",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-24 12:38",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-22 17:01",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18315,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR9W6",
+    "ts": "2025-05-22 13:39",
+    "station": "АЗС № 11355 Орбита",
+    "region": "Республика Коми",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21282,
+    "vehicle": ""
+  }
+]

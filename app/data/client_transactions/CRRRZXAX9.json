@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-02 09:52",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 26.01,
+    "amount": 1499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-02 12:21",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.22,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-03 09:08",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 29.48,
+    "amount": 1700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-06 12:46",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.22,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-12 06:41",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.22,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-24 06:27",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.22,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-28 09:08",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 29.33,
+    "amount": 1700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-29 15:10",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.51,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-01-31 06:49",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 25.88,
+    "amount": 1500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-17 08:15",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.51,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-17 14:59",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.06,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-19 07:33",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 25.88,
+    "amount": 1500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-20 06:25",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.06,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-25 06:27",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 17.25,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-28 06:27",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.51,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-11 06:59",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 25.88,
+    "amount": 1500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-03 16:13",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.06,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-07 16:41",
+    "station": "502",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.06,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-02-13 06:22",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 31.06,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-04 07:01",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 25.72,
+    "amount": 1499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-05 06:37",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 30.87,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-10 06:27",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 30.87,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-11 10:35",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.3,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-14 16:03",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.3,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-16 07:34",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.3,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-20 15:41",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 30.87,
+    "amount": 1800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-21 12:36",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 34.3,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXAX9",
+    "ts": "2025-03-26 06:26",
+    "station": "242",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 30.88,
+    "amount": 1800,
+    "vehicle": ""
+  }
+]

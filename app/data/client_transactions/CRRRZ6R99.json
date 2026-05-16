@@ -1,0 +1,152 @@
+[
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-05-27 13:01",
+    "station": "АЗС №77596",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 43.43,
+    "amount": 3024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-05-21 19:20",
+    "station": "АЗС №40988",
+    "region": "Калужская область",
+    "fuel": "ДТ",
+    "liters": 76,
+    "amount": 5124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-05-26 17:13",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3175,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-05-29 17:19",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3528,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-05-30 13:39",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-19 18:06",
+    "station": "АЗС №50624",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-02 15:00",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3175,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-04 17:24",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-06 10:26",
+    "station": "АЗС РОСНЕФТЬ MR082",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2079,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-17 15:36",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3538,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-18 15:28",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 42,
+    "amount": 2972,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-23 09:15",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3538,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-25 15:30",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-26 17:02",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 37,
+    "amount": 2618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6R99",
+    "ts": "2025-06-27 16:54",
+    "station": "АЗС РОСНЕФТЬ MR046",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1415,
+    "vehicle": ""
+  }
+]

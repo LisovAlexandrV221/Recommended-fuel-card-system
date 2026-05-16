@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-31 13:31",
+    "station": "АЗС №64569",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 210,
+    "amount": 14007,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-31 13:24",
+    "station": "АЗС №64569",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 18676,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-30 16:21",
+    "station": "56044 АЗС 44",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 188.08,
+    "amount": 12855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-30 16:11",
+    "station": "56044 АЗС 44",
+    "region": "Оренбургская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-29 05:22",
+    "station": "АЗС №23176",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 15042,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-29 05:15",
+    "station": "АЗС №23176",
+    "region": "Краснодарский край",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-28 16:12",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.77,
+    "amount": 2578,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-27 08:40",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10322,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-27 08:31",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-27 20:19",
+    "station": "АЗС №50304",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 15828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-27 20:13",
+    "station": "АЗС №50304",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9233,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-27 14:33",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2144,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-26 13:20",
+    "station": "43076 АЗС 76 Хохловы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-26 13:10",
+    "station": "43076 АЗС 76 Хохловы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 16462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-25 12:19",
+    "station": "АЗС №52039",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 5923,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-25 16:45",
+    "station": "66485 АЗС 485 Богданович",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-25 16:33",
+    "station": "66485 АЗС 485 Богданович",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 15833,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-25 15:59",
+    "station": "АЗС №33050",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6555,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-24 20:18",
+    "station": "АЗС №64580",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-24 16:39",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 105,
+    "amount": 7742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-24 16:23",
+    "station": "86615 АЗС 15",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-24 08:04",
+    "station": "86612 АЗС 12",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "MАСЛО",
+    "liters": 1,
+    "amount": 1868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-24 08:02",
+    "station": "86612 АЗС 12",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 13271,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-24 08:01",
+    "station": "86612 АЗС 12",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 19907,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-23 19:00",
+    "station": "АЗС №61361",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 130,
+    "amount": 8710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-23 16:15",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.54,
+    "amount": 2504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-23 12:56",
+    "station": "43036 АЗС 36 Косолаповы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4801,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ6B6",
+    "ts": "2025-01-23 12:51",
+    "station": "43036 АЗС 36 Косолаповы",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3430,
+    "vehicle": ""
+  }
+]

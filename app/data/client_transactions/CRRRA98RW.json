@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-17 10:45",
+    "station": "TN001",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 273.38,
+    "amount": 19571,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-19 15:14",
+    "station": "455\"Кола-2\"",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300.03,
+    "amount": 21863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-20 17:42",
+    "station": "4",
+    "region": "Курганская область",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 40106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-20 11:44",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 41022,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-22 18:57",
+    "station": "86",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-23 15:59",
+    "station": "1",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 22742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-28 15:59",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-11 11:26",
+    "station": "406",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 40026,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-14 22:52",
+    "station": "412",
+    "region": "Волгоградская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-02-16 13:22",
+    "station": "223",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 33355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-04 22:46",
+    "station": "65",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-12 15:10",
+    "station": "LR018 \"Хвалово\"",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21954,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-13 12:44",
+    "station": "244 \"Березник\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-24 15:25",
+    "station": "250",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 35530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-25 17:06",
+    "station": "244 \"Березник\"",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-31 17:16",
+    "station": "101",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13830,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-04 00:05",
+    "station": "527",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14090,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-06 10:13",
+    "station": "686",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-06 10:22",
+    "station": "686",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-06 10:28",
+    "station": "686",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-09 09:40",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 730,
+    "amount": 51355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-09 10:07",
+    "station": "419",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3517,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-09 16:15",
+    "station": "663",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 31221,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-13 11:15",
+    "station": "450",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 39390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-15 18:39",
+    "station": "1",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21567,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-16 14:27",
+    "station": "479",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 530,
+    "amount": 36501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-18 20:05",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 33385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98RW",
+    "ts": "2025-03-22 10:33",
+    "station": "1",
+    "region": "Омская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28800,
+    "vehicle": ""
+  }
+]

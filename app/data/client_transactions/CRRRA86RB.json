@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-31 18:48",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 43.77,
+    "amount": 2675,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-31 12:29",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 43.85,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-30 18:04",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 82.26,
+    "amount": 5627,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-30 20:43",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-29 12:19",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-29 12:18",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 146.03,
+    "amount": 9990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-27 12:39",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-27 12:39",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 34.83,
+    "amount": 2109,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-27 15:35",
+    "station": "АЗС №77622",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 37.68,
+    "amount": 2636,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-26 09:28",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-100",
+    "liters": 42.06,
+    "amount": 3563,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-23 21:56",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-22 12:10",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-22 12:09",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 146.03,
+    "amount": 9990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-21 12:09",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-21 12:08",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 35.56,
+    "amount": 2153,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-17 09:14",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-100",
+    "liters": 37.14,
+    "amount": 3146,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-17 08:27",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 35.93,
+    "amount": 2196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-16 20:01",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-15 11:11",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-15 11:10",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 146.03,
+    "amount": 9990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-15 14:49",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 44.69,
+    "amount": 2706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-14 15:23",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50.42,
+    "amount": 3449,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-13 13:20",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-10 15:18",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 80.26,
+    "amount": 5491,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-09 12:32",
+    "station": "АЗС №12023",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 51.49,
+    "amount": 3117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-09 22:07",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-04 10:35",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 42.87,
+    "amount": 2933,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA86RB",
+    "ts": "2025-01-22 13:45",
+    "station": "АЗС №77622",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 47.43,
+    "amount": 3318,
+    "vehicle": ""
+  }
+]

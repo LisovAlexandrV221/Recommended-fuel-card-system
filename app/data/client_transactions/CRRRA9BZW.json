@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRA9BZW",
+    "ts": "2025-01-19 12:22",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 27.96,
+    "amount": 1718,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BZW",
+    "ts": "2025-01-13 12:08",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.18,
+    "amount": 2025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9BZW",
+    "ts": "2025-01-25 10:52",
+    "station": "034",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 4.94,
+    "amount": 303,
+    "vehicle": ""
+  }
+]

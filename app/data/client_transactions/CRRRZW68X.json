@@ -1,0 +1,152 @@
+[
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-04-29 13:35",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 322.25,
+    "amount": 22877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-04-29 13:28",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 5.16,
+    "amount": 313,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-22 16:24",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 60.15,
+    "amount": 3670,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-21 10:49",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 91,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-21 10:49",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-21 11:36",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 303.21,
+    "amount": 21525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-20 16:02",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 61,
+    "amount": 3700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-19 12:21",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 11358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-19 12:14",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 136.63,
+    "amount": 9699,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-14 15:38",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.47,
+    "amount": 2940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-10 11:55",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 65.81,
+    "amount": 4015,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-09 08:49",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 62,
+    "amount": 3760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-07 11:03",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 157.93,
+    "amount": 11211,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-05 07:01",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 63.47,
+    "amount": 3849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW68X",
+    "ts": "2025-05-03 13:33",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 910,
+    "vehicle": ""
+  }
+]

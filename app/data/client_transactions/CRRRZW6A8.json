@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-19 00:40",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 62.81,
+    "amount": 3860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-14 14:30",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 58.71,
+    "amount": 3558,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-25 18:48",
+    "station": "020",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 54.4,
+    "amount": 3280,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-29 14:17",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 52.44,
+    "amount": 3199,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-09 02:00",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 17.07,
+    "amount": 1034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-07 14:58",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 57.08,
+    "amount": 3459,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-30 12:49",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 39.99,
+    "amount": 2311,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-28 05:40",
+    "station": "АЗС № 35411 Сазоново-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50.07,
+    "amount": 3126,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-27 07:43",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 33.65,
+    "amount": 1944,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-23 13:01",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.65,
+    "amount": 2760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-23 12:33",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 59.55,
+    "amount": 3681,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-22 20:51",
+    "station": "АЗС № 35424 Никольск-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35.86,
+    "amount": 2239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-21 18:25",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 43.43,
+    "amount": 2684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-21 09:09",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 107.86,
+    "amount": 8071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-10 17:07",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 103.69,
+    "amount": 7759,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-08 22:00",
+    "station": "АЗС № 35424 Никольск-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 36.95,
+    "amount": 2307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-29 16:26",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 104.92,
+    "amount": 7851,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-05 13:55",
+    "station": "113",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 33.43,
+    "amount": 2056,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-22 09:50",
+    "station": "43076 АЗС 76 Хохловы",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 42.99,
+    "amount": 2627,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-22 06:41",
+    "station": "АЗС № 35425 Козловка",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47,
+    "amount": 2905,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-05 07:53",
+    "station": "АЗС № 35411 Сазоново-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.37,
+    "amount": 2021,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-05 04:33",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 38.78,
+    "amount": 2397,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-28 15:26",
+    "station": "АЗС № 35410 Сазоново-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.33,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-24 17:49",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 39.07,
+    "amount": 2257,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-24 14:54",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 107.39,
+    "amount": 8036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-15 15:28",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40.27,
+    "amount": 2327,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-15 11:10",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100.06,
+    "amount": 7487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW6A8",
+    "ts": "2025-01-07 16:05",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40.96,
+    "amount": 2367,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-24 18:10",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 21.48,
+    "amount": 1347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-20 07:34",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 34.01,
+    "amount": 1994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-06 14:09",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.24,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-31 11:45",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 43.14,
+    "amount": 2706,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-23 13:10",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 67.18,
+    "amount": 3918,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-23 08:05",
+    "station": "АЗС № 35425 Козловка",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.53,
+    "amount": 2103,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-15 09:41",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.89,
+    "amount": 2844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-02 16:26",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 25.91,
+    "amount": 1625,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-24 10:50",
+    "station": "АЗС №76723",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 39.45,
+    "amount": 2409,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-02 10:05",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45.49,
+    "amount": 2854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-30 15:35",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 64.99,
+    "amount": 3790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-21 08:56",
+    "station": "АЗС № 29371 Коряжма-1",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 70.88,
+    "amount": 4134,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-01-03 19:10",
+    "station": "АЗС №50266",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.24,
+    "amount": 2282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-05 18:33",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 36.46,
+    "amount": 2287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-05 10:19",
+    "station": "АЗС № 35402 Великий Устюг-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.9,
+    "amount": 1562,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-26 14:09",
+    "station": "63046 АЗС 46-У",
+    "region": "Самарская область",
+    "fuel": "АИ-92",
+    "liters": 66.74,
+    "amount": 3815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-24 14:25",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 92.35,
+    "amount": 5444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-18 13:28",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.33,
+    "amount": 2605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-06 07:17",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 67.88,
+    "amount": 3980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-22 08:36",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.98,
+    "amount": 2205,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-25 10:09",
+    "station": "АЗС № 35425 Козловка",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 33.59,
+    "amount": 1980,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-13 19:08",
+    "station": "АЗС № 73238",
+    "region": "Ульяновская область",
+    "fuel": "АИ-95",
+    "liters": 42.82,
+    "amount": 2555,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-13 08:30",
+    "station": "АЗС№63253",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 25,
+    "amount": 1561,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-12 08:39",
+    "station": "АЗС № 35425 Козловка",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.71,
+    "amount": 2125,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-10 17:25",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 70.48,
+    "amount": 4110,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-03 14:32",
+    "station": "АЗС № 29394 Котлас",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 64.02,
+    "amount": 3734,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-25 12:46",
+    "station": "АЗС №52080",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 30.13,
+    "amount": 1725,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRR6",
+    "ts": "2025-02-25 16:57",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 45.34,
+    "amount": 2597,
+    "vehicle": ""
+  }
+]

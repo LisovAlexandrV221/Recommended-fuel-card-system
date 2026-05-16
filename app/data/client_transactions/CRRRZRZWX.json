@@ -1,0 +1,22 @@
+[
+  {
+    "client": "CRRRZRZWX",
+    "ts": "2025-01-14 10:48",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 7.29,
+    "amount": 510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRZWX",
+    "ts": "2025-01-11 13:34",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1248,
+    "vehicle": ""
+  }
+]

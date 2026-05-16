@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-24 15:27",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 34,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-24 15:27",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 50,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-24 15:27",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 73.33,
+    "amount": 4646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-29 10:39",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 67.46,
+    "amount": 4232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-30 09:52",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.43,
+    "amount": 2998,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-24 09:49",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-24 09:47",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 350.87,
+    "amount": 26014,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-22 12:33",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.48,
+    "amount": 3496,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-14 16:12",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 85.12,
+    "amount": 5486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-14 10:21",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.19,
+    "amount": 2612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-25 15:31",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 44.81,
+    "amount": 2774,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-01-08 13:04",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3095,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-27 11:09",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 38.7,
+    "amount": 2396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-28 13:19",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 38.4,
+    "amount": 2495,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-21 13:04",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60.02,
+    "amount": 4577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-04 08:43",
+    "station": "АЗС № 35433 Сокол",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 79.19,
+    "amount": 4968,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-26 12:26",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 84.53,
+    "amount": 5232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-25 14:01",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2966,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-25 14:00",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 309.51,
+    "amount": 22947,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-25 13:46",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-13 17:05",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 81,
+    "amount": 5014,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-13 15:04",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 51,
+    "amount": 3157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-22 09:35",
+    "station": "АЗС № 35445 Чернышевского-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 74.53,
+    "amount": 4698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-21 18:54",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2786,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-07 16:14",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45.95,
+    "amount": 2844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-07 09:36",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 74.1,
+    "amount": 5494,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-03 12:55",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2966,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWW7X",
+    "ts": "2025-02-15 11:53",
+    "station": "11129",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 79.85,
+    "amount": 5920,
+    "vehicle": ""
+  }
+]

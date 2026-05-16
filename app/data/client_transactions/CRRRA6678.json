@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-01-30 12:27",
+    "station": "АЗС №33002",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 70.53,
+    "amount": 4984,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-01-28 14:01",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60.04,
+    "amount": 4243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-01-25 14:11",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 46.33,
+    "amount": 3274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-01-21 11:47",
+    "station": "АЗС №33002",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 78.79,
+    "amount": 5568,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-01-16 14:14",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.51,
+    "amount": 4347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-02-28 10:54",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.24,
+    "amount": 4347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-02-20 10:55",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 69.05,
+    "amount": 4901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-02-18 13:33",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 55.4,
+    "amount": 3932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-02-07 11:26",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.51,
+    "amount": 4347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-24 14:28",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.24,
+    "amount": 4347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-23 11:34",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 83.04,
+    "amount": 5894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-18 14:01",
+    "station": "АЗС №21075",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 59.8,
+    "amount": 4261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-16 17:35",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 40.76,
+    "amount": 3010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-16 12:56",
+    "station": "АЗС №21076",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 68.07,
+    "amount": 4850,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-15 15:48",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 63.11,
+    "amount": 4480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-12 13:50",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.24,
+    "amount": 4347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-03-04 13:16",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5678,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-04-30 10:49",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 75.95,
+    "amount": 5427,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-04-30 10:32",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.29,
+    "amount": 4451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-04-18 11:29",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.29,
+    "amount": 4451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-04-12 12:39",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 76.69,
+    "amount": 5480,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-04-04 10:57",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 61.24,
+    "amount": 4347,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-05-21 10:49",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 73.43,
+    "amount": 5247,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-05-26 10:48",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.29,
+    "amount": 4451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-05-15 09:28",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.29,
+    "amount": 4451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-06-24 10:07",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 62.29,
+    "amount": 4451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-06-21 11:25",
+    "station": "АЗС №32",
+    "region": "Витебская область",
+    "fuel": "ДТ",
+    "liters": 1.76,
+    "amount": 151,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6678",
+    "ts": "2025-06-21 11:22",
+    "station": "АЗС №32",
+    "region": "Витебская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 4297,
+    "vehicle": ""
+  }
+]

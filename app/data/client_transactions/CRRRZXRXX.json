@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-05 19:02",
+    "station": "700",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27292,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-07 20:56",
+    "station": "536",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10098,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-07 20:57",
+    "station": "536",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 47124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-10 23:39",
+    "station": "701",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6823,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-11 07:29",
+    "station": "700",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17058,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-14 06:57",
+    "station": "700",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13646,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-15 03:56",
+    "station": "661",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-16 18:11",
+    "station": "421",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2601,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-18 19:10",
+    "station": "194",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-19 07:24",
+    "station": "700",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-20 14:23",
+    "station": "167",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-20 14:29",
+    "station": "167",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 26032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-21 05:33",
+    "station": "442",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17445,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-29 10:43",
+    "station": "113",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 35.9,
+    "amount": 2252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-30 20:49",
+    "station": "114",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 44.89,
+    "amount": 2816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 19:05",
+    "station": "16120-1 АЗС 120",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 24700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 17:48",
+    "station": "АЗС № 73233",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 34116,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 16:04",
+    "station": "АЗС №58623",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13134,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 15:36",
+    "station": "АЗС №58623",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32835,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 15:52",
+    "station": "АЗС №58606",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 578.04,
+    "amount": 37960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 12:29",
+    "station": "АЗС №58618",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 340,
+    "amount": 22328,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 12:19",
+    "station": "АЗС №58618",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 310,
+    "amount": 20358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 10:44",
+    "station": "АЗС №58618",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 310,
+    "amount": 20358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 11:25",
+    "station": "АЗС № 73231",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 499,
+    "amount": 31946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-31 08:40",
+    "station": "АЗС №58608",
+    "region": "Пензенская область",
+    "fuel": "АИ-95",
+    "liters": 42.39,
+    "amount": 2573,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-30 21:18",
+    "station": "АЗС №58606",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 1100,
+    "amount": 72237,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-30 17:13",
+    "station": "16114-1 АЗС 114",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXRXX",
+    "ts": "2025-01-30 12:05",
+    "station": "16114-1 АЗС 114",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 12350,
+    "vehicle": ""
+  }
+]

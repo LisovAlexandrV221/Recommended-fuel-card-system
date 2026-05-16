@@ -1,0 +1,112 @@
+[
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-01-19 08:37",
+    "station": "115",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 44.69,
+    "amount": 3232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-01-31 09:21",
+    "station": "114",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 55.42,
+    "amount": 3979,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-02-13 14:37",
+    "station": "114",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 52.53,
+    "amount": 3794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-02-23 13:37",
+    "station": "114",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 34.35,
+    "amount": 2487,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-03-01 09:17",
+    "station": "114",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 52.07,
+    "amount": 3785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-03-09 08:24",
+    "station": "115",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 53.55,
+    "amount": 3928,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-04-06 09:38",
+    "station": "115",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 32.43,
+    "amount": 2399,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-04-15 09:47",
+    "station": "038",
+    "region": "Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 43.73,
+    "amount": 3194,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-05-04 10:19",
+    "station": "115",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 65,
+    "amount": 4826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-06-26 06:30",
+    "station": "115",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 43,
+    "amount": 3170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXWZA",
+    "ts": "2025-06-26 06:30",
+    "station": "115",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 119,
+    "vehicle": ""
+  }
+]

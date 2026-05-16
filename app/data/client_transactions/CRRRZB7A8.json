@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-11 11:12",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 16014,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-14 09:53",
+    "station": "702",
+    "region": "Забайкальский край",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 27944,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-14 21:54",
+    "station": "67",
+    "region": "Республика Бурятия",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19342,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-15 09:27",
+    "station": "49",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 6172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-16 06:09",
+    "station": "38",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 19288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-16 13:46",
+    "station": "5",
+    "region": "Красноярский край",
+    "fuel": "ДТ",
+    "liters": 163.73,
+    "amount": 12360,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-20 10:38",
+    "station": "250",
+    "region": "Костромская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-21 09:00",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3238,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-21 19:16",
+    "station": "12 (ААЗС)",
+    "region": "Хабаровский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 4003,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-24 13:17",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-24 20:56",
+    "station": "114",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3238,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-25 08:46",
+    "station": "443",
+    "region": "Приморский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1898,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-26 18:08",
+    "station": "443",
+    "region": "Приморский край",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2214,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-27 09:04",
+    "station": "12 (ААЗС)",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-27 18:40",
+    "station": "115",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-03-31 14:36",
+    "station": "121",
+    "region": "Хабаровский край",
+    "fuel": "АИ-92",
+    "liters": 70,
+    "amount": 4383,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-01 14:16",
+    "station": "115",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-04 08:29",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-09 07:30",
+    "station": "115",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-11 08:22",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-11 10:16",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-14 13:15",
+    "station": "11 (ААЗС)",
+    "region": "Хабаровский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 4003,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-15 18:41",
+    "station": "115",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-18 08:32",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-18 18:52",
+    "station": "115",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-21 12:13",
+    "station": "117",
+    "region": "Хабаровский край",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-22 13:41",
+    "station": "11 (ААЗС)",
+    "region": "Хабаровский край",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 4003,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7A8",
+    "ts": "2025-04-23 14:15",
+    "station": "11 (ААЗС)",
+    "region": "Хабаровский край",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3721,
+    "vehicle": ""
+  }
+]

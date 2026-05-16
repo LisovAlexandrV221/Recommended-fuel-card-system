@@ -1,0 +1,272 @@
+[
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-01-09 20:47",
+    "station": "59017 АЗС 17 Березники",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 710,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-01-07 12:51",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 56.37,
+    "amount": 4002,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-02-14 13:42",
+    "station": "59153 АЗС 153 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-02-10 12:02",
+    "station": "59053 АЗС 53 Новожилово",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 19,
+    "amount": 1145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-02-10 12:01",
+    "station": "59053 АЗС 53 Новожилово",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 24,
+    "amount": 1334,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-27 10:11",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 21.24,
+    "amount": 1287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-17 14:50",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 69.1,
+    "amount": 4926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-17 07:52",
+    "station": "59018 АЗС 18 Яйва",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 713,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-14 20:43",
+    "station": "59053 АЗС 53 Новожилово",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 22.66,
+    "amount": 1615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-14 10:21",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 20.81,
+    "amount": 1261,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-02 18:25",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1426,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-03-01 16:58",
+    "station": "59053 АЗС 53 Новожилово",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.01,
+    "amount": 1119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-04-30 13:59",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 9.07,
+    "amount": 553,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-04-29 17:21",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 20.56,
+    "amount": 1158,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-04-18 15:44",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 36.49,
+    "amount": 2227,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-05-24 09:40",
+    "station": "59093 АЗС 93 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 41.74,
+    "amount": 2352,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-05-20 12:04",
+    "station": "59164 АЗС 164 Уньва",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1972,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-05-14 10:40",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 20.84,
+    "amount": 1272,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-05-11 11:37",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 35.62,
+    "amount": 2007,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-05 14:00",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 39.8,
+    "amount": 2248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-26 16:40",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 32.37,
+    "amount": 1840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-25 15:40",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 31.88,
+    "amount": 1963,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-15 09:37",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 32.89,
+    "amount": 1863,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-11 15:49",
+    "station": "59156 АЗС 156 Березники",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 36.89,
+    "amount": 2089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-09 11:39",
+    "station": "59153 АЗС 153 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 30.24,
+    "amount": 1708,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-09 07:22",
+    "station": "59053 АЗС 53 Новожилово",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 28.7,
+    "amount": 1621,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRAA",
+    "ts": "2025-06-04 09:48",
+    "station": "59018 АЗС 18 Яйва",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 40.67,
+    "amount": 2297,
+    "vehicle": ""
+  }
+]

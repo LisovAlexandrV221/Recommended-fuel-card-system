@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZX6ZB",
+    "ts": "2025-01-07 06:33",
+    "station": "АЗС №50422",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 24.37,
+    "amount": 1532,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZB",
+    "ts": "2025-01-06 23:17",
+    "station": "АЗС №36722",
+    "region": "Воронежская область",
+    "fuel": "АИ-95",
+    "liters": 39.37,
+    "amount": 2467,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6ZB",
+    "ts": "2025-01-06 15:36",
+    "station": "АЗС №23374",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 46.77,
+    "amount": 3015,
+    "vehicle": ""
+  }
+]

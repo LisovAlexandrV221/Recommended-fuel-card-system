@@ -1,0 +1,112 @@
+[
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-02-06 12:23",
+    "station": "11239",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 44.44,
+    "amount": 3045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-03-20 10:40",
+    "station": "АЗС №52048",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 55.92,
+    "amount": 3927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-03-09 17:05",
+    "station": "АЗС №52002",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 74,
+    "amount": 5197,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-03-03 16:37",
+    "station": "АЗС №77541",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 58.37,
+    "amount": 4183,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-04-27 15:48",
+    "station": "11240",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 48.02,
+    "amount": 3330,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-04-28 15:20",
+    "station": "АЗС №52050",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 75.08,
+    "amount": 5307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-04-03 14:00",
+    "station": "АЗС №52048",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 56.53,
+    "amount": 3970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-04-21 15:00",
+    "station": "АЗС №52048",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 57,
+    "amount": 4029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-06-16 08:13",
+    "station": "11239",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 68.48,
+    "amount": 4749,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-06-09 18:28",
+    "station": "(Автомат) АЗС №52049",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBBXA",
+    "ts": "2025-06-03 10:31",
+    "station": "АЗС №77557",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 43.19,
+    "amount": 3114,
+    "vehicle": ""
+  }
+]

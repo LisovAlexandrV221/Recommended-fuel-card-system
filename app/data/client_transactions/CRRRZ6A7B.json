@@ -1,0 +1,142 @@
+[
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-25 12:02",
+    "station": "11151",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 16.02,
+    "amount": 993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-23 18:24",
+    "station": "11151",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 15.97,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-22 12:27",
+    "station": "АЗС № 78166 Караваевская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 33.64,
+    "amount": 2413,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-21 23:05",
+    "station": "11105",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 45.99,
+    "amount": 2861,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-21 14:46",
+    "station": "АЗС №69472",
+    "region": "Тверская область",
+    "fuel": "АИ-95",
+    "liters": 44.19,
+    "amount": 2826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-21 09:42",
+    "station": "АЗС №77721",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 27.75,
+    "amount": 1758,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-20 08:44",
+    "station": "11005",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 54.99,
+    "amount": 3402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-19 14:53",
+    "station": "11151",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 16,
+    "amount": 991,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-18 16:08",
+    "station": "АЗС № 78160 Новоизмайловская",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 61.69,
+    "amount": 3577,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-17 16:49",
+    "station": "11151",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-17 13:37",
+    "station": "АЗС №77636",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 61.58,
+    "amount": 4021,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-16 20:58",
+    "station": "11105",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 16.12,
+    "amount": 929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-16 17:44",
+    "station": "АЗС № 78166 Караваевская",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2152,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A7B",
+    "ts": "2025-06-12 12:53",
+    "station": "АЗС № 78113 Южное шоссе",
+    "region": "г.Санкт-Петербург",
+    "fuel": "ДТ",
+    "liters": 52.36,
+    "amount": 3756,
+    "vehicle": ""
+  }
+]

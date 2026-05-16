@@ -1,0 +1,192 @@
+[
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-01-22 16:43",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 42.22,
+    "amount": 2772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-02-25 11:49",
+    "station": "12019",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 39.81,
+    "amount": 2606,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-02-22 14:25",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 42.06,
+    "amount": 2505,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-02-17 18:03",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 41.5,
+    "amount": 2472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-02-14 18:34",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 37.61,
+    "amount": 2536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-03-19 14:49",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 39.93,
+    "amount": 2692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-03-06 14:40",
+    "station": "11031",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 38.34,
+    "amount": 2522,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-04-30 14:18",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 40.47,
+    "amount": 2748,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-04-23 20:42",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "ДТ",
+    "liters": 46.1,
+    "amount": 3373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-04-21 16:58",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 41.58,
+    "amount": 2823,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-04-14 11:39",
+    "station": "(Автомат) АЗС №77627",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 2005,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-04-03 10:52",
+    "station": "АЗС №77631",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 40.22,
+    "amount": 2712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-04-01 12:46",
+    "station": "АЗС №77612",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 42.38,
+    "amount": 2795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-05-12 15:40",
+    "station": "АЗС №33006",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 46,
+    "amount": 3287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-05-23 09:19",
+    "station": "12019",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 41.08,
+    "amount": 2639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-05-01 13:54",
+    "station": "АЗС №33010",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 42.55,
+    "amount": 3040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-06-28 13:30",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 44.26,
+    "amount": 2906,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-06-14 18:41",
+    "station": "АЗС №33008",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 17.75,
+    "amount": 1054,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6ARZ",
+    "ts": "2025-06-08 14:13",
+    "station": "АЗС №33006",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 24.72,
+    "amount": 1609,
+    "vehicle": ""
+  }
+]

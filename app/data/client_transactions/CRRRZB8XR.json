@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-01-02 14:24",
+    "station": "257",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 74.39,
+    "amount": 4544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-01-05 16:38",
+    "station": "257",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 54.66,
+    "amount": 3433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-01-07 12:27",
+    "station": "182",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 46.8,
+    "amount": 2883,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-01-18 10:44",
+    "station": "555",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 70.61,
+    "amount": 4516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-02-01 20:36",
+    "station": "029",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 44.77,
+    "amount": 2803,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-03-03 11:46",
+    "station": "206",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 51,
+    "amount": 3140,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-03-27 17:26",
+    "station": "257",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 37.73,
+    "amount": 2085,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-03-31 18:05",
+    "station": "257",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 82.58,
+    "amount": 5308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-04-08 16:04",
+    "station": "204",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 72.21,
+    "amount": 4491,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8XR",
+    "ts": "2025-06-13 10:21",
+    "station": "265",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 43.55,
+    "amount": 2876,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-31 17:47",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 36.63,
+    "amount": 2285,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-22 17:38",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 44.44,
+    "amount": 2773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-16 20:18",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 39.99,
+    "amount": 2495,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-14 06:35",
+    "station": "АЗС №21153",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 34.22,
+    "amount": 2135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-13 13:23",
+    "station": "АЗС №21116",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 68.34,
+    "amount": 4778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-07 00:35",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 22.53,
+    "amount": 1406,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-14 09:31",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28348,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-14 09:19",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 190,
+    "amount": 13465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-31 08:50",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 143.78,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-26 09:07",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-26 08:56",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-26 08:35",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 28348,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-22 09:01",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2126,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-22 08:56",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 143.78,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-16 14:55",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 43.14,
+    "amount": 2735,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-13 16:02",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 143.78,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-01-07 14:05",
+    "station": "АЗС №52075",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 63.4,
+    "amount": 4433,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-05 18:20",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 42.62,
+    "amount": 2659,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-27 15:40",
+    "station": "АЗС №21120",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 58.54,
+    "amount": 4111,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-20 08:57",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7118,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-20 08:53",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 143.16,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-25 23:31",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 40.1,
+    "amount": 2514,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-28 08:16",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10677,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-25 17:10",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "АИ-95",
+    "liters": 40.23,
+    "amount": 2563,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-17 18:10",
+    "station": "АЗС №21153",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 37.05,
+    "amount": 2602,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-17 10:45",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 19.01,
+    "amount": 1353,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-17 10:42",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 143.16,
+    "amount": 10190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9XR8",
+    "ts": "2025-02-13 14:23",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 141.87,
+    "amount": 10098,
+    "vehicle": ""
+  }
+]

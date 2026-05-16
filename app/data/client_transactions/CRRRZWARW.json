@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-10 11:58",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 149.25,
+    "amount": 10100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-10 12:04",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 155.27,
+    "amount": 10099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-14 19:46",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-22 08:16",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-27 08:25",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2372,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-27 16:53",
+    "station": "АЗС № 73230",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWARW",
+    "ts": "2025-01-27 16:36",
+    "station": "АЗС № 73230",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20499,
+    "vehicle": ""
+  }
+]

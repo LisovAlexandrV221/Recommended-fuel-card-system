@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZ6A9A",
+    "ts": "2025-06-10 21:44",
+    "station": "37",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 65,
+    "amount": 3996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A9A",
+    "ts": "2025-06-13 14:42",
+    "station": "234",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 41,
+    "amount": 2585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A9A",
+    "ts": "2025-06-22 19:26",
+    "station": "236",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2193,
+    "vehicle": ""
+  }
+]

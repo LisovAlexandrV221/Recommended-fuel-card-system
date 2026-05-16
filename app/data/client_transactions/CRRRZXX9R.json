@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-04 18:02",
+    "station": "180",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 519,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-05 07:09",
+    "station": "180",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1685,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-10 11:42",
+    "station": "180",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-19 08:02",
+    "station": "180",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-29 13:54",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 53,
+    "amount": 3079,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-18 18:16",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 48,
+    "amount": 2788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-31 21:46",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-30 19:43",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-30 07:15",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-26 12:04",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 71,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-26 12:04",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-26 12:04",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2590,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-24 10:34",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 34.43,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-21 14:39",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 34.43,
+    "amount": 2000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-21 09:51",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-16 19:23",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-13 20:21",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 57.73,
+    "amount": 3354,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-13 18:56",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-09 06:28",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1162,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-07 11:33",
+    "station": "11221",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 49.03,
+    "amount": 2848,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-06 22:43",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 140,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-06 22:43",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 16.01,
+    "amount": 913,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-01 05:35",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 348,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-01 05:35",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 406,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-01 05:35",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 5,
+    "amount": 1282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-01 05:35",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-01-01 05:35",
+    "station": "16115 АЗС115",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 89.97,
+    "amount": 5133,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXX9R",
+    "ts": "2025-02-22 06:16",
+    "station": "180",
+    "region": "Татарстан, республика",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 2809,
+    "vehicle": ""
+  }
+]

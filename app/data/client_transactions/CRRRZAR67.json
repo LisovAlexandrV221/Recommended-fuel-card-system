@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-06 11:45",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.52,
+    "amount": 2034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-21 20:12",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.03,
+    "amount": 2949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-10 11:20",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.15,
+    "amount": 1010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-02 17:41",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33,
+    "amount": 2064,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-27 16:02",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 15.01,
+    "amount": 1050,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-17 20:11",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 62.39,
+    "amount": 4282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-23 14:00",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 23.97,
+    "amount": 1541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-20 15:30",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.09,
+    "amount": 1034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-17 19:07",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.09,
+    "amount": 1034,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-30 12:18",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.2,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-21 07:02",
+    "station": "020",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 73,
+    "amount": 5122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-19 22:06",
+    "station": "40",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-20 04:48",
+    "station": "MR091 Березняки-1",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 65.01,
+    "amount": 4560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-29 10:00",
+    "station": "LC147 \"Новгород-1\"",
+    "region": "Новгородская область",
+    "fuel": "ДТ",
+    "liters": 64,
+    "amount": 4572,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-27 17:27",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 61.34,
+    "amount": 4122,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-16 22:16",
+    "station": "009",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 68.71,
+    "amount": 4716,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-22 15:01",
+    "station": "001(7612)",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 60.64,
+    "amount": 4075,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-28 20:23",
+    "station": "001(5054)",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 43.41,
+    "amount": 2940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-26 09:48",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "АDBLUE",
+    "liters": 1,
+    "amount": 2417,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-25 14:53",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-24 09:34",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 31.9,
+    "amount": 2363,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-15 18:04",
+    "station": "АЗС №50222",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 58.39,
+    "amount": 3992,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-14 21:22",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 29.23,
+    "amount": 1994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-14 13:32",
+    "station": "АЗС № 35448 Водников",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20.03,
+    "amount": 1484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-01-12 13:00",
+    "station": "АЗС № 35444 Маршала Конева-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 58,
+    "amount": 3585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-02-20 18:17",
+    "station": "85",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-02-04 13:33",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 42.68,
+    "amount": 3145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAR67",
+    "ts": "2025-02-07 12:30",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3148,
+    "vehicle": ""
+  }
+]

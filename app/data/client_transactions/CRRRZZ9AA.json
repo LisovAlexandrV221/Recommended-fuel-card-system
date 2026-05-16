@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-11 16:38",
+    "station": "АЗС №50435",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 20.48,
+    "amount": 1326,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-11 09:55",
+    "station": "АЗС №50436",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 35.03,
+    "amount": 2227,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-09 18:57",
+    "station": "1",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-10 05:43",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-10 06:06",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 52.77,
+    "amount": 3715,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-10 16:17",
+    "station": "RR119 Врачово-2",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-10 18:45",
+    "station": "RR119 Врачово-2",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2808,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-13 06:11",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 57.46,
+    "amount": 4045,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-13 06:43",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 22,
+    "amount": 1549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-13 08:47",
+    "station": "1",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-13 17:12",
+    "station": "1",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-13 14:13",
+    "station": "MJ154 Амерево РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 28,
+    "amount": 1964,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-14 05:40",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2802,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-14 05:46",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 58.94,
+    "amount": 4128,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-14 09:29",
+    "station": "25",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2410,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-14 11:55",
+    "station": "MR104 Урал 124-й км",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-14 14:11",
+    "station": "2",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4135,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-14 14:46",
+    "station": "RR119 Врачово-2",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-15 05:03",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-15 05:59",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 62.96,
+    "amount": 4432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-15 12:26",
+    "station": "RR119 Врачово-2",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-15 12:53",
+    "station": "25",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 55,
+    "amount": 3761,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-16 05:46",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2101,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-16 06:02",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 58.76,
+    "amount": 4137,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-16 07:09",
+    "station": "MC190 Урал-100 РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 41,
+    "amount": 2872,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-16 10:16",
+    "station": "1",
+    "region": "Рязанская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-16 15:32",
+    "station": "RR119 Врачово-2",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2106,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZ9AA",
+    "ts": "2025-01-16 16:13",
+    "station": "MJ117 Новорязанская РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1893,
+    "vehicle": ""
+  }
+]

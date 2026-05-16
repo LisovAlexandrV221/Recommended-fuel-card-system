@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-08 12:30",
+    "station": "541",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 33.68,
+    "amount": 2018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-08 12:31",
+    "station": "541",
+    "region": "Чувашская республика",
+    "fuel": "АИ-95",
+    "liters": 33.68,
+    "amount": 2018,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-24 19:56",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 65.08,
+    "amount": 4133,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-24 16:52",
+    "station": "501",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 28.52,
+    "amount": 1563,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-24 23:23",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 44.88,
+    "amount": 2743,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-15 07:37",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 40.1,
+    "amount": 2530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-22 12:41",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 55.2,
+    "amount": 4046,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-08 09:16",
+    "station": "АЗС №33030",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 29.01,
+    "amount": 1782,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-27 10:30",
+    "station": "АЗС №50268",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 50.01,
+    "amount": 3175,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-24 14:53",
+    "station": "59123 АЗС 123 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 72.93,
+    "amount": 4465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-04 01:43",
+    "station": "606",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 38,
+    "amount": 2312,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-10 09:38",
+    "station": "620",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45.01,
+    "amount": 2836,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-10 16:47",
+    "station": "606",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 30.01,
+    "amount": 1826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-12 10:48",
+    "station": "308",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 53.46,
+    "amount": 3384,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-19 11:36",
+    "station": "606",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 28.67,
+    "amount": 1789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-19 18:10",
+    "station": "367",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 45.42,
+    "amount": 2905,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-25 03:52",
+    "station": "607",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 46.35,
+    "amount": 2893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-31 18:59",
+    "station": "350",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 50.08,
+    "amount": 3153,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-10 15:24",
+    "station": "501",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 59.62,
+    "amount": 4341,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-31 15:57",
+    "station": "501",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 35.56,
+    "amount": 2607,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-31 16:02",
+    "station": "501",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 28.88,
+    "amount": 2117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-15 12:54",
+    "station": "501",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 33.47,
+    "amount": 2030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-15 10:42",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 33.22,
+    "amount": 2030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-15 13:03",
+    "station": "АЗС №21076",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-95",
+    "liters": 32.2,
+    "amount": 1970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-08 11:14",
+    "station": "АЗС №52076",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 40.91,
+    "amount": 2500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-04 05:51",
+    "station": "АЗС №52075",
+    "region": "Нижегородская область",
+    "fuel": "АИ-95",
+    "liters": 46.73,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-22 07:08",
+    "station": "66497 АЗС 497 Киселевка",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 51.82,
+    "amount": 3679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXA8",
+    "ts": "2025-01-30 19:11",
+    "station": "59031 АЗС 31 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3653,
+    "vehicle": ""
+  }
+]

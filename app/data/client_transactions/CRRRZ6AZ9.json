@@ -1,0 +1,52 @@
+[
+  {
+    "client": "CRRRZ6AZ9",
+    "ts": "2025-05-05 12:57",
+    "station": "134",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 44.94,
+    "amount": 2557,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ9",
+    "ts": "2025-05-14 15:31",
+    "station": "134",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 38.56,
+    "amount": 2192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ9",
+    "ts": "2025-05-21 11:55",
+    "station": "133",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 40.7,
+    "amount": 2312,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ9",
+    "ts": "2025-05-23 15:25",
+    "station": "134",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 50.2,
+    "amount": 2868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AZ9",
+    "ts": "2025-06-24 13:02",
+    "station": "133",
+    "region": "Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1420,
+    "vehicle": ""
+  }
+]

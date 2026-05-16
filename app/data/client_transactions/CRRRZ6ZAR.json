@@ -1,0 +1,262 @@
+[
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-20 08:58",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 17.24,
+    "amount": 986,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-20 08:57",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 51.11,
+    "amount": 3470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-30 10:30",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-92",
+    "liters": 30.38,
+    "amount": 1739,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-30 10:14",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 56.22,
+    "amount": 3811,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-28 18:33",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10167,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-28 17:42",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23723,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-28 06:17",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 48.09,
+    "amount": 3265,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-28 06:12",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 22.81,
+    "amount": 1310,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-27 19:30",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 160.13,
+    "amount": 10854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-26 15:54",
+    "station": "АЗС №21152",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10185,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-18 06:08",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13580,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-17 08:50",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 46.32,
+    "amount": 3145,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-17 08:50",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 12.99,
+    "amount": 882,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-19 11:06",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-18 14:32",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 37.03,
+    "amount": 2119,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-17 08:25",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9614,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-25 14:42",
+    "station": "АЗС №21138",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-20 06:05",
+    "station": "АЗС №21153",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4074,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-14 18:35",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4459,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-15 11:44",
+    "station": "18089 АЗС 89 Миндерево",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-26 10:36",
+    "station": "АЗС № 73234",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-20 22:23",
+    "station": "АЗС № 73237",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 3998,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-20 10:48",
+    "station": "АЗС № 73237",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3332,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-17 06:10",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4222,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-16 14:49",
+    "station": "59058 АЗС 58 Половинка",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 87.12,
+    "amount": 6186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZAR",
+    "ts": "2025-06-15 16:11",
+    "station": "18078 АЗС 78 Малая Чепца",
+    "region": "Республика Удмуртия",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7036,
+    "vehicle": ""
+  }
+]

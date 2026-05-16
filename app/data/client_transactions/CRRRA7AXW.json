@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-14 07:57",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10113,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-20 09:04",
+    "station": "8",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10113,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-24 08:02",
+    "station": "1",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-03 08:15",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1348,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-05 08:20",
+    "station": "5",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-08 08:40",
+    "station": "5",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 17529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-08 16:01",
+    "station": "469",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2023,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-09 10:21",
+    "station": "389",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2697,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-17 07:57",
+    "station": "470",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-17 15:14",
+    "station": "377",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 270,
+    "amount": 18203,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-22 16:39",
+    "station": "428",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3366,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-24 11:57",
+    "station": "8",
+    "region": "Чувашская республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1085,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-31 07:57",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-27 08:38",
+    "station": "8",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 260,
+    "amount": 17529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-20 09:08",
+    "station": "21-008",
+    "region": "Чувашская Республика",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1961,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-21 10:30",
+    "station": "21-004",
+    "region": "Чувашская Республика",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1121,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-30 15:41",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-30 07:10",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-29 07:56",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 48,
+    "amount": 2740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-28 08:17",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8389,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-28 16:00",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-28 08:36",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 45,
+    "amount": 2569,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-27 11:44",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 41,
+    "amount": 2341,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-25 07:58",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-24 08:56",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-24 08:42",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-24 08:18",
+    "station": "АЗС №21123",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 26,
+    "amount": 1484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7AXW",
+    "ts": "2025-01-22 19:52",
+    "station": "АЗС №21150",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3496,
+    "vehicle": ""
+  }
+]

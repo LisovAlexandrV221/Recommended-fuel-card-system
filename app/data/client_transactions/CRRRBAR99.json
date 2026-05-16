@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-17 12:56",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 63.29,
+    "amount": 3959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-31 16:43",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 28,
+    "amount": 1733,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-31 07:30",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.42,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-27 20:45",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.65,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-22 20:08",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 81.78,
+    "amount": 5130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-20 18:25",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.35,
+    "amount": 2931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-14 17:33",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.42,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-13 10:41",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 80.13,
+    "amount": 5027,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-10 17:23",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.19,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-24 17:22",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.14,
+    "amount": 1530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-13 17:12",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.14,
+    "amount": 1530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-06 20:13",
+    "station": "АЗС №50710",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 75.54,
+    "amount": 4891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-01-03 11:32",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "АИ-95",
+    "liters": 58.41,
+    "amount": 3469,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-03 15:13",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.01,
+    "amount": 2972,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-27 14:26",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.5,
+    "amount": 2112,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-02 11:50",
+    "station": "031",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 60.05,
+    "amount": 3781,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-24 17:29",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.14,
+    "amount": 1530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-22 15:05",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.61,
+    "amount": 2497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-22 11:11",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.42,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-14 16:51",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.14,
+    "amount": 1530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-07 17:40",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 17.42,
+    "amount": 1020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-06 16:45",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.19,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-25 16:30",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3467,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-21 07:02",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 36.28,
+    "amount": 2246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-20 17:46",
+    "station": "11125",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-18 12:56",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 74.22,
+    "amount": 4679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-16 12:12",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 58.72,
+    "amount": 3702,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBAR99",
+    "ts": "2025-02-12 19:39",
+    "station": "АЗС № 35443 Маршала Конева-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.45,
+    "amount": 2550,
+    "vehicle": ""
+  }
+]

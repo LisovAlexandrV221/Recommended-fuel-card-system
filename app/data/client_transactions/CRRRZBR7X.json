@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-03 13:11",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-06 12:01",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-10 08:26",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-10 20:23",
+    "station": "555",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.89,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-12 20:46",
+    "station": "522",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 51.33,
+    "amount": 3575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-13 09:19",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-15 16:16",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-15 20:44",
+    "station": "555",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.88,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-18 10:08",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-22 15:39",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-24 09:36",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.88,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-28 16:43",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-30 13:59",
+    "station": "555",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.49,
+    "amount": 3535,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-31 06:38",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.05,
+    "amount": 2638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-27 18:19",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 39.76,
+    "amount": 3020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-24 18:02",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 25.18,
+    "amount": 1912,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-23 14:34",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 3.96,
+    "amount": 232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-23 14:31",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-23 07:57",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-22 13:58",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.03,
+    "amount": 3550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-22 18:40",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41.45,
+    "amount": 3148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-21 11:00",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 37.75,
+    "amount": 2368,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-20 18:36",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 21.89,
+    "amount": 1663,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-16 18:44",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 39.77,
+    "amount": 3021,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-15 19:47",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 59.94,
+    "amount": 3798,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-09 07:50",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-09 18:35",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 48.73,
+    "amount": 3701,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBR7X",
+    "ts": "2025-01-30 17:56",
+    "station": "АЗС № 35452 Металлургов",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.32,
+    "amount": 3594,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-22 10:59",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 68.29,
+    "amount": 4217,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-13 10:56",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 43.33,
+    "amount": 2676,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-13 15:36",
+    "station": "16098 АЗС 98",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-95",
+    "liters": 36.07,
+    "amount": 2117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-13 20:37",
+    "station": "18084 АЗС 84 Юмья",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 25.7,
+    "amount": 1608,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-26 12:39",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 24.93,
+    "amount": 1559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-26 11:39",
+    "station": "59128 АЗС 128 Краснокамск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45.39,
+    "amount": 2834,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-20 13:53",
+    "station": "59042 АЗС 42 Краснокамск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 44.49,
+    "amount": 2778,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-29 21:10",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 69.8,
+    "amount": 4366,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-22 19:56",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 56.88,
+    "amount": 3558,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-01-21 02:22",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 41.99,
+    "amount": 2626,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-13 14:03",
+    "station": "59042 АЗС 42 Краснокамск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45.16,
+    "amount": 2834,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-07 21:43",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 29.18,
+    "amount": 1825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-07 05:22",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 39.2,
+    "amount": 2452,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-07 05:18",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 2.19,
+    "amount": 137,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-27 11:56",
+    "station": "43071 АЗС 71 Омутнинск",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 39.73,
+    "amount": 2476,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-25 13:20",
+    "station": "43070 АЗС 70 Белая Холуница",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 63.85,
+    "amount": 3959,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-19 20:45",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 58.67,
+    "amount": 3687,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-19 12:44",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 23.68,
+    "amount": 1470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-17 10:58",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 60.97,
+    "amount": 3784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-16 23:39",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 32.39,
+    "amount": 2036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-13 16:29",
+    "station": "59125 АЗС 125 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 59.77,
+    "amount": 3730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-02-07 17:21",
+    "station": "43043 АЗС 43 Малмыж",
+    "region": "Кировская область",
+    "fuel": "АИ-95",
+    "liters": 61.39,
+    "amount": 3787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-03-13 15:44",
+    "station": "11256",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 68.87,
+    "amount": 4274,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-03-07 08:59",
+    "station": "59042 АЗС 42 Краснокамск",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 49.04,
+    "amount": 3077,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-03-24 16:01",
+    "station": "11256",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 66.17,
+    "amount": 3985,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-03-06 19:31",
+    "station": "18085 АЗС 85 Игра",
+    "region": "Республика Удмуртия",
+    "fuel": "АИ-95",
+    "liters": 64.92,
+    "amount": 4080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-03-06 11:12",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 51.01,
+    "amount": 3166,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8WW",
+    "ts": "2025-03-03 16:49",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "АИ-95",
+    "liters": 66.89,
+    "amount": 4151,
+    "vehicle": ""
+  }
+]

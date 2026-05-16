@@ -1,0 +1,82 @@
+[
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-30 12:05",
+    "station": "02003 АЗС 3",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-92",
+    "liters": 35.97,
+    "amount": 2070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-28 12:48",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "АИ-92",
+    "liters": 38.31,
+    "amount": 2189,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-26 04:55",
+    "station": "16118 АЗС 118",
+    "region": "Республика Татарстан",
+    "fuel": "АИ-92",
+    "liters": 35.67,
+    "amount": 1899,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-28 22:02",
+    "station": "02007 АЗС 7",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-92",
+    "liters": 37.34,
+    "amount": 2149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-25 23:04",
+    "station": "02003 АЗС 3",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-92",
+    "liters": 42.89,
+    "amount": 2460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-24 12:21",
+    "station": "02024 АЗС 24",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 15,
+    "amount": 920,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-22 20:15",
+    "station": "02006 АЗС 6",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-92",
+    "liters": 39.72,
+    "amount": 2278,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWXAB",
+    "ts": "2025-06-17 13:30",
+    "station": "02006 АЗС 6",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-92",
+    "liters": 43.9,
+    "amount": 2509,
+    "vehicle": ""
+  }
+]

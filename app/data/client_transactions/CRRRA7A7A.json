@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRA7A7A",
+    "ts": "2025-02-25 20:50",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 37.8,
+    "amount": 2683,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7A7A",
+    "ts": "2025-02-21 10:58",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7A7A",
+    "ts": "2025-02-21 10:58",
+    "station": "АЗС №33003",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 53.16,
+    "amount": 3773,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7A7A",
+    "ts": "2025-03-07 13:35",
+    "station": "АЗС №33005",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4259,
+    "vehicle": ""
+  }
+]

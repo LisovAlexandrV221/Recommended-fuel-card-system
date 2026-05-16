@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-03 08:38",
+    "station": "570",
+    "region": "Ярославская область",
+    "fuel": "АИ-98",
+    "liters": 44.5,
+    "amount": 3591,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-07 20:59",
+    "station": "559",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.45,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-05 14:41",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 29.76,
+    "amount": 2178,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-12 14:16",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 29.84,
+    "amount": 2184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-24 07:45",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.32,
+    "amount": 2524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-31 20:22",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 32.9,
+    "amount": 2020,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-31 14:22",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20.03,
+    "amount": 1141,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-31 14:22",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 21.81,
+    "amount": 1570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-30 09:55",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.48,
+    "amount": 2551,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-23 14:51",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 23.01,
+    "amount": 1310,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-22 12:09",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 41.09,
+    "amount": 3060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-15 11:15",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 51.53,
+    "amount": 3169,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-29 11:21",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.79,
+    "amount": 2001,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-25 09:26",
+    "station": "АЗС № 35453 Рыбинская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 49.75,
+    "amount": 3090,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-09 09:30",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1139,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-24 13:01",
+    "station": "11159",
+    "region": "Ленинградская область",
+    "fuel": "АИ-95",
+    "liters": 45.43,
+    "amount": 2753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-16 15:44",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 21.25,
+    "amount": 1210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-16 15:44",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.66,
+    "amount": 3431,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-01-05 14:39",
+    "station": "АЗС №50209",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 52.82,
+    "amount": 3353,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-09 15:33",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 41.12,
+    "amount": 2525,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-28 19:15",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.06,
+    "amount": 2501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-20 17:59",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 37.32,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-04 11:44",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 27.56,
+    "amount": 2031,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-25 16:43",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 26.42,
+    "amount": 1955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-23 12:32",
+    "station": "АЗС № 35454 Октябрьский пр.-1 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.09,
+    "amount": 2502,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-02-18 08:13",
+    "station": "АЗС № 35457 Краснодонцев",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.77,
+    "amount": 1546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-03-29 13:31",
+    "station": "АЗС № 35420 Шексна",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 47.48,
+    "amount": 2934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZZZA",
+    "ts": "2025-03-16 20:02",
+    "station": "571",
+    "region": "Московская область",
+    "fuel": "АИ-98",
+    "liters": 50.61,
+    "amount": 4303,
+    "vehicle": ""
+  }
+]

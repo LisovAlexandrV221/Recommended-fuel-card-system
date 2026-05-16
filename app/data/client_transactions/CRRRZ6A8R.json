@@ -1,0 +1,242 @@
+[
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-03 14:09",
+    "station": "187",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-04 11:30",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-05 10:21",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 18.11,
+    "amount": 970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-05 10:22",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 20.74,
+    "amount": 1344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-05 16:24",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 18.11,
+    "amount": 970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-05 16:27",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 22.22,
+    "amount": 1440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-06 13:14",
+    "station": "187",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 4702,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-06 21:56",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 29.62,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-10 13:49",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 19.9,
+    "amount": 1066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-10 14:33",
+    "station": "466",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 74.96,
+    "amount": 4700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-16 11:00",
+    "station": "252",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 74.01,
+    "amount": 4800,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-16 11:43",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 35.49,
+    "amount": 1940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-17 21:26",
+    "station": "221",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 29.62,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-18 12:00",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1885,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-19 12:09",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1885,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-21 09:53",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-21 12:39",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 29.62,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-21 16:33",
+    "station": "310",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 35.39,
+    "amount": 1940,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-23 08:33",
+    "station": "187",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 74.73,
+    "amount": 4700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-23 10:04",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-24 09:55",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-25 10:26",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 74.74,
+    "amount": 4700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-26 09:07",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 1887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6A8R",
+    "ts": "2025-06-26 11:10",
+    "station": "601",
+    "region": "Ульяновская область",
+    "fuel": "АИ-92",
+    "liters": 27.1,
+    "amount": 1455,
+    "vehicle": ""
+  }
+]

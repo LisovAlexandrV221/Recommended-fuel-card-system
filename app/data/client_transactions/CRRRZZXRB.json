@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZZXRB",
+    "ts": "2025-06-28 19:37",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 275.7,
+    "amount": 18998,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXRB",
+    "ts": "2025-06-26 19:16",
+    "station": "АЗС №76111",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 197.92,
+    "amount": 13031,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZXRB",
+    "ts": "2025-06-25 20:02",
+    "station": "АЗС № 47253 Чудцы",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 41346,
+    "vehicle": ""
+  }
+]

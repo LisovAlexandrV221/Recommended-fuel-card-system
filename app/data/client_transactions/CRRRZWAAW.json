@@ -1,0 +1,92 @@
+[
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-09 13:11",
+    "station": "АЗС №34434",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 54.52,
+    "amount": 3549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-15 17:23",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 58.31,
+    "amount": 3796,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-29 17:05",
+    "station": "АЗС №34490",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 31.64,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-22 12:27",
+    "station": "АЗС №34516",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 31.64,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-20 10:36",
+    "station": "АЗС №34482",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 54.21,
+    "amount": 3529,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-13 20:10",
+    "station": "АЗС №34420",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 31.65,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-01-01 16:20",
+    "station": "АЗС №34420",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 31.64,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-02-14 11:00",
+    "station": "АЗС №34490",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 23.62,
+    "amount": 1530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWAAW",
+    "ts": "2025-02-07 12:08",
+    "station": "АЗС №34484",
+    "region": "Волгоградская область",
+    "fuel": "АИ-95",
+    "liters": 39.17,
+    "amount": 2550,
+    "vehicle": ""
+  }
+]

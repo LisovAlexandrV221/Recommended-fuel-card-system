@@ -1,0 +1,62 @@
+[
+  {
+    "client": "CRRRA9W68",
+    "ts": "2025-05-26 09:54",
+    "station": "59007 АЗС 7 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 59,
+    "amount": 4271,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9W68",
+    "ts": "2025-05-21 15:13",
+    "station": "АЗС №52186",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 18,
+    "amount": 1246,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9W68",
+    "ts": "2025-05-20 15:11",
+    "station": "АЗС №52101",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9W68",
+    "ts": "2025-06-26 08:43",
+    "station": "56028 АЗС 28",
+    "region": "Оренбургская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1902,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9W68",
+    "ts": "2025-06-23 09:47",
+    "station": "02131 АЗС 131",
+    "region": "Республика Башкортостан",
+    "fuel": "АИ-95",
+    "liters": 28,
+    "amount": 1737,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA9W68",
+    "ts": "2025-06-18 12:40",
+    "station": "59104 АЗС 104 Якунчики",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 26,
+    "amount": 1882,
+    "vehicle": ""
+  }
+]

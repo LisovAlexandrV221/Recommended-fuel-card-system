@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-05 03:14",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 560.35,
+    "amount": 38227,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-05 11:56",
+    "station": "536",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 57.51,
+    "amount": 3440,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-06 17:20",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 24284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-06 22:43",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-06 22:48",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3411,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-06 23:29",
+    "station": "182",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 14:59",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 21248,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 18:25",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 54639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 18:26",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 21:23",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 21:32",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 27320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 22:15",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 23877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 22:21",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 100.05,
+    "amount": 6825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-08 22:21",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 600.43,
+    "amount": 40961,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-10 09:38",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 24284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-12 14:56",
+    "station": "519",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 52.5,
+    "amount": 3117,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-13 06:13",
+    "station": "697",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9304,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-13 10:40",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3036,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-13 10:46",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 30355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-13 18:13",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 27320,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-13 19:18",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 54639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-13 19:41",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 12142,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-14 12:47",
+    "station": "538",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 41784,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-15 17:19",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 54639,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-15 17:46",
+    "station": "226",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6071,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-15 21:38",
+    "station": "390",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 24284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-16 13:13",
+    "station": "305",
+    "region": "Санкт-петербург",
+    "fuel": "АИ-95",
+    "liters": 55.74,
+    "amount": 3334,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8B9",
+    "ts": "2025-01-18 13:20",
+    "station": "726",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 50.01,
+    "amount": 3412,
+    "vehicle": ""
+  }
+]

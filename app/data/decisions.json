@@ -1,0 +1,52 @@
+﻿[
+    {
+        "id":  5,
+        "ts":  "2026-05-16 10:52",
+        "client":  "CRRRABXZB",
+        "manager":  "ОП Нижний Новгород",
+        "rec":  "Поставщик1",
+        "action":  "accept",
+        "picked":  null,
+        "note":  "Поставщик наиболее потребитель товара Поставщик 1"
+    },
+    {
+        "id":  4,
+        "ts":  "2026-05-16 00:50",
+        "client":  "C-10421",
+        "manager":  "Е. Соколова",
+        "rec":  "ppr",
+        "action":  "accept",
+        "picked":  null,
+        "note":  ""
+    },
+    {
+        "id":  1,
+        "ts":  "2026-05-14 16:21",
+        "client":  "C-12018",
+        "manager":  "Е. Соколова",
+        "rec":  "ppr",
+        "action":  "accept",
+        "picked":  null,
+        "note":  ""
+    },
+    {
+        "id":  2,
+        "ts":  "2026-05-14 14:08",
+        "client":  "C-12442",
+        "manager":  "А. Морозов",
+        "rec":  "ppr",
+        "action":  "adjust",
+        "picked":  "e100",
+        "note":  "Клиент остался лоялен Е-100"
+    },
+    {
+        "id":  3,
+        "ts":  "2026-05-13 17:30",
+        "client":  "C-10833",
+        "manager":  "Е. Соколова",
+        "rec":  "ppr",
+        "action":  "reject",
+        "picked":  null,
+        "note":  "Тариф не согласован с клиентом"
+    }
+]

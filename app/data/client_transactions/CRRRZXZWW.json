@@ -1,0 +1,182 @@
+[
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-21 11:09",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.36,
+    "amount": 1506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-21 09:17",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 53.66,
+    "amount": 3283,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-09 11:41",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.39,
+    "amount": 1492,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-09 08:10",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.56,
+    "amount": 2955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-08 10:22",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-06 14:45",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.94,
+    "amount": 2995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-04 15:48",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-04 15:46",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.79,
+    "amount": 2932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-22 09:16",
+    "station": "11140",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.84,
+    "amount": 1493,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-01-07 10:54",
+    "station": "АЗС № 35403 Дунай",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 40.9,
+    "amount": 2503,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-02-04 12:07",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.09,
+    "amount": 995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-02-09 12:21",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 28.16,
+    "amount": 1692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-02-01 09:28",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.56,
+    "amount": 995,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-06-04 08:15",
+    "station": "033",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5316,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-06-09 08:51",
+    "station": "11138",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 68.31,
+    "amount": 4924,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-06-11 12:19",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-06-11 06:30",
+    "station": "АЗС № 35459 Олимпийская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXZWW",
+    "ts": "2025-06-06 07:04",
+    "station": "АЗС № 35432 Ботово",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5926,
+    "vehicle": ""
+  }
+]

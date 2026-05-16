@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-31 09:11",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1951,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-30 09:17",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2276,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-28 15:04",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 38,
+    "amount": 2472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-24 07:22",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-22 11:47",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 28.08,
+    "amount": 1826,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-17 11:58",
+    "station": "АЗС №26078",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-17 11:23",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 52.92,
+    "amount": 3442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-16 11:35",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 34,
+    "amount": 2211,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-14 10:50",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1951,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-13 08:30",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1951,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-01-03 08:12",
+    "station": "АЗС №26099",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 43,
+    "amount": 2797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-05 17:37",
+    "station": "АЗС №26138",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50.58,
+    "amount": 3290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-04 15:36",
+    "station": "АЗС №23284",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 37.14,
+    "amount": 2468,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-04 10:49",
+    "station": "АЗС №26099",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 42.28,
+    "amount": 2750,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-04 09:32",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 38,
+    "amount": 2472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-03 13:11",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 43,
+    "amount": 2797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-28 11:40",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-28 11:34",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-27 11:29",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-25 14:39",
+    "station": "АЗС №26138",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-25 13:28",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 39,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-24 15:08",
+    "station": "АЗС №23223",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 46,
+    "amount": 3009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-24 06:34",
+    "station": "АЗС №26138",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 35,
+    "amount": 2287,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-21 12:11",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-21 09:01",
+    "station": "АЗС №26099",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1960,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-20 15:03",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 32,
+    "amount": 2091,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-20 12:21",
+    "station": "АЗС №26099",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB9XX",
+    "ts": "2025-02-18 15:09",
+    "station": "АЗС №26145",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3267,
+    "vehicle": ""
+  }
+]

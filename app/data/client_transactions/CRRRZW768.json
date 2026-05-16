@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-29 16:36",
+    "station": "АЗС №26252",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 55.65,
+    "amount": 3876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-26 13:36",
+    "station": "АЗС №26359",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 57.12,
+    "amount": 4012,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-26 11:27",
+    "station": "АЗС №26252",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 27.05,
+    "amount": 1751,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-26 11:27",
+    "station": "АЗС №26252",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-31 13:49",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-30 10:45",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1758,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-29 08:52",
+    "station": "АЗС №26078",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 115,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-29 08:52",
+    "station": "АЗС №26078",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-29 08:52",
+    "station": "АЗС №26078",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 65.49,
+    "amount": 4600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-27 14:03",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 71.19,
+    "amount": 4607,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-26 18:46",
+    "station": "АЗС №61302",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 36.08,
+    "amount": 2518,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-25 20:29",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 61,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-25 20:29",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-25 20:29",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 66.92,
+    "amount": 4700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-23 19:28",
+    "station": "АЗС №26203",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1294,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-23 08:02",
+    "station": "АЗС №26089",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 77.93,
+    "amount": 5044,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-21 10:16",
+    "station": "АЗС №26088",
+    "region": "Ставропольский край",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-18 15:29",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-18 15:27",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1405,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-18 13:33",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 256,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-18 13:33",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-18 13:33",
+    "station": "АЗС №26087",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 51.46,
+    "amount": 3615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-16 13:37",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 72.63,
+    "amount": 4701,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-16 13:36",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 281,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-16 10:15",
+    "station": "АЗС №26252",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 63.06,
+    "amount": 4392,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-14 16:46",
+    "station": "АЗС №26083",
+    "region": "Ставропольский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3236,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-14 13:41",
+    "station": "АЗС №26285",
+    "region": "Ставропольский край",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1758,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW768",
+    "ts": "2025-01-12 20:26",
+    "station": "АЗС №26252",
+    "region": "Ставропольский край",
+    "fuel": "ДТ",
+    "liters": 62.26,
+    "amount": 4336,
+    "vehicle": ""
+  }
+]

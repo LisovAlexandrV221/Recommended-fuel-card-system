@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZB8BR",
+    "ts": "2025-01-26 14:24",
+    "station": "100",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 21738,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8BR",
+    "ts": "2025-02-08 23:26",
+    "station": "15",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6963,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB8BR",
+    "ts": "2025-05-21 08:08",
+    "station": "123",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14112,
+    "vehicle": ""
+  }
+]

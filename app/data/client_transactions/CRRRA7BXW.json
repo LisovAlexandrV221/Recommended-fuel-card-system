@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-24 22:04",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 432.64,
+    "amount": 29887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-20 22:53",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 491.13,
+    "amount": 33927,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-30 21:52",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-28 21:43",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 535.75,
+    "amount": 37010,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-24 16:45",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-25 12:35",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 59.89,
+    "amount": 3757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-18 10:29",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 57.48,
+    "amount": 3606,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-01-13 12:38",
+    "station": "АЗС № 35439 Козленская",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45.85,
+    "amount": 2876,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-01 07:40",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45.86,
+    "amount": 2877,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-19 08:31",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 448.64,
+    "amount": 31100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-05 21:41",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 573.3,
+    "amount": 39604,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-09 22:13",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 31086,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-09 16:41",
+    "station": "037",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-11 06:33",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17270,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-24 21:38",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 449.37,
+    "amount": 31182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-15 20:41",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 428.12,
+    "amount": 29575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-17 18:15",
+    "station": "077",
+    "region": "Курская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 20790,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-02-25 10:41",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 55.86,
+    "amount": 3521,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-03-25 14:06",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 59.03,
+    "amount": 3721,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-03-13 21:40",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 596.62,
+    "amount": 41769,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-03-02 08:31",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 53.65,
+    "amount": 3416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-03-01 20:32",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 573.89,
+    "amount": 40494,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-04-11 19:40",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 534.96,
+    "amount": 38057,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-04-01 19:10",
+    "station": "050",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 574.93,
+    "amount": 40901,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-04-27 00:51",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 495.2,
+    "amount": 34803,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-04-16 23:31",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 523.65,
+    "amount": 36802,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-04-09 05:41",
+    "station": "013",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA7BXW",
+    "ts": "2025-04-18 22:40",
+    "station": "526",
+    "region": "Орловская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 34835,
+    "vehicle": ""
+  }
+]

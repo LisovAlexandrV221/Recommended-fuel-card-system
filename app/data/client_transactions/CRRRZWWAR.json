@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-30 13:43",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 139.45,
+    "amount": 9900,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-30 19:24",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 16.59,
+    "amount": 983,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-24 21:31",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 13.36,
+    "amount": 792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-22 21:51",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 209.17,
+    "amount": 14849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-22 09:53",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 111.56,
+    "amount": 7920,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-21 21:34",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 209.17,
+    "amount": 14849,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-21 15:45",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 30.55,
+    "amount": 1831,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-06 13:53",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 23.52,
+    "amount": 1394,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-04 20:45",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1082,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-01-04 11:27",
+    "station": "74168 АЗС 168",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 24.74,
+    "amount": 1483,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-28 12:54",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-27 19:21",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 19.94,
+    "amount": 1188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-25 19:07",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 18.27,
+    "amount": 1089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-21 22:31",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 24.65,
+    "amount": 1485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-20 16:53",
+    "station": "74057 АЗС 57",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 18.05,
+    "amount": 1087,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-20 12:03",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-19 12:39",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 24.93,
+    "amount": 1485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-19 16:31",
+    "station": "59038 АЗС 38 Орда",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 17.71,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-19 07:46",
+    "station": "59021 АЗС 21 Чернушка",
+    "region": "Пермский край",
+    "fuel": "АИ-92",
+    "liters": 17.71,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-14 19:43",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 21.93,
+    "amount": 1321,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-13 14:07",
+    "station": "74057 АЗС 57",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 16.51,
+    "amount": 994,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-12 16:34",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 18.27,
+    "amount": 1089,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-11 15:44",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 16.7,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-11 09:02",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-92",
+    "liters": 24.49,
+    "amount": 1325,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-10 18:26",
+    "station": "74060 АЗС 60",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 24.77,
+    "amount": 1484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-07 19:15",
+    "station": "АЗС №74726",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 25.05,
+    "amount": 1485,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-02-07 16:04",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 16.7,
+    "amount": 990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWWAR",
+    "ts": "2025-03-31 19:11",
+    "station": "74054 АЗС 54",
+    "region": "Челябинская область",
+    "fuel": "АИ-95",
+    "liters": 19.94,
+    "amount": 1188,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-02 19:51",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3336,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-14 09:32",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2894,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-15 10:57",
+    "station": "512",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3336,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-21 09:11",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2913,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-22 13:50",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-27 09:43",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2913,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-28 08:22",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-31 09:41",
+    "station": "59047 АЗС 47 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4388,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-09 15:09",
+    "station": "59133 ААЗС 133 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3385,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-01-04 09:40",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-10 08:56",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-13 08:50",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-24 13:13",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-25 14:21",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-20 11:13",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-17 14:03",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-07 12:41",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4355,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-02-03 20:31",
+    "station": "59047 АЗС 47 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3416,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-04 13:20",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-09 13:32",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 59.8,
+    "amount": 3703,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-18 12:54",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4436,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-26 14:56",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4447,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-15 14:19",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-11 12:50",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-03-03 12:48",
+    "station": "59157 ААЗС 157 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-04-03 15:23",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4445,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-04-08 11:31",
+    "station": "508",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3109,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBW7W",
+    "ts": "2025-04-16 08:38",
+    "station": "511",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 55,
+    "amount": 3423,
+    "vehicle": ""
+  }
+]

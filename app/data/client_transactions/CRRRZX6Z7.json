@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-31 05:48",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 55.03,
+    "amount": 3893,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-29 06:01",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 55.37,
+    "amount": 3917,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-28 12:21",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 46.19,
+    "amount": 3267,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-24 10:26",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 42.58,
+    "amount": 3012,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-24 06:04",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60.07,
+    "amount": 4249,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-22 05:54",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4244,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-21 12:18",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 41.99,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-17 10:30",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 41.99,
+    "amount": 2970,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-17 05:53",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60.03,
+    "amount": 4247,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-27 05:09",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 59.32,
+    "amount": 4196,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-28 05:54",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 36,
+    "amount": 2547,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-21 05:29",
+    "station": "43064 АЗС 64 Советск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 42.53,
+    "amount": 3009,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-01-20 05:15",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 56.49,
+    "amount": 3996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-28 05:43",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 63.44,
+    "amount": 4506,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-27 10:03",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 51.15,
+    "amount": 3633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-20 10:41",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 61.94,
+    "amount": 4400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-19 08:35",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 55.81,
+    "amount": 3964,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-14 10:26",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 44.6,
+    "amount": 3168,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-14 05:55",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 55.1,
+    "amount": 3914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-12 05:52",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 58.71,
+    "amount": 4170,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-07 05:44",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 55.01,
+    "amount": 3891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-05 10:50",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 45.49,
+    "amount": 3218,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-05 05:44",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60.03,
+    "amount": 4247,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-04 06:29",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 39.89,
+    "amount": 2822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-01 11:05",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 57.84,
+    "amount": 4092,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-01 08:44",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 43.4,
+    "amount": 3070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-24 08:57",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 43.22,
+    "amount": 3070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX6Z7",
+    "ts": "2025-02-24 05:06",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 59.57,
+    "amount": 4231,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-01-03 17:42",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 42.68,
+    "amount": 2943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-02-10 10:15",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 43.75,
+    "amount": 3037,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-02-03 10:46",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 63.84,
+    "amount": 4432,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-02-25 15:11",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 53.83,
+    "amount": 3754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-04-28 10:54",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 63.45,
+    "amount": 4481,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-05-26 06:19",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 53.05,
+    "amount": 3763,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-05-13 06:09",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 65.85,
+    "amount": 4650,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-06-09 06:11",
+    "station": "008",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 52.73,
+    "amount": 3740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-06-23 06:28",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "АИ-92",
+    "liters": 22.51,
+    "amount": 1235,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAB8Z",
+    "ts": "2025-06-23 06:28",
+    "station": "006",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 67.04,
+    "amount": 4755,
+    "vehicle": ""
+  }
+]

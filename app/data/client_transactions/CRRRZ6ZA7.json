@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-19 07:56",
+    "station": "586",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 77.5,
+    "amount": 4891,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-20 17:26",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 55.63,
+    "amount": 3511,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-21 11:24",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 41.06,
+    "amount": 2591,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-23 05:48",
+    "station": "365",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 59.75,
+    "amount": 3656,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-23 20:52",
+    "station": "365",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 70.45,
+    "amount": 4311,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-24 13:38",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 59.58,
+    "amount": 3760,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-25 05:52",
+    "station": "365",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 74.69,
+    "amount": 4570,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-26 09:38",
+    "station": "673",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 84.04,
+    "amount": 5304,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-30 13:29",
+    "station": "585",
+    "region": "Мордовия, республика",
+    "fuel": "ДТ",
+    "liters": 68.94,
+    "amount": 4396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6ZA7",
+    "ts": "2025-06-23 08:20",
+    "station": "АЗС №13225",
+    "region": "Республика Мордовия",
+    "fuel": "АИ-95",
+    "liters": 39.88,
+    "amount": 2451,
+    "vehicle": ""
+  }
+]

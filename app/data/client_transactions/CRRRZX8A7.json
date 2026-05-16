@@ -1,0 +1,272 @@
+[
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-03-26 17:44",
+    "station": "АЗС № 78177 Бестужевская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 19.96,
+    "amount": 1149,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-03-31 07:31",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 25.09,
+    "amount": 1437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-07 07:14",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 24.45,
+    "amount": 1408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-11 08:47",
+    "station": "11175",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 27.66,
+    "amount": 1593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-28 18:45",
+    "station": "АЗС № 78177 Бестужевская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 26.11,
+    "amount": 1515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-17 07:28",
+    "station": "11174",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 26.79,
+    "amount": 1543,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-14 07:29",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 25.21,
+    "amount": 1452,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-24 07:16",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 24.83,
+    "amount": 1430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-20 13:38",
+    "station": "11172",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 21.71,
+    "amount": 1250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-04-01 09:54",
+    "station": "11199",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 15.67,
+    "amount": 898,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-28 10:21",
+    "station": "АЗС № 78033 Московская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 12.71,
+    "amount": 738,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-28 10:21",
+    "station": "АЗС № 78033 Московская",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 124,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-28 10:21",
+    "station": "АЗС № 78033 Московская",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 74,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-28 10:21",
+    "station": "АЗС № 78033 Московская",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 190,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-19 07:12",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 27.92,
+    "amount": 1612,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-15 09:18",
+    "station": "11175",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 24.85,
+    "amount": 1435,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-11 18:13",
+    "station": "11185",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-20 12:39",
+    "station": "АЗС № 78045 Северная",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-20 12:39",
+    "station": "АЗС № 78045 Северная",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 273,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-20 12:39",
+    "station": "АЗС № 78045 Северная",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 14.96,
+    "amount": 868,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-05-05 20:56",
+    "station": "АЗС № 78177 Бестужевская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 25.05,
+    "amount": 1454,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-06-03 11:28",
+    "station": "АЗС № 78177 Бестужевская",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 17.59,
+    "amount": 1024,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-06-03 11:28",
+    "station": "АЗС № 78177 Бестужевская",
+    "region": "Ленинградская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 223,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-06-27 09:12",
+    "station": "11175",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 25.15,
+    "amount": 1453,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-06-25 09:13",
+    "station": "11175",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 26.34,
+    "amount": 1522,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-06-10 07:13",
+    "station": "11179",
+    "region": "г.Санкт-Петербург",
+    "fuel": "АИ-92",
+    "liters": 26.1,
+    "amount": 1507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX8A7",
+    "ts": "2025-06-19 10:40",
+    "station": "11185",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 29.82,
+    "amount": 1723,
+    "vehicle": ""
+  }
+]

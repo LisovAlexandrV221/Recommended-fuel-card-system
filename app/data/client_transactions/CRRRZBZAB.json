@@ -1,0 +1,252 @@
+[
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-01-28 09:13",
+    "station": "59019 АЗС 19 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 41.05,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-01-22 08:13",
+    "station": "59122 АЗС 122 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 41.05,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-11 13:50",
+    "station": "59115 АЗС 115 Крылово",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 32.85,
+    "amount": 2040,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-11 09:06",
+    "station": "59115 АЗС 115 Крылово",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 39.5,
+    "amount": 2453,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-27 06:32",
+    "station": "11255",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 46.14,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-20 13:18",
+    "station": "11250",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 61.4,
+    "amount": 4483,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-20 08:36",
+    "station": "59131 ААЗС 131 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 41.22,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-13 17:11",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45.76,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-12 14:22",
+    "station": "59083 АЗС 83 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 40.85,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-05 13:54",
+    "station": "59165 АЗС 165 Дивья",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 37.77,
+    "amount": 2346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-02-04 18:02",
+    "station": "59028 АЗС 28 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 41.05,
+    "amount": 2550,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-03-13 15:45",
+    "station": "59131 ААЗС 131 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 41.22,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-03-19 12:45",
+    "station": "59028 АЗС 28 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 35.76,
+    "amount": 2244,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-03-11 08:07",
+    "station": "11250",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 37.34,
+    "amount": 2317,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-04-02 08:13",
+    "station": "59073 АЗС 73 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 40.84,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-04-28 09:25",
+    "station": "11255",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 44.56,
+    "amount": 2788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-04-21 09:56",
+    "station": "59027 АЗС 27 Ярино",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 48.71,
+    "amount": 3600,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-04-16 08:11",
+    "station": "59004 АЗС 4 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 37.31,
+    "amount": 2346,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-04-07 06:17",
+    "station": "11255",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 44.22,
+    "amount": 2753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-04-03 12:33",
+    "station": "59053 АЗС 53 Новожилово",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 40.84,
+    "amount": 2549,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-05-12 09:28",
+    "station": "59131 ААЗС 131 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 44.19,
+    "amount": 2753,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-05-26 13:58",
+    "station": "59028 АЗС 28 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 43.8,
+    "amount": 2754,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-05-21 06:12",
+    "station": "11255",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2816,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-05-07 11:19",
+    "station": "59083 АЗС 83 Добрянка",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 10,
+    "amount": 739,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBZAB",
+    "ts": "2025-06-02 14:47",
+    "station": "59083 АЗС 83 Добрянка",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 7.27,
+    "amount": 459,
+    "vehicle": ""
+  }
+]

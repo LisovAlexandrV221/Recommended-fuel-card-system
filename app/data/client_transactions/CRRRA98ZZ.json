@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-22 17:18",
+    "station": "72305 АЗС 305",
+    "region": "Тюменская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 2099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-31 11:12",
+    "station": "АЗС № 29351 Большая Корзиха-1",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13844,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-28 17:51",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 47516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-28 14:50",
+    "station": "АЗС № 29351 Большая Корзиха-1",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 201.18,
+    "amount": 13926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-28 08:56",
+    "station": "59062 АЗС 62 Кукуштан",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6812,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-25 11:50",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 420,
+    "amount": 28510,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-25 11:46",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 453.25,
+    "amount": 30767,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-22 17:32",
+    "station": "72305 АЗС 305",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 32.04,
+    "amount": 2195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-22 17:28",
+    "station": "72305 АЗС 305",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 137.25,
+    "amount": 9404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-22 16:38",
+    "station": "66491 АЗС 491 Лосиный",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 131.1,
+    "amount": 8931,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-21 12:25",
+    "station": "66410 АЗС 410 Ачит",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 396.61,
+    "amount": 27017,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-20 17:35",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3513,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-20 16:50",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 75.61,
+    "amount": 5349,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-12 19:38",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 695.97,
+    "amount": 45322,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-12 09:58",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 32560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-09 17:33",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 81.96,
+    "amount": 5798,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-06 15:22",
+    "station": "АЗС № 35431 Тотьма",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 56,
+    "amount": 3961,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-01-05 07:24",
+    "station": "АЗС №76110",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 57.37,
+    "amount": 3736,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-04 16:19",
+    "station": "556",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5986,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-25 08:32",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 72.2,
+    "amount": 5094,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-24 12:17",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 725.31,
+    "amount": 49437,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-24 11:59",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 750,
+    "amount": 51120,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-20 10:44",
+    "station": "АЗС № 29351 Большая Корзиха-1",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-19 13:01",
+    "station": "АЗС № 29351 Большая Корзиха-1",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 204.78,
+    "amount": 14232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-19 14:51",
+    "station": "АЗС №52144",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 640.19,
+    "amount": 41875,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-18 12:22",
+    "station": "АЗС № 29351 Большая Корзиха-1",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17375,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-16 09:44",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 535.95,
+    "amount": 36530,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA98ZZ",
+    "ts": "2025-02-16 09:34",
+    "station": "43033 АЗС 33 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 37488,
+    "vehicle": ""
+  }
+]

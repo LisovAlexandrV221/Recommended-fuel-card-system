@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-01-11 14:42",
+    "station": "212",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-01-11 19:21",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 25.02,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-01-18 15:36",
+    "station": "283",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-01-18 19:07",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 25.02,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-01 15:00",
+    "station": "212",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 25.02,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-01 18:58",
+    "station": "180",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.36,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-08 14:46",
+    "station": "235",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.19,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-08 18:32",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.89,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-15 14:36",
+    "station": "205",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.89,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-15 19:31",
+    "station": "202",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 16.59,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-22 14:49",
+    "station": "234",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.77,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-02-22 18:06",
+    "station": "108",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.17,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-01 11:25",
+    "station": "283",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.03,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-01 18:26",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.03,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-08 16:35",
+    "station": "283",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 16.51,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-08 19:00",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.77,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-15 12:37",
+    "station": "212",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.65,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-22 15:25",
+    "station": "283",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.65,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-29 13:17",
+    "station": "217",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.57,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-03-29 19:18",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 32.76,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-05 15:09",
+    "station": "212",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.57,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-05 19:06",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.57,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-12 14:26",
+    "station": "183",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.48,
+    "amount": 1544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-12 18:08",
+    "station": "108",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 32.65,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-19 14:22",
+    "station": "281",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.37,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-19 19:08",
+    "station": "185",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 32.49,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-26 12:53",
+    "station": "283",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.33,
+    "amount": 1545,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXX8",
+    "ts": "2025-04-26 15:09",
+    "station": "281",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 24.33,
+    "amount": 1545,
+    "vehicle": ""
+  }
+]

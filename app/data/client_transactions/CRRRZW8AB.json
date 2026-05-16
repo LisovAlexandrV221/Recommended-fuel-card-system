@@ -1,0 +1,122 @@
+[
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 12:54",
+    "station": "АЗС №50422",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 74,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 12:54",
+    "station": "АЗС №50422",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 178,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 12:54",
+    "station": "АЗС №50422",
+    "region": "Московская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 2,
+    "amount": 513,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 12:49",
+    "station": "АЗС №50422",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 33.63,
+    "amount": 2114,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 09:36",
+    "station": "АЗС №36706",
+    "region": "Воронежская область",
+    "fuel": "АИ-100",
+    "liters": 51.93,
+    "amount": 4374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 09:36",
+    "station": "АЗС №36706",
+    "region": "Воронежская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 439,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-11 09:36",
+    "station": "АЗС №36706",
+    "region": "Воронежская область",
+    "fuel": "АВТОХИМИЯ",
+    "liters": 1,
+    "amount": 949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-07 13:17",
+    "station": "АЗС №01033",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 207,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-07 13:17",
+    "station": "АЗС №01033",
+    "region": "Республика Адыгея",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 1,
+    "amount": 182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-07 13:17",
+    "station": "АЗС №01033",
+    "region": "Республика Адыгея",
+    "fuel": "АИ-95",
+    "liters": 33.04,
+    "amount": 2099,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-01-07 09:56",
+    "station": "АЗС №23374",
+    "region": "Краснодарский край",
+    "fuel": "АИ-100",
+    "liters": 37.86,
+    "amount": 3290,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8AB",
+    "ts": "2025-04-26 13:27",
+    "station": "АЗС №77555",
+    "region": "г.Москва",
+    "fuel": "АИ-95",
+    "liters": 63.11,
+    "amount": 4010,
+    "vehicle": ""
+  }
+]

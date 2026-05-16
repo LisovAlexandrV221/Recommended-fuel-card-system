@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-04 06:32",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4284,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-08 11:22",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15708,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-09 06:36",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 9996,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-14 06:34",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-14 08:29",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 17717,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-14 08:39",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1147,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-20 13:49",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-21 06:27",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 17160,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-21 14:47",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3653,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-24 07:30",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-25 10:12",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-25 12:04",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5768,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-30 11:30",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18025,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-30 11:43",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1157,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-29 23:48",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 69.89,
+    "amount": 5308,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-25 05:12",
+    "station": "АЗС №50235",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 35.12,
+    "amount": 2456,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-24 21:18",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 56.64,
+    "amount": 4302,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-23 03:30",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 71.08,
+    "amount": 5399,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-18 08:04",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 69.18,
+    "amount": 5254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-17 14:09",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 73.28,
+    "amount": 5566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-09 17:50",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 47.99,
+    "amount": 2814,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-08 07:27",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3136,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-08 07:26",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 61.86,
+    "amount": 4698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-01-03 12:31",
+    "station": "АЗС № 35455 Октябрьский пр.-2 (Вологда)",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 32.54,
+    "amount": 2471,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-02-06 08:50",
+    "station": "АЗС № 35447 Ленинградская",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 37.08,
+    "amount": 2174,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-02-06 07:54",
+    "station": "553",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-02-07 11:42",
+    "station": "560",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5768,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRAX6AX",
+    "ts": "2025-02-10 06:34",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 15862,
+    "vehicle": ""
+  }
+]

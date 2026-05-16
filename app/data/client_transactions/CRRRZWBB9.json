@@ -1,0 +1,142 @@
+[
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-30 01:04",
+    "station": "АЗС № 35411 Сазоново-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 67.46,
+    "amount": 4914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-29 08:39",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 206.29,
+    "amount": 14770,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-27 15:50",
+    "station": "АЗС № 35427 Марьинское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 67.6,
+    "amount": 4925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-23 14:23",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 68.62,
+    "amount": 4925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-19 17:03",
+    "station": "АЗС №58623",
+    "region": "Пензенская область",
+    "fuel": "ДТ",
+    "liters": 11.57,
+    "amount": 788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-30 16:48",
+    "station": "АЗС № 47003 Ивангород",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 195.01,
+    "amount": 13789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-01-24 16:59",
+    "station": "АЗС № 29362 Холмогоры",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 274.49,
+    "amount": 19700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-14 01:24",
+    "station": "538",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 147.51,
+    "amount": 10100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-03 16:19",
+    "station": "АЗС №52044",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 218.81,
+    "amount": 14774,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-06 17:06",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 33.57,
+    "amount": 2462,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-01 10:36",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 202.81,
+    "amount": 14775,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-13 18:45",
+    "station": "АЗС №13215",
+    "region": "Республика Мордовия",
+    "fuel": "ДТ",
+    "liters": 72.35,
+    "amount": 4924,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-17 07:25",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 107,
+    "amount": 7879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWBB9",
+    "ts": "2025-02-17 07:20",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 26.75,
+    "amount": 1970,
+    "vehicle": ""
+  }
+]

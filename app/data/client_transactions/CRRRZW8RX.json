@@ -1,0 +1,22 @@
+[
+  {
+    "client": "CRRRZW8RX",
+    "ts": "2025-05-22 13:32",
+    "station": "208",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 200.08,
+    "amount": 14172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW8RX",
+    "ts": "2025-05-22 13:35",
+    "station": "208",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 21.07,
+    "amount": 1205,
+    "vehicle": ""
+  }
+]

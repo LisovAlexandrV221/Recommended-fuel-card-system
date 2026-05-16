@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-01-10 11:43",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.35,
+    "amount": 2553,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-01-24 15:26",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-02-14 11:02",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 34.01,
+    "amount": 2067,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-02-28 11:05",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.1,
+    "amount": 2929,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-03-05 10:06",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1836,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-03-26 11:05",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.42,
+    "amount": 2613,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-04-04 12:02",
+    "station": "561",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1848,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-04-21 13:42",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 48.55,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-05-28 13:26",
+    "station": "553",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.23,
+    "amount": 1500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW6",
+    "ts": "2025-06-26 17:53",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.23,
+    "amount": 1500,
+    "vehicle": ""
+  }
+]

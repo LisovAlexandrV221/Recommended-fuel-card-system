@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-31 22:18",
+    "station": "119",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 42.49,
+    "amount": 3425,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-13 20:52",
+    "station": "123",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 20,
+    "amount": 1606,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-16 17:01",
+    "station": "123",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 40,
+    "amount": 3212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-08 16:06",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 33.07,
+    "amount": 2883,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-24 10:44",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 38.53,
+    "amount": 3359,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-30 12:08",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 40,
+    "amount": 3232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-10 15:56",
+    "station": "086",
+    "region": "Московская область",
+    "fuel": "АИ-100",
+    "liters": 29.24,
+    "amount": 2484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-19 21:13",
+    "station": "119",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 41.72,
+    "amount": 3363,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-22 16:55",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 40.01,
+    "amount": 3233,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-01-26 17:54",
+    "station": "357",
+    "region": "Московская область",
+    "fuel": "АИ-100",
+    "liters": 34,
+    "amount": 2864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-08 16:20",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 42.12,
+    "amount": 3672,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-16 17:07",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 39.88,
+    "amount": 3477,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-23 12:20",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 38.7,
+    "amount": 3374,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-13 17:13",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 35,
+    "amount": 2828,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-27 17:13",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 40,
+    "amount": 3232,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-04 12:56",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 36.57,
+    "amount": 2955,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-11 17:26",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 40.01,
+    "amount": 3233,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-06 15:53",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 22.73,
+    "amount": 1837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-20 17:26",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 42.6,
+    "amount": 3442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-03 10:03",
+    "station": "366",
+    "region": "Московская область",
+    "fuel": "АИ-100",
+    "liters": 29.22,
+    "amount": 2464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-02 15:49",
+    "station": "100",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 15.5,
+    "amount": 1252,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-12 13:14",
+    "station": "034",
+    "region": "Москва",
+    "fuel": "АИ-100",
+    "liters": 20.91,
+    "amount": 1789,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-02-24 18:01",
+    "station": "267",
+    "region": "Московская область",
+    "fuel": "АИ-100",
+    "liters": 41.32,
+    "amount": 3531,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-03-05 08:58",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 33.35,
+    "amount": 2695,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-03-02 20:09",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 33.11,
+    "amount": 2887,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-03-30 13:18",
+    "station": "MC039 Владимирская РН-Москва",
+    "region": "Восточный административный округ",
+    "fuel": "АИ-100",
+    "liters": 34.74,
+    "amount": 3029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-03-23 20:18",
+    "station": "125",
+    "region": "Владимирская область",
+    "fuel": "АИ-100",
+    "liters": 37.94,
+    "amount": 3066,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA96Z9",
+    "ts": "2025-03-15 17:41",
+    "station": "105",
+    "region": "Москва",
+    "fuel": "АИ-100",
+    "liters": 38.74,
+    "amount": 3293,
+    "vehicle": ""
+  }
+]

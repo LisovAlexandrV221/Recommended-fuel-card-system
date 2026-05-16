@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-31 11:32",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.35,
+    "amount": 5151,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-31 11:14",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-31 10:44",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 65898,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-31 08:11",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 41.99,
+    "amount": 2390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-24 10:43",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-24 10:27",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-24 10:12",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 43932,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-24 08:50",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 54.06,
+    "amount": 3292,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-23 17:34",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 52.14,
+    "amount": 3175,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-23 14:41",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 76.54,
+    "amount": 5643,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-23 10:20",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 32.65,
+    "amount": 1858,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-23 10:20",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 26.6,
+    "amount": 1514,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-22 14:07",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 63.86,
+    "amount": 3635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-21 12:27",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 76.48,
+    "amount": 5638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-21 11:09",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 18.61,
+    "amount": 1059,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-21 07:15",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 29.78,
+    "amount": 1695,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-20 07:21",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 52.1,
+    "amount": 2966,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-17 15:30",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 52.61,
+    "amount": 3852,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-17 15:27",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 121.68,
+    "amount": 8909,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-17 15:08",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 650,
+    "amount": 47593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-17 14:57",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 63.56,
+    "amount": 3618,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-17 14:47",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 65898,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-16 15:54",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 52.65,
+    "amount": 3206,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-16 10:51",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 23.75,
+    "amount": 1352,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-16 08:27",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 37.74,
+    "amount": 2148,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-14 16:31",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 34.33,
+    "amount": 1954,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-14 08:47",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 47.94,
+    "amount": 2729,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8WXR",
+    "ts": "2025-01-27 11:41",
+    "station": "АЗС № 35418 Бабаево",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 52.47,
+    "amount": 2987,
+    "vehicle": ""
+  }
+]

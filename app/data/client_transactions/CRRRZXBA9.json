@@ -1,0 +1,122 @@
+[
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-01-05 14:33",
+    "station": "504",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4039,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-01-15 15:56",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 46.84,
+    "amount": 2727,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-02-25 15:53",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 43.3,
+    "amount": 2534,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-02-04 15:58",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 41.34,
+    "amount": 2420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-02-16 12:10",
+    "station": "533",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2705,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-03-31 18:32",
+    "station": "63047 АЗС 47-У",
+    "region": "Самарская область",
+    "fuel": "ПРОД. ТОВАРЫ",
+    "liters": 2,
+    "amount": 546,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-03-31 18:32",
+    "station": "63047 АЗС 47-У",
+    "region": "Самарская область",
+    "fuel": "АИ-92",
+    "liters": 18.12,
+    "amount": 1015,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-04-01 16:09",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 47.29,
+    "amount": 2794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-04-23 16:32",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 45.1,
+    "amount": 2692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-04-15 07:19",
+    "station": "63047 АЗС 47-У",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 11.6,
+    "amount": 799,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-05-19 13:08",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 43.12,
+    "amount": 2592,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZXBA9",
+    "ts": "2025-06-11 12:17",
+    "station": "530",
+    "region": "Самарская область",
+    "fuel": "АИ-95",
+    "liters": 43.27,
+    "amount": 2605,
+    "vehicle": ""
+  }
+]

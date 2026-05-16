@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-23 11:28",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 167.94,
+    "amount": 12669,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-31 14:27",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10562,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-30 13:09",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10562,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-28 16:14",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18860,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-21 14:19",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-20 13:25",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 17351,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-10 12:03",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 21.12,
+    "amount": 1593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-01-10 12:00",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 221.66,
+    "amount": 16722,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-05 19:14",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 12070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-27 17:27",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 21210,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-24 17:54",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 17422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-14 18:53",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6818,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-14 11:35",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-11 16:22",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 12070,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-17 18:11",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-17 13:22",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-13 10:58",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 143.3,
+    "amount": 10855,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-12 12:12",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-02-10 17:44",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 220,
+    "amount": 16597,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-20 17:03",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 190,
+    "amount": 14392,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-18 15:08",
+    "station": "АЗС № 35406 Журавлево",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140.7,
+    "amount": 10658,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-13 17:47",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12878,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-07 18:50",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 10605,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-03 17:13",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 190,
+    "amount": 14392,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-31 16:34",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 240,
+    "amount": 18180,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-27 13:07",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7575,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-26 17:35",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 190,
+    "amount": 14392,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRRWX",
+    "ts": "2025-03-19 17:42",
+    "station": "АЗС № 35401 Великий Устюг-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 230,
+    "amount": 17422,
+    "vehicle": ""
+  }
+]

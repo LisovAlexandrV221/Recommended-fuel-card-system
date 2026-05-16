@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1280">
+  <title>Автокард - рекомендации поставщиков</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app" class="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark"></div>
+        <div class="brand-title">Автокард</div>
+        <div class="brand-sub">· Подбор поставщиков</div>
+      </div>
+
+      <div class="top-search">
+        <span class="search-icon">⌕</span>
+        <input id="search" placeholder="Поиск по клиентам, ИНН, поставщикам...">
+      </div>
+
+      <div class="top-meta">
+        <span>Данные: <b id="data-freshness">подключение</b></span>
+        <div class="role-switch" title="Переключить интерфейс">
+          <button id="role-manager" class="active" data-role="manager">Менеджер</button>
+          <button id="role-admin" data-role="admin">Администратор</button>
+        </div>
+        <div class="user-chip">
+          <div id="user-avatar" class="avatar">ЕС</div>
+          <div>
+            <div id="user-name" class="user-name">Е. Соколова</div>
+            <div id="user-role" class="user-role">Менеджер по сопровождению</div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <aside class="sidebar">
+      <nav class="nav nav-role" data-role-nav="manager">
+        <div class="nav-group">
+          <div class="nav-group-title">Работа с клиентами</div>
+          <button class="nav-item active" data-screen="priority"><span class="nav-icon">★</span><span>Приоритетные клиенты</span><span id="priority-count" class="count">0</span></button>
+          <button class="nav-item" data-screen="clients"><span class="nav-icon">◉</span><span>Все клиенты</span></button>
+          <button class="nav-item" data-screen="decisions"><span class="nav-icon">◷</span><span>Журнал решений</span></button>
+        </div>
+      </nav>
+
+      <nav class="nav nav-role hidden" data-role-nav="admin">
+        <div class="nav-group">
+          <div class="nav-group-title">Эксплуатация</div>
+          <button class="nav-item" data-screen="data"><span class="nav-icon">▣</span><span>Состояние данных</span></button>
+          <button class="nav-item" data-screen="models"><span class="nav-icon">◎</span><span>Модели и качество</span></button>
+        </div>
+        <div class="nav-group">
+          <div class="nav-group-title">Безопасность</div>
+          <button class="nav-item" data-screen="users"><span class="nav-icon">◇</span><span>Пользователи</span></button>
+        </div>
+      </nav>
+
+      <div class="sidebar-foot">
+        <div class="nav-group-title">Локальный сервис</div>
+        <div id="service-status" class="sidebar-stat">подключение</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <section id="content"></section>
+    </main>
+  </div>
+
+  <div id="modal" class="modal-layer hidden"></div>
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

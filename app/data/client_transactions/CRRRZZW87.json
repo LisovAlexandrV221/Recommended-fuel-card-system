@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-01-15 10:22",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4187,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-01-06 12:51",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 20,
+    "amount": 1396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-01-31 08:10",
+    "station": "43015 АЗС 15 Верхошижемье",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-01-29 12:02",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4885,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-01-30 13:20",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4373,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-01-10 14:03",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5102,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-05 10:44",
+    "station": "АЗС №12032",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3489,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-28 13:38",
+    "station": "АЗС №52138",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2809,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-04 15:09",
+    "station": "АЗС №52219",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 85,
+    "amount": 5943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-06 17:41",
+    "station": "АЗС №52221",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 40.11,
+    "amount": 2804,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-27 15:59",
+    "station": "43104 АЗС 104 Яранск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3660,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-21 13:16",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4391,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-13 15:29",
+    "station": "43010 АЗС 10 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5123,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-06 10:00",
+    "station": "АЗС №50204",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-13 12:28",
+    "station": "АЗС №52148",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6321,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-12 10:51",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3504,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-11 16:20",
+    "station": "АЗС №52219",
+    "region": "Нижегородская область",
+    "fuel": "ДТ",
+    "liters": 85,
+    "amount": 5943,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-02-06 13:50",
+    "station": "АЗС №33013",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4179,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-03-05 12:14",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 90,
+    "amount": 6307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-03-13 15:25",
+    "station": "43010 АЗС 10 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5123,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-03-13 18:22",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2928,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-03-07 06:53",
+    "station": "43023 АЗС 23 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3660,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-03-06 14:22",
+    "station": "43104 АЗС 104 Яранск",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4391,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-04-17 21:01",
+    "station": "АЗС №12010",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4938,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-04-17 10:07",
+    "station": "АЗС №12040",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 5291,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-04-29 21:43",
+    "station": "43037 АЗС 37 Пижанка",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2946,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-04-26 11:16",
+    "station": "АЗС №12003",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 30.38,
+    "amount": 2143,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZW87",
+    "ts": "2025-04-24 15:35",
+    "station": "43010 АЗС 10 Киров",
+    "region": "Кировская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 5155,
+    "vehicle": ""
+  }
+]

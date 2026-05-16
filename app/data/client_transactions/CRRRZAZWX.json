@@ -1,0 +1,182 @@
+[
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-01-28 17:58",
+    "station": "469",
+    "region": "Чувашская республика",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-01-30 10:07",
+    "station": "615",
+    "region": "Марий ел, республика",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9393,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-02 14:13",
+    "station": "426",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 140,
+    "amount": 8897,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-03 13:49",
+    "station": "514",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 123.63,
+    "amount": 7742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-15 12:54",
+    "station": "679",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 147.95,
+    "amount": 9700,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-16 09:48",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70,
+    "amount": 4698,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-18 23:23",
+    "station": "526",
+    "region": "Санкт-петербург",
+    "fuel": "ДТ",
+    "liters": 75,
+    "amount": 4906,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-19 17:49",
+    "station": "287",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 82.15,
+    "amount": 5263,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-25 17:52",
+    "station": "33009",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6921,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-27 09:13",
+    "station": "100",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 9644,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-02-17 07:27",
+    "station": "АЗС № 10242 Шуйская",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 11104,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-03-03 12:14",
+    "station": "608",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 123.36,
+    "amount": 7520,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-03-06 09:26",
+    "station": "336",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 131.71,
+    "amount": 8460,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-03-08 03:45",
+    "station": "606",
+    "region": "Тверская область",
+    "fuel": "ДТ",
+    "liters": 145.58,
+    "amount": 9400,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-03-19 16:59",
+    "station": "9985",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 126.31,
+    "amount": 7989,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-03-20 17:56",
+    "station": "539",
+    "region": "Рязанская область",
+    "fuel": "ДТ",
+    "liters": 121.23,
+    "amount": 7520,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-03-28 12:28",
+    "station": "286",
+    "region": "Марий Эл, республика",
+    "fuel": "ДТ",
+    "liters": 160,
+    "amount": 9038,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZAZWX",
+    "ts": "2025-04-02 12:04",
+    "station": "59153 АЗС 153 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 136.09,
+    "amount": 9800,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-01-30 14:50",
+    "station": "242",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 69.52,
+    "amount": 3776,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-01-24 10:17",
+    "station": "242",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 68.73,
+    "amount": 3733,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-01-03 17:44",
+    "station": "245",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 66.24,
+    "amount": 3574,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-02-19 20:38",
+    "station": "245",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 65.37,
+    "amount": 3477,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-02-28 08:11",
+    "station": "211",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 22.43,
+    "amount": 1198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-02-10 14:10",
+    "station": "242",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 65.61,
+    "amount": 3490,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-02-14 20:06",
+    "station": "242",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 66.58,
+    "amount": 3541,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-02-26 10:18",
+    "station": "АЗС №52023",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 66.11,
+    "amount": 3674,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-03-03 08:50",
+    "station": "245",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 65.93,
+    "amount": 3544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-03-06 21:25",
+    "station": "245",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 65.27,
+    "amount": 3509,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-03-12 14:06",
+    "station": "245",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 66.11,
+    "amount": 3566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-03-20 11:15",
+    "station": "247",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 65.88,
+    "amount": 3558,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR786",
+    "ts": "2025-04-03 21:02",
+    "station": "245",
+    "region": "Нижегородская область",
+    "fuel": "АИ-92",
+    "liters": 65.31,
+    "amount": 3534,
+    "vehicle": ""
+  }
+]

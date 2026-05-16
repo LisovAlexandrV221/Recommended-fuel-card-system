@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-02 06:30",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 69.01,
+    "amount": 4708,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-02 06:30",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 336.17,
+    "amount": 22934,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-04 05:40",
+    "station": "523",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 143.58,
+    "amount": 9999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-04 05:44",
+    "station": "523",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 143.58,
+    "amount": 9999,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-04 11:11",
+    "station": "558",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27712,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-05 07:00",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 355.01,
+    "amount": 24219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-06 05:32",
+    "station": "522",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 203.83,
+    "amount": 14195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-07 13:39",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 42.25,
+    "amount": 2882,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-07 13:39",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 269.14,
+    "amount": 18361,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-09 15:44",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 311.33,
+    "amount": 21239,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-09 15:48",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 140.56,
+    "amount": 9589,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-09 15:48",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 141.47,
+    "amount": 9651,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-09 17:15",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 424.79,
+    "amount": 28979,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-10 18:55",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 200.86,
+    "amount": 13703,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-13 15:34",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 200.1,
+    "amount": 13651,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-13 19:04",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 100.47,
+    "amount": 6854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-13 21:49",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 27288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-15 16:28",
+    "station": "646",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 150.44,
+    "amount": 10263,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-14 17:00",
+    "station": "032",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5843,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-18 02:02",
+    "station": "482",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-18 02:03",
+    "station": "482",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 19548,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-21 17:54",
+    "station": "557",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 320,
+    "amount": 22198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-22 15:41",
+    "station": "522",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 100.32,
+    "amount": 6986,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-28 20:25",
+    "station": "482",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 16362,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-30 12:46",
+    "station": "522",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 100.06,
+    "amount": 7032,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-06 13:20",
+    "station": "032",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 80,
+    "amount": 5847,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-06 13:23",
+    "station": "032",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 555,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBWAX",
+    "ts": "2025-01-10 09:52",
+    "station": "032",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8771,
+    "vehicle": ""
+  }
+]

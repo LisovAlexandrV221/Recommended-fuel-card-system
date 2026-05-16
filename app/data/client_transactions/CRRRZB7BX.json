@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-04 13:38",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-11 13:20",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 43.6,
+    "amount": 2692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-12 18:23",
+    "station": "12",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 52,
+    "amount": 3211,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-13 19:15",
+    "station": "1",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-20 15:14",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-22 17:23",
+    "station": "47",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 56.12,
+    "amount": 3465,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-22 17:56",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-92",
+    "liters": 49.07,
+    "amount": 2777,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-24 14:49",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-01-28 09:50",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2470,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-02-04 13:17",
+    "station": "15",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 48.23,
+    "amount": 2993,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-02-06 10:52",
+    "station": "122/1",
+    "region": "Краснодарский край",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-02-06 11:51",
+    "station": "55",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 44.22,
+    "amount": 2744,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-02-13 12:14",
+    "station": "47",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 55.46,
+    "amount": 3442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-02-27 13:44",
+    "station": "47",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 55.45,
+    "amount": 3458,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-02 14:01",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 43.6,
+    "amount": 2719,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-07 08:55",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2495,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-12 13:31",
+    "station": "21",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 55.4,
+    "amount": 3472,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-17 10:11",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2507,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-19 16:47",
+    "station": "47",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 52.2,
+    "amount": 3272,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-24 14:20",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-30 09:59",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 49.21,
+    "amount": 3094,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-03-31 16:18",
+    "station": "1",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2515,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-04-03 14:45",
+    "station": "47",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 32.76,
+    "amount": 2060,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-04-04 17:47",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 49.14,
+    "amount": 3090,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-04-07 12:42",
+    "station": "1",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-04-10 09:54",
+    "station": "47",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 16.32,
+    "amount": 1030,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-04-15 11:16",
+    "station": "24",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2536,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZB7BX",
+    "ts": "2025-04-16 08:38",
+    "station": "42",
+    "region": "Брянская область",
+    "fuel": "АИ-95",
+    "liters": 47.9,
+    "amount": 3037,
+    "vehicle": ""
+  }
+]

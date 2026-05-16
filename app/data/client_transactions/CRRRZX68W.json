@@ -1,0 +1,32 @@
+[
+  {
+    "client": "CRRRZX68W",
+    "ts": "2025-01-15 14:55",
+    "station": "АЗС №50479",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 7.87,
+    "amount": 497,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX68W",
+    "ts": "2025-02-10 03:35",
+    "station": "АЗС №61336",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 1913.83,
+    "amount": 128227,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX68W",
+    "ts": "2025-02-10 02:28",
+    "station": "АЗС №61336",
+    "region": "Ростовская область",
+    "fuel": "ДТ",
+    "liters": 2500,
+    "amount": 167500,
+    "vehicle": ""
+  }
+]

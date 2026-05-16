@@ -1,0 +1,72 @@
+[
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-01-06 12:42",
+    "station": "156",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 120,
+    "amount": 8234,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-01-08 16:26",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24017,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-01-16 08:43",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24017,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-01-22 10:26",
+    "station": "113",
+    "region": "Ивановская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 24178,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-02-16 08:23",
+    "station": "256",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 603.08,
+    "amount": 42517,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-03-10 17:00",
+    "station": "256",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 830.17,
+    "amount": 59307,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZRW78",
+    "ts": "2025-03-12 19:47",
+    "station": "256",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 50008,
+    "vehicle": ""
+  }
+]

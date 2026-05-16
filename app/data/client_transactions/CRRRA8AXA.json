@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-03 12:35",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1769,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-06 13:36",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2173,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-07 08:02",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1769,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-13 08:41",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 80,
+    "amount": 4386,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-14 11:57",
+    "station": "146",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1087,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-15 09:29",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 25,
+    "amount": 1371,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-16 08:42",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-17 12:39",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1192,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-17 14:06",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-21 08:29",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 35,
+    "amount": 1919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-23 08:35",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-27 09:00",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1787,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-27 09:04",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1645,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-27 15:40",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1645,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-28 16:59",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2742,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-03 23:01",
+    "station": "001(3301)",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2730,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-14 10:08",
+    "station": "001(3301)",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1638,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-22 11:17",
+    "station": "001(3301)",
+    "region": "Владимирская область",
+    "fuel": "ДТ",
+    "liters": 40,
+    "amount": 2785,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-29 12:18",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 38.96,
+    "amount": 2500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-22 14:24",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 10,
+    "amount": 642,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-21 08:49",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 35.13,
+    "amount": 2254,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-10 13:56",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 20,
+    "amount": 1283,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-15 12:16",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 31.92,
+    "amount": 2048,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-08 08:33",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-05 10:35",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 47.31,
+    "amount": 3035,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-01-02 12:40",
+    "station": "АЗС №33052",
+    "region": "Владимирская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1925,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-02-03 11:42",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2193,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA8AXA",
+    "ts": "2025-02-04 12:54",
+    "station": "551",
+    "region": "Владимирская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2193,
+    "vehicle": ""
+  }
+]

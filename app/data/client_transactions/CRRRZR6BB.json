@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZR6BB",
+    "ts": "2025-01-27 20:08",
+    "station": "АЗС №68857",
+    "region": "Тамбовская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 17245,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6BB",
+    "ts": "2025-01-22 17:56",
+    "station": "63046 АЗС 46-У",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6922,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6BB",
+    "ts": "2025-03-02 21:18",
+    "station": "АЗС №12709",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13674,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZR6BB",
+    "ts": "2025-04-07 21:40",
+    "station": "АЗС №64580",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 150,
+    "amount": 10482,
+    "vehicle": ""
+  }
+]

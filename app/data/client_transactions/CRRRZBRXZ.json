@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-22 18:04",
+    "station": "2094",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 600,
+    "amount": 42594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-22 18:43",
+    "station": "2094",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 30,
+    "amount": 2130,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-31 19:12",
+    "station": "RU6916",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 63288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-27 00:46",
+    "station": "RU3203",
+    "region": "Амурская область",
+    "fuel": "ДТ",
+    "liters": 520,
+    "amount": 41023,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-24 14:28",
+    "station": "АЗС № 6 - Квант",
+    "region": "Иркутская область",
+    "fuel": "ДТ",
+    "liters": 580,
+    "amount": 47351,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-23 12:48",
+    "station": "59091 АЗС 91 Марчуги",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7171,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-21 16:18",
+    "station": "АЗС № 29362 Холмогоры",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 350,
+    "amount": 25501,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-19 16:28",
+    "station": "АЗС № 72217",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-19 16:23",
+    "station": "АЗС № 72217",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 58176,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-19 10:21",
+    "station": "АЗС № 35425 Козловка",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 250,
+    "amount": 18490,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-18 17:07",
+    "station": "86605 АЗС 5",
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 30720,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-17 11:31",
+    "station": "59009 АЗС 9 Пермь",
+    "region": "Пермский край",
+    "fuel": "ДТ",
+    "liters": 450,
+    "amount": 32269,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-17 07:49",
+    "station": "11249",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 54.53,
+    "amount": 3304,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-12 11:33",
+    "station": "72321 АЗС 321",
+    "region": "Тюменская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12262,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-11 17:28",
+    "station": "66484 АЗС 484 Богданович",
+    "region": "Свердловская область",
+    "fuel": "ДТ",
+    "liters": 280,
+    "amount": 20079,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-01-05 14:22",
+    "station": "59009 АЗС 9 Пермь",
+    "region": "Пермский край",
+    "fuel": "АИ-95",
+    "liters": 43.92,
+    "amount": 2689,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-03 22:41",
+    "station": "50",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 900,
+    "amount": 60039,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-03 22:56",
+    "station": "50",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 6671,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-06 22:44",
+    "station": "10",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 21936,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-06 22:45",
+    "station": "10",
+    "region": "Кемеровская область",
+    "fuel": "ДТ",
+    "liters": 700,
+    "amount": 51184,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-07 16:33",
+    "station": "521",
+    "region": "Самарская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13524,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-07 18:56",
+    "station": "394",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 53368,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-10 09:57",
+    "station": "596",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 800,
+    "amount": 52864,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-10 10:17",
+    "station": "596",
+    "region": "Челябинская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 13216,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-12 17:34",
+    "station": "394",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 530,
+    "amount": 35356,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-15 08:54",
+    "station": "631",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 550,
+    "amount": 34771,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-15 09:06",
+    "station": "631",
+    "region": "Башкортостан, республика",
+    "fuel": "ДТ",
+    "liters": 400,
+    "amount": 25288,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBRXZ",
+    "ts": "2025-02-19 13:06",
+    "station": "186",
+    "region": "Татарстан, республика",
+    "fuel": "ДТ",
+    "liters": 500,
+    "amount": 31375,
+    "vehicle": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-03-14 09:05",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 548,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-03-10 15:56",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 10,
+    "amount": 548,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-03-12 12:05",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 822,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-03-27 13:19",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2198,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-04-09 09:02",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2201,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-04-14 12:06",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-05-21 08:31",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-05-23 09:03",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 15,
+    "amount": 832,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-06-09 13:24",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2219,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZX76R",
+    "ts": "2025-06-19 14:20",
+    "station": "155",
+    "region": "Ивановская область",
+    "fuel": "АИ-92",
+    "liters": 40,
+    "amount": 2219,
+    "vehicle": ""
+  }
+]

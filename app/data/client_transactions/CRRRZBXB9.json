@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-01-11 22:49",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 53.92,
+    "amount": 2919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-01-15 18:32",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 47.7,
+    "amount": 2582,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-01-17 16:08",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 59.12,
+    "amount": 4118,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-01-22 19:06",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 58.2,
+    "amount": 3172,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-01-29 14:13",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 58.62,
+    "amount": 3211,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-01-31 10:58",
+    "station": "MC304 Черная Грязь РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 49.41,
+    "amount": 3061,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-02-06 18:33",
+    "station": "MC309 Ленинградская РН-Москва",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 57.39,
+    "amount": 3269,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-02-11 18:26",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 52.15,
+    "amount": 2842,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-02-17 10:36",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 57.55,
+    "amount": 4005,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-02-24 11:26",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 53.56,
+    "amount": 2907,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-02-28 19:13",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 51.83,
+    "amount": 2840,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-06 10:05",
+    "station": "MC304 Черная Грязь РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 49.18,
+    "amount": 2812,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-16 17:31",
+    "station": "MC316 Химки РН-Москва",
+    "region": "Северо-Западный административный округ",
+    "fuel": "АИ-95",
+    "liters": 56.2,
+    "amount": 3624,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-30 15:09",
+    "station": "MC304 Черная Грязь РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 58.45,
+    "amount": 3693,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-01 17:22",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 59.17,
+    "amount": 3692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-11 23:32",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 59.93,
+    "amount": 4260,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-19 17:52",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "АИ-92",
+    "liters": 58.86,
+    "amount": 3271,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-03-27 12:09",
+    "station": "149",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 66.09,
+    "amount": 4848,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-04-10 18:06",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 57.29,
+    "amount": 3176,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-04-16 17:14",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 59.21,
+    "amount": 4226,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-04-22 23:19",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 13.9,
+    "amount": 879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-04-22 11:37",
+    "station": "MJ029 Сходня РН-Москва",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 50,
+    "amount": 3182,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-04-29 11:40",
+    "station": "MC304 Черная Грязь РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 56.9,
+    "amount": 4094,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-05-20 19:00",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "ДТ",
+    "liters": 60.79,
+    "amount": 4344,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-05-25 23:52",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "АИ-95",
+    "liters": 56.19,
+    "amount": 3552,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-05-30 21:23",
+    "station": "060",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 64.42,
+    "amount": 4598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-05-08 16:44",
+    "station": "MC304 Черная Грязь РН-Москва",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 55.79,
+    "amount": 4014,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZBXB9",
+    "ts": "2025-06-09 19:04",
+    "station": "160",
+    "region": "Москва",
+    "fuel": "АИ-95",
+    "liters": 55.93,
+    "amount": 3559,
+    "vehicle": ""
+  }
+]

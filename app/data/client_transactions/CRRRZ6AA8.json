@@ -1,0 +1,42 @@
+[
+  {
+    "client": "CRRRZ6AA8",
+    "ts": "2025-05-24 07:12",
+    "station": "АЗС № 35409 Савино",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 14.14,
+    "amount": 815,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AA8",
+    "ts": "2025-06-04 16:11",
+    "station": "016",
+    "region": "Ярославская область",
+    "fuel": "ДТ",
+    "liters": 143.22,
+    "amount": 9500,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AA8",
+    "ts": "2025-06-02 19:05",
+    "station": "356",
+    "region": "Московская область",
+    "fuel": "ДТ",
+    "liters": 212.31,
+    "amount": 14250,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6AA8",
+    "ts": "2025-06-15 17:42",
+    "station": "АЗС № 35435 Устюжна",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200.77,
+    "amount": 14700,
+    "vehicle": ""
+  }
+]

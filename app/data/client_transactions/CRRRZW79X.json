@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-02-26 19:58",
+    "station": "АЗС №32957",
+    "region": "Брянская область",
+    "fuel": "АИ-92",
+    "liters": 50.03,
+    "amount": 2818,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-02-17 18:52",
+    "station": "АЗС №32957",
+    "region": "Брянская область",
+    "fuel": "АИ-92",
+    "liters": 50.12,
+    "amount": 2823,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-28 18:50",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 50.02,
+    "amount": 2896,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-28 12:56",
+    "station": "АЗС №50228",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 38.06,
+    "amount": 2097,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-27 18:37",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 40.42,
+    "amount": 2521,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-27 14:29",
+    "station": "АЗС №71920",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 30.64,
+    "amount": 1724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-26 15:47",
+    "station": "АЗС №31810",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 40.02,
+    "amount": 2282,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-25 17:26",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 50.01,
+    "amount": 2895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-18 01:49",
+    "station": "АЗС №32957",
+    "region": "Брянская область",
+    "fuel": "АИ-92",
+    "liters": 60.02,
+    "amount": 3381,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-07 12:11",
+    "station": "АЗС №32957",
+    "region": "Брянская область",
+    "fuel": "АИ-92",
+    "liters": 40.57,
+    "amount": 2285,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-03-30 10:22",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 34.71,
+    "amount": 2165,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-10 19:12",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 34.11,
+    "amount": 1990,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-30 08:21",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 58.63,
+    "amount": 3420,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-28 19:20",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 24.97,
+    "amount": 1457,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-24 22:10",
+    "station": "АЗС №50228",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 39.46,
+    "amount": 2191,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-24 18:45",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 49.35,
+    "amount": 2879,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-19 08:25",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 50.04,
+    "amount": 2919,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-15 19:01",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 55.05,
+    "amount": 3212,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-15 08:57",
+    "station": "АЗС №50228",
+    "region": "Московская область",
+    "fuel": "АИ-92",
+    "liters": 33.85,
+    "amount": 1880,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-13 08:52",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 56.54,
+    "amount": 3299,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-04-04 07:28",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 55.03,
+    "amount": 3186,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-30 09:56",
+    "station": "АЗС №31810",
+    "region": "Белгородская область",
+    "fuel": "АИ-95",
+    "liters": 33.02,
+    "amount": 2080,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-25 18:39",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 26.72,
+    "amount": 1559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-25 08:30",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 56.81,
+    "amount": 3314,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-21 18:50",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 21.58,
+    "amount": 1259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-20 18:23",
+    "station": "АЗС №31800",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 50.81,
+    "amount": 2964,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-07 09:13",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 24.21,
+    "amount": 1412,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZW79X",
+    "ts": "2025-05-06 08:57",
+    "station": "АЗС №31812",
+    "region": "Белгородская область",
+    "fuel": "АИ-92",
+    "liters": 41.85,
+    "amount": 2442,
+    "vehicle": ""
+  }
+]

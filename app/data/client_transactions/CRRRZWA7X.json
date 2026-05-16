@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-31 11:12",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 71.4,
+    "amount": 4854,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-27 10:09",
+    "station": "11028",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1118,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-22 11:13",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "ДТ",
+    "liters": 44.92,
+    "amount": 3054,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-14 09:58",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2794,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-14 08:08",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-12 09:56",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 65,
+    "amount": 3633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-07 09:59",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 65,
+    "amount": 3633,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-04 09:53",
+    "station": "11028",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1118,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-27 08:33",
+    "station": "АЗС №71909",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 49,
+    "amount": 2798,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-13 08:38",
+    "station": "АЗС №71909",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-31 07:42",
+    "station": "АЗС №71909",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2856,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-30 10:47",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3353,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-30 08:13",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-28 13:50",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-28 10:13",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 58,
+    "amount": 3242,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-26 10:02",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 70,
+    "amount": 3912,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-25 05:57",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1677,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-23 12:07",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2442,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-23 09:57",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 36,
+    "amount": 2012,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-22 08:35",
+    "station": "АЗС №71909",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 44.43,
+    "amount": 2537,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-21 09:48",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3353,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-18 05:53",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 30,
+    "amount": 1677,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-16 09:58",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 60,
+    "amount": 3353,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-13 10:36",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-95",
+    "liters": 30,
+    "amount": 1831,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-13 04:38",
+    "station": "11017",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 39.15,
+    "amount": 2188,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-31 09:46",
+    "station": "11028",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 30.13,
+    "amount": 1684,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-28 09:30",
+    "station": "11028",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1118,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWA7X",
+    "ts": "2025-01-26 09:22",
+    "station": "11028",
+    "region": "Тульская область",
+    "fuel": "АИ-92",
+    "liters": 20,
+    "amount": 1118,
+    "vehicle": ""
+  }
+]

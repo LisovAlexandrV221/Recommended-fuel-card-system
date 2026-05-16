@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-31 09:41",
+    "station": "АЗС № 29357 Шенкурск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 63.36,
+    "amount": 4616,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-30 16:20",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-30 15:36",
+    "station": "АЗС № 29384 Березник",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 34.53,
+    "amount": 2516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-30 18:59",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 48.37,
+    "amount": 2781,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-30 06:52",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 14792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-28 17:26",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 45,
+    "amount": 2768,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-23 16:36",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-22 09:44",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-17 11:14",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 60,
+    "amount": 4438,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-14 16:59",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42,
+    "amount": 2583,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-05 13:52",
+    "station": "АЗС № 35446 Чернышевского-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 35.34,
+    "amount": 2195,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-05 14:28",
+    "station": "АЗС № 29384 Березник",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 25.37,
+    "amount": 1451,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-31 13:54",
+    "station": "АЗС № 35426 Сямжа",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 59.68,
+    "amount": 4444,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-30 13:59",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 30.07,
+    "amount": 1719,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-30 11:56",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 58.29,
+    "amount": 4247,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-28 12:24",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 70.01,
+    "amount": 5213,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-23 06:48",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-21 23:11",
+    "station": "АЗС № 35426 Сямжа",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58.84,
+    "amount": 4381,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-05 07:30",
+    "station": "АЗС № 35441 Преображенского",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 24.01,
+    "amount": 1380,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-28 07:05",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 42,
+    "amount": 3127,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-25 07:43",
+    "station": "АЗС № 35429 Чекшино-1",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-23 15:49",
+    "station": "АЗС № 35426 Сямжа",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58.53,
+    "amount": 4358,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-18 00:36",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "ДТ",
+    "liters": 53.56,
+    "amount": 3902,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-05 11:09",
+    "station": "АЗС № 29395 Вельск",
+    "region": "Архангельская область",
+    "fuel": "АИ-92",
+    "liters": 16.2,
+    "amount": 926,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-25 14:30",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-25 14:22",
+    "station": "АЗС № 35430 Чекшино-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 100,
+    "amount": 7396,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-11 18:32",
+    "station": "АЗС № 35426 Сямжа",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 55.06,
+    "amount": 4100,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWX6W",
+    "ts": "2025-01-11 02:51",
+    "station": "АЗС № 35426 Сямжа",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 58.72,
+    "amount": 4372,
+    "vehicle": ""
+  }
+]

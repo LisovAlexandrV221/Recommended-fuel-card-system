@@ -1,0 +1,162 @@
+[
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-01-18 11:20",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 70,
+    "amount": 4204,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-02-22 14:40",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-02-17 10:50",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-02-06 09:27",
+    "station": " АЗС №6 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3629,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-03-27 08:34",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3679,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-03-18 09:36",
+    "station": " АЗС №6 НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3560,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-04-27 07:47",
+    "station": "АЗС N 5 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 40,
+    "amount": 2390,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-04-19 10:44",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3692,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-04-04 14:48",
+    "station": "{закрыт} АЗС 12НП",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3566,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-05-31 11:33",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-05-24 14:27",
+    "station": "АЗС N 12 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3585,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-05-18 09:42",
+    "station": "АЗС N 6 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3711,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-05-07 09:48",
+    "station": "АЗС № 4Д",
+    "region": "Костромская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3711,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-06-19 07:33",
+    "station": "АЗС N 12 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-06-13 11:21",
+    "station": "АЗС N 6 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3724,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZZWB9",
+    "ts": "2025-06-06 16:14",
+    "station": "АЗС N 6 ООО \"АльянсОйл\"",
+    "region": "Ивановская область",
+    "fuel": "АИ-95",
+    "liters": 60,
+    "amount": 3724,
+    "vehicle": ""
+  }
+]

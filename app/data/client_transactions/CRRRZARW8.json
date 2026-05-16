@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-31 10:55",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 38.98,
+    "amount": 2397,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-22 15:52",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 28.57,
+    "amount": 1757,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-13 09:13",
+    "station": "АЗС № 35450 Кирилловское шоссе-1",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 38.27,
+    "amount": 2377,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-09 15:25",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 52.73,
+    "amount": 3243,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-24 17:00",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 57.57,
+    "amount": 4144,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-22 10:26",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.35,
+    "amount": 2558,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-16 08:07",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.32,
+    "amount": 3407,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-01-10 08:08",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3240,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-04 16:02",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 65.04,
+    "amount": 4000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-12 15:45",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 16.18,
+    "amount": 1000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-25 09:38",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-12 11:52",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3599,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-11 13:30",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 33.23,
+    "amount": 2007,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-03 17:05",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 54.1,
+    "amount": 3895,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-02-19 13:24",
+    "station": "АЗС № 35254",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3713,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-17 13:47",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 42.52,
+    "amount": 2593,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-04 15:41",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 58.22,
+    "amount": 3598,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-26 13:24",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.85,
+    "amount": 2430,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-20 15:27",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 22.68,
+    "amount": 1402,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-21 12:38",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3615,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-11 09:28",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3249,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-10 13:08",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 39.68,
+    "amount": 2408,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-03-03 18:25",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3610,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-04-22 20:07",
+    "station": "33212",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 47.08,
+    "amount": 3422,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-04-09 14:34",
+    "station": "11128",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 52,
+    "amount": 3795,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-04-16 13:11",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 24.08,
+    "amount": 1499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-04-02 08:12",
+    "station": "11142",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 54.65,
+    "amount": 3956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZARW8",
+    "ts": "2025-04-02 15:42",
+    "station": "АЗС № 35461 Северное шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-95",
+    "liters": 56.65,
+    "amount": 3501,
+    "vehicle": ""
+  }
+]

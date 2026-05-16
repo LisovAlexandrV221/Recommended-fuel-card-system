@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-28 08:31",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15088,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-22 08:29",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 13579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-13 08:51",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12825,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-13 08:50",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АВТОТОВАРЫ",
+    "liters": 2,
+    "amount": 1486,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-30 14:18",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 59.42,
+    "amount": 3484,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-29 18:19",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 25,
+    "amount": 1772,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-28 08:34",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-28 08:18",
+    "station": "АЗС №18 Э",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 3000,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-24 09:02",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3189,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-20 18:57",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-20 08:42",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "АВТОТОВАРЫ",
+    "liters": 1,
+    "amount": 594,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-20 08:42",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 892,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-18 09:02",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "liters": 1,
+    "amount": 464,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-18 08:53",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 180,
+    "amount": 13579,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-16 14:29",
+    "station": "АЗС №18 Э",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-15 15:29",
+    "station": "АЗС №18 Э",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22788,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-15 08:57",
+    "station": "АЗС №18 Э",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 170,
+    "amount": 12913,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-14 08:40",
+    "station": "АЗС №64563",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3544,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-01-13 11:50",
+    "station": "АЗС №18 Э",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 50,
+    "amount": 2979,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-05 13:59",
+    "station": "АЗС № 35451 Кирилловское шоссе-2",
+    "region": "Вологодская область",
+    "fuel": "АИ-92",
+    "liters": 53.82,
+    "amount": 3156,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-27 08:29",
+    "station": "АЗС № 35449 Нелазское",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 200,
+    "amount": 15150,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-27 09:55",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-27 09:30",
+    "station": "АЗС № 47252 Тихвин",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 26.55,
+    "amount": 1559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-27 06:26",
+    "station": "АЗС № 47108 Мурманская-1 (п)",
+    "region": "Ленинградская область",
+    "fuel": "АИ-92",
+    "liters": 57.96,
+    "amount": 3404,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-25 16:11",
+    "station": "АЗС №64583",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3559,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-24 09:46",
+    "station": "АЗС №18 Э",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 300,
+    "amount": 22914,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-21 15:21",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2491,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRBRBBZ",
+    "ts": "2025-02-18 18:18",
+    "station": "АЗС №64581",
+    "region": "Саратовская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3203,
+    "vehicle": ""
+  }
+]

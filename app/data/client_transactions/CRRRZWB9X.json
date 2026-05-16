@@ -1,0 +1,282 @@
+[
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-01-13 12:47",
+    "station": "АЗС № 51018 Кооперативная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 44.06,
+    "amount": 2804,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-01-04 10:28",
+    "station": "АЗС № 51018 Кооперативная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 62.14,
+    "amount": 4763,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-01-29 20:26",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 30.16,
+    "amount": 1920,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-01-26 18:39",
+    "station": "АЗС № 51020 Папанина",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 43.94,
+    "amount": 2797,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-24 10:14",
+    "station": "АЗС № 47005 Доможирово",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 66.41,
+    "amount": 4740,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-24 09:04",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 90.32,
+    "amount": 6949,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-20 10:10",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 51.15,
+    "amount": 3935,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-04 16:14",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 40.78,
+    "amount": 2596,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-21 19:07",
+    "station": "АЗС № 51020 Папанина",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 52.22,
+    "amount": 3339,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-15 08:43",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 25.56,
+    "amount": 1516,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-02-25 07:58",
+    "station": "АЗС № 47005 Доможирово",
+    "region": "Ленинградская область",
+    "fuel": "ДТ",
+    "liters": 74.7,
+    "amount": 5331,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-20 12:13",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 42.56,
+    "amount": 3275,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-17 07:56",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 76.36,
+    "amount": 5875,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-20 14:46",
+    "station": "АЗС № 10191 Новая Вилга",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 62.58,
+    "amount": 4586,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-11 21:25",
+    "station": "АЗС № 10191 Новая Вилга",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 40.33,
+    "amount": 2956,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-31 19:32",
+    "station": "АЗС № 51020 Папанина",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 49.01,
+    "amount": 3134,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-21 10:30",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 35.33,
+    "amount": 2259,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-10 19:29",
+    "station": "АЗС № 35411 Сазоново-2",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 59.82,
+    "amount": 4427,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-07 20:15",
+    "station": "АЗС № 51020 Папанина",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 50.17,
+    "amount": 3208,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-10 13:06",
+    "station": "АЗС № 35419 Молочное",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 45,
+    "amount": 3330,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-03-09 08:03",
+    "station": "АЗС № 35413 Липник",
+    "region": "Вологодская область",
+    "fuel": "ДТ",
+    "liters": 40.93,
+    "amount": 3029,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-04-28 19:13",
+    "station": "АЗС № 51018 Кооперативная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 43.78,
+    "amount": 2819,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-04-15 17:00",
+    "station": "АЗС № 51018 Кооперативная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 44.88,
+    "amount": 2890,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-04-25 08:26",
+    "station": "АЗС № 10191 Новая Вилга",
+    "region": "Республика Карелия",
+    "fuel": "ДТ",
+    "liters": 50,
+    "amount": 3687,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-04-21 14:08",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "ДТ",
+    "liters": 78.15,
+    "amount": 6048,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-05-28 10:00",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 15.17,
+    "amount": 907,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-05-13 11:50",
+    "station": "АЗС № 51019 Подгорная",
+    "region": "Мурманская область",
+    "fuel": "АИ-92",
+    "liters": 41.81,
+    "amount": 2499,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZWB9X",
+    "ts": "2025-06-17 19:24",
+    "station": "АЗС № 51018 Кооперативная",
+    "region": "Мурманская область",
+    "fuel": "АИ-95",
+    "liters": 43.69,
+    "amount": 2828,
+    "vehicle": ""
+  }
+]

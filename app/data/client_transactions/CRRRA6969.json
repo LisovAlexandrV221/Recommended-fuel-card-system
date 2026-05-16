@@ -1,0 +1,112 @@
+[
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-02-14 11:53",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 46.62,
+    "amount": 3322,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-02-14 12:30",
+    "station": "АЗС №12009",
+    "region": "Республика Марий Эл",
+    "fuel": "ДТ",
+    "liters": 53.96,
+    "amount": 3837,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-02-09 13:16",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 35,
+    "amount": 2483,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-02-08 11:27",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 25.26,
+    "amount": 1792,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-03-31 11:44",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 56.53,
+    "amount": 4028,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-03-25 10:32",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 45.66,
+    "amount": 3253,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-05-31 16:04",
+    "station": " АЗС №21119",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 45.39,
+    "amount": 3255,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-05-19 14:29",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 36.74,
+    "amount": 2635,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-05-19 14:26",
+    "station": "АЗС №21115",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 20.79,
+    "amount": 1491,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-05-15 13:19",
+    "station": "АЗС №21122",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 31.76,
+    "amount": 2278,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRA6969",
+    "ts": "2025-05-05 16:10",
+    "station": "АЗС №21121",
+    "region": "Республика Чувашия",
+    "fuel": "ДТ",
+    "liters": 49.08,
+    "amount": 3520,
+    "vehicle": ""
+  }
+]

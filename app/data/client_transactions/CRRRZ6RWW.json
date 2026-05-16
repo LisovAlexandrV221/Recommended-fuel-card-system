@@ -1,0 +1,22 @@
+[
+  {
+    "client": "CRRRZ6RWW",
+    "ts": "2025-05-14 14:25",
+    "station": "045",
+    "region": "Новосибирская область",
+    "fuel": "АИ-92",
+    "liters": 100.05,
+    "amount": 5453,
+    "vehicle": ""
+  },
+  {
+    "client": "CRRRZ6RWW",
+    "ts": "2025-06-16 13:38",
+    "station": "074",
+    "region": "Новосибирская область",
+    "fuel": "АИ-95",
+    "liters": 40.01,
+    "amount": 2317,
+    "vehicle": ""
+  }
+]
